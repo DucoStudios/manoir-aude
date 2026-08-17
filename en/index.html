@@ -109,6 +109,23 @@
     margin-left: auto;
     justify-content: flex-end;
   }
+  .navlinks {
+    display: flex;
+    gap: 24px;
+    font-size: .92rem;
+    margin-left: 32px;
+  }
+  .navlinks a {
+    text-decoration: none;
+    opacity: .78;
+    color: var(--ink);
+    white-space: nowrap;
+    transition: opacity .15s ease, color .15s ease;
+  }
+  .navlinks a:hover { opacity: 1; color: var(--wine); }
+  @media (max-width: 860px) {
+    .navlinks { display: none; }
+  }
   .wordmark {
     font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
     font-size: 1.1rem;
@@ -372,6 +389,12 @@
 <nav class="top">
   <div class="wrap">
     <div class="wordmark">Le Manoir <em>d'Aude</em></div>
+    <div class="navlinks">
+      <a href="#apartment">The apartment</a>
+      <a href="#infos">Good to know</a>
+      <a href="#guide">The region</a>
+      <a href="https://www.airbnb.com/rooms/1128926383884028882" target="_blank" rel="noopener">Booking</a>
+    </div>
     <div class="nav-right">
       <a class="lang-toggle" href="/manoir-aude/" aria-label="Passer en français" title="Passer en français">&#127467;&#127479; FR</a>
       <a class="btn btn-primary" href="https://www.airbnb.com/rooms/1128926383884028882" target="_blank" rel="noopener">
@@ -405,7 +428,7 @@
   </div>
 </div>
 
-<section class="gallery">
+<section class="gallery" id="apartment">
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">The apartment</span>
@@ -440,7 +463,7 @@
   </div>
 </section>
 
-<section class="details">
+<section class="details" id="infos">
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">Good to know</span>
