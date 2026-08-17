@@ -375,6 +375,45 @@
   .guide-card li { margin-bottom: 10px; font-size: .92rem; line-height: 1.55; }
   .guide-card li strong { color: var(--wine-dark); }
 
+  /* --- events --- */
+  section.events {
+    padding: clamp(44px, 8vw, 84px) 0;
+  }
+  .events-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .event-row {
+    display: flex;
+    gap: 18px;
+    padding: 16px 20px;
+    background: var(--paper);
+    align-items: flex-start;
+  }
+  .event-date {
+    flex: 0 0 auto;
+    width: 54px;
+    text-align: center;
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  }
+  .event-date .day { display: block; font-size: 1.4rem; font-weight: 600; color: var(--wine-dark); line-height: 1; }
+  .event-date .month { display: block; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; color: var(--wine); margin-top: 2px; }
+  .event-body h3 { font-size: .96rem; margin-bottom: 4px; color: var(--wine-dark); font-weight: 600; }
+  .event-body h3 .fa-solid { color: var(--gold); margin-right: 6px; font-size: .85em; }
+  .event-meta { font-size: .8rem; opacity: .65; margin-bottom: 4px; }
+  .event-desc { font-size: .86rem; opacity: .78; line-height: 1.5; }
+  .events-credit { text-align: center; margin-top: 18px; font-size: .74rem; opacity: .5; }
+  .events-loading, .events-empty { text-align: center; opacity: .6; padding: 24px 0; font-size: .92rem; }
+  @media (max-width: 560px) {
+    .event-row { gap: 12px; padding: 14px 16px; }
+    .event-date { width: 44px; }
+  }
+
   /* --- cta band --- */
   section.cta-final {
     padding: clamp(52px, 9vw, 96px) 0;
@@ -461,7 +500,9 @@
 <header class="hero">
   <div class="wrap">
     <div class="hero-logo-wrap">
-      <img class="hero-logo" src="assets/logo.png" alt="Croquis du Manoir d'Aude à Peyriac-de-Mer">
+      <a href="/manoir-aude/" aria-label="Retour à l'accueil" title="Le Manoir d'Aude">
+        <img class="hero-logo" src="assets/logo.png" alt="Croquis du Manoir d'Aude à Peyriac-de-Mer">
+      </a>
     </div>
     <div class="appellation">Peyriac-de-Mer &middot; Languedoc &middot; France</div>
     <h1>Le Manoir d'Aude</h1>
@@ -601,6 +642,20 @@
   </div>
 </section>
 
+<section class="events" id="evenements">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">L'agenda local</span>
+      <h2>Ce qui se passe pendant votre séjour</h2>
+      <p style="opacity:.75;margin-top:10px;">Une sélection d'événements dans la région, mise à jour chaque jour à partir de l'agenda touristique officiel de l'Aude.</p>
+    </div>
+    <div id="events-list" class="events-list">
+      <p class="events-loading">Chargement des événements&hellip;</p>
+    </div>
+    <p class="events-credit" id="events-credit"></p>
+  </div>
+</section>
+
 <section class="cta-final">
   <div class="wrap">
     <span class="eyebrow">Prêt pour Peyriac-de-Mer ?</span>
@@ -616,6 +671,73 @@
 <footer>
   <div class="wrap">Le Manoir d'Aude &middot; Peyriac-de-Mer, France</div>
 </footer>
+
+<script>
+  (function () {
+    var listEl = document.getElementById("events-list");
+    var creditEl = document.getElementById("events-credit");
+    if (!listEl) return;
+
+    var MONTHS = ["JANV", "FÉVR", "MARS", "AVR", "MAI", "JUIN", "JUIL", "AOÛ", "SEPT", "OCT", "NOV", "DÉC"];
+    var ICONS = {
+      culture: "fa-masks-theater",
+      sportandleisure: "fa-person-running",
+      trade: "fa-store",
+      tradition: "fa-champagne-glasses",
+      animation: "fa-music"
+    };
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"]/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+      });
+    }
+
+    function toTitleCase(str) {
+      return String(str).toLowerCase().replace(/(^|[\s\-'’])([a-zà-ÿ])/g, function (m, sep, c) {
+        return sep + c.toUpperCase();
+      });
+    }
+
+    fetch("/manoir-aude/events.json")
+      .then(function (res) {
+        if (!res.ok) throw new Error("fetch failed");
+        return res.json();
+      })
+      .then(function (data) {
+        var events = (data.events || []).slice(0, 10);
+        if (!events.length) {
+          listEl.innerHTML = '<p class="events-empty">Aucun événement recensé pour le moment.</p>';
+          return;
+        }
+        listEl.innerHTML = events
+          .map(function (e) {
+            var d = new Date(e.startDate + "T12:00:00Z");
+            var day = d.getUTCDate();
+            var month = MONTHS[d.getUTCMonth()];
+            var icon = ICONS[e.category] || "fa-calendar";
+            var timeLabel = e.times && e.times[0] ? e.times[0] + (e.times[1] ? "–" + e.times[1] : "") : null;
+            var meta = [toTitleCase(e.location), timeLabel].filter(Boolean).join(" · ");
+            var desc = e.description ? e.description.slice(0, 140) + (e.description.length > 140 ? "…" : "") : "";
+            return (
+              '<div class="event-row">' +
+              '<div class="event-date"><span class="day">' + day + '</span><span class="month">' + month + "</span></div>" +
+              '<div class="event-body">' +
+              "<h3><i class=\"fa-solid " + icon + "\"></i> " + escapeHtml(toTitleCase(e.title)) + "</h3>" +
+              (meta ? '<div class="event-meta">' + escapeHtml(meta) + "</div>" : "") +
+              (desc ? '<div class="event-desc">' + escapeHtml(desc) + "</div>" : "") +
+              "</div>" +
+              "</div>"
+            );
+          })
+          .join("");
+        if (creditEl && data.sourceCredit) creditEl.textContent = data.sourceCredit;
+      })
+      .catch(function () {
+        listEl.innerHTML = '<p class="events-empty">Impossible de charger l’agenda pour le moment.</p>';
+      });
+  })();
+</script>
 
 </body>
 </html>
