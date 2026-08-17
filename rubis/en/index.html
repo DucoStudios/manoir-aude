@@ -280,6 +280,7 @@
     scrollbar-color: var(--gold) transparent;
   }
   .gallery-grid a {
+    position: relative;
     flex: 0 0 auto;
     scroll-snap-align: start;
     width: min(70vw, 380px);
@@ -291,6 +292,18 @@
   }
   .gallery-grid img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s ease; }
   .gallery-grid a:hover img { transform: scale(1.06); }
+  .gallery-grid .cap {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    padding: 22px 14px 10px;
+    background: linear-gradient(to top, rgba(43,38,32,.82), rgba(43,38,32,0));
+    color: #f8f1e2;
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-style: italic;
+    font-size: .85rem;
+    line-height: 1.35;
+    pointer-events: none;
+  }
   @media (max-width: 640px) {
     .gallery-grid { gap: 10px; }
     .gallery-grid a { width: 80vw; }
@@ -490,27 +503,35 @@
     <div class="gallery-grid">
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1200" alt="Living room with bookshelves and marble fireplace" loading="lazy">
+        <span class="cap">The living room, between bookshelves and marble fireplace</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/ace32bd9-9607-47ab-90b3-a530bafef12a.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/ace32bd9-9607-47ab-90b3-a530bafef12a.jpeg?im_w=1200" alt="Bedroom with black-and-white checkered floor" loading="lazy">
+        <span class="cap">The bedroom and its black-and-white checkered floor</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/d24eb283-69ff-4659-8b62-714cbc8e87a4.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/d24eb283-69ff-4659-8b62-714cbc8e87a4.jpeg?im_w=1200" alt="Living room, full view" loading="lazy">
+        <span class="cap">The living room, full view</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/2e369c3f-738a-4b68-8955-675cb43b3b82.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/2e369c3f-738a-4b68-8955-675cb43b3b82.jpeg?im_w=1200" alt="Fully equipped kitchen" loading="lazy">
+        <span class="cap">The kitchen, fully equipped</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/00851808-263f-481e-86c3-a8efd594aa39.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/00851808-263f-481e-86c3-a8efd594aa39.jpeg?im_w=1200" alt="Bathroom" loading="lazy">
+        <span class="cap">The private bathroom</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/d18d9082-5539-4702-9638-40b4eee867dc.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/d18d9082-5539-4702-9638-40b4eee867dc.jpeg?im_w=1200" alt="Dining area" loading="lazy">
+        <span class="cap">The dining area</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/46d1ae22-c64b-473b-b169-4f890970454b.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/46d1ae22-c64b-473b-b169-4f890970454b.jpeg?im_w=1200" alt="Living room detail" loading="lazy">
+        <span class="cap">A detail of the living room</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/133bc545-70fe-40ea-ba77-498a1b981754.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/133bc545-70fe-40ea-ba77-498a1b981754.jpeg?im_w=1200" alt="View over the shared garden" loading="lazy">
+        <span class="cap">The shared garden, shaded and enclosed</span>
       </a>
     </div>
   </div>

@@ -280,6 +280,7 @@
     scrollbar-color: var(--gold) transparent;
   }
   .gallery-grid a {
+    position: relative;
     flex: 0 0 auto;
     scroll-snap-align: start;
     width: min(70vw, 380px);
@@ -291,6 +292,18 @@
   }
   .gallery-grid img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s ease; }
   .gallery-grid a:hover img { transform: scale(1.06); }
+  .gallery-grid .cap {
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+    padding: 22px 14px 10px;
+    background: linear-gradient(to top, rgba(43,38,32,.82), rgba(43,38,32,0));
+    color: #f8f1e2;
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-style: italic;
+    font-size: .85rem;
+    line-height: 1.35;
+    pointer-events: none;
+  }
   @media (max-width: 640px) {
     .gallery-grid { gap: 10px; }
     .gallery-grid a { width: 80vw; }
@@ -490,27 +503,35 @@
     <div class="gallery-grid">
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/55e0d4e5-c2b8-4d99-92ac-b87b8fa77526.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/55e0d4e5-c2b8-4d99-92ac-b87b8fa77526.jpeg?im_w=1200" alt="Salon avec buffet ancien et sol en damier" loading="lazy">
+        <span class="cap">Le salon, avec son buffet ancien et son sol en damier</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/51c8a149-7c94-4e22-a1fc-0fcadc56ca7f.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/51c8a149-7c94-4e22-a1fc-0fcadc56ca7f.jpeg?im_w=1200" alt="Chambre" loading="lazy">
+        <span class="cap">La chambre</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/1a12f0a7-fe9a-4c12-a449-a286bf32b47d.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/1a12f0a7-fe9a-4c12-a449-a286bf32b47d.jpeg?im_w=1200" alt="Cuisine équipée" loading="lazy">
+        <span class="cap">La cuisine, entièrement équipée</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/49a1f655-0754-4a7f-9be3-2ffcbeffc9d7.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/49a1f655-0754-4a7f-9be3-2ffcbeffc9d7.jpeg?im_w=1200" alt="Coin repas" loading="lazy">
+        <span class="cap">Le coin repas</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/612cbf6c-4526-4217-b444-0b38ae735484.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/612cbf6c-4526-4217-b444-0b38ae735484.jpeg?im_w=1200" alt="Salle de bain" loading="lazy">
+        <span class="cap">La salle de bain privative</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/0a30e6c0-8006-4bbe-a5d2-71ed3443dfe1.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/0a30e6c0-8006-4bbe-a5d2-71ed3443dfe1.jpeg?im_w=1200" alt="Détail du salon" loading="lazy">
+        <span class="cap">Un détail du salon</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDIzMDA1MjY%3D/original/790bf986-c605-466d-9921-e2ab3ecd6269.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDIzMDA1MjY%3D/original/790bf986-c605-466d-9921-e2ab3ecd6269.jpeg?im_w=1200" alt="Vue sur le jardin partagé" loading="lazy">
+        <span class="cap">Le jardin partagé, ombragé et clos</span>
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDIzMDA1MjY%3D/original/319e9396-9e90-4801-884e-5f109483eb3b.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6NDIzMDA1MjY%3D/original/319e9396-9e90-4801-884e-5f109483eb3b.jpeg?im_w=1200" alt="Détail de la chambre" loading="lazy">
+        <span class="cap">Un détail de la chambre</span>
       </a>
     </div>
   </div>
