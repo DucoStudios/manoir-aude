@@ -1,0 +1,743 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le Manoir d'Aude &middot; a 19th-century estate in Peyriac-de-Mer</title>
+<link rel="icon" href="../../favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="../../assets/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../../assets/favicon-16x16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../../assets/apple-touch-icon.png">
+<meta name="description" content="Le Manoir d'Aude: a 19th-century townhouse in the heart of Peyriac-de-Mer, Languedoc. Three independent apartments, shared garden, steps from the pink lagoons.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://ducostudios.github.io/manoir-aude/v2/en/">
+<link rel="alternate" hreflang="fr" href="https://ducostudios.github.io/manoir-aude/v2/">
+<link rel="alternate" hreflang="en" href="https://ducostudios.github.io/manoir-aude/v2/en/">
+<link rel="alternate" hreflang="x-default" href="https://ducostudios.github.io/manoir-aude/v2/">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Le Manoir d'Aude &middot; a 19th-century estate in Peyriac-de-Mer">
+<meta property="og:description" content="A 19th-century townhouse in the heart of Peyriac-de-Mer, Languedoc. Three independent apartments, shared garden.">
+<meta property="og:image" content="https://ducostudios.github.io/manoir-aude/assets/og-image-en.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:url" content="https://ducostudios.github.io/manoir-aude/v2/en/">
+<meta property="og:locale" content="en_GB">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://ducostudios.github.io/manoir-aude/assets/og-image-en.jpg">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,400&family=Bitter:wght@300;400;500;600&display=swap">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style>
+  :root {
+    --olive: #4a5a46;
+    --olive-dark: #3a4838;
+    --footer: #2a3328;
+    --cream: #f7f4ee;
+    --white: #ffffff;
+    --ink: #2b2b26;
+    --ink-soft: rgba(43,43,38,.68);
+    --gold: #c48a3f;
+    --gold-light: #dbb573;
+    --line-dark: rgba(255,255,255,.2);
+    --line-light: rgba(43,43,38,.12);
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    font-family: "Bitter", ui-serif, Georgia, serif;
+    font-weight: 300;
+    color: var(--ink);
+    background: var(--cream);
+    padding-top: 118px;
+  }
+  img { max-width: 100%; display: block; }
+  a { text-decoration: none; color: inherit; }
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 28px; }
+  h1, h2, h3 {
+    font-family: "Cormorant Garamond", ui-serif, Georgia, serif;
+    font-weight: 400;
+    margin: 0;
+  }
+  .eyebrow {
+    font-family: "Bitter", sans-serif;
+    font-size: .72rem;
+    letter-spacing: .22em;
+    text-transform: uppercase;
+    color: var(--gold);
+    font-weight: 600;
+  }
+  [data-reveal] { opacity: 0; transform: translateY(24px); transition: opacity .8s ease, transform .8s ease; }
+  [data-reveal].is-visible { opacity: 1; transform: translateY(0); }
+
+  /* --- announce + header --- */
+  .top-stack { position: fixed; top: 0; left: 0; right: 0; z-index: 100; }
+  .announce {
+    background: var(--olive);
+    color: #f2ede1;
+    text-align: center;
+    font-size: .78rem;
+    letter-spacing: .03em;
+    padding: 9px 16px;
+  }
+  .announce i { margin-right: 8px; color: var(--gold-light); }
+  header.site-header {
+    background: rgba(247,244,238,.97);
+    border-bottom: 1px solid var(--line-light);
+    backdrop-filter: blur(6px);
+    transition: box-shadow .3s ease;
+  }
+  header.site-header.scrolled { box-shadow: 0 6px 20px rgba(0,0,0,.08); }
+  .header-row {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 14px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .menu-toggle {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: none;
+    border: none;
+    font-family: "Bitter", sans-serif;
+    font-size: .92rem;
+    letter-spacing: .02em;
+    color: var(--ink);
+    cursor: pointer;
+    padding: 8px 4px;
+  }
+  .menu-toggle .bars { display: flex; flex-direction: column; gap: 4px; }
+  .menu-toggle .bars span { width: 20px; height: 1.5px; background: var(--ink); display: block; transition: transform .25s ease, opacity .25s ease; }
+  .menu-toggle.open .bars span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
+  .menu-toggle.open .bars span:nth-child(2) { opacity: 0; }
+  .menu-toggle.open .bars span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
+
+  .brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-direction: column;
+    text-align: center;
+  }
+  .brand img { width: 40px; height: 40px; object-fit: contain; }
+  .brand-name {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 1.3rem;
+    letter-spacing: .04em;
+    color: var(--olive-dark);
+    line-height: 1;
+  }
+  .brand-era {
+    font-family: "Bitter", sans-serif;
+    font-size: .58rem;
+    letter-spacing: .28em;
+    color: var(--gold);
+    text-transform: uppercase;
+  }
+
+  .header-right { display: flex; align-items: center; gap: 14px; }
+  .lang-toggle {
+    font-family: "Bitter", sans-serif;
+    font-size: .82rem;
+    color: var(--ink);
+    opacity: .75;
+    border: 1px solid var(--line-light);
+    border-radius: 20px;
+    padding: 6px 12px;
+    transition: opacity .2s ease, border-color .2s ease;
+    white-space: nowrap;
+  }
+  .lang-toggle:hover { opacity: 1; border-color: var(--olive); }
+  .btn-book {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: var(--olive);
+    color: #fff;
+    font-family: "Bitter", sans-serif;
+    font-size: .84rem;
+    letter-spacing: .02em;
+    padding: 12px 20px;
+    border-radius: 2px;
+    white-space: nowrap;
+    transition: background .2s ease;
+  }
+  .btn-book:hover { background: var(--olive-dark); }
+
+  /* --- mobile/menu panel --- */
+  .menu-panel {
+    position: fixed;
+    inset: 118px 0 0 0;
+    background: var(--cream);
+    z-index: 90;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity .3s ease;
+  }
+  .menu-panel.open { opacity: 1; visibility: visible; }
+  .menu-panel ul { list-style: none; margin: 0; padding: 0; text-align: center; }
+  .menu-panel li { margin: 22px 0; }
+  .menu-panel a {
+    font-family: "Cormorant Garamond", serif;
+    font-size: 2.2rem;
+    color: var(--olive-dark);
+    transition: color .2s ease;
+  }
+  .menu-panel a:hover { color: var(--gold); }
+
+  /* --- hero --- */
+  header.hero {
+    position: relative;
+    min-height: 92vh;
+    display: flex;
+    align-items: flex-end;
+    background: linear-gradient(rgba(30,36,28,.15), rgba(20,25,18,.72)), url("https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1440") center / cover no-repeat;
+  }
+  .ribbon {
+    position: absolute;
+    top: 26px;
+    right: 26px;
+    background: rgba(255,255,255,.94);
+    color: var(--olive-dark);
+    font-family: "Bitter", sans-serif;
+    font-size: .68rem;
+    letter-spacing: .16em;
+    font-weight: 600;
+    padding: 8px 14px;
+    border-radius: 3px;
+  }
+  .hero-inner { max-width: 1180px; margin: 0 auto; padding: 0 28px 72px; color: #fff; }
+  .hero-inner .eyebrow { color: var(--gold-light); }
+  .hero-inner h1 {
+    font-size: clamp(2.4rem, 6vw, 4.4rem);
+    font-weight: 300;
+    line-height: 1.08;
+    margin: 14px 0 20px;
+    max-width: 14ch;
+  }
+  .hero-inner .lead {
+    font-family: "Bitter", serif;
+    font-size: 1.05rem;
+    font-weight: 300;
+    max-width: 46ch;
+    opacity: .92;
+    margin-bottom: 26px;
+  }
+  .trust-row { display: flex; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 30px; }
+  .trust-row .stars { color: var(--gold-light); letter-spacing: 2px; }
+  .trust-row span.rating-text { font-family: "Bitter", sans-serif; font-size: .86rem; opacity: .9; }
+  .hero-actions { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn {
+    font-family: "Bitter", sans-serif;
+    font-size: .88rem;
+    letter-spacing: .02em;
+    padding: 13px 24px;
+    border-radius: 2px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    transition: transform .2s ease, background .2s ease, border-color .2s ease;
+  }
+  .btn-primary { background: var(--gold); color: #2b2314; }
+  .btn-primary:hover { transform: translateY(-2px); background: var(--gold-light); }
+  .btn-outline { border: 1px solid rgba(255,255,255,.6); color: #fff; }
+  .btn-outline:hover { border-color: #fff; transform: translateY(-2px); }
+
+  /* --- intro --- */
+  section.intro { background: var(--olive); color: #f2ede1; padding: clamp(60px, 9vw, 110px) 0; }
+  .intro-grid { display: grid; grid-template-columns: .8fr 1fr; gap: 60px; align-items: center; }
+  .intro-photo { border-radius: 4px; overflow: hidden; background: #eee3c8; padding: 34px; }
+  .intro-photo img { width: 100%; }
+  .intro-text h2 { font-size: clamp(1.9rem, 3.4vw, 2.6rem); font-weight: 300; margin: 14px 0 22px; color: #fff; }
+  .intro-text p { font-size: 1rem; line-height: 1.75; opacity: .88; margin: 0 0 18px; font-weight: 300; }
+  @media (max-width: 800px) { .intro-grid { grid-template-columns: 1fr; } }
+
+  /* --- features --- */
+  section.features { padding: clamp(56px, 8vw, 92px) 0; }
+  .features-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 44px; }
+  .feature i { font-size: 1.6rem; color: var(--olive); margin-bottom: 18px; display: block; }
+  .feature h3 { font-family: "Cormorant Garamond", serif; font-size: 1.35rem; font-weight: 500; margin-bottom: 10px; color: var(--olive-dark); }
+  .feature p { font-size: .92rem; line-height: 1.6; color: var(--ink-soft); margin: 0 0 16px; }
+  .feature .rule { height: 1px; background: var(--line-light); }
+  @media (max-width: 760px) { .features-grid { grid-template-columns: 1fr; gap: 34px; } }
+
+  /* --- section head --- */
+  .section-head { text-align: center; max-width: 640px; margin: 0 auto 50px; }
+  .section-head h2 { font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 300; margin: 14px 0 14px; color: var(--olive-dark); }
+  .section-head p { font-size: .98rem; line-height: 1.6; color: var(--ink-soft); margin: 0; }
+  section.apartments, section.testimonials, section.agenda { padding: clamp(56px, 9vw, 100px) 0; }
+
+  /* --- apartment cards --- */
+  .apt-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; }
+  .apt-card {
+    position: relative;
+    aspect-ratio: 3/4;
+    border-radius: 4px;
+    overflow: hidden;
+    display: block;
+  }
+  .apt-card img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
+  .apt-card:hover img { transform: scale(1.06); }
+  .apt-card::after {
+    content: "";
+    position: absolute; inset: 0;
+    background: linear-gradient(to top, rgba(20,24,16,.82) 0%, rgba(20,24,16,.05) 55%);
+  }
+  .apt-card .apt-label { position: absolute; left: 22px; right: 22px; bottom: 20px; z-index: 2; color: #fff; }
+  .apt-card .apt-label h3 { font-family: "Cormorant Garamond", serif; font-weight: 400; font-size: 1.7rem; margin-bottom: 6px; }
+  .apt-card .apt-label span { font-family: "Bitter", sans-serif; font-size: .78rem; opacity: .85; }
+  @media (max-width: 860px) { .apt-grid { grid-template-columns: 1fr; } .apt-card { aspect-ratio: 4/3; } }
+
+  /* --- region --- */
+  section.region { background: var(--olive); color: #f2ede1; padding: clamp(60px, 9vw, 110px) 0; }
+  section.region .section-head h2 { color: #fff; }
+  section.region .section-head p { color: rgba(242,237,225,.78); }
+  .region-grid { display: grid; grid-template-columns: .8fr 1fr; gap: 60px; align-items: center; }
+  .region-photo { border-radius: 4px; overflow: hidden; background: #eee3c8; padding: 30px; }
+  .activity-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 16px 30px; }
+  .activity-list li { display: flex; align-items: flex-start; gap: 12px; font-size: .92rem; line-height: 1.5; opacity: .92; font-weight: 300; }
+  .activity-list i { color: var(--gold-light); margin-top: 4px; }
+  @media (max-width: 800px) { .region-grid { grid-template-columns: 1fr; } .activity-list { grid-template-columns: 1fr; } }
+
+  /* --- testimonials --- */
+  .testimonial-card {
+    background: #fff;
+    border-radius: 6px;
+    box-shadow: 0 20px 60px rgba(43,43,38,.08);
+    padding: clamp(36px, 6vw, 64px);
+    text-align: center;
+    max-width: 860px;
+    margin: 0 auto;
+  }
+  .quote-icon {
+    width: 52px; height: 52px;
+    border: 1px solid var(--line-light);
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    margin: 0 auto 26px;
+    color: var(--gold);
+    font-size: 1.1rem;
+  }
+  .t-slide { display: none; }
+  .t-slide.active { display: block; animation: fadein .6s ease; }
+  @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+  .t-slide blockquote {
+    font-family: "Cormorant Garamond", serif;
+    font-size: clamp(1.15rem, 2vw, 1.5rem);
+    font-weight: 400;
+    line-height: 1.6;
+    color: var(--ink);
+    margin: 0 0 22px;
+  }
+  .t-slide cite { font-family: "Bitter", sans-serif; font-size: .82rem; color: var(--ink-soft); font-style: normal; }
+  .t-dots { display: flex; justify-content: center; gap: 10px; margin-top: 30px; }
+  .t-dots button { width: 8px; height: 8px; border-radius: 50%; border: none; background: var(--line-light); cursor: pointer; padding: 0; }
+  .t-dots button.active { background: var(--gold); }
+
+  /* --- agenda --- */
+  .agenda-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 26px; }
+  .agenda-card { border-radius: 4px; overflow: hidden; background: #fff; box-shadow: 0 10px 30px rgba(43,43,38,.06); }
+  .agenda-photo { aspect-ratio: 16/10; background: var(--olive-dark) center/cover no-repeat; position: relative; }
+  .agenda-photo .agenda-date { position: absolute; left: 14px; bottom: 14px; background: rgba(255,255,255,.94); color: var(--olive-dark); font-family: "Bitter", sans-serif; font-size: .74rem; font-weight: 600; padding: 6px 10px; border-radius: 3px; letter-spacing: .04em; }
+  .agenda-body { padding: 20px 22px 24px; }
+  .agenda-body .agenda-loc { font-family: "Bitter", sans-serif; font-size: .74rem; letter-spacing: .06em; text-transform: uppercase; color: var(--gold); margin-bottom: 8px; }
+  .agenda-body h3 { font-family: "Cormorant Garamond", serif; font-size: 1.25rem; font-weight: 500; color: var(--olive-dark); margin-bottom: 8px; line-height: 1.3; }
+  .agenda-body p { font-size: .86rem; line-height: 1.55; color: var(--ink-soft); margin: 0; }
+  .agenda-empty { text-align: center; opacity: .6; font-size: .92rem; grid-column: 1 / -1; }
+  @media (max-width: 860px) { .agenda-grid { grid-template-columns: 1fr; } }
+  .agenda-credit { text-align: center; margin-top: 30px; font-size: .74rem; opacity: .5; }
+
+  /* --- footer --- */
+  footer.site-footer { background: var(--footer); color: #d8ddd3; padding: 70px 0 26px; }
+  .footer-top { display: flex; justify-content: space-between; align-items: flex-end; gap: 40px; flex-wrap: wrap; margin-bottom: 56px; }
+  .footer-top h2 { font-size: clamp(1.7rem, 3.4vw, 2.4rem); font-weight: 300; color: #fff; max-width: 20ch; margin: 0; }
+  .footer-nav { display: flex; gap: 60px; flex-wrap: wrap; }
+  .footer-nav h4 { font-family: "Bitter", sans-serif; font-size: .74rem; letter-spacing: .1em; text-transform: uppercase; color: var(--gold-light); margin: 0 0 16px; font-weight: 600; }
+  .footer-nav ul { list-style: none; margin: 0; padding: 0; }
+  .footer-nav li { margin-bottom: 10px; }
+  .footer-nav a { font-size: .88rem; opacity: .82; transition: opacity .2s ease; }
+  .footer-nav a:hover { opacity: 1; }
+  .footer-bottom { border-top: 1px solid rgba(255,255,255,.12); padding-top: 22px; display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px; font-size: .78rem; opacity: .6; }
+
+  /* --- scroll top --- */
+  .to-top { position: fixed; right: 22px; bottom: 22px; width: 42px; height: 42px; border-radius: 50%; background: var(--olive); color: #fff; display: flex; align-items: center; justify-content: center; opacity: 0; visibility: hidden; transition: opacity .3s ease; z-index: 80; }
+  .to-top.show { opacity: 1; visibility: visible; }
+
+  @media (max-width: 640px) {
+    body { padding-top: 128px; }
+    .header-row { padding: 10px 18px; }
+    .brand-name { font-size: 1.05rem; }
+    .brand img { width: 32px; height: 32px; }
+    .btn-book span.btn-book-label { display: none; }
+    .apt-grid, .agenda-grid { gap: 18px; }
+    section.intro, section.region { padding: 50px 0; }
+    .wrap { padding: 0 20px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="top-stack">
+  <div class="announce"><i class="fa-solid fa-leaf"></i>Shared shaded garden &middot; 200&nbsp;m from the village shops</div>
+  <header class="site-header" id="siteHeader">
+    <div class="header-row">
+      <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="menuPanel">
+        <span class="bars"><span></span><span></span><span></span></span>
+        Menu
+      </button>
+      <a class="brand" href="#top">
+        <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude">
+        <span class="brand-era">19th century</span>
+        <span class="brand-name">Manoir d'Aude</span>
+      </a>
+      <div class="header-right">
+        <a class="lang-toggle" href="../" aria-label="Passer en français">&#127467;&#127479; FR</a>
+        <a class="btn-book" href="#appartements"><i class="fa-solid fa-book"></i><span class="btn-book-label">Book your stay</span></a>
+      </div>
+    </div>
+  </header>
+</div>
+
+<div class="menu-panel" id="menuPanel">
+  <ul>
+    <li><a href="#top">Home</a></li>
+    <li><a href="#maison">The house</a></li>
+    <li><a href="#appartements">The apartments</a></li>
+    <li><a href="#guide">The region</a></li>
+    <li><a href="#agenda">Local agenda</a></li>
+    <li><a href="#avis">Reviews</a></li>
+  </ul>
+</div>
+
+<header class="hero" id="top">
+  <div class="ribbon">OCCITANIE</div>
+  <div class="hero-inner">
+    <div class="eyebrow">Peyriac-de-Mer &middot; Languedoc &middot; France</div>
+    <h1>Le Manoir d'Aude, among the lagoons</h1>
+    <p class="lead">A 19th-century townhouse divided into three independent apartments, 200 metres from the village and steps from the pink lagoons of the Narbonnaise.</p>
+    <div class="trust-row">
+      <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+      <span class="rating-text">4.86 to 4.97 &middot; Airbnb Guest Favourite</span>
+    </div>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#appartements"><i class="fa-solid fa-door-open"></i>Discover the apartments</a>
+      <a class="btn btn-outline" href="#guide"><i class="fa-solid fa-map-location-dot"></i>The region</a>
+    </div>
+  </div>
+</header>
+
+<section class="intro" id="maison">
+  <div class="wrap intro-grid">
+    <div class="intro-photo" data-reveal>
+      <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude, Peyriac-de-Mer">
+    </div>
+    <div class="intro-text" data-reveal>
+      <span class="eyebrow">The spirit of the house</span>
+      <h2>A family home in Languedoc</h2>
+      <p>Le Manoir d'Aude is a 19th-century townhouse, in the heart of a village surrounded by the lagoons of the Corbière Maritime, within the Narbonnaise Regional Nature Park.</p>
+      <p>Guests come as couples, families or friends to enjoy a large shaded garden shared between the three apartments, steps from the salt pans and the lagoon where flamingos gather.</p>
+    </div>
+  </div>
+</section>
+
+<section class="features">
+  <div class="wrap features-grid">
+    <div class="feature" data-reveal>
+      <i class="fa-solid fa-tree"></i>
+      <h3>Shared garden</h3>
+      <p>A large shaded garden, shared by all three apartments, with an outdoor sitting area for long summer evenings.</p>
+      <div class="rule"></div>
+    </div>
+    <div class="feature" data-reveal>
+      <i class="fa-solid fa-location-dot"></i>
+      <h3>Location</h3>
+      <p>200 metres from the village shops, a few minutes' walk from the lagoons of Peyriac-de-Mer.</p>
+      <div class="rule"></div>
+    </div>
+    <div class="feature" data-reveal>
+      <i class="fa-solid fa-key"></i>
+      <h3>Total independence</h3>
+      <p>Three separate apartments, each with its own entrance, for a stay in complete freedom.</p>
+      <div class="rule"></div>
+    </div>
+  </div>
+</section>
+
+<section class="apartments" id="appartements">
+  <div class="wrap">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">Where to sleep</span>
+      <h2>Three apartments, one family home</h2>
+      <p>Each with its own character, all steps from the shared garden and the village.</p>
+    </div>
+    <div class="apt-grid">
+      <a class="apt-card" href="../../emeraude/en/" data-reveal>
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" alt="Émeraude apartment, living room with fireplace" loading="lazy">
+        <div class="apt-label">
+          <h3>Émeraude</h3>
+          <span>4.96 &middot; 27 reviews</span>
+        </div>
+      </a>
+      <a class="apt-card" href="../../rubis/en/" data-reveal>
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1200" alt="Rubis apartment, living room with library" loading="lazy">
+        <div class="apt-label">
+          <h3>Rubis</h3>
+          <span>4.97 &middot; 39 reviews</span>
+        </div>
+      </a>
+      <a class="apt-card" href="../../peridot/en/" data-reveal>
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/55e0d4e5-c2b8-4d99-92ac-b87b8fa77526.jpeg?im_w=1200" alt="Péridot apartment, living room with antique sideboard" loading="lazy">
+        <div class="apt-label">
+          <h3>Péridot</h3>
+          <span>4.86 &middot; 36 reviews</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="region" id="guide">
+  <div class="wrap region-grid">
+    <div class="region-photo" data-reveal>
+      <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude">
+    </div>
+    <div data-reveal>
+      <span class="eyebrow">Worth discovering</span>
+      <h2 style="margin:14px 0 16px;">The Narbonnaise Nature Park</h2>
+      <p style="opacity:.85; line-height:1.7; margin-bottom:26px; font-weight:300;">The village sits at the heart of the Narbonnaise Regional Nature Park, surrounded by the lagoons of the Corbière Maritime. Here's what's waiting just outside the door.</p>
+      <ul class="activity-list">
+        <li><i class="fa-solid fa-water"></i>Étang du Doul &amp; the old salt pans</li>
+        <li><i class="fa-solid fa-place-of-worship"></i>Fontfroide Abbey</li>
+        <li><i class="fa-solid fa-paw"></i>Sigean African Reserve</li>
+        <li><i class="fa-solid fa-city"></i>Narbonne &amp; its covered market</li>
+        <li><i class="fa-solid fa-umbrella-beach"></i>Gruissan &amp; the beaches</li>
+        <li><i class="fa-solid fa-person-swimming"></i>Kayaking, paddleboarding, windsurfing, kitesurfing</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="testimonials" id="avis">
+  <div class="wrap">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">Guest reviews</span>
+      <h2>What our guests say</h2>
+    </div>
+    <div class="testimonial-card" data-reveal>
+      <div class="quote-icon"><i class="fa-solid fa-quote-left"></i></div>
+      <div id="tSlides">
+        <div class="t-slide active">
+          <blockquote>We had a very good stay. The apartment is well furnished, comfortable and equipped with everything needed for a relaxing holiday. The outdoor terrace is a real plus.</blockquote>
+          <cite>Ioana Raluca &middot; Émeraude apartment</cite>
+        </div>
+        <div class="t-slide">
+          <blockquote>An apartment full of charm and character, very well located in the village. Every comfort is there, and Aude's welcome was perfect from start to finish.</blockquote>
+          <cite>Airbnb guest &middot; Rubis apartment</cite>
+        </div>
+        <div class="t-slide">
+          <blockquote>Lovely apartment, quiet and well equipped. Ideally located to explore the lagoons. Aude was very available throughout our stay.</blockquote>
+          <cite>Airbnb guest &middot; Péridot apartment</cite>
+        </div>
+      </div>
+      <div class="t-dots" id="tDots"></div>
+    </div>
+  </div>
+</section>
+
+<section class="agenda" id="agenda">
+  <div class="wrap">
+    <div class="section-head" data-reveal>
+      <span class="eyebrow">Local agenda</span>
+      <h2>What's on during your stay</h2>
+      <p>A selection of events in the region, updated daily from the official Aude tourism agenda. Listings are mostly in French, as published by the local tourism board.</p>
+    </div>
+    <div class="agenda-grid" id="agendaGrid">
+      <p class="agenda-empty">Loading events&hellip;</p>
+    </div>
+    <p class="agenda-credit" id="agendaCredit"></p>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-top">
+      <h2>Live an authentic stay in the heart of Languedoc</h2>
+      <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude" style="width:70px;opacity:.85;">
+    </div>
+    <div class="footer-nav">
+      <div>
+        <h4>The house</h4>
+        <ul>
+          <li><a href="#top">Home</a></li>
+          <li><a href="#maison">The house</a></li>
+          <li><a href="#guide">The region</a></li>
+          <li><a href="#agenda">Local agenda</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Our apartments</h4>
+        <ul>
+          <li><a href="../../emeraude/en/">Émeraude</a></li>
+          <li><a href="../../rubis/en/">Rubis</a></li>
+          <li><a href="../../peridot/en/">Péridot</a></li>
+        </ul>
+      </div>
+      <div>
+        <h4>Other versions</h4>
+        <ul>
+          <li><a href="../">Cette page en français</a></li>
+          <li><a href="../../">Classic version (FR)</a></li>
+          <li><a href="../../en/">Classic version (EN)</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>Le Manoir d'Aude &middot; Peyriac-de-Mer, France</span>
+      <span>Three apartments on Airbnb</span>
+    </div>
+  </div>
+</footer>
+
+<a class="to-top" id="toTop" href="#top" aria-label="Back to top"><i class="fa-solid fa-arrow-up"></i></a>
+
+<script>
+  (function () {
+    var toggle = document.getElementById("menuToggle");
+    var panel = document.getElementById("menuPanel");
+    function closeMenu() {
+      toggle.classList.remove("open");
+      toggle.setAttribute("aria-expanded", "false");
+      panel.classList.remove("open");
+    }
+    toggle.addEventListener("click", function () {
+      var isOpen = panel.classList.toggle("open");
+      toggle.classList.toggle("open", isOpen);
+      toggle.setAttribute("aria-expanded", String(isOpen));
+    });
+    panel.querySelectorAll("a").forEach(function (a) {
+      a.addEventListener("click", closeMenu);
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") closeMenu();
+    });
+  })();
+
+  (function () {
+    var header = document.getElementById("siteHeader");
+    var toTop = document.getElementById("toTop");
+    window.addEventListener("scroll", function () {
+      var y = window.scrollY;
+      header.classList.toggle("scrolled", y > 20);
+      toTop.classList.toggle("show", y > 700);
+    });
+  })();
+
+  (function () {
+    var els = document.querySelectorAll("[data-reveal]");
+    if (!("IntersectionObserver" in window)) {
+      els.forEach(function (el) { el.classList.add("is-visible"); });
+      return;
+    }
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("is-visible");
+          io.unobserve(entry.target);
+        }
+      });
+    }, { threshold: .15 });
+    els.forEach(function (el) { io.observe(el); });
+  })();
+
+  (function () {
+    var slides = document.querySelectorAll(".t-slide");
+    var dotsWrap = document.getElementById("tDots");
+    if (!slides.length) return;
+    var current = 0;
+    slides.forEach(function (_, i) {
+      var b = document.createElement("button");
+      if (i === 0) b.classList.add("active");
+      b.setAttribute("aria-label", "Review " + (i + 1));
+      b.addEventListener("click", function () { show(i); });
+      dotsWrap.appendChild(b);
+    });
+    var dots = dotsWrap.querySelectorAll("button");
+    function show(i) {
+      slides[current].classList.remove("active");
+      dots[current].classList.remove("active");
+      current = i;
+      slides[current].classList.add("active");
+      dots[current].classList.add("active");
+    }
+    setInterval(function () { show((current + 1) % slides.length); }, 7000);
+  })();
+
+  (function () {
+    var grid = document.getElementById("agendaGrid");
+    var creditEl = document.getElementById("agendaCredit");
+    if (!grid) return;
+    var LOCAL_COMMUNE = "PEYRIAC-DE-MER";
+    var ICONS = { culture: "fa-masks-theater", sportandleisure: "fa-person-running", trade: "fa-store", tradition: "fa-champagne-glasses", animation: "fa-music" };
+    var MONTHS = ["JAN", "FÉV", "MAR", "AVR", "MAI", "JUN", "JUL", "AOÛ", "SEP", "OCT", "NOV", "DÉC"];
+
+    function escapeHtml(str) {
+      return String(str).replace(/[&<>"]/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+      });
+    }
+    function toTitleCase(str) {
+      return String(str).toLowerCase().replace(/(^|[\s\-'’])([a-zà-ÿ])/g, function (m, sep, c) {
+        return sep + c.toUpperCase();
+      });
+    }
+
+    fetch("/manoir-aude/events.json")
+      .then(function (res) { if (!res.ok) throw new Error("fetch failed"); return res.json(); })
+      .then(function (data) {
+        var all = data.events || [];
+        var local = all.filter(function (e) { return (e.location || "").toUpperCase() === LOCAL_COMMUNE; });
+        var rest = all.filter(function (e) { return (e.location || "").toUpperCase() !== LOCAL_COMMUNE; });
+        var events = local.concat(rest).slice(0, 3);
+        if (!events.length) {
+          grid.innerHTML = '<p class="agenda-empty">No events listed at the moment.</p>';
+          return;
+        }
+        grid.innerHTML = events.map(function (e) {
+          var d = new Date(e.startDate + "T12:00:00Z");
+          var day = d.getUTCDate();
+          var month = MONTHS[d.getUTCMonth()];
+          var icon = ICONS[e.category] || "fa-calendar";
+          var desc = e.description ? e.description.slice(0, 110) + (e.description.length > 110 ? "…" : "") : "";
+          var bg = e.image ? 'style="background-image:url(\'' + e.image + '\')"' : "";
+          return (
+            '<div class="agenda-card">' +
+            '<div class="agenda-photo" ' + bg + '><div class="agenda-date">' + day + " " + month + "</div></div>" +
+            '<div class="agenda-body">' +
+            '<div class="agenda-loc"><i class="fa-solid ' + icon + '"></i> ' + escapeHtml(toTitleCase(e.location)) + "</div>" +
+            "<h3>" + escapeHtml(toTitleCase(e.title)) + "</h3>" +
+            (desc ? "<p>" + escapeHtml(desc) + "</p>" : "") +
+            "</div></div>"
+          );
+        }).join("");
+        if (creditEl && data.sourceCredit) creditEl.textContent = data.sourceCredit;
+      })
+      .catch(function () {
+        grid.innerHTML = '<p class="agenda-empty">Unable to load the agenda right now.</p>';
+      });
+  })();
+</script>
+
+</body>
+</html>
