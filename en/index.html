@@ -158,29 +158,15 @@
     position: relative;
   }
 
-  .medallion-wrap {
+  .hero-logo-wrap {
     display: flex;
     justify-content: center;
-    margin-bottom: 28px;
+    margin-bottom: 20px;
   }
-  .medallion {
-    width: clamp(200px, 30vw, 320px);
-    height: clamp(200px, 30vw, 320px);
-    border-radius: 50%;
-    overflow: hidden;
-    background: var(--paper);
-    border: 5px solid var(--paper);
-    box-shadow:
-      0 0 0 2px var(--wine),
-      0 0 0 5px var(--paper),
-      0 0 0 6px var(--gold),
-      0 14px 34px rgba(43,38,32,.22);
-  }
-  .medallion img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    filter: url(#sketchify) sepia(.75) saturate(1.6) brightness(.98);
+  .hero-logo {
+    width: clamp(180px, 26vw, 280px);
+    height: auto;
+    display: block;
   }
 
   .hero h1 {
@@ -383,19 +369,6 @@
 </head>
 <body>
 
-<svg width="0" height="0" style="position:absolute">
-  <filter id="sketchify">
-    <feColorMatrix type="matrix" values="0.33 0.33 0.33 0 0  0.33 0.33 0.33 0 0  0.33 0.33 0.33 0 0  0 0 0 1 0"/>
-    <feGaussianBlur stdDeviation="0.5" result="blurred"/>
-    <feConvolveMatrix order="3" kernelMatrix="-1 -1 -1 -1 8 -1 -1 -1 -1" divisor="1" preserveAlpha="true"/>
-    <feComponentTransfer>
-      <feFuncR type="linear" slope="-6" intercept="1"/>
-      <feFuncG type="linear" slope="-6" intercept="1"/>
-      <feFuncB type="linear" slope="-6" intercept="1"/>
-    </feComponentTransfer>
-  </filter>
-</svg>
-
 <nav class="top">
   <div class="wrap">
     <div class="wordmark">Le Manoir <em>d'Aude</em></div>
@@ -415,10 +388,8 @@
 
 <header class="hero">
   <div class="wrap">
-    <div class="medallion-wrap">
-      <div class="medallion">
-        <img src="../assets/facade-sketch-source.jpeg" alt="Sketch of the Manoir d'Aude façade in Peyriac-de-Mer">
-      </div>
+    <div class="hero-logo-wrap">
+      <img class="hero-logo" src="../assets/logo.png" alt="Sketch of the Manoir d'Aude in Peyriac-de-Mer">
     </div>
     <div class="appellation">Peyriac-de-Mer &middot; Languedoc &middot; France</div>
     <h1>Le Manoir d'Aude</h1>
