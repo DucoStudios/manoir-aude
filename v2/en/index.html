@@ -54,7 +54,7 @@
     font-weight: 300;
     color: var(--ink);
     background: var(--cream);
-    padding-top: 118px;
+    padding-top: 42px;
   }
   img { max-width: 100%; display: block; }
   a { text-decoration: none; color: inherit; }
@@ -87,16 +87,20 @@
   }
   .announce i { margin-right: 8px; color: var(--gold-light); }
   header.site-header {
-    background: rgba(247,244,238,.97);
-    border-bottom: 1px solid var(--line-light);
-    backdrop-filter: blur(6px);
-    transition: box-shadow .3s ease;
+    background: transparent;
+    border-bottom: 1px solid transparent;
+    transition: background .35s ease, border-color .35s ease, box-shadow .35s ease;
   }
-  header.site-header.scrolled { box-shadow: 0 6px 20px rgba(0,0,0,.08); }
+  header.site-header.scrolled {
+    background: rgba(247,244,238,.97);
+    border-bottom-color: var(--line-light);
+    backdrop-filter: blur(6px);
+    box-shadow: 0 6px 20px rgba(0,0,0,.08);
+  }
   .header-row {
     max-width: 1180px;
     margin: 0 auto;
-    padding: 14px 28px;
+    padding: 16px 28px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -105,73 +109,84 @@
   .menu-toggle {
     display: flex;
     align-items: center;
-    gap: 10px;
     background: none;
     border: none;
-    font-family: "Bitter", sans-serif;
-    font-size: .92rem;
-    letter-spacing: .02em;
-    color: var(--ink);
     cursor: pointer;
-    padding: 8px 4px;
+    padding: 8px;
   }
-  .menu-toggle .bars { display: flex; flex-direction: column; gap: 4px; }
-  .menu-toggle .bars span { width: 20px; height: 1.5px; background: var(--ink); display: block; transition: transform .25s ease, opacity .25s ease; }
-  .menu-toggle.open .bars span:nth-child(1) { transform: translateY(5.5px) rotate(45deg); }
+  .menu-toggle .bars { display: flex; flex-direction: column; gap: 5px; }
+  .menu-toggle .bars span { width: 22px; height: 1.5px; background: #fff; display: block; transition: transform .25s ease, opacity .25s ease, background .35s ease; }
+  .scrolled .menu-toggle .bars span { background: var(--ink); }
+  .menu-toggle.open .bars span:nth-child(1) { transform: translateY(6.5px) rotate(45deg); }
   .menu-toggle.open .bars span:nth-child(2) { opacity: 0; }
-  .menu-toggle.open .bars span:nth-child(3) { transform: translateY(-5.5px) rotate(-45deg); }
+  .menu-toggle.open .bars span:nth-child(3) { transform: translateY(-6.5px) rotate(-45deg); }
 
   .brand {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
     flex-direction: column;
     text-align: center;
   }
-  .brand img { width: 40px; height: 40px; object-fit: contain; }
+  .brand img { width: 42px; height: 42px; object-fit: contain; transition: filter .35s ease; }
+  .scrolled .brand img { filter: brightness(0); opacity: .78; }
+  .brand-era {
+    font-family: "Cormorant Garamond", serif;
+    font-style: italic;
+    font-size: .78rem;
+    letter-spacing: .06em;
+    color: #fff;
+    opacity: .85;
+    transition: color .35s ease;
+  }
+  .brand-era::before { content: "\2014\00a0"; }
+  .brand-era::after { content: "\00a0\2014"; }
+  .scrolled .brand-era { color: var(--gold); opacity: 1; }
   .brand-name {
     font-family: "Cormorant Garamond", serif;
-    font-size: 1.3rem;
-    letter-spacing: .04em;
-    color: var(--olive-dark);
-    line-height: 1;
-  }
-  .brand-era {
-    font-family: "Bitter", sans-serif;
-    font-size: .58rem;
-    letter-spacing: .28em;
-    color: var(--gold);
+    font-size: 1.55rem;
+    letter-spacing: .14em;
     text-transform: uppercase;
+    color: #fff;
+    line-height: 1.15;
+    transition: color .35s ease;
   }
+  .brand-name small {
+    display: block;
+    font-size: .62rem;
+    letter-spacing: .22em;
+  }
+  .scrolled .brand-name { color: var(--olive-dark); }
 
   .header-right { display: flex; align-items: center; gap: 14px; }
   .lang-toggle {
     font-family: "Bitter", sans-serif;
-    font-size: .82rem;
-    color: var(--ink);
-    opacity: .75;
-    border: 1px solid var(--line-light);
+    font-size: .8rem;
+    color: #fff;
+    border: 1px solid rgba(255,255,255,.55);
     border-radius: 20px;
     padding: 6px 12px;
-    transition: opacity .2s ease, border-color .2s ease;
+    transition: opacity .2s ease, border-color .35s ease, color .35s ease;
     white-space: nowrap;
   }
-  .lang-toggle:hover { opacity: 1; border-color: var(--olive); }
+  .lang-toggle:hover { opacity: .8; }
+  .scrolled .lang-toggle { color: var(--ink); border-color: var(--line-light); }
+  .scrolled .lang-toggle:hover { border-color: var(--olive); }
   .btn-book {
     display: flex;
     align-items: center;
-    gap: 8px;
-    background: var(--olive);
+    justify-content: center;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    border: 1px solid rgba(255,255,255,.55);
     color: #fff;
-    font-family: "Bitter", sans-serif;
-    font-size: .84rem;
-    letter-spacing: .02em;
-    padding: 12px 20px;
-    border-radius: 2px;
-    white-space: nowrap;
-    transition: background .2s ease;
+    font-size: .95rem;
+    transition: background .35s ease, border-color .35s ease, color .35s ease;
   }
-  .btn-book:hover { background: var(--olive-dark); }
+  .btn-book:hover { border-color: #fff; }
+  .scrolled .btn-book { background: var(--olive); border-color: var(--olive); color: #fff; }
+  .scrolled .btn-book:hover { background: var(--olive-dark); }
 
   /* --- mobile/menu panel --- */
   .menu-panel {
@@ -203,11 +218,19 @@
     min-height: 92vh;
     display: flex;
     align-items: flex-end;
-    background: linear-gradient(rgba(30,36,28,.15), rgba(20,25,18,.72)), url("https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1440") center / cover no-repeat;
+    background: url("https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1440") center / cover no-repeat;
   }
+  header.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(rgba(15,19,13,.42) 0%, rgba(15,19,13,.15) 22%, rgba(15,19,13,.2) 55%, rgba(10,13,9,.92) 100%);
+    pointer-events: none;
+  }
+  .hero-inner { position: relative; z-index: 1; }
   .ribbon {
     position: absolute;
-    top: 26px;
+    top: 118px;
     right: 26px;
     background: rgba(255,255,255,.94);
     color: var(--olive-dark);
@@ -219,6 +242,15 @@
     border-radius: 3px;
   }
   .hero-inner { max-width: 1180px; margin: 0 auto; padding: 0 28px 72px; color: #fff; }
+  .hero-text-panel {
+    display: inline-block;
+    background: rgba(12,15,10,.4);
+    backdrop-filter: blur(3px);
+    -webkit-backdrop-filter: blur(3px);
+    border-radius: 4px;
+    padding: 28px clamp(20px, 4vw, 40px);
+    margin-bottom: 26px;
+  }
   .hero-inner .eyebrow { color: var(--gold-light); }
   .hero-inner h1 {
     font-size: clamp(2.4rem, 6vw, 4.4rem);
@@ -376,11 +408,10 @@
   .to-top.show { opacity: 1; visibility: visible; }
 
   @media (max-width: 640px) {
-    body { padding-top: 128px; }
+    body { padding-top: 66px; }
     .header-row { padding: 10px 18px; }
-    .brand-name { font-size: 1.05rem; }
+    .brand-name { font-size: 1.15rem; }
     .brand img { width: 32px; height: 32px; }
-    .btn-book span.btn-book-label { display: none; }
     .apt-grid, .agenda-grid { gap: 18px; }
     section.intro, section.region { padding: 50px 0; }
     .wrap { padding: 0 20px; }
@@ -393,18 +424,17 @@
   <div class="announce"><i class="fa-solid fa-leaf"></i>Shared shaded garden &middot; 200&nbsp;m from the village shops</div>
   <header class="site-header" id="siteHeader">
     <div class="header-row">
-      <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="menuPanel">
+      <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="menuPanel" aria-label="Menu">
         <span class="bars"><span></span><span></span><span></span></span>
-        Menu
       </button>
       <a class="brand" href="#top">
-        <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude">
+        <img src="../../assets/logo-white.png" alt="Sketch of the Manoir d'Aude">
         <span class="brand-era">19th century</span>
-        <span class="brand-name">Manoir d'Aude</span>
+        <span class="brand-name">Manoir<small>d'Aude</small></span>
       </a>
       <div class="header-right">
         <a class="lang-toggle" href="../" aria-label="Passer en français">&#127467;&#127479; FR</a>
-        <a class="btn-book" href="#appartements"><i class="fa-solid fa-book"></i><span class="btn-book-label">Book your stay</span></a>
+        <a class="btn-book" href="#appartements" aria-label="Book your stay"><i class="fa-solid fa-book"></i></a>
       </div>
     </div>
   </header>
@@ -424,12 +454,14 @@
 <header class="hero" id="top">
   <div class="ribbon">OCCITANIE</div>
   <div class="hero-inner">
-    <div class="eyebrow">Peyriac-de-Mer &middot; Languedoc &middot; France</div>
-    <h1>Le Manoir d'Aude, among the lagoons</h1>
-    <p class="lead">A 19th-century townhouse divided into three independent apartments, 200 metres from the village and steps from the pink lagoons of the Narbonnaise.</p>
-    <div class="trust-row">
-      <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
-      <span class="rating-text">4.86 to 4.97 &middot; Airbnb Guest Favourite</span>
+    <div class="hero-text-panel">
+      <div class="eyebrow">Peyriac-de-Mer &middot; Languedoc &middot; France</div>
+      <h1>Le Manoir d'Aude, among the lagoons</h1>
+      <p class="lead">A 19th-century townhouse divided into three independent apartments, 200 metres from the village and steps from the pink lagoons of the Narbonnaise.</p>
+      <div class="trust-row">
+        <span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span>
+        <span class="rating-text">4.86 to 4.97 &middot; Airbnb Guest Favourite</span>
+      </div>
     </div>
     <div class="hero-actions">
       <a class="btn btn-primary" href="#appartements"><i class="fa-solid fa-door-open"></i>Discover the apartments</a>
