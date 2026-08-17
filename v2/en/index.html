@@ -54,7 +54,7 @@
     font-weight: 300;
     color: var(--ink);
     background: var(--cream);
-    padding-top: 42px;
+    padding-top: 0;
   }
   img { max-width: 100%; display: block; }
   a { text-decoration: none; color: inherit; }
@@ -75,17 +75,8 @@
   [data-reveal] { opacity: 0; transform: translateY(24px); transition: opacity .8s ease, transform .8s ease; }
   [data-reveal].is-visible { opacity: 1; transform: translateY(0); }
 
-  /* --- announce + header --- */
+  /* --- header --- */
   .top-stack { position: fixed; top: 0; left: 0; right: 0; z-index: 100; }
-  .announce {
-    background: var(--olive);
-    color: #f2ede1;
-    text-align: center;
-    font-size: .78rem;
-    letter-spacing: .03em;
-    padding: 9px 16px;
-  }
-  .announce i { margin-right: 8px; color: var(--gold-light); }
   header.site-header {
     background: transparent;
     border-bottom: 1px solid transparent;
@@ -191,7 +182,7 @@
   /* --- mobile/menu panel --- */
   .menu-panel {
     position: fixed;
-    inset: 118px 0 0 0;
+    inset: 149px 0 0 0;
     background: var(--cream);
     z-index: 90;
     display: flex;
@@ -230,7 +221,7 @@
   .hero-inner { position: relative; z-index: 1; }
   .ribbon {
     position: absolute;
-    top: 118px;
+    top: 149px;
     right: 26px;
     background: rgba(255,255,255,.94);
     color: var(--olive-dark);
@@ -336,12 +327,10 @@
   section.region { background: var(--olive); color: #f2ede1; padding: clamp(60px, 9vw, 110px) 0; }
   section.region .section-head h2 { color: #fff; }
   section.region .section-head p { color: rgba(242,237,225,.78); }
-  .region-grid { display: grid; grid-template-columns: .8fr 1fr; gap: 60px; align-items: center; }
-  .region-photo { border-radius: 4px; overflow: hidden; background: #eee3c8; padding: 30px; }
-  .activity-list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 16px 30px; }
-  .activity-list li { display: flex; align-items: flex-start; gap: 12px; font-size: .92rem; line-height: 1.5; opacity: .92; font-weight: 300; }
+  .activity-list { list-style: none; margin: 0 auto; padding: 0; max-width: 760px; display: grid; grid-template-columns: 1fr 1fr; gap: 18px 40px; }
+  .activity-list li { display: flex; align-items: flex-start; gap: 12px; font-size: .96rem; line-height: 1.5; opacity: .92; font-weight: 300; }
   .activity-list i { color: var(--gold-light); margin-top: 4px; }
-  @media (max-width: 800px) { .region-grid { grid-template-columns: 1fr; } .activity-list { grid-template-columns: 1fr; } }
+  @media (max-width: 640px) { .activity-list { grid-template-columns: 1fr; } }
 
   /* --- testimonials --- */
   .testimonial-card {
@@ -408,7 +397,7 @@
   .to-top.show { opacity: 1; visibility: visible; }
 
   @media (max-width: 640px) {
-    body { padding-top: 66px; }
+    body { padding-top: 0; }
     .header-row { padding: 10px 18px; }
     .brand-name { font-size: 1.15rem; }
     .brand img { width: 32px; height: 32px; }
@@ -421,7 +410,6 @@
 <body>
 
 <div class="top-stack">
-  <div class="announce"><i class="fa-solid fa-leaf"></i>Shared shaded garden &middot; 200&nbsp;m from the village shops</div>
   <header class="site-header" id="siteHeader">
     <div class="header-row">
       <button class="menu-toggle" id="menuToggle" aria-expanded="false" aria-controls="menuPanel" aria-label="Menu">
@@ -433,7 +421,7 @@
         <span class="brand-name">Manoir<small>d'Aude</small></span>
       </a>
       <div class="header-right">
-        <a class="lang-toggle" href="../" aria-label="Passer en français">&#127467;&#127479; FR</a>
+        <a class="lang-toggle" href="../" aria-label="Passer en français">FR</a>
         <a class="btn-book" href="#appartements" aria-label="Book your stay"><i class="fa-solid fa-book"></i></a>
       </div>
     </div>
@@ -541,23 +529,20 @@
 </section>
 
 <section class="region" id="guide">
-  <div class="wrap region-grid">
-    <div class="region-photo" data-reveal>
-      <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude">
-    </div>
-    <div data-reveal>
+  <div class="wrap">
+    <div class="section-head" data-reveal>
       <span class="eyebrow">Worth discovering</span>
-      <h2 style="margin:14px 0 16px;">The Narbonnaise Nature Park</h2>
-      <p style="opacity:.85; line-height:1.7; margin-bottom:26px; font-weight:300;">The village sits at the heart of the Narbonnaise Regional Nature Park, surrounded by the lagoons of the Corbière Maritime. Here's what's waiting just outside the door.</p>
-      <ul class="activity-list">
-        <li><i class="fa-solid fa-water"></i>Étang du Doul &amp; the old salt pans</li>
-        <li><i class="fa-solid fa-place-of-worship"></i>Fontfroide Abbey</li>
-        <li><i class="fa-solid fa-paw"></i>Sigean African Reserve</li>
-        <li><i class="fa-solid fa-city"></i>Narbonne &amp; its covered market</li>
-        <li><i class="fa-solid fa-umbrella-beach"></i>Gruissan &amp; the beaches</li>
-        <li><i class="fa-solid fa-person-swimming"></i>Kayaking, paddleboarding, windsurfing, kitesurfing</li>
-      </ul>
+      <h2>The Narbonnaise Nature Park</h2>
+      <p>The village sits at the heart of the Narbonnaise Regional Nature Park, surrounded by the lagoons of the Corbière Maritime. Here's what's waiting just outside the door.</p>
     </div>
+    <ul class="activity-list" data-reveal>
+      <li><i class="fa-solid fa-water"></i>Étang du Doul &amp; the old salt pans</li>
+      <li><i class="fa-solid fa-place-of-worship"></i>Fontfroide Abbey</li>
+      <li><i class="fa-solid fa-paw"></i>Sigean African Reserve</li>
+      <li><i class="fa-solid fa-city"></i>Narbonne &amp; its covered market</li>
+      <li><i class="fa-solid fa-umbrella-beach"></i>Gruissan &amp; the beaches</li>
+      <li><i class="fa-solid fa-person-swimming"></i>Kayaking, paddleboarding, windsurfing, kitesurfing</li>
+    </ul>
   </div>
 </section>
 
@@ -606,7 +591,6 @@
   <div class="wrap">
     <div class="footer-top">
       <h2>Live an authentic stay in the heart of Languedoc</h2>
-      <img src="../../assets/logo.png" alt="Sketch of the Manoir d'Aude" style="width:70px;opacity:.85;">
     </div>
     <div class="footer-nav">
       <div>
