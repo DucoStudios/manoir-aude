@@ -270,18 +270,30 @@
     color: var(--wine-dark);
   }
   .gallery-grid {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-auto-rows: 180px;
-    gap: 8px;
+    display: flex;
+    gap: 14px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    padding: 4px 4px 16px;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+    scrollbar-color: var(--gold) transparent;
   }
-  .gallery-grid a { display: block; overflow: hidden; border-radius: 4px; border: 1px solid var(--line); }
+  .gallery-grid a {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    width: min(70vw, 380px);
+    aspect-ratio: 4 / 3;
+    display: block;
+    overflow: hidden;
+    border-radius: 6px;
+    border: 1px solid var(--line);
+  }
   .gallery-grid img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s ease; }
   .gallery-grid a:hover img { transform: scale(1.06); }
-  .gallery-grid .big { grid-column: span 2; grid-row: span 2; }
-  @media (max-width: 760px) {
-    .gallery-grid { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 140px; gap: 6px; }
-    .gallery-grid .big { grid-column: span 2; grid-row: span 1; height: 220px; }
+  @media (max-width: 640px) {
+    .gallery-grid { gap: 10px; }
+    .gallery-grid a { width: 80vw; }
   }
 
   /* --- details --- */
@@ -452,7 +464,7 @@
       <h2>A home for your stay</h2>
     </div>
     <div class="gallery-grid">
-      <a class="big" href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" target="_blank" rel="noopener">
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" target="_blank" rel="noopener">
         <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" alt="Living room with fireplace and dining area" loading="lazy">
       </a>
       <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/23b03c39-659d-440f-bbe0-23134e25c687.jpeg?im_w=1200" target="_blank" rel="noopener">
