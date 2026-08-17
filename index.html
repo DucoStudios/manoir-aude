@@ -390,28 +390,31 @@
   }
   .event-row {
     display: flex;
-    gap: 18px;
-    padding: 16px 20px;
+    gap: 22px;
+    padding: 16px 22px;
     background: var(--paper);
     align-items: flex-start;
   }
+  .event-row.is-local { background: var(--parchment-2); border-left: 3px solid var(--wine); padding-left: 19px; }
   .event-date {
     flex: 0 0 auto;
-    width: 54px;
+    width: 40px;
     text-align: center;
     font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
   }
   .event-date .day { display: block; font-size: 1.4rem; font-weight: 600; color: var(--wine-dark); line-height: 1; }
-  .event-date .month { display: block; font-size: .68rem; text-transform: uppercase; letter-spacing: .06em; color: var(--wine); margin-top: 2px; }
+  .event-date .month { display: block; font-size: .66rem; text-transform: uppercase; letter-spacing: .09em; color: var(--wine); margin-top: 3px; }
   .event-body h3 { font-size: .96rem; margin-bottom: 4px; color: var(--wine-dark); font-weight: 600; }
   .event-body h3 .fa-solid { color: var(--gold); margin-right: 6px; font-size: .85em; }
   .event-meta { font-size: .8rem; opacity: .65; margin-bottom: 4px; }
+  .event-local-tag { display: inline-block; font-size: .68rem; text-transform: uppercase; letter-spacing: .05em; color: var(--wine); background: rgba(168,85,42,.12); border-radius: 3px; padding: 1px 6px; margin-left: 8px; vertical-align: middle; }
   .event-desc { font-size: .86rem; opacity: .78; line-height: 1.5; }
   .events-credit { text-align: center; margin-top: 18px; font-size: .74rem; opacity: .5; }
   .events-loading, .events-empty { text-align: center; opacity: .6; padding: 24px 0; font-size: .92rem; }
   @media (max-width: 560px) {
-    .event-row { gap: 12px; padding: 14px 16px; }
-    .event-date { width: 44px; }
+    .event-row { gap: 14px; padding: 14px 18px; }
+    .event-row.is-local { padding-left: 15px; }
+    .event-date { width: 36px; }
   }
 
   /* --- cta band --- */
@@ -678,7 +681,8 @@
     var creditEl = document.getElementById("events-credit");
     if (!listEl) return;
 
-    var MONTHS = ["JANV", "FÉVR", "MARS", "AVR", "MAI", "JUIN", "JUIL", "AOÛ", "SEPT", "OCT", "NOV", "DÉC"];
+    var MONTHS = ["JAN", "FÉV", "MAR", "AVR", "MAI", "JUN", "JUL", "AOÛ", "SEP", "OCT", "NOV", "DÉC"];
+    var LOCAL_COMMUNE = "PEYRIAC-DE-MER";
     var ICONS = {
       culture: "fa-masks-theater",
       sportandleisure: "fa-person-running",
@@ -705,13 +709,23 @@
         return res.json();
       })
       .then(function (data) {
-        var events = (data.events || []).slice(0, 10);
+        var all = data.events || [];
+        var local = all.filter(function (e) { return (e.location || "").toUpperCase() === LOCAL_COMMUNE; });
+        var rest = all.filter(function (e) { return (e.location || "").toUpperCase() !== LOCAL_COMMUNE; });
+        var events = local.concat(rest).slice(0, 16);
+        events.sort(function (a, b) {
+          var aLocal = (a.location || "").toUpperCase() === LOCAL_COMMUNE ? 0 : 1;
+          var bLocal = (b.location || "").toUpperCase() === LOCAL_COMMUNE ? 0 : 1;
+          if (aLocal !== bLocal) return aLocal - bLocal;
+          return a.startDate.localeCompare(b.startDate);
+        });
         if (!events.length) {
           listEl.innerHTML = '<p class="events-empty">Aucun événement recensé pour le moment.</p>';
           return;
         }
         listEl.innerHTML = events
           .map(function (e) {
+            var isLocal = (e.location || "").toUpperCase() === LOCAL_COMMUNE;
             var d = new Date(e.startDate + "T12:00:00Z");
             var day = d.getUTCDate();
             var month = MONTHS[d.getUTCMonth()];
@@ -720,10 +734,10 @@
             var meta = [toTitleCase(e.location), timeLabel].filter(Boolean).join(" · ");
             var desc = e.description ? e.description.slice(0, 140) + (e.description.length > 140 ? "…" : "") : "";
             return (
-              '<div class="event-row">' +
+              '<div class="event-row' + (isLocal ? " is-local" : "") + '">' +
               '<div class="event-date"><span class="day">' + day + '</span><span class="month">' + month + "</span></div>" +
               '<div class="event-body">' +
-              "<h3><i class=\"fa-solid " + icon + "\"></i> " + escapeHtml(toTitleCase(e.title)) + "</h3>" +
+              "<h3><i class=\"fa-solid " + icon + "\"></i> " + escapeHtml(toTitleCase(e.title)) + (isLocal ? '<span class="event-local-tag">Sur place</span>' : "") + "</h3>" +
               (meta ? '<div class="event-meta">' + escapeHtml(meta) + "</div>" : "") +
               (desc ? '<div class="event-desc">' + escapeHtml(desc) + "</div>" : "") +
               "</div>" +

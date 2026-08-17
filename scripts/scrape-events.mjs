@@ -9,7 +9,7 @@ const SOURCE_URL = "https://www.lagrandemaison-peyriacdemer.fr/tourismevent";
 const USER_AGENT =
   "ManoirAudeEventsBot/1.0 (site vitrine Le Manoir d'Aude, contact: jean-claude@ducomaison.fr)";
 const OUT_FILE = new URL("../events.json", import.meta.url);
-const MAX_EVENTS = 40;
+const MAX_EVENTS = 120;
 
 function decodeEntities(str) {
   return str
