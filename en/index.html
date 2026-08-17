@@ -99,7 +99,6 @@
 
   /* --- nav --- */
   nav.top {
-    position: relative;
     background: var(--parchment);
     border-bottom: 1px solid var(--line);
   }
@@ -145,29 +144,6 @@
   }
   .wordmark em { font-style: italic; color: var(--wine); }
 
-  .lang-toggle {
-    position: absolute;
-    top: 100%;
-    right: clamp(20px, 5vw, 48px);
-    z-index: 5;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 2px;
-    width: 46px;
-    padding: 8px 6px 12px;
-    background: var(--wine);
-    color: #f8f1e2;
-    font-size: .68rem;
-    font-weight: 600;
-    letter-spacing: .04em;
-    text-decoration: none;
-    box-shadow: 0 4px 8px rgba(43,38,32,.18);
-    clip-path: polygon(0 0, 100% 0, 100% 78%, 50% 100%, 0 78%);
-    transition: transform .18s ease, background .18s ease;
-  }
-  .lang-toggle .flag-emoji { font-size: 1rem; line-height: 1; }
-  .lang-toggle:hover { transform: translateY(3px); background: var(--wine-dark); }
 
   .btn {
     font-size: .84rem;
@@ -509,7 +485,6 @@
       <a href="#guide">The region</a>
     </div>
     <div class="nav-right">
-      <a class="lang-toggle" href="/manoir-aude/" aria-label="Passer en français" title="Passer en français"><span class="flag-emoji">&#127467;&#127479;</span>FR</a>
       <a class="btn btn-primary" href="#apartments">See the apartments</a>
     </div>
   </div>
@@ -689,7 +664,7 @@
 </section>
 
 <footer>
-  <div class="wrap">Le Manoir d'Aude &middot; Peyriac-de-Mer, France</div>
+  <div class="wrap">Le Manoir d'Aude &middot; Peyriac-de-Mer, France &middot; <a href="/manoir-aude/">Version française</a></div>
 </footer>
 
 <script>

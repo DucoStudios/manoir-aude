@@ -94,7 +94,6 @@
 
   /* --- nav --- */
   nav.top {
-    position: relative;
     background: var(--parchment);
     border-bottom: 1px solid var(--line);
   }
@@ -140,29 +139,6 @@
   }
   .wordmark em { font-style: italic; color: var(--wine); }
 
-  .lang-toggle {
-    position: absolute;
-    top: 100%;
-    right: clamp(20px, 5vw, 48px);
-    z-index: 5;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 2px;
-    width: 46px;
-    padding: 8px 6px 12px;
-    background: var(--wine);
-    color: #f8f1e2;
-    font-size: .68rem;
-    font-weight: 600;
-    letter-spacing: .04em;
-    text-decoration: none;
-    box-shadow: 0 4px 8px rgba(43,38,32,.18);
-    clip-path: polygon(0 0, 100% 0, 100% 78%, 50% 100%, 0 78%);
-    transition: transform .18s ease, background .18s ease;
-  }
-  .lang-toggle .flag-emoji { font-size: 1rem; line-height: 1; }
-  .lang-toggle:hover { transform: translateY(3px); background: var(--wine-dark); }
 
   .btn {
     font-size: .84rem;
@@ -471,7 +447,6 @@
       <a href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">Réservation</a>
     </div>
     <div class="nav-right">
-      <a class="lang-toggle" href="/manoir-aude/emeraude/en/" aria-label="Switch to English" title="Switch to English"><span class="flag-emoji">&#127468;&#127463;</span>EN</a>
       <a class="btn btn-primary" href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">
         <i class="fa-brands fa-airbnb"></i> Réserver sur Airbnb
       </a>
@@ -637,7 +612,7 @@
 </section>
 
 <footer>
-  <div class="wrap">Appartement Émeraude &middot; Le Manoir d'Aude, Peyriac-de-Mer, France &middot; <a href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">Voir le logement sur Airbnb</a></div>
+  <div class="wrap">Appartement Émeraude &middot; Le Manoir d'Aude, Peyriac-de-Mer, France &middot; <a href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">Voir le logement sur Airbnb</a> &middot; <a href="/manoir-aude/emeraude/en/">English version</a></div>
 </footer>
 
 </body>
