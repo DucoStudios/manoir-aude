@@ -79,7 +79,7 @@
   .top-stack { position: fixed; top: 0; left: 0; right: 0; z-index: 100; }
   header.site-header {
     background: transparent;
-    border-bottom: 1px solid transparent;
+    border-bottom: 1px solid rgba(255,255,255,.28);
     transition: background .35s ease, border-color .35s ease, box-shadow .35s ease;
   }
   header.site-header.scrolled {
@@ -115,11 +115,12 @@
   .brand {
     display: flex;
     align-items: center;
-    gap: 8px;
-    flex-direction: column;
-    text-align: center;
+    gap: 14px;
+    flex-direction: row;
+    text-align: left;
   }
-  .brand img { width: 42px; height: 42px; object-fit: contain; transition: filter .35s ease; }
+  .brand-text { display: flex; flex-direction: column; align-items: flex-start; }
+  .brand img { width: 46px; height: 46px; object-fit: contain; flex: 0 0 auto; transition: filter .35s ease; }
   .scrolled .brand img { filter: brightness(0); opacity: .78; }
   .brand-era {
     font-family: "Cormorant Garamond", serif;
@@ -150,19 +151,6 @@
   .scrolled .brand-name { color: var(--olive-dark); }
 
   .header-right { display: flex; align-items: center; gap: 14px; }
-  .lang-toggle {
-    font-family: "Bitter", sans-serif;
-    font-size: .8rem;
-    color: #fff;
-    border: 1px solid rgba(255,255,255,.55);
-    border-radius: 20px;
-    padding: 6px 12px;
-    transition: opacity .2s ease, border-color .35s ease, color .35s ease;
-    white-space: nowrap;
-  }
-  .lang-toggle:hover { opacity: .8; }
-  .scrolled .lang-toggle { color: var(--ink); border-color: var(--line-light); }
-  .scrolled .lang-toggle:hover { border-color: var(--olive); }
   .btn-book {
     display: flex;
     align-items: center;
@@ -418,11 +406,12 @@
       </button>
       <a class="brand" href="#top">
         <img src="../../assets/logo-white.png" alt="Sketch of the Manoir d'Aude">
-        <span class="brand-era">19th century</span>
-        <span class="brand-name">Manoir<small>d'Aude</small></span>
+        <span class="brand-text">
+          <span class="brand-era">19th century</span>
+          <span class="brand-name">Manoir<small>d'Aude</small></span>
+        </span>
       </a>
       <div class="header-right">
-        <a class="lang-toggle" href="../" aria-label="Passer en français">FR</a>
         <a class="btn-book" href="#appartements" aria-label="Book your stay"><i class="fa-solid fa-book"></i></a>
       </div>
     </div>
