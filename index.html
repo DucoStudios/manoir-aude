@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Le Manoir d'Aude &middot; Location de vacances à Peyriac-de-Mer</title>
-<meta name="description" content="Charmant appartement de 50 m² dans une maison de maître du XIXe siècle, au cœur de Peyriac-de-Mer, en Languedoc. Jardin privé, à 200 mètres des commerces, proche des étangs et de la Corbière Maritime. Réservez sur Airbnb.">
+<title>Le Manoir d'Aude &middot; 3 appartements à Peyriac-de-Mer</title>
+<meta name="description" content="Le Manoir d'Aude : une maison de maître du XIXe siècle au cœur de Peyriac-de-Mer, en Languedoc, divisée en trois appartements indépendants. Jardin partagé, 200 mètres des commerces. Réservez sur Airbnb.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://ducostudios.github.io/manoir-aude/">
 <link rel="alternate" hreflang="fr" href="https://ducostudios.github.io/manoir-aude/">
@@ -12,8 +12,8 @@
 <link rel="alternate" hreflang="x-default" href="https://ducostudios.github.io/manoir-aude/">
 
 <meta property="og:type" content="website">
-<meta property="og:title" content="Le Manoir d'Aude &middot; Location de vacances à Peyriac-de-Mer">
-<meta property="og:description" content="Charmant appartement de 50 m² dans une maison de maître du XIXe siècle, au cœur de Peyriac-de-Mer, en Languedoc. Jardin privé, proche des étangs et de la Corbière Maritime.">
+<meta property="og:title" content="Le Manoir d'Aude &middot; 3 appartements à Peyriac-de-Mer">
+<meta property="og:description" content="Une maison de maître du XIXe siècle au cœur de Peyriac-de-Mer, en Languedoc, divisée en trois appartements indépendants.">
 <meta property="og:image" content="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200">
 <meta property="og:url" content="https://ducostudios.github.io/manoir-aude/">
 <meta property="og:locale" content="fr_FR">
@@ -408,6 +408,36 @@
   @media (max-width: 420px) {
     .btn { font-size: .78rem; padding: 9px 14px; }
   }
+
+  .other-apts-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  @media (max-width: 640px) { .other-apts-grid { grid-template-columns: 1fr; } }
+  .apt-card {
+    display: block;
+    text-decoration: none;
+    color: var(--ink);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    overflow: hidden;
+    background: var(--paper);
+    transition: transform .15s ease, box-shadow .15s ease;
+  }
+  .apt-card:hover { transform: translateY(-2px); box-shadow: 0 10px 24px rgba(43,38,32,.14); }
+  .apt-card-img { aspect-ratio: 4/3; overflow: hidden; }
+  .apt-card-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .apt-card-body { padding: 16px 18px; }
+  .apt-card-body h3 { font-size: 1.02rem; color: var(--wine-dark); margin-bottom: 4px; }
+  .apt-card-body p { margin: 0; font-size: .88rem; opacity: .7; }
+
+  .apts-grid-3 { grid-template-columns: repeat(3, 1fr); }
+  @media (max-width: 860px) { .apts-grid-3 { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 640px) { .apts-grid-3 { grid-template-columns: 1fr; } }
+  .apt-card-tagline { font-size: .85rem; opacity: .78; margin: 4px 0 8px; line-height: 1.45; }
+  .apt-card-meta { font-size: .82rem; opacity: .65; margin: 0; }
+  .apt-card-meta .stars { color: var(--gold); }
 </style>
 </head>
 <body>
@@ -416,16 +446,12 @@
   <div class="wrap">
     <div class="wordmark">Le Manoir <em>d'Aude</em></div>
     <div class="navlinks">
-      <a href="#logement">Le logement</a>
-      <a href="#infos">Infos pratiques</a>
+      <a href="#appartements">Les appartements</a>
       <a href="#guide">La région</a>
-      <a href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">Réservation</a>
     </div>
     <div class="nav-right">
       <a class="lang-toggle" href="/manoir-aude/en/" aria-label="Switch to English" title="Switch to English">&#127468;&#127463; EN</a>
-      <a class="btn btn-primary" href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">
-        <i class="fa-brands fa-airbnb"></i> Réserver sur Airbnb
-      </a>
+      <a class="btn btn-primary" href="#appartements">Voir les appartements</a>
     </div>
   </div>
 </nav>
@@ -439,11 +465,11 @@
     </div>
     <div class="appellation">Peyriac-de-Mer &middot; Languedoc &middot; France</div>
     <h1>Le Manoir d'Aude</h1>
-    <div class="subtitle">Appartement &Eacute;meraude</div>
-    <p class="lead">Un appartement du XIX<sup>e</sup> siècle au cœur d'un village où les étangs roses de flamants et le parfum de la garrigue vous accompagnent jusqu'à la lagune. À 200 mètres des commerces, avec un jardin ombragé rien qu'à vous.</p>
-    <div class="seal"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 4,96 &middot; 27 avis &middot; Coup de cœur voyageurs</div>
+    <div class="subtitle">Trois appartements, une même maison de famille</div>
+    <p class="lead">Une maison de maître du XIX<sup>e</sup> siècle au cœur d'un village où les étangs roses de flamants et le parfum de la garrigue vous accompagnent jusqu'à la lagune. À 200 mètres des commerces, avec un jardin ombragé partagé entre les trois appartements.</p>
+    <div class="seal"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 4,86 à 4,97 &middot; Coup de cœur voyageurs</div>
     <div class="hero-actions">
-      <a class="btn btn-primary" href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">Réserver sur Airbnb</a>
+      <a class="btn btn-primary" href="#appartements">Voir les appartements</a>
       <a class="btn btn-ghost" href="#guide">Découvrir la région</a>
     </div>
   </div>
@@ -453,85 +479,79 @@
 
 <div class="intro">
   <div class="wrap">
-    <p>Le Manoir d'Aude est une maison de famille entièrement rénovée, au cœur du charmant village de Peyriac-de-Mer. L'appartement Émeraude marie ancien et moderne au premier étage, idéal pour se détendre, profiter du paysage de la lagune et découvrir la Corbière Maritime à votre rythme. Aude, Brigitte et Eric vous accueillent comme leurs propres invités.</p>
+    <p>Le Manoir d'Aude est une maison de famille entièrement rénovée, en plein cœur du charmant village de Peyriac-de-Mer, à 200 mètres des commerces de proximité. Elle se divise en trois appartements indépendants, Émeraude, Rubis et Péridot, chacun avec son propre caractère, et un jardin ombragé et clôturé partagé entre les trois, avec hamac, espaces repas, transats et espace plancha. Aude, Brigitte et Eric vous accueillent comme leurs propres invités, quel que soit l'appartement choisi.</p>
   </div>
 </div>
 
-<section class="gallery" id="logement">
+<section class="gallery" id="appartements">
   <div class="wrap">
     <div class="section-head">
-      <span class="eyebrow">Le logement</span>
-      <h2>Un chez-vous pour votre séjour</h2>
+      <span class="eyebrow">Nos appartements</span>
+      <h2>Choisissez votre appartement</h2>
+      <p style="opacity:.75;margin-top:10px;">Les trois appartements font environ 50 m² chacun, avec 3 voyageurs, une chambre et un canapé-lit d'appoint. Même adresse, même accueil, ambiances différentes.</p>
     </div>
-    <div class="gallery-grid">
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" alt="Salon avec cheminée et coin repas" loading="lazy">
+    <div class="other-apts-grid apts-grid-3">
+      <a class="apt-card" href="/manoir-aude/emeraude/">
+        <div class="apt-card-img"><img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" alt="Appartement Émeraude" loading="lazy"></div>
+        <div class="apt-card-body">
+          <h3>Appartement Émeraude</h3>
+          <p class="apt-card-tagline">Ancien et moderne se marient au premier étage, lumineux et calme.</p>
+          <p class="apt-card-meta"><span class="stars">&#9733;</span> 4,96 &middot; 27 avis &middot; 1er étage</p>
+        </div>
       </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/23b03c39-659d-440f-bbe0-23134e25c687.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/23b03c39-659d-440f-bbe0-23134e25c687.jpeg?im_w=1200" alt="Salon avec vue sur la rue" loading="lazy">
+      <a class="apt-card" href="/manoir-aude/rubis/">
+        <div class="apt-card-img"><img src="https://a0.muscache.com/im/pictures/hosting/Hosting-41147737/original/8dc55c8a-ef73-4297-8b96-d85cefed3766.jpeg?im_w=1200" alt="Appartement Rubis" loading="lazy"></div>
+        <div class="apt-card-body">
+          <h3>Appartement Rubis</h3>
+          <p class="apt-card-tagline">Salon coloré avec bibliothèque et cheminée en marbre, au rez-de-chaussée.</p>
+          <p class="apt-card-meta"><span class="stars">&#9733;</span> 4,97 &middot; 39 avis &middot; rez-de-chaussée</p>
+        </div>
       </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/a1f638fa-15e7-4343-8f98-70f7a44960d1.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/a1f638fa-15e7-4343-8f98-70f7a44960d1.jpeg?im_w=1200" alt="Cheminée devant un mur vert" loading="lazy">
-      </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/0c6ff201-649b-4e0b-aaa9-12d4aa277aff.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/0c6ff201-649b-4e0b-aaa9-12d4aa277aff.jpeg?im_w=1200" alt="Détail du manteau de cheminée, inscription La vie est belle" loading="lazy">
-      </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/f09529e1-4b3d-40d0-8711-35e75509fd1a.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/f09529e1-4b3d-40d0-8711-35e75509fd1a.jpeg?im_w=1200" alt="Cuisine en bois clair" loading="lazy">
-      </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/012dd7d6-3883-458a-9d9b-fc48da1931f8.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/012dd7d6-3883-458a-9d9b-fc48da1931f8.jpeg?im_w=1200" alt="Cuisine et coin repas" loading="lazy">
-      </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyODkyNjM4Mzg4NDAyODg4Mg%3D%3D/original/1d7b39bc-d193-4cb4-9082-a174fa367415.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyODkyNjM4Mzg4NDAyODg4Mg%3D%3D/original/1d7b39bc-d193-4cb4-9082-a174fa367415.jpeg?im_w=1200" alt="Chambre avec tête de lit à motif de boussole" loading="lazy">
-      </a>
-      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ea47e62e-b093-41f9-a7b6-9d25e15af8ca.jpeg?im_w=1200" target="_blank" rel="noopener">
-        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ea47e62e-b093-41f9-a7b6-9d25e15af8ca.jpeg?im_w=1200" alt="Canapé-lit d'appoint dans le salon" loading="lazy">
+      <a class="apt-card" href="/manoir-aude/peridot/">
+        <div class="apt-card-img"><img src="https://a0.muscache.com/im/pictures/hosting/Hosting-42300526/original/55e0d4e5-c2b8-4d99-92ac-b87b8fa77526.jpeg?im_w=1200" alt="Appartement Péridot" loading="lazy"></div>
+        <div class="apt-card-body">
+          <h3>Appartement Péridot</h3>
+          <p class="apt-card-tagline">Charme ancien avec buffet d'époque et sol en damier, au rez-de-chaussée.</p>
+          <p class="apt-card-meta"><span class="stars">&#9733;</span> 4,86 &middot; 36 avis &middot; rez-de-chaussée</p>
+        </div>
       </a>
     </div>
   </div>
 </section>
+
+<div class="label-rule"></div>
 
 <section class="details" id="infos">
   <div class="wrap">
     <div class="section-head">
       <span class="eyebrow">Infos pratiques</span>
-      <h2>Ce qu'il faut savoir</h2>
+      <h2>Commun aux trois appartements</h2>
     </div>
     <div class="details-grid">
       <div>
-        <h3 class="small-title">L'appartement en bref</h3>
+        <h3 class="small-title">La maison</h3>
         <ul class="fact-list">
-          <li><i class="fa-solid fa-user"></i> 3 voyageurs</li>
-          <li><i class="fa-solid fa-bed"></i> 1 chambre &middot; lit double</li>
-          <li><i class="fa-solid fa-couch"></i> Canapé-lit dans le salon</li>
-          <li><i class="fa-solid fa-bath"></i> 1 salle de bain privative</li>
-          <li><i class="fa-solid fa-ruler-combined"></i> 50 m² &middot; appartement entier, 1<sup>er</sup> étage</li>
+          <li><i class="fa-solid fa-building"></i> Maison de maître du XIX<sup>e</sup> siècle</li>
           <li><i class="fa-solid fa-store"></i> À 200 mètres des commerces du village</li>
+          <li><i class="fa-solid fa-tree"></i> Jardin ombragé partagé entre les 3 appartements</li>
           <li><i class="fa-solid fa-square-parking"></i> Stationnement réglementé gratuit (médaillon fourni)</li>
+          <li><i class="fa-solid fa-users"></i> Hôtes : Aude, Brigitte et Eric</li>
         </ul>
       </div>
       <div>
-        <h3 class="small-title">Équipements</h3>
+        <h3 class="small-title">Dans chaque appartement</h3>
         <div class="amenity-grid">
           <div><i class="fa-solid fa-kitchen-set"></i> Cuisine équipée</div>
           <div><i class="fa-solid fa-wifi"></i> WiFi gratuit</div>
-          <div><i class="fa-solid fa-tree"></i> Jardin ombragé privé</div>
+          <div><i class="fa-solid fa-bath"></i> Salle de bain privative</div>
           <div><i class="fa-solid fa-tv"></i> TV</div>
           <div><i class="fa-solid fa-laptop"></i> Espace de travail</div>
-          <div><i class="fa-solid fa-jug-detergent"></i> Lave-linge</div>
+          <div><i class="fa-solid fa-jug-detergent"></i> Buanderie partagée</div>
           <div><i class="fa-solid fa-fan"></i> Ventilateur de plafond</div>
           <div><i class="fa-solid fa-water"></i> Proche de la lagune</div>
         </div>
       </div>
     </div>
-  </div>
-</section>
-
-<section class="review">
-  <div class="wrap">
-    <blockquote>Nous avons passé un très bon séjour. L'appartement est bien meublé, confortable et équipé de tout le nécessaire pour des vacances reposantes. La terrasse extérieure est un vrai plus.</blockquote>
-    <cite>Ioana Raluca, voyageuse Airbnb</cite>
   </div>
 </section>
 
@@ -584,19 +604,17 @@
 <section class="cta-final">
   <div class="wrap">
     <span class="eyebrow">Prêt pour Peyriac-de-Mer ?</span>
-    <h2>Réservez votre séjour</h2>
-    <p>Le Manoir d'Aude se réserve dès aujourd'hui sur Airbnb, directement auprès d'Aude, Brigitte et Eric.</p>
+    <h2>Choisissez votre appartement</h2>
+    <p>Trois appartements, une même adresse. Découvrez chacun d'eux et réservez directement sur Airbnb.</p>
     <div class="hero-actions">
-      <a class="btn btn-primary" href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">
-        <i class="fa-brands fa-airbnb"></i> Réserver sur Airbnb
-      </a>
+      <a class="btn btn-primary" href="#appartements">Voir les appartements</a>
     </div>
     <p class="roadmap-note">D'autres moyens de réserver, comme Booking.com et la réservation directe avec calendrier synchronisé, arrivent bientôt.</p>
   </div>
 </section>
 
 <footer>
-  <div class="wrap">Le Manoir d'Aude &middot; Peyriac-de-Mer, France &middot; <a href="https://www.airbnb.fr/rooms/1128926383884028882" target="_blank" rel="noopener">Voir le logement sur Airbnb</a></div>
+  <div class="wrap">Le Manoir d'Aude &middot; Peyriac-de-Mer, France</div>
 </footer>
 
 </body>
