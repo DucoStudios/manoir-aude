@@ -118,13 +118,22 @@
   }
   .wordmark em { font-style: italic; color: var(--wine); }
 
-  .lang-switch { display: flex; align-items: center; gap: 8px; }
-  .lang-switch a, .lang-switch .lang-current {
-    font-size: 1.1rem; line-height: 1; text-decoration: none;
-    opacity: .45; filter: grayscale(35%); transition: opacity .15s, filter .15s;
+  .lang-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: .82rem;
+    font-weight: 600;
+    padding: 9px 14px;
+    border-radius: 3px;
+    border: 1.5px solid var(--line);
+    color: var(--ink);
+    text-decoration: none;
+    white-space: nowrap;
+    opacity: .8;
+    transition: opacity .15s ease, border-color .15s ease;
   }
-  .lang-switch a:hover { opacity: .85; filter: none; }
-  .lang-switch .lang-current { opacity: 1; filter: none; cursor: default; }
+  .lang-toggle:hover { opacity: 1; border-color: var(--wine); }
 
   .btn {
     font-size: .84rem;
@@ -375,10 +384,7 @@
   <div class="wrap">
     <div class="wordmark">Le Manoir <em>d'Aude</em></div>
     <div class="nav-right">
-      <div class="lang-switch" role="group" aria-label="Language / Langue">
-        <a href="/manoir-aude/" aria-label="Français" title="Français">&#127467;&#127479;</a>
-        <span class="lang-current" aria-label="English" title="English">&#127468;&#127463;</span>
-      </div>
+      <a class="lang-toggle" href="/manoir-aude/" aria-label="Passer en français" title="Passer en français">&#127467;&#127479; FR</a>
       <a class="btn btn-primary" href="https://www.airbnb.com/rooms/1128926383884028882" target="_blank" rel="noopener">
         <i class="fa-brands fa-airbnb"></i> Book on Airbnb
       </a>
