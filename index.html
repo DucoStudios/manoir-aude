@@ -1,0 +1,556 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Le Manoir d'Aude &middot; Semesterboende i Peyriac-de-Mer</title>
+<meta name="description" content="Charmig 50 kvm lägenhet i ett 1800-talshus mitt i Peyriac-de-Mer, Languedoc. Egen trädgård, 200 meter till byns butiker, nära lagunerna och Corbières Maritimes. Boka på Airbnb.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://ducostudios.github.io/manoir-aude/">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Le Manoir d'Aude &middot; Semesterboende i Peyriac-de-Mer">
+<meta property="og:description" content="Charmig 50 kvm lägenhet i ett 1800-talshus mitt i Peyriac-de-Mer, Languedoc. Egen trädgård, nära lagunerna och Corbières Maritimes.">
+<meta property="og:image" content="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200">
+<meta property="og:url" content="https://ducostudios.github.io/manoir-aude/">
+<meta property="og:locale" content="sv_SE">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+<style>
+  :root {
+    --parchment: #f4ecd8;
+    --parchment-2: #ece0c4;
+    --paper: #faf5e8;
+    --ink: #2b2620;
+    --wine: #7a2331;
+    --wine-dark: #5c1a24;
+    --gold: #b8862e;
+    --gold-light: #d4a94f;
+    --line: rgba(43, 38, 32, .2);
+  }
+
+  * { box-sizing: border-box; }
+
+  html, body {
+    margin: 0; padding: 0;
+    background: var(--parchment);
+    color: var(--ink);
+  }
+
+  body {
+    font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3 {
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-weight: 600;
+    margin: 0;
+    letter-spacing: -.01em;
+    text-wrap: balance;
+  }
+
+  a { color: inherit; }
+
+  .wrap {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 clamp(20px, 5vw, 48px);
+  }
+
+  .label-rule {
+    border: none;
+    border-top: 2px solid var(--gold);
+    border-bottom: 1px solid var(--gold-light);
+    height: 4px;
+    margin: 0;
+  }
+
+  .eyebrow {
+    font-family: ui-serif, Georgia, serif;
+    font-style: italic;
+    font-size: .95rem;
+    color: var(--wine);
+    letter-spacing: .03em;
+  }
+
+  .appellation {
+    font-size: .74rem;
+    letter-spacing: .18em;
+    text-transform: uppercase;
+    color: var(--wine);
+    font-weight: 600;
+  }
+
+  /* --- nav --- */
+  nav.top {
+    background: var(--parchment);
+    border-bottom: 1px solid var(--line);
+  }
+  nav.top .wrap {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px clamp(20px, 5vw, 48px);
+  }
+  .wordmark {
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-size: 1.15rem;
+    font-weight: 600;
+    letter-spacing: .01em;
+  }
+  .wordmark em { font-style: italic; color: var(--wine); }
+  .btn {
+    font-size: .86rem;
+    font-weight: 600;
+    padding: 10px 20px;
+    border-radius: 3px;
+    text-decoration: none;
+    display: inline-block;
+    transition: transform .15s ease, box-shadow .15s ease;
+    border: none;
+    cursor: pointer;
+  }
+  .btn-primary {
+    background: var(--wine);
+    color: #f8f1e2;
+  }
+  .btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 22px color-mix(in srgb, var(--wine) 40%, transparent);
+  }
+  .btn-ghost {
+    border: 1.5px solid var(--wine);
+    color: var(--wine);
+    background: transparent;
+  }
+  .btn-ghost:hover { background: color-mix(in srgb, var(--wine) 8%, transparent); }
+
+  /* --- hero (label front) --- */
+  header.hero {
+    padding: clamp(40px, 7vw, 72px) 0 clamp(48px, 8vw, 88px);
+    text-align: center;
+    position: relative;
+  }
+  header.hero::before, header.hero::after {
+    content: "";
+    display: block;
+    max-width: 1080px;
+    margin: 0 auto;
+    height: 1px;
+  }
+
+  .medallion-wrap {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 28px;
+  }
+  .medallion {
+    width: clamp(220px, 30vw, 320px);
+    height: clamp(220px, 30vw, 320px);
+    border-radius: 50%;
+    overflow: hidden;
+    background: var(--paper);
+    border: 5px solid var(--paper);
+    box-shadow:
+      0 0 0 2px var(--wine),
+      0 0 0 5px var(--paper),
+      0 0 0 6px var(--gold),
+      0 14px 34px rgba(43,38,32,.22);
+  }
+  .medallion img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: url(#sketchify) sepia(.75) saturate(1.6) brightness(.98);
+  }
+
+  .hero h1 {
+    font-size: clamp(2.1rem, 5vw, 3.1rem);
+    color: var(--wine-dark);
+  }
+  .hero .subtitle {
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-style: italic;
+    font-size: clamp(1.05rem, 2vw, 1.3rem);
+    color: var(--wine);
+    margin-top: 6px;
+  }
+  .hero .location {
+    margin-top: 16px;
+  }
+  .hero .lead {
+    max-width: 56ch;
+    margin: 20px auto 0;
+    font-size: 1.02rem;
+    opacity: .82;
+  }
+
+  .seal {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 22px;
+    padding: 8px 18px;
+    border: 1px solid var(--gold);
+    border-radius: 999px;
+    font-size: .85rem;
+    font-weight: 600;
+    color: var(--wine-dark);
+    background: var(--parchment-2);
+  }
+  .seal .stars { color: var(--gold); letter-spacing: 1px; }
+
+  .hero-actions {
+    margin-top: 30px;
+    display: flex;
+    gap: 14px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  /* --- intro --- */
+  .intro {
+    padding: clamp(40px, 7vw, 64px) 0;
+    text-align: center;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .intro .wrap { max-width: 720px; }
+  .intro p {
+    font-size: 1.12rem;
+    line-height: 1.7;
+    font-weight: 400;
+  }
+
+  /* --- gallery --- */
+  section.gallery { padding: clamp(48px, 8vw, 84px) 0; }
+  .section-head {
+    text-align: center;
+    max-width: 60ch;
+    margin: 0 auto 36px;
+  }
+  .section-head h2 {
+    font-size: clamp(1.6rem, 3.2vw, 2.15rem);
+    margin-top: 8px;
+    color: var(--wine-dark);
+  }
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-auto-rows: 180px;
+    gap: 10px;
+  }
+  .gallery-grid a { display: block; overflow: hidden; border-radius: 4px; border: 1px solid var(--line); }
+  .gallery-grid img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform .4s ease; }
+  .gallery-grid a:hover img { transform: scale(1.06); }
+  .gallery-grid .big { grid-column: span 2; grid-row: span 2; }
+  @media (max-width: 760px) {
+    .gallery-grid { grid-template-columns: repeat(2, 1fr); grid-auto-rows: 150px; }
+    .gallery-grid .big { grid-column: span 2; grid-row: span 1; height: 260px; }
+  }
+
+  /* --- details --- */
+  section.details {
+    padding: clamp(48px, 8vw, 84px) 0;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .details-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: clamp(28px, 5vw, 56px);
+  }
+  @media (max-width: 760px) { .details-grid { grid-template-columns: 1fr; } }
+  .fact-list { list-style: none; padding: 0; margin: 0; }
+  .fact-list li {
+    display: flex; align-items: baseline; gap: 10px;
+    padding: 10px 0; border-bottom: 1px dashed var(--line);
+    font-size: .96rem;
+  }
+  .fact-list li:last-child { border-bottom: none; }
+  .fact-list .fa-solid, .fact-list .fa-brands { color: var(--wine); width: 18px; }
+  .amenity-grid {
+    display: grid; grid-template-columns: 1fr 1fr; gap: 12px 20px;
+  }
+  .amenity-grid div { font-size: .92rem; display: flex; align-items: center; gap: 9px; }
+  .amenity-grid .fa-solid { color: var(--wine); width: 16px; }
+  h3.small-title {
+    font-size: 1.1rem; margin-bottom: 16px; color: var(--wine-dark);
+  }
+
+  /* --- review --- */
+  section.review {
+    padding: clamp(48px, 7vw, 72px) 0;
+    text-align: center;
+  }
+  .review blockquote {
+    max-width: 640px;
+    margin: 0 auto;
+    font-family: ui-serif, "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+    font-style: italic;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: var(--wine-dark);
+  }
+  .review blockquote::before { content: "\201C"; }
+  .review blockquote::after { content: "\201D"; }
+  .review cite {
+    display: block; margin-top: 16px; font-style: normal;
+    font-family: ui-sans-serif, sans-serif; font-size: .85rem; opacity: .65;
+  }
+
+  /* --- guide --- */
+  section.guide {
+    padding: clamp(48px, 8vw, 84px) 0;
+    background: var(--paper);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .guide-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  @media (max-width: 700px) { .guide-grid { grid-template-columns: 1fr; } }
+  .guide-card {
+    background: var(--parchment);
+    padding: 28px 26px;
+  }
+  .guide-card .cat-icon { color: var(--wine); font-size: 1.3rem; margin-bottom: 10px; display: block; }
+  .guide-card h3 { font-size: 1.08rem; margin-bottom: 12px; color: var(--wine-dark); }
+  .guide-card ul { margin: 0; padding-left: 1.1em; }
+  .guide-card li { margin-bottom: 10px; font-size: .92rem; line-height: 1.55; }
+  .guide-card li strong { color: var(--wine-dark); }
+
+  /* --- cta band --- */
+  section.cta-final {
+    padding: clamp(56px, 9vw, 96px) 0;
+    text-align: center;
+  }
+  section.cta-final h2 { font-size: clamp(1.7rem, 3.4vw, 2.3rem); color: var(--wine-dark); }
+  section.cta-final p { max-width: 52ch; margin: 14px auto 0; opacity: .8; }
+  .roadmap-note {
+    margin-top: 22px;
+    font-size: .82rem;
+    opacity: .55;
+    max-width: 46ch;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  footer {
+    border-top: 1px solid var(--line);
+    padding: 28px 0;
+    font-size: .82rem;
+    opacity: .7;
+    text-align: center;
+  }
+  footer a { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute">
+  <filter id="sketchify">
+    <feColorMatrix type="matrix" values="0.33 0.33 0.33 0 0  0.33 0.33 0.33 0 0  0.33 0.33 0.33 0 0  0 0 0 1 0"/>
+    <feGaussianBlur stdDeviation="0.5" result="blurred"/>
+    <feConvolveMatrix order="3" kernelMatrix="-1 -1 -1 -1 8 -1 -1 -1 -1" divisor="1" preserveAlpha="true"/>
+    <feComponentTransfer>
+      <feFuncR type="linear" slope="-6" intercept="1"/>
+      <feFuncG type="linear" slope="-6" intercept="1"/>
+      <feFuncB type="linear" slope="-6" intercept="1"/>
+    </feComponentTransfer>
+  </filter>
+</svg>
+
+<nav class="top">
+  <div class="wrap">
+    <div class="wordmark">Le Manoir <em>d'Aude</em></div>
+    <a class="btn btn-primary" href="https://www.airbnb.se/rooms/1128926383884028882" target="_blank" rel="noopener">
+      <i class="fa-brands fa-airbnb"></i> Boka på Airbnb
+    </a>
+  </div>
+</nav>
+
+<div class="label-rule"></div>
+
+<header class="hero">
+  <div class="wrap">
+    <div class="medallion-wrap">
+      <div class="medallion">
+        <img src="assets/facade-sketch-source.jpeg" alt="Skiss av fasaden på Le Manoir d'Aude i Peyriac-de-Mer">
+      </div>
+    </div>
+    <div class="appellation">Peyriac-de-Mer &middot; Languedoc &middot; Frankrike</div>
+    <h1>Le Manoir d'Aude</h1>
+    <div class="subtitle">Lägenheten &Eacute;meraude</div>
+    <p class="lead">En 1800-talsvåning mitt i en by där saltängarna glittrar rosa av flamingor och doften av garrigue följer er hela vägen till lagunen. 200 meter till butikerna, en egen skuggad trädgård att komma hem till.</p>
+    <div class="seal"><span class="stars">&#9733;&#9733;&#9733;&#9733;&#9733;</span> 4,96 &middot; 27 omdömen &middot; Gästfavorit</div>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="https://www.airbnb.se/rooms/1128926383884028882" target="_blank" rel="noopener">Boka på Airbnb</a>
+      <a class="btn btn-ghost" href="#guide">Se vad ni kan göra i området</a>
+    </div>
+  </div>
+</header>
+
+<div class="label-rule"></div>
+
+<div class="intro">
+  <div class="wrap">
+    <p>Manoir d'Aude är en helrenoverad familjegård mitt i den charmiga byn Peyriac-de-Mer. Emeraude-lägenheten kombinerar gamla och moderna stilar på husets första våning &mdash; perfekt för att komma och koppla av, njuta av landskapet vid lagunen och upptäcka Corbières Maritimes i lugn takt. Aude, Brigitte och Eric välkomnar er som sina egna gäster.</p>
+  </div>
+</div>
+
+<section class="gallery">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Boendet</span>
+      <h2>Ett hem att komma till</h2>
+    </div>
+    <div class="gallery-grid">
+      <a class="big" href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ae79c0fa-efd1-4bb6-a3d5-af287d3e444a.jpeg?im_w=1200" alt="Vardagsrum med öppen spis och matplats" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/23b03c39-659d-440f-bbe0-23134e25c687.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/23b03c39-659d-440f-bbe0-23134e25c687.jpeg?im_w=1200" alt="Vardagsrum med utsikt mot gatan" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/a1f638fa-15e7-4343-8f98-70f7a44960d1.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/a1f638fa-15e7-4343-8f98-70f7a44960d1.jpeg?im_w=1200" alt="Öppen spis mot grön vägg" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/0c6ff201-649b-4e0b-aaa9-12d4aa277aff.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/0c6ff201-649b-4e0b-aaa9-12d4aa277aff.jpeg?im_w=1200" alt="Detalj av kaminhyllan, texten La vie est belle" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/f09529e1-4b3d-40d0-8711-35e75509fd1a.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/f09529e1-4b3d-40d0-8711-35e75509fd1a.jpeg?im_w=1200" alt="Kök i ljust trä" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/012dd7d6-3883-458a-9d9b-fc48da1931f8.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/012dd7d6-3883-458a-9d9b-fc48da1931f8.jpeg?im_w=1200" alt="Kök och matplats" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyODkyNjM4Mzg4NDAyODg4Mg%3D%3D/original/1d7b39bc-d193-4cb4-9082-a174fa367415.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyODkyNjM4Mzg4NDAyODg4Mg%3D%3D/original/1d7b39bc-d193-4cb4-9082-a174fa367415.jpeg?im_w=1200" alt="Sovrum med kompassmotiv på sänggaveln" loading="lazy">
+      </a>
+      <a href="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ea47e62e-b093-41f9-a7b6-9d25e15af8ca.jpeg?im_w=1200" target="_blank" rel="noopener">
+        <img src="https://a0.muscache.com/im/pictures/hosting/Hosting-1128926383884028882/original/ea47e62e-b093-41f9-a7b6-9d25e15af8ca.jpeg?im_w=1200" alt="Extra uppfällbar säng i vardagsrummet" loading="lazy">
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="details">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Fakta</span>
+      <h2>Praktiskt att veta</h2>
+    </div>
+    <div class="details-grid">
+      <div>
+        <h3 class="small-title">Boendet i korthet</h3>
+        <ul class="fact-list">
+          <li><i class="fa-solid fa-user"></i> 3 gäster</li>
+          <li><i class="fa-solid fa-bed"></i> 1 sovrum &middot; dubbelsäng</li>
+          <li><i class="fa-solid fa-couch"></i> Uppfällbar säng i vardagsrummet</li>
+          <li><i class="fa-solid fa-bath"></i> 1 badrum, eget</li>
+          <li><i class="fa-solid fa-ruler-combined"></i> 50 m² &middot; hela lägenheten, 1 trappa upp</li>
+          <li><i class="fa-solid fa-store"></i> 200 meter till byns butiker</li>
+          <li><i class="fa-solid fa-square-parking"></i> Reglerad gratisparkering i byn (medaljong ingår)</li>
+        </ul>
+      </div>
+      <div>
+        <h3 class="small-title">Bekvämligheter</h3>
+        <div class="amenity-grid">
+          <div><i class="fa-solid fa-kitchen-set"></i> Fullt utrustat kök</div>
+          <div><i class="fa-solid fa-wifi"></i> Gratis WiFi</div>
+          <div><i class="fa-solid fa-tree"></i> Egen skuggad trädgård</div>
+          <div><i class="fa-solid fa-tv"></i> TV</div>
+          <div><i class="fa-solid fa-laptop"></i> Arbetsyta</div>
+          <div><i class="fa-solid fa-jug-detergent"></i> Tvättmaskin</div>
+          <div><i class="fa-solid fa-fan"></i> Takfläkt</div>
+          <div><i class="fa-solid fa-water"></i> Nära lagunen</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="review">
+  <div class="wrap">
+    <blockquote>Vi hade en mycket trevlig vistelse. Lägenheten är välmöblerad, bekväm och utrustad med allt som behövs för en avkopplande semester. Uteplatsen är ett riktigt plus och erbjuder ett trevligt område för att koppla av.</blockquote>
+    <cite>&mdash; Ioana Raluca, gäst via Airbnb</cite>
+  </div>
+</section>
+
+<section class="guide" id="guide">
+  <div class="wrap">
+    <div class="section-head">
+      <span class="eyebrow">Upptäck</span>
+      <h2>Vad ni kan göra i Peyriac-de-Mer</h2>
+      <p style="opacity:.75;margin-top:10px;">Byn ligger mitt i Parc naturel régional de la Narbonnaise, omgiven av lagunerna vid Corbières Maritimes. Här är vad som finns runt knuten.</p>
+    </div>
+    <div class="guide-grid">
+      <div class="guide-card">
+        <i class="fa-solid fa-water cat-icon"></i>
+        <h3>Naturen runt knuten</h3>
+        <ul>
+          <li><strong>Étang du Doul</strong> &mdash; en salthaltig sjö nästan lika salt som Döda havet. Leden runt sjön klättrar upp till Mouré-kullen med 360&deg; utsikt över lagunerna.</li>
+          <li><strong>Anciennes Salines</strong> &mdash; en 2 km spångad led genom det gamla saltbruket, ett skyddat naturområde med flamingor, styltlöpare och silkeshägrar.</li>
+        </ul>
+      </div>
+      <div class="guide-card">
+        <i class="fa-solid fa-map-location-dot cat-icon"></i>
+        <h3>Utflykter i närheten</h3>
+        <ul>
+          <li><strong>Abbaye de Fontfroide</strong> (6 km) &mdash; ett medeltida cistercienskloster med magnifika trädgårdar.</li>
+          <li><strong>Réserve Africaine de Sigean</strong> (7 km) &mdash; stort safariområde med afrikanska djur, perfekt för barnfamiljer.</li>
+          <li><strong>Narbonne</strong> &mdash; medeltida stad med romerska lämningar, katedral och Les Halles-marknaden.</li>
+          <li><strong>Gruissan</strong> &mdash; färgglad fiskeby vid sin egen lagun, med saltsjöar och sandstränder.</li>
+        </ul>
+      </div>
+      <div class="guide-card">
+        <i class="fa-solid fa-person-swimming cat-icon"></i>
+        <h3>På vattnet</h3>
+        <ul>
+          <li>Hyr <strong>kajak eller paddleboard</strong> och utforska étangerna och öarna på egen hand.</li>
+          <li><strong>Kitesurfing</strong> går att prova hos lokala skolor längs kusten.</li>
+        </ul>
+      </div>
+      <div class="guide-card">
+        <i class="fa-solid fa-wine-glass cat-icon"></i>
+        <h3>Mat &amp; vin</h3>
+        <ul>
+          <li>Byns egna restauranger serverar hemlagat, säsongsbaserat kök.</li>
+          <li>Lokala vinodlare öppnar gärna sina källare för provning &mdash; viner med toner av garrigue och röda bär, mitt i Corbières-distriktet.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="cta-final">
+  <div class="wrap">
+    <span class="eyebrow">Redo för Peyriac-de-Mer?</span>
+    <h2>Boka er vistelse</h2>
+    <p>Le Manoir d'Aude bokas idag via Airbnb, direkt hos Aude, Brigitte och Eric.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="https://www.airbnb.se/rooms/1128926383884028882" target="_blank" rel="noopener">
+        <i class="fa-brands fa-airbnb"></i> Boka på Airbnb
+      </a>
+    </div>
+    <p class="roadmap-note">Fler bokningsvägar &mdash; Booking.com och direktbokning med synkad kalender &mdash; är på gång.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">Le Manoir d'Aude &middot; Peyriac-de-Mer, Frankrike &middot; <a href="https://www.airbnb.se/rooms/1128926383884028882" target="_blank" rel="noopener">Se boendet på Airbnb</a></div>
+</footer>
+
+</body>
+</html>
