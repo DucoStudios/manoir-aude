@@ -1,11 +1,60 @@
 {
-  "generatedAt": "2026-08-20T05:29:22.650Z",
+  "generatedAt": "2026-08-21T05:31:55.638Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
   "count": 120,
   "events": [
     {
       "id": "myPopover1",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-foraine-St-Pierre-la-Mer.jpg?width=200",
+      "startDate": "2026-06-27",
+      "endDate": "2026-08-30",
+      "times": [
+        "20:00",
+        "01:00"
+      ],
+      "location": "FLEURY",
+      "address": "Boulevard des Embruns, Zone Fête foraine, 11560, FLEURY",
+      "description": "La Fête Foraine de St Pierre la Mer c'est + de 30 attractions, des stands à gogo, et une ambiance de folie ! Tous les soirs en juillet & août, de 20h à 1h Sur le front de mer – boulevard des embruns là où la magie commence"
+    },
+    {
+      "id": "myPopover2",
+      "title": "MARCHÉ DES EMBRUNS - MARCHÉ NOCTURNE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-nocturne-25.jpg?width=200",
+      "startDate": "2026-06-27",
+      "endDate": "2026-08-30",
+      "times": [
+        "09:30",
+        "13:00",
+        "20:00",
+        "00:00"
+      ],
+      "location": "FLEURY",
+      "address": "Boulevard des Embruns, 11560, FLEURY",
+      "description": "Découvrez l’un des plus grands marchés estival du littoral : Le marché des Embruns en Côte indigo ! Du 27 juin au 30 août, la station de Saint-Pierre la Mer s’anime tous les matins et tous les soirs, aux couleurs des petits chalets du boulevard des Embruns. En effet, le marché des Embruns se compose de 40 chalets colorés, dans lesquels marchands et artisans s'installent pour l'été. Venez flâner parmi les 40 chalets marchands de 9h30 à 13h et de 20h à minuit. Pour l'occasion, le boulevard est piétonnisé : l’accès au marché est cependant autorisé aux voitures en matinée, et tous les parkings restent entièrement accessibles et gratuits."
+    },
+    {
+      "id": "myPopover3",
+      "title": "VOYAGE IMAGINAIRE - ELKE TRITTEL",
+      "category": "culture",
+      "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
+      "startDate": "2026-07-02",
+      "endDate": "2026-08-30",
+      "times": [
+        "09:00",
+        "13:00",
+        "14:30",
+        "19:00"
+      ],
+      "location": "SAINT-NAZAIRE-D'AUDE",
+      "address": "168 Allée de la Glacière, 11120, SAINT-NAZAIRE-D'AUDE",
+      "description": "Artiste plasticienne d'origine allemande, Elke Trittel vit et travaille dans le sud de la France. Autodidacte, elle puise son inspiration dans un parcours de quinze années de voyage à travers plus de quatre-vingts pays, au cours duquel elle a exercé de nombreux métiers pour financer ses déplacements. À travers la peinture, le dessin, le collage et l'assemblage, elle développe un univers libre et coloré, nourri de ses rencontres, de ses souvenirs de voyage et des objets glanés au fil de ses découvertes. Ses œuvres, réalisées avec des techniques et matériaux variés, invitent à un voyage sensible entre imagination et expériences de vie. L’exposition se déroulera du 2 juillet au 30 août."
+    },
+    {
+      "id": "myPopover4",
       "title": "EXPOSITION FERREIRA SANTOS MARCIO & RODEZ PATRICE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Ferreira-Santos-Marcio---Rodez-Patrice.jpg?width=200",
@@ -22,7 +71,7 @@
       "description": "Exposition – Lumières croisées Du 9 août au 21 août 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 20h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover2",
+      "id": "myPopover5",
       "title": "ANIMATIONS SPORTIVES",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -37,7 +86,7 @@
       "description": "De 10h à 11h (7-10 ans) et de 11h à 12h (11-13 ans) Animations sportives (sports collectifs, athlétisme, sports de raquettes...) Planning détaillé affiché chaque semaine sur l'Algeco de l'Espace Beach, poste de secours. Renseignements sur place."
     },
     {
-      "id": "myPopover4",
+      "id": "myPopover7",
       "title": "COURS DE FITNESS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -54,7 +103,7 @@
       "description": "Cours de fitness (abdos-fessiers, renforcement/gainage, circuit training et marche santé) encadrés par les apprentis BPJEPS et des saisonniers. Planning détaillé affiché chaque semaine sur l'Algeco de l'Espace Beach, poste de secours. Renseignements sur place."
     },
     {
-      "id": "myPopover5",
+      "id": "myPopover8",
       "title": "DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-didier-triglia-ricardelle1.png?width=200",
@@ -71,7 +120,7 @@
       "description": "Découvrez l’univers artistique de l’artiste singulier Didier Triglia. Près de 40 œuvres à découvrir entre le caveau et la salle d’exposition, peintures et sculptures. Didier Triglia est un artiste plasticien autodidacte, reconnu sur la scène artistique contemporaine depuis plus de 30 ans. Son univers est unique : foisonnant, coloré, peuplé de personnages joyeux, de symboles primitifs et de formes inspirées des arts tribaux, du street art ou encore de la figuration libre. Il crée de manière instinctive, sans croquis, en laissant parler son imaginaire. Ses œuvres, à la fois poétiques et puissantes, sont réalisées sur des supports variés – toile, bois, carton, objets recyclés – dans une démarche à la fois artistique et écologique. Didier Triglia transforme l’ordinaire en extraordinaire, mêlant humour, émotion et spiritualité. Exposé dans de nombreuses galeries en France et à l’international, il est aujourd’hui considéré comme l’un des artistes les plus singuliers de sa génération. Son art est une véritable mythologie personnelle, une invitation à redécouvrir le monde avec des yeux d’enfant."
     },
     {
-      "id": "myPopover6",
+      "id": "myPopover9",
       "title": "GYM SUR LA PLAGE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/GYM-SUR-LA-PLAGE--2.jpg?width=200",
@@ -86,7 +135,7 @@
       "description": "Du lundi au vendredi de 8h 30 à 11h Animation gratuite proposée par la municipalité gratuite sans inscription Rendez vous sur le parking du casino à coté du boulodrome"
     },
     {
-      "id": "myPopover7",
+      "id": "myPopover10",
       "title": "FONTFROIDE EN LUMIÈRES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FONTFROIDE-EN-LUMIERES.jpg?width=200",
@@ -101,7 +150,7 @@
       "description": "Vivez un rendez-vous exceptionnel cet été à Fontfroide ! Un rendez-vous estival inédit, où création artistique, musique, gastronomie et patrimoine s’entrelaceront pour composer une expérience totale, portée par un son et lumière spectaculaire. Du 17 juillet au 21 août, laissez-vous emporter par la magie d'un nouveau festival : Fontfroide en Lumières, une invitation à partager des soirées inoubliables dans le cadre exceptionnel de l'abbaye."
     },
     {
-      "id": "myPopover8",
+      "id": "myPopover11",
       "title": "IT'S TIME TO TAKE A BREAK",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/time-to-take-a-break.jpg?width=200",
@@ -118,7 +167,7 @@
       "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
     },
     {
-      "id": "myPopover9",
+      "id": "myPopover12",
       "title": "DIDIER TRIGLIA UNE EXPOSITION D'ART",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/didier-triglia.PNG?width=200",
@@ -133,7 +182,7 @@
       "description": "Didier Triglia est un artiste plasticien autodidacte reconnu sur la scène artistique contemporaine depuis plus de 30 ans. Son univers est unique: foisonnant, coloré, peuplé de personnages joyeux, de symboles primitifs et de formes inspirées des arts tribaux, du street art ou encore de la figuration libre. Il crée de manière instinctive, sans croquis, en laissant parler son imaginaire. Ses œuvres, à la fois poétiques et puissantes, sont réalisées sur des supports variés – toile, bois, carton, objets recyclés – dans une démarche à la fois artistique et écologique. Didier Triglia transforme l’ordinaire en extraordinaire, mêlant humour, émotion et spiritualité. Exposé dans de nombreuses galeries en France et à l’international, il est aujourd’hui considéré comme l’un des artistes les plus singuliers de sa génération. Son art est une véritable mythologie personnelle, une invitation à redécouvrir le monde avec des yeux d’enfant."
     },
     {
-      "id": "myPopover12",
+      "id": "myPopover13",
       "title": "MUJO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/shunko1.jpg?width=200",
@@ -150,7 +199,7 @@
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
     },
     {
-      "id": "myPopover28",
+      "id": "myPopover14",
       "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
@@ -167,323 +216,7 @@
       "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
     },
     {
-      "id": "myPopover45",
-      "title": "SIGUE A OLIVIA EN SU FOOD TOUR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LES-HALLES-2.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 rue Jean Jaures, 11100, NARBONNE",
-      "description": "Sigue a Olivia en un food tour en español por el centro histórico de Narbona y su mercado : un viaje sabroso en el tiempo con anécdotas y degustaciones de los productos típicos de nuestra región. Amigos gourmets, ¡no esperen más y vengan a probarlo!"
-    },
-    {
-      "id": "myPopover46",
-      "title": "BARQUES EN SCÈNE - SUPERBUS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-BES-2026-2m.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "20:30"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Figure incontournable de la pop-rock française des années 2000, Superbus revient avec son nouvel album « OK KO » et revisite ses plus grands succès. De “Lola” à “Butterfly”, le groupe promet un concert explosif porté par l’énergie et la voix emblématique de Jennifer Ayache. Première partie : CigaloPop"
-    },
-    {
-      "id": "myPopover47",
-      "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
-    },
-    {
-      "id": "myPopover48",
-      "title": "ATTRAPEZ-LES TOUS !",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-16.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "10:30"
-      ],
-      "location": "NARBONNE",
-      "address": "2 Avenue André Mècle, 11100, NARBONNE",
-      "description": "Attrapez-les tous ! Dans le cadre du parcours d’art contemporain « Le Souffle du Temps ». Venez capturer une créature mythique, qu’il faudra dresser et nourrir afin d’accomplir une mission de sauvetage essentiel à l'humanité; Musée Narbo Via. Pour les enfants à partir de 7 ans. Tarif : 3€ en plus du billet d’entrée. Renseignements : tél. 04 68 90 28 90 / narbovia.fr"
-    },
-    {
-      "id": "myPopover49",
-      "title": "EXPOSITION CAVES DU ROY",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/exposition-ete-2026.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "17:00",
-        "19:30"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Barbacane, 11130, SIGEAN",
-      "description": "Exposition Caves du Roy avec l'association Sigean Art et Culture. Entrée libre. Ouvert week-end et jours fériés."
-    },
-    {
-      "id": "myPopover50",
-      "title": "LEVEZ LES VOILES ! VISITE ARCHÉNOMADE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/A.-Spani-c-NarboViaBD.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "16:00",
-        "18:30"
-      ],
-      "location": "NARBONNE",
-      "address": "2 Avenue André Mècle, 11100, NARBONNE",
-      "description": "Embarquez dans cette visite insolite, qui vous conduit du musée jusqu'à l'étang de Bages-Sigean où vous vous montez à bord d'un bateau à voile pour découvrir les ports antiques de Narbo Martius, depuis le large. Dégustation des produits du domaine viticole Ortola en fin de visite. Durée 2h30, déplacement compris. Départ au musée. (45min de visite au musée, 1h15 de bateau) Tarifs : 33e adulte, 20e enfant, 90 famille ( 2 adultes, 2 enfants) Le trajet entre le musée et la Nautique s'effectue de manière autonome. La sortie bateau peut être annulée la veille si la météo n'est pas propice."
-    },
-    {
-      "id": "myPopover51",
-      "title": "LES SOIRÉES DU BOULEVARD",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/clap-d-ete-5.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "19:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Boulevard de la Méditerranée, 11100, NARBONNE",
-      "description": "Soirées à thème proposées par l'association des commerçants du centre."
-    },
-    {
-      "id": "myPopover52",
-      "title": "JEUDIS DJ",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/JEUDI-DJ-2.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "21:30"
-      ],
-      "location": "FLEURY",
-      "address": "Esplanade du Front de Mer, 11560, FLEURY",
-      "description": "Jeudis DJ avec FX DJ 21h30, Esplanade du Front de Mer Saint-Pierre la Mer"
-    },
-    {
-      "id": "myPopover53",
-      "title": "VISITA GUIADA - CONJUNTO MONUMENTAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Palais-des-Archeveques---Laurie-Biral--Ville-de-Narbonne-2.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "11:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "Narbonne, rica de historia y arte, posee un conjunto monumental excepcional que se remonta a principios de la Edad Media. Con su catedral gótica destacable domina las callejuelas del casco antiguo y la plaza mayor, verdadero diálogo de épocas desde la Antigüedad romana con su calzada romana hasta el final del siglo 19, otra edad de oro de la ciudad. Con tu guía, descubre los patios y rincones secretos de estos sitios históricos."
-    },
-    {
-      "id": "myPopover54",
-      "title": "SOIRÉE DÉGUSTATION",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "18:00",
-        "20:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
-      "description": "Venez rencontrer un des producteurs de la Maison de la Narbonnaise lors de soirée dégustation. Une belle opportunité de découvrir le patrimoine gastronomique local et de savourer de bons produits de qualité le tout dans un cadre exceptionnel ! Réservation conseillée par téléphone."
-    },
-    {
-      "id": "myPopover55",
-      "title": "GUINGUETTE DES CHASSEURS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VIRGIL-7.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "19:00",
-        "23:30"
-      ],
-      "location": "SIGEAN",
-      "address": "Avenue de Perpignan, 11130, SIGEAN",
-      "description": "Soirée repas/concert organisée par l' ACCA - GROS GIBIER Menu à 18 euros: Pâté/macédoine de légumes Saucisse de sanglier et ventrêche Fromage - tarte aux pommes + 1 verre de vin Sur réservation Concert gratuit avec VIRGIL + DJ STAGG à 21h."
-    },
-    {
-      "id": "myPopover56",
-      "title": "EXPOSITION LAPIS LAZULI",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "18:00",
-        "19:30"
-      ],
-      "location": "LA PALME",
-      "address": "50 Avenue de la Mer, 11480, LA PALME",
-      "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
-    },
-    {
-      "id": "myPopover57",
-      "title": "TOURNOIS DE PÉTANQUE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/concours-petanque-1200x900.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "20:30"
-      ],
-      "location": "NEVIAN",
-      "address": "Chemin de la Jasse, 11200, NEVIAN",
-      "description": "Les tournois de pétanque reprennent en ce mois de juillet. Le rendez-vous se fera au boulodrome Montlaurier."
-    },
-    {
-      "id": "myPopover58",
-      "title": "SOIRÉE MAGIE AVEC DIDIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/soiree-magie-4x3.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "20:00",
-        "22:30"
-      ],
-      "location": "MIREPEISSET",
-      "address": "Rue de la Garenne, 11120, MIREPEISSET",
-      "description": "10 Ème édition pour Didier le magicien 11. Il est de retour tous les jeudis du mois de juillet et août sauf le 6 août. En close up, il proposera des tours époustouflants pour les petits comme pour les grands. Pensez à réserver si vous voulez manger."
-    },
-    {
-      "id": "myPopover59",
-      "title": "8 FEMMES : LES GRANDES FIGURES FÉMININES DE NARBONNE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Design-sans-titre-22.png?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "17:30",
-        "19:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Place du Forum, 11100, NARBONNE",
-      "description": "Partez à la rencontre de 8 personnages féminins qui ont marqué leur temps. De l'Antiquité à nos jours, la visite met en perspective leurs parcours avec l'évolution de la condition féminine au fil du temps. Grandes figures ou anonymes, elles permettent de raconter la ville autrement au cours d'une balade sensible. Attention, le RDV est fixé sur la Place du Forum à Narbonne."
-    },
-    {
-      "id": "myPopover60",
-      "title": "SOIRÉE SOUS LES ÉTOILES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/3a371db2-7865-47ea-9842-c0064c795fcb.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "18:00",
-        "23:30"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Avenue de la Gare, 11120, BIZE-MINERVOIS",
-      "description": "La traditionnelle soirée en plein air est de retour le jeudi 20 août au Jardin Public. Apéritif avec le talentueux duo GateChin. Dîner convivial. Projection du film \"Juste une illusion\" Réservation pour le dîner avant le 19 août: 15€ - Sur le marché du samedi, stand du syndicat d'initiative. - Chez Proxi. - Chez Thomas, boulangerie du village. La séance de cinéma est gratuite"
-    },
-    {
-      "id": "myPopover61",
-      "title": "CONCERT HURRICANE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/e8c32be8-fbb5-4bcb-a3b9-52392c353b48.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "20:30",
-        "22:30"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "8 Avenue de l'Hôtel de Ville, 11120, BIZE-MINERVOIS",
-      "description": "Le bar de la promenade a l'honneur de recevoir le groupe Hurricane."
-    },
-    {
-      "id": "myPopover62",
-      "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "15:30",
-        "18:00"
-      ],
-      "location": "SALLELES-D'AUDE",
-      "address": "Rue Voltaire, 11590, SALLELES-D'AUDE",
-      "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
-    },
-    {
-      "id": "myPopover63",
-      "title": "MARCHÉ SAISONNIER",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-saisonnier-2022-7.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "11210, PORT-LA-NOUVELLE",
-      "description": "Marché saisonnier"
-    },
-    {
-      "id": "myPopover64",
-      "title": "LOTO",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/loto-31.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "21:00"
-      ],
-      "location": "FLEURY",
-      "address": "2 Chemin de Pissevache, 11560, FLEURY",
-      "description": "Loto organisé par l'Association \"Au Fil du Temps\" 21h00 Base de Loisirs des Lagunes Saint-Pierre la Mer"
-    },
-    {
-      "id": "myPopover65",
-      "title": "RALLYE DU CANAL DU MIDI EN AVIRON - ÉTAPE 7",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/le-somail-2018-09-canal-midi-peniche-by-s-alibeu-adt-aude-02.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [],
-      "location": "VENTENAC-EN-MINERVOIS",
-      "address": "11120, VENTENAC-EN-MINERVOIS",
-      "description": "Chaque année depuis plus de 40 ans, le rallye du canal en aviron est organisé de Toulouse à Béziers. Organisée par l’Association Toulouse Pierre-Paul Riquet (ATPPR), cette randonnée se déroule sur plusieurs jours et accueille des sportifs du monde entier. Le parcours de 167 km est composé de 8 étapes émaillées de 41 écluses franchies à pied . - 17/08 matin : Etape 1 : Toulouse - Ayguesvives : 23 km - 4 écluses - 17/08 après midi : Etape 2 : Ayguesvives - Port Lauragais : 21,9 km - 7 écluses - 18/08 matin : Etape 3 : Port Lauragais - Ecluse du Vivier (Castelnaudary) : 18,7 km - 9 écluses - 18/08 après midi : Etape 4 : Ecluse du Vivier (Castelnaudary) - Port de Bram : 11,5km - 9 écluses - 19/08 matin : Etape 5 : Port de Bram - Carcassonne : 25,2km - 5 écluses - 20/08 matin : Etape 6 : La Redorte - Ventenac-Minervois : 21,7km - 5 écluses - 20/08 après midi : Etape 7 : Ventenac-Minervois - Frontière Aude Hérault : 22,6km - 21/08 matin : Etape 8 : Frontière Aude Hérault - Béziers : 24,5 kms"
-    },
-    {
-      "id": "myPopover66",
-      "title": "YOGA FACE A LA MER",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/IMG-2597.jpeg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Claude Debussy, 11210, PORT-LA-NOUVELLE",
-      "description": "L'association respire vous propose des séances de yoga en plein air face à la mer Il s'agit de respirer , relâcher les tensions bouger en douceur dans un lieu magnifique . Entre le 2 eme et le 3 eme poste de secours face au parking de l'Eldorado Horaires et journées adaptés en fonction de la météo . Sur réservation places limitées 06.19.31.32.62 5 e la séance"
-    },
-    {
-      "id": "myPopover67",
+      "id": "myPopover15",
       "title": "TOURNOIS DE VOLLEY",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -498,153 +231,7 @@
       "description": "Tournois de volley par équipe. Inscriptions de 15h30 à 16h. Attribution de lots à l'issue des tournois du lundi et du vendredi (lunettes, casquettes, porte-clés...). Planning détaillé affiché chaque semaine sur l'Algeco de l'Espace Beach, poste de secours. Renseignements sur place."
     },
     {
-      "id": "myPopover68",
-      "title": "BEACH PARTY LEUCATE PLAGE",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/beach-party.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "21:00"
-      ],
-      "location": "LEUCATE",
-      "address": "Avenue de la Côté Rêvée, 11370, LEUCATE",
-      "description": "Beach party avec DJ Romix"
-    },
-    {
-      "id": "myPopover69",
-      "title": "LES JEUDIS ROCK",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Jeudi-Rock.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "21:30"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "11210, PORT-LA-NOUVELLE",
-      "description": "Tous les jeudis de l'été c'est soirée Rock Place Saint Charles! Venez vibrer tout l'été! Ambiance conviviale, musique live, entrée libre."
-    },
-    {
-      "id": "myPopover70",
-      "title": "ESCAPE GAME GÉANT",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-27.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "7 Rue Rouget de Lisle, 11100, NARBONNE",
-      "description": "Serez-vous capable de sauver l'Horreum d'une destruction certaine en 1h15min chrono ? Trouvez des indices et relevez une série d'énigmes en parcourant les galeries souterraines pour résoudre le mystère final et parvenir à sortir dans le temps imparti. Durée 1h30. Tarifs 12€/7€ pour les bénéficiaires de la gratuité au musée/15€duo 1 adulte + 1 enfant(+4€ par enfant supplémentaire) A partir de 8 ans, réservation conseillée. 0468324530"
-    },
-    {
-      "id": "myPopover71",
-      "title": "TAÏ CHI CHUAN",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Tai-chi-chuan-.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "09:00",
-        "11:00"
-      ],
-      "location": "SIGEAN",
-      "address": "Avenue de Perpignan, 11130, SIGEAN",
-      "description": "Taï chi chuan organisé par l'Association Sigeanaise . Séances gratuites"
-    },
-    {
-      "id": "myPopover73",
-      "title": "MARCHE NOCTURNE",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-artisanal-.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "18:30",
-        "23:30"
-      ],
-      "location": "LEUCATE",
-      "address": "Place de la République, 11370, LEUCATE",
-      "description": "Marché arts, artisanat et saveurs tous les jeudis"
-    },
-    {
-      "id": "myPopover74",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover75",
-      "title": "MARCHÉ ESTIVAL",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Produits alimentaires et non alimentaires, tout y est !"
-    },
-    {
-      "id": "myPopover76",
-      "title": "ESCALE IODÉE – RESTAURANT CHEZ BLONDIE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "18:30"
-      ],
-      "location": "FLEURY",
-      "address": "2 place des pêcheurs, 11560, FLEURY",
-      "description": "Chez Blondie vous propose une escale gourmande et iodée Les coquillages de \"Occitanie Coquillages\" s’invitent pour une soirée spéciale autour de plateaux de fruits de mer fraîchement livrés. Dégustation sur place ou à emporter Accompagné d’un verre de vin et de charcuterie À partir de 18h30 Réservation : 06 20 87 38 11"
-    },
-    {
-      "id": "myPopover77",
-      "title": "À LA DÉCOUVERTE DE LA BIODIVERSITÉ",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-6.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Promenade du Front de Mer, 11100, NARBONNE",
-      "description": "Stand d'animation et de sensibilisation sur la biodiversité et les thématiques environnementales. Au marché de plein vent."
-    },
-    {
-      "id": "myPopover78",
-      "title": "DON DU SANG",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/DON-DU-SANG-54.jpg?width=200",
-      "startDate": "2026-08-20",
-      "endDate": "2026-08-20",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "LA PALME",
-      "address": "Salle Jean Moulin, 11480, LA PALME",
-      "description": "Don du sang , salle Jean Moulin."
-    },
-    {
-      "id": "myPopover79",
+      "id": "myPopover16",
       "title": "BALADE HISTORIQUE ET GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -659,7 +246,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover17",
       "title": "BARQUES EN SCÈNE - TOTALEMENT 80",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-BES-2026-2m.jpg?width=200",
@@ -673,7 +260,7 @@
       "description": "Les années 80 s’invitent à Narbonne avec un plateau exceptionnel réunissant plusieurs artistes emblématiques de la décennie : Imagination, Plastic Bertrand, Mario, Pauline Ester, Ottawan, Début de Soirée et bien d’autres. Une soirée festive placée sous le signe de la nostalgie, des tubes cultes et de la bonne humeur. Première partie : Les Clape’s Men"
     },
     {
-      "id": "myPopover81",
+      "id": "myPopover18",
       "title": "VISITE DU PALAIS DES ARCHEVÊQUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -687,7 +274,7 @@
       "description": "LE PALAIS DES ARCHEVÊQUES, DU PALAIS ROMAN À L’HÔTEL DE VILLE NÉOGOTHIQUE L’histoire a façonné le palais, à la fois forteresse médiévale et résidence princière. Salles d’apparat, anciennes chapelles, plafonds peints, cours et escaliers monumentaux vous transportent dans l’intimité des prélats, au fil des siècles."
     },
     {
-      "id": "myPopover82",
+      "id": "myPopover19",
       "title": "VISITE DE L’ÉGLISE SAINT-SÉBASTIEN ET DU QUARTIER DE CITÉ",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -701,7 +288,7 @@
       "description": "L’ÉGLISE SAINTSÉBASTIEN ET LE QUARTIER DE CITÉ Un guide-conférencier de la Ville vous ouvre les portes de cette charmante église de style gothique flamboyant datée du XVe siècle et qui servait de chapelle au couvent des Carmélites, installé au nord de l’édifice, jusqu’à la Révolution."
     },
     {
-      "id": "myPopover83",
+      "id": "myPopover20",
       "title": "VISITE D'EXEPTION PIERRES ET VINS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -715,7 +302,7 @@
       "description": "nouveau ! UNE VISITE D'EXEPTION : PIERRES ET VINS Goûtez l’âme de Narbonne ! Découvrez son cœur historique en vous laissant guider à travers ses ruelles chargées d’histoire, où se dévoilent au fil des étapes ses vestiges cachés, ses églises discrètes et son riche passé viticole remontant à l’Antiquité. Trésors de notre patrimoine et édifices remarquables jalonnent cette immersion unique : la visite vous ouvre les portes de lieux habituellement fermés au public, avant de s’achever par une dégustation de vin dans un cadre patrimonial d’exception. Visite commentée proposée par les guides-conférenciers de la Ville d’art et d’histoire de Narbonne, en partenariat avec AOC La Clape et le Conseil Interprofessionnel des Vins du Languedoc (CIVL)."
     },
     {
-      "id": "myPopover84",
+      "id": "myPopover21",
       "title": "EXPOSITION CAVES DU ROY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/exposition-ete-2026.jpg?width=200",
@@ -730,7 +317,7 @@
       "description": "Exposition Caves du Roy avec l'association Sigean Art et Culture. Entrée libre. Ouvert week-end et jours fériés."
     },
     {
-      "id": "myPopover85",
+      "id": "myPopover22",
       "title": "SOIRÉE POP ROCK ACOUSTIQUE - BAR RESTAURANT LE CANOTIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-CANOTIER-3.jpg?width=200",
@@ -744,7 +331,7 @@
       "description": "Dès 20h00 Soirée Pop Rock Acoustique avec Redfish Bar Restaurant Le Canotier Les Cabanes de Fleury"
     },
     {
-      "id": "myPopover86",
+      "id": "myPopover23",
       "title": "DÉFILÉ DE MASCOTTES - PARC FORAIN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-foraine-f48beef9cdfd459db11ee7f382ccc748.jpg?width=200",
@@ -758,7 +345,7 @@
       "description": "Défilé de mascottes Transformers au parc forain Retrouvez vos robots préférés pour un défilé spectaculaire et familial !"
     },
     {
-      "id": "myPopover87",
+      "id": "myPopover24",
       "title": "SPECTACLE MUSICAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/spectacle-musical-3.jpg?width=200",
@@ -772,7 +359,7 @@
       "description": "Spectacle musical \" Ces chanteurs qui ont façonné l'Olympia\" 21h30, place Jean-Moulin Fleury d'Aude"
     },
     {
-      "id": "myPopover88",
+      "id": "myPopover25",
       "title": "VENDREDI EN FOLIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/soiree-10.jpg?width=200",
@@ -786,7 +373,7 @@
       "description": "Vendredis en Folie avec la Compagnie Magenta Spectacle \"Il était une fois les comédies musicales\" 21h30, Esplanade du Front de Mer Saint-Pierre la Mer"
     },
     {
-      "id": "myPopover89",
+      "id": "myPopover26",
       "title": "SOIREE DE PORT MAHON",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Soiree-Port-Mahon.jpg?width=200",
@@ -801,7 +388,7 @@
       "description": "Soirée de Port Mahon organisée par le CERCLE NAUTIQUE DES CORBIERES. Restauration tapas ou plat unique sur réservation / buvette - Suivi d'un concert gratuit à 21h avec le groupe LES TAMALOU."
     },
     {
-      "id": "myPopover90",
+      "id": "myPopover27",
       "title": "DJ WALLIS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -815,7 +402,7 @@
       "description": "Préparez-vous à vivre une soirée festive et fédératrice avec Jerry Wallis x The Gang. Un show DJ pensé pour faire danser toutes les générations dans une ambiance 100% good vibes."
     },
     {
-      "id": "myPopover91",
+      "id": "myPopover28",
       "title": "EXPOSITION LAPIS LAZULI",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
@@ -830,7 +417,7 @@
       "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
     },
     {
-      "id": "myPopover92",
+      "id": "myPopover29",
       "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
@@ -845,7 +432,7 @@
       "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
     },
     {
-      "id": "myPopover93",
+      "id": "myPopover30",
       "title": "SOIRÉE APÉ-RO-MAIN V",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Ape-Ro-Main-V-Vendredi-21-Aout-2026-page-0001.jpg?width=200",
@@ -857,10 +444,10 @@
       ],
       "location": "NARBONNE",
       "address": "48 Rue Chanzy, 11100, NARBONNE",
-      "description": "Soirée APÉ-RO-MAIN IV à partir de 18h Les amis du Clos de la Lombarde vous propose de découvrir : -des cuvées antiques du domaine La Parra ou des breuvages sans alcool -des assiettes gourmandes de délices à la romaine Vente sur place. VISITE GUIDÉE à 19h, au tarif de 5€ Une visite thématique sur la viticulture et la gastronomie dans l'antiquité romaine. La visite à une durée de 20min."
+      "description": "Soirée APÉ-RO-MAIN IV à partir de 18h Les amis du Clos de la Lombarde vous propose de découvrir : -des cuvées antiques du domaine La Parra ou des breuvages sans alcool -des assiettes gourmandes de délices à la romaine Vente sur place. VISITE GUIDÉE à 19h, au tarif de 5€ Une visite thématique sur la viticulture et la gastronomie dans l'antiquité romaine. La visite une durée de 20min."
     },
     {
-      "id": "myPopover94",
+      "id": "myPopover31",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -875,7 +462,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover95",
+      "id": "myPopover32",
       "title": "NOCTURNE LUDOTHÈQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-11.jpg?width=200",
@@ -890,7 +477,7 @@
       "description": "La Ludothèque Christian-Meyer vous accueille pour sa toute 1er Nocturne ! Venez jouer en famille, entre amis ou solo ! 30 personnes maximum, tout public, gratuites (sans réservation, dans la limite des places disponibles pour les nocturnes)."
     },
     {
-      "id": "myPopover96",
+      "id": "myPopover33",
       "title": "BRADERIE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Braderie-14.jpg?width=200",
@@ -905,7 +492,7 @@
       "description": "Braderie organisée par l’association «Country Club La Nouvelle », place Jacques-Brel, de 17h à 22h."
     },
     {
-      "id": "myPopover97",
+      "id": "myPopover34",
       "title": "CONCOURS DE PÉTANQUE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Petanque-101.jpg?width=200",
@@ -919,7 +506,7 @@
       "description": "Concours de pétanque, aux bouteilles en doublettes formées, jet du but boulodrome municipal, 21h"
     },
     {
-      "id": "myPopover98",
+      "id": "myPopover35",
       "title": "TOURNÉE SUMMER GAMES",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/jEUX-19.jpg?width=200",
@@ -936,7 +523,7 @@
       "description": "Tournée Summer Games Jeux pour toute la famille au parking du casino, de 17h à minuit."
     },
     {
-      "id": "myPopover99",
+      "id": "myPopover36",
       "title": "MARCHE NOCTURNE",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-artisanal-.jpg?width=200",
@@ -951,7 +538,7 @@
       "description": "Marché arts, artisanat et saveurs tous les jeudis"
     },
     {
-      "id": "myPopover100",
+      "id": "myPopover37",
       "title": "FEU D'ARTIFICE",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/feu-artifice-2.bmp?width=200",
@@ -965,7 +552,7 @@
       "description": "Feu d'artifice"
     },
     {
-      "id": "myPopover101",
+      "id": "myPopover38",
       "title": "SOIRÉE DJ",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Concert-69.jpg?width=200",
@@ -979,7 +566,7 @@
       "description": "Soirée DJ, place St-Charles, à 21h."
     },
     {
-      "id": "myPopover102",
+      "id": "myPopover39",
       "title": "BALADE VIGNERONNE AU CHÂTEAU LA NÉGLY",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/balade-10.jpg?width=200",
@@ -993,7 +580,7 @@
       "description": "Comme chaque été, Château La Négly vous propose ses Balades Vigneronnes du 10 juillet au 21 août 2026, tous les vendredis à 18h30, d'une durée entre 2h30 et 3h. Cette marche guidée au cœur du massif de la Clape invite à découvrir les paysages du domaine entre vignes, garrigue, étang et Méditerranée, aux côtés d’un vigneron passionné. La soirée se prolonge autour d’une dégustation de nos cuvées avec accords mets-vins, avec également une option planche et la possibilité d’acheter du vin sur place. Chaussures confortables recommandées. Réservation obligatoire, places limitées."
     },
     {
-      "id": "myPopover103",
+      "id": "myPopover40",
       "title": "SOIRÉE ÉPICURE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FONTFROIDE1-6ac7012f05874c3fae882f8dcb5263ff.jpg?width=200",
@@ -1007,7 +594,7 @@
       "description": "Dégustez des accords mets & vins soigneusement imaginés par le Chef de la Table de Fontfroide pour révéler toute la richesse des saveurs. Vins d'exception, bouchées gastronomiques et ambiance musicale se conjuguent pour offrir une expérience conviviale et raffinée. Prolongez votre soirée par un spectacle grandiose Son & Lumière et la visite de l’abbaye – Inclus dans votre billet d’entrée"
     },
     {
-      "id": "myPopover104",
+      "id": "myPopover41",
       "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
@@ -1021,7 +608,7 @@
       "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
-      "id": "myPopover105",
+      "id": "myPopover42",
       "title": "BARQUES EN SCÈNE - AMIR",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-BES-2026-2m.jpg?width=200",
@@ -1035,7 +622,7 @@
       "description": "Après le succès de “Sommet”, hymne des Jeux Olympiques de Paris 2024, Amir poursuit son retour avec un nouvel album intense et personnel. L’artiste offrira au public narbonnais un concert mêlant émotion, puissance vocale et grands succès populaires. Première partie : Brandon"
     },
     {
-      "id": "myPopover106",
+      "id": "myPopover43",
       "title": "SOIRÉE BLANCHE – LA VINGUETTE DU CHÂTEAU DE VENTENAC",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Soiree-Blanche-5.jpg?width=200",
@@ -1050,7 +637,7 @@
       "description": "Cet été, le château de Ventenac-en-Minervois vous ouvre à nouveau ses portes pour des soirées inoubliables ! Thème : Soiré blanche avec tout le monde en blanc. Ce samedi, venez décompresser autour d'un verre de vin et profitez du thème de la Vinguette. Réservation conseillée."
     },
     {
-      "id": "myPopover107",
+      "id": "myPopover44",
       "title": "EXPOSITION CAVES DU ROY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/exposition-ete-2026.jpg?width=200",
@@ -1065,7 +652,7 @@
       "description": "Exposition Caves du Roy avec l'association Sigean Art et Culture. Entrée libre. Ouvert week-end et jours fériés."
     },
     {
-      "id": "myPopover108",
+      "id": "myPopover45",
       "title": "CONCOURS DE PÊCHE AU GROS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Artinautic-2.jpg?width=200",
@@ -1080,7 +667,7 @@
       "description": "Concours de pêche, pour les jeunes proposé par Actinautic Dès 8h00, Les Cabanes de Fleury - Port"
     },
     {
-      "id": "myPopover109",
+      "id": "myPopover46",
       "title": "EXPOSITION - GRÉS CHANTAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/chantal-gres-3.jpg?width=200",
@@ -1097,7 +684,7 @@
       "description": "Exposition – Chemin d'espérance Du 22 août au 3 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 20h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover110",
+      "id": "myPopover47",
       "title": "KARAOKÉ \" SI ON CHANTAIT \"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/karaoke-Chez-Carole-3.jpg?width=200",
@@ -1111,7 +698,7 @@
       "description": "Karaoké \" Si on chantait \" Avec Fred Érikson 21h30, place du Globe Les Cabanes de Fleury"
     },
     {
-      "id": "myPopover111",
+      "id": "myPopover48",
       "title": "SAMEDIS ANNÉES 80'S",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CHEZ-NORBERT-3.jpg?width=200",
@@ -1125,7 +712,7 @@
       "description": "Samedis Années 80'S avec Lucas 21h30, Esplanade du Front de Mer Saint-Pierre la Mer"
     },
     {
-      "id": "myPopover112",
+      "id": "myPopover49",
       "title": "CONCERT SIMPLY LAETI",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -1139,7 +726,7 @@
       "description": "L'association des commerçants du Cœur de Station vous invite au concert Simply Laeti."
     },
     {
-      "id": "myPopover113",
+      "id": "myPopover50",
       "title": "PANDA BANDITT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Concert-70.jpg?width=200",
@@ -1153,7 +740,7 @@
       "description": "Panda Banditt, 2ème champ de foire, front de mer, à 21h."
     },
     {
-      "id": "myPopover114",
+      "id": "myPopover51",
       "title": "SOIREE VIGNERONNES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Soiree-vigneronnes.jpg?width=200",
@@ -1168,7 +755,7 @@
       "description": "Soirée vigneronne par COP A COOP à 19h00, repas - vins - concert au caveau."
     },
     {
-      "id": "myPopover115",
+      "id": "myPopover52",
       "title": "EXPOSITION LAPIS LAZULI",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
@@ -1183,7 +770,7 @@
       "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
     },
     {
-      "id": "myPopover116",
+      "id": "myPopover53",
       "title": "SARDINADE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Sardinade--2.jpg?width=200",
@@ -1198,7 +785,7 @@
       "description": "Sardinade, US La Palme."
     },
     {
-      "id": "myPopover117",
+      "id": "myPopover54",
       "title": "VISITE HISTORIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/visites-historiques-1200x900-sans-recadrage.jpg?width=200",
@@ -1213,7 +800,7 @@
       "description": "La village de Névian vous propose une visite historique et commentées du village. Rendez-vous devant la mairie."
     },
     {
-      "id": "myPopover118",
+      "id": "myPopover55",
       "title": "SPECTACLE SHOW MANIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/04ded82b-907d-4e10-8831-521ed5199a9a.jpg?width=200",
@@ -1228,7 +815,7 @@
       "description": "Soirée caritative pour la lutte contre le cancer organisé par le comité du Canton de Ginestas. Restauration sur place dès 19h suivi du spectacle de Show Mania Company \"Il était une fois\"."
     },
     {
-      "id": "myPopover119",
+      "id": "myPopover56",
       "title": "AMERICAN FAV'S DAY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/6bd0a761-4bf0-4b64-a539-971b68dd0d4c.jpg?width=200",
@@ -1243,7 +830,7 @@
       "description": "La journée organisée par les French Army Vets au profit des militaires blessés en opérations revient le samedi 23 août 2025 à partir de 10h. Au programme sur le parvis de la Coopé: - 4 concerts de 12h à 00h. - Stands et animations. - Démos de danse. - Restauration et buvette. - Exposition de voitures et de motos US. -Airsoft. - Tatoueur - Barbier. - Baptêmes motos. Entrée gratuite, ouvert à tous."
     },
     {
-      "id": "myPopover120",
+      "id": "myPopover57",
       "title": "BOURSE AUX MINÉRAUX ET FOSSILES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-157.PNG?width=200",
@@ -1258,7 +845,7 @@
       "description": "Le groupe Géologique du Narbonnais a le plaisir de vous informer de l’organisation de sa 43eme bourse aux minéraux et fossiles de Narbonne qui aura lieu les 22 et 23 août 2026 au PARC DES EXPOSITIONS de Narbonne, avenue Maître Hubert MOULY. Plus de 30 exposants professionnels vous présenteront des minéraux et des fossiles du monde. Deux conférences viendront illustrer cette exposition : Le samedi 22 à 15h par Alain MARTINEZ sur le thème : \"La Vie, les traces de vie, dans les Corbières il y a 55 Millions d'années\". Le dimanche 23 à 15h : conférence par Damien Boschetto sur le thème : « la découverte d’une vie » - D’autres animations autour de la bourse complètent cette manifestation : - La bourse d’échanges, très dynamique où de nombreux amateurs présentent leurs trouvailles personnelles. - Les ateliers gratuits pour les enfants qui repartent avec leurs trésors, - La librairie spécialisée avec le concours de la librairie Libellis - L’observation à la loupe binoculaire de micro-minéraux et micro-fossiles Bar et restauration complètent l’ensemble. La bourse de Narbonne est un évènement ouvert à tous les publics ; simples curieux, débutants ou collectionneurs confirmés, venez découvrir la géologie présentée par des amateurs passionnés."
     },
     {
-      "id": "myPopover121",
+      "id": "myPopover58",
       "title": "BRADERIE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Braderie-17.jpg?width=200",
@@ -1273,7 +860,7 @@
       "description": "Braderie organisée par l’association «Country Club La Nouvelle », Salle Jacques-Brel, de 10h à 22h."
     },
     {
-      "id": "myPopover122",
+      "id": "myPopover59",
       "title": "MARCHE DE CREATEURS LOCAUX",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-et-createurs-locaux.jpg?width=200",
@@ -1288,7 +875,7 @@
       "description": "Le Sanctuaire du Paon. Marché estival de créateurs et producteurs locaux."
     },
     {
-      "id": "myPopover123",
+      "id": "myPopover60",
       "title": "MARCHÉ ANIMÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
@@ -1303,7 +890,7 @@
       "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
     },
     {
-      "id": "myPopover124",
+      "id": "myPopover61",
       "title": "AQUAGYM EN MER",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PLAGE-DU-ROUET-7.jpg?width=200",
@@ -1318,7 +905,7 @@
       "description": "Envie d'une séance d'aquagym en mer ? L'Aqua'Pass de Body'Zen, est fait pour toi ! Aqua'Pass plage du Rouet Les samedis matin à partir du 6 juin Forfait : 50€ Professeure diplômée d'état métiers de la forme et Maître Nageur Sauveteur. Body'Zen, c'est Fitness et Marche aquatique."
     },
     {
-      "id": "myPopover125",
+      "id": "myPopover62",
       "title": "CLUB BOULISTE SIGEAN",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/club-bouliste-sigean-22-08.jpg?width=200",
@@ -1332,7 +919,7 @@
       "description": "Club bouliste Sigean \"Challenge ville de Sigean\". 16 triplettes mixtes (1NAT admis). Tirages au sort: Jeudi 20 août à 18h00. Début de parties à 8h30. Envoyer fiche et chèque Engagement à Alain BELMONTE. Repas de 12h15 à 14h30 ( tarif à 17 euros avec réservation le matin à la table de marque)."
     },
     {
-      "id": "myPopover126",
+      "id": "myPopover63",
       "title": "TRIATHLON DES CABANES DE FLEURY",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/TRIATHLON-CABANES-2020---14.jpg?width=200",
@@ -1346,7 +933,7 @@
       "description": "Le Triathlon des Cabanes de Fleury revient en 2026 ! Au programme : performance, bonne humeur et convivialité ! Rendez-vous en plein cœur des Cabanes de Fleury pour un parcours dans un cadre magnifique avec son port de pêcheurs ! Détail des épreuves : - XS individuel 🡺 Départ 12h15 // Tarif inscription 20 € pour les licenciés FF TRI & + 2€ pass compétition soit 22€ pour les non licenciés - S individuel 🡺 Départ 15h30 // Tarif inscription 30€ pour les licenciés FF TRI & + 5€ pass compétition soit 35€ pour les non licenciés - S relais 🡺 Départ 15h30 // Tarif inscription 45€ pour les licenciés FF TRI & + 5 euros pass compétition pour les non licenciés"
     },
     {
-      "id": "myPopover127",
+      "id": "myPopover64",
       "title": "VOILES POUR TOUS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/AFFICHE-VOILES-POUR-TOUS.png?width=200",
@@ -1361,7 +948,7 @@
       "description": "Journée portes ouvertes au port de Peyriac-de-Mer. Venez découvrir le plaisir de la voile sur l'étang. Départs de 10h à 17h sur différentes embarcations : croiseurs, dériveurs, catamarans. A midi, les participants qui le souhaitent peuvent apporter leur pique-nique et s'installer au port pour déjeuner. Infos au 07 83 55 25 07"
     },
     {
-      "id": "myPopover128",
+      "id": "myPopover65",
       "title": "ANIMATION MUSICALE",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Musique-14.jpg?width=200",
@@ -1375,7 +962,7 @@
       "description": "Animation musicale avec le groupe Lithium, place Saint Charles, à 21h."
     },
     {
-      "id": "myPopover129",
+      "id": "myPopover66",
       "title": "BEACH PARTY",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Beach-Party-2.jpg?width=200",
@@ -1389,7 +976,7 @@
       "description": "Beach party avec DJ Lafon, belvédère Charles-Trenet, front de mer, à 21h."
     },
     {
-      "id": "myPopover130",
+      "id": "myPopover67",
       "title": "CONCOURS DE PÉTANQUE",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/1893e0b1-44ca-4b62-bda4-5a4df04ab25f.jpg?width=200",
@@ -1404,7 +991,7 @@
       "description": "Le 1er concours officiel de l'association \"Les amis du cochonnet St-Marcel\". Sur réservation. Inscription de préférence à l'avance car les places sont limitées. 3 parties pour tout le monde. Concours à la mêlée. Lots pour les 3 premières équipes gagnantes. Buvette et gâteaux sur place."
     },
     {
-      "id": "myPopover131",
+      "id": "myPopover68",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -1419,7 +1006,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover132",
+      "id": "myPopover69",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -1434,7 +1021,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover133",
+      "id": "myPopover70",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -1449,7 +1036,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover134",
+      "id": "myPopover71",
       "title": "MARCHÉ ESTIVAL",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
@@ -1464,7 +1051,7 @@
       "description": "Produits alimentaires et non alimentaires, tout y est !"
     },
     {
-      "id": "myPopover136",
+      "id": "myPopover73",
       "title": "EXPOSITION CAVES DU ROY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/exposition-ete-2026.jpg?width=200",
@@ -1479,7 +1066,7 @@
       "description": "Exposition Caves du Roy avec l'association Sigean Art et Culture. Entrée libre. Ouvert week-end et jours fériés."
     },
     {
-      "id": "myPopover137",
+      "id": "myPopover74",
       "title": "SOIRÉE 80'S",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/karaoke-Chez-Carole.jpg?width=200",
@@ -1493,7 +1080,7 @@
       "description": "Soirée 80’s Venez passer une soirée conviviale au restaurant Chez Carole ! Réservation : 06 20 43 58 40 À partir de 21h00"
     },
     {
-      "id": "myPopover138",
+      "id": "myPopover75",
       "title": "LES CABANES EN MUSIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Groupe-BbBb.jpg?width=200",
@@ -1507,7 +1094,7 @@
       "description": "Concert avec Les Rev du Mat 21h30, place du Globe Les Cabanes de Fleury"
     },
     {
-      "id": "myPopover139",
+      "id": "myPopover76",
       "title": "PANORAMA EXPRESS MUSÉE NARBO VIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-17.jpg?width=200",
@@ -1521,7 +1108,7 @@
       "description": "En 20 minutes, un médiateur partage quelques clés de compréhension des collections : dates, thématiques et incontournables. Parfait pour introduire votre déambulation libre au cœur de l'histoire romaine de Narbonne. Avant cette visite découvrez le parcours d'art contemporain \"Le souffle du temps\" à 14h30. Durée 20 minutes, inclus dans le billet d'entrée ou 3e si visite simple. Réservation recommandée."
     },
     {
-      "id": "myPopover140",
+      "id": "myPopover77",
       "title": "CINÉMA PLEIN AIR : VICE-VERSA 2",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-13.jpg?width=200",
@@ -1535,7 +1122,7 @@
       "description": "Une plongée touchante et drôle dans les émotions, avec de nouveaux personnages et une réflexion accessible à tous sur l'adolescence."
     },
     {
-      "id": "myPopover141",
+      "id": "myPopover78",
       "title": "EXPOSITION LAPIS LAZULI",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
@@ -1550,7 +1137,7 @@
       "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
     },
     {
-      "id": "myPopover142",
+      "id": "myPopover79",
       "title": "ARCADES EN FETE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Arcades-en-fete-.jpg?width=200",
@@ -1565,7 +1152,7 @@
       "description": "Pour un moment convivial : 18h30 la chorale de la Berre, une ambiance musicale toute la soirée. Buvette chez Les Amis du Patrimoine, food-truck Tilman Mo Ko, Camille et ses Gourmandises. Exposition \"Le Carnaval de Sigean\". N'hésitez pas à décorer vos façades! Gratuit ouvert à tous."
     },
     {
-      "id": "myPopover143",
+      "id": "myPopover80",
       "title": "SOIRÉE FLAMENCO GIPSY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/soiree-flamenco-gipsy-4x3.jpg?width=200",
@@ -1580,7 +1167,7 @@
       "description": "Chaque dimanche des mois de juillet et août, venez assister à la soirée flamenco gipsy au pub restaurant La Garenne. Retrouvez Rumberos del Sur, guitare et voix. Réservation conseillée si vous voulez manger."
     },
     {
-      "id": "myPopover144",
+      "id": "myPopover81",
       "title": "BOURSE AUX MINÉRAUX ET FOSSILES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-157.PNG?width=200",
@@ -1595,7 +1182,7 @@
       "description": "Le groupe Géologique du Narbonnais a le plaisir de vous informer de l’organisation de sa 43eme bourse aux minéraux et fossiles de Narbonne qui aura lieu les 22 et 23 août 2026 au PARC DES EXPOSITIONS de Narbonne, avenue Maître Hubert MOULY. Plus de 30 exposants professionnels vous présenteront des minéraux et des fossiles du monde. Deux conférences viendront illustrer cette exposition : Le samedi 22 à 15h par Alain MARTINEZ sur le thème : \"La Vie, les traces de vie, dans les Corbières il y a 55 Millions d'années\". Le dimanche 23 à 15h : conférence par Damien Boschetto sur le thème : « la découverte d’une vie » - D’autres animations autour de la bourse complètent cette manifestation : - La bourse d’échanges, très dynamique où de nombreux amateurs présentent leurs trouvailles personnelles. - Les ateliers gratuits pour les enfants qui repartent avec leurs trésors, - La librairie spécialisée avec le concours de la librairie Libellis - L’observation à la loupe binoculaire de micro-minéraux et micro-fossiles Bar et restauration complètent l’ensemble. La bourse de Narbonne est un évènement ouvert à tous les publics ; simples curieux, débutants ou collectionneurs confirmés, venez découvrir la géologie présentée par des amateurs passionnés."
     },
     {
-      "id": "myPopover145",
+      "id": "myPopover82",
       "title": "BRADERIE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Braderie-26.jpg?width=200",
@@ -1610,7 +1197,7 @@
       "description": "Braderie organisée par l’association « Country Club La Nouvelle », à la Salle Jacques-Brel, de 10h à 18h."
     },
     {
-      "id": "myPopover146",
+      "id": "myPopover83",
       "title": "VIDE-GRENIER",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-276.jpg?width=200",
@@ -1625,7 +1212,7 @@
       "description": "Un grand vide-grenier annuel se tiendra ce dimanche en intérieur. Buvette et petite restauration sur place."
     },
     {
-      "id": "myPopover147",
+      "id": "myPopover84",
       "title": "ANIMATIONS SPORTIVES",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -1640,7 +1227,7 @@
       "description": "De 10h à 11h (7-10 ans) et de 11h à 12h (11-13 ans) Animations sportives (sports collectifs, athlétisme, sports de raquettes...) Planning détaillé affiché chaque semaine sur l'Algeco de l'Espace Beach, poste de secours. Renseignements sur place."
     },
     {
-      "id": "myPopover149",
+      "id": "myPopover86",
       "title": "COURS DE FITNESS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -1657,7 +1244,7 @@
       "description": "Cours de fitness (abdos-fessiers, renforcement/gainage, circuit training et marche santé) encadrés par les apprentis BPJEPS et des saisonniers. Planning détaillé affiché chaque semaine sur l'Algeco de l'Espace Beach, poste de secours. Renseignements sur place."
     },
     {
-      "id": "myPopover150",
+      "id": "myPopover87",
       "title": "PÊCHE A LA TRAINE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PECHE-A-LA-TRAINE-.jpg?width=200",
@@ -1671,7 +1258,7 @@
       "description": "Rendez vous devant le poste de secours 1 Sans inscription"
     },
     {
-      "id": "myPopover151",
+      "id": "myPopover88",
       "title": "LOTO",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Loto-Canva.jpg?width=200",
@@ -1685,7 +1272,7 @@
       "description": "Loto organisé par l'Association \"Au Fil du Temps\" 15h00 Salles des Fêtes Fleury d'Aude"
     },
     {
-      "id": "myPopover152",
+      "id": "myPopover89",
       "title": "PECHE AUX BOUCHONS POUR LES ENFANTS",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/enfant-peche.jpg?width=200",
@@ -1700,7 +1287,7 @@
       "description": "Pêche aux bouchons pour les enfants, sur le quai (face au 1246 avenue de la mer), de 9h à 12h30."
     },
     {
-      "id": "myPopover153",
+      "id": "myPopover90",
       "title": "SOIRÉE FESTIVE",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Musique-16.jpg?width=200",
@@ -1714,7 +1301,7 @@
       "description": "Soirée festive avec les Buzz Brothers, place Saint-Charles, à 21h."
     },
     {
-      "id": "myPopover154",
+      "id": "myPopover91",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -1729,7 +1316,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover155",
+      "id": "myPopover92",
       "title": "MARCHÉ DES PRODUCTEURS HEBDOMADAIRES",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-producteurs-Pixabay-4.jpg?width=200",
@@ -1744,7 +1331,7 @@
       "description": "Au jardin public, un marché de producteurs locaux tous les dimanches matins. Se rencontrer autour de produits de qualité et de saison."
     },
     {
-      "id": "myPopover156",
+      "id": "myPopover93",
       "title": "DÉCOUVREZ NARBONNE PAR LE NOM DES RUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--17-.jpg?width=200",
@@ -1759,7 +1346,7 @@
       "description": "En compagnie d'un guide conférencier, laissez-vous surprendre par les noms de rues de Narbonne : une balade originale où plaques et ruelles révèlent les secrets et la mémoire de la ville."
     },
     {
-      "id": "myPopover157",
+      "id": "myPopover94",
       "title": "DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-didier-triglia-ricardelle1.png?width=200",
@@ -1774,6 +1361,426 @@
       "location": "NARBONNE",
       "address": "Route de Gruissan, 11100, NARBONNE",
       "description": "Découvrez l’univers artistique de l’artiste singulier Didier Triglia. Près de 40 œuvres à découvrir entre le caveau et la salle d’exposition, peintures et sculptures. Didier Triglia est un artiste plasticien autodidacte, reconnu sur la scène artistique contemporaine depuis plus de 30 ans. Son univers est unique : foisonnant, coloré, peuplé de personnages joyeux, de symboles primitifs et de formes inspirées des arts tribaux, du street art ou encore de la figuration libre. Il crée de manière instinctive, sans croquis, en laissant parler son imaginaire. Ses œuvres, à la fois poétiques et puissantes, sont réalisées sur des supports variés – toile, bois, carton, objets recyclés – dans une démarche à la fois artistique et écologique. Didier Triglia transforme l’ordinaire en extraordinaire, mêlant humour, émotion et spiritualité. Exposé dans de nombreuses galeries en France et à l’international, il est aujourd’hui considéré comme l’un des artistes les plus singuliers de sa génération. Son art est une véritable mythologie personnelle, une invitation à redécouvrir le monde avec des yeux d’enfant."
+    },
+    {
+      "id": "myPopover95",
+      "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "15:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
+    },
+    {
+      "id": "myPopover96",
+      "title": "VISITE DES COLLECTIONS ORIENTALISTES DU PARCOURS D'ART",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "11:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "LES COLLECTIONS ORIENTALISTES DU PARCOURS D’ART Découvrez des œuvres mettant en lumière l'attrait, la curiosité et la fascination des Occidentaux pour l'Afrique du Nord, le Proche et le Moyen- Orient. Avec des tons chauds, des représentations de paysages déserts, d’habits colorés ou de scènes de vie, elles nous invitent à un voyage… mais est-ce une réalité ou un Orient rêvé ?"
+    },
+    {
+      "id": "myPopover97",
+      "title": "VISITE DU VIEUX SIGEAN",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/visite-de-Sigean.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "18:00",
+        "19:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de la Libération, 11130, SIGEAN",
+      "description": "Visite du vieux Sigean tous les lundis à 18h. Découvrez Sigean à travers son histoire, son bâti ancien, l'évolution de l'urbanisme, ses visiteurs célèbres... Gratuit"
+    },
+    {
+      "id": "myPopover98",
+      "title": "LES LUNDIS DJ",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/clap-d-ete-10.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "18:00",
+        "23:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Boulevard de la Méditerranée, 11100, NARBONNE",
+      "description": "Animation avec DJ Cédric proposée par l'association des commerçants Cœur de station."
+    },
+    {
+      "id": "myPopover99",
+      "title": "LE ROCALAMAR - SOIRÉE KARAOKÉ",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/rocalamar.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "19:30"
+      ],
+      "location": "FLEURY",
+      "address": "Place des Vergnettes, 11560, FLEURY",
+      "description": "Soirée Karaoké avec Olivier et Jordan 19h30 - Le Rocalamar"
+    },
+    {
+      "id": "myPopover100",
+      "title": "SOIRÉE DJ – LUIS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/DJ-Pixabay.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "21:00",
+        "00:00"
+      ],
+      "location": "FLEURY",
+      "address": "Halles lo Vilatge, Place du marché, 11560, FLEURY",
+      "description": "Soirée DJ – Luis Chez Milou Venez vivre une soirée festive au cœur du restaurant Chez Milou ! Bar & vins Bières fraîches Tapas & restauration sur place Réservation & infos : 06 59 08 08 98"
+    },
+    {
+      "id": "myPopover101",
+      "title": "ÇA GUINCHE AUX KARANTES : ORCHESTRE ALAIN MICHEL",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/clap-d-ete-11.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "21:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Place des Karantes, 11100, NARBONNE",
+      "description": "Soirée élégante et résolument dansante. Des rythmes variés pour le plaisir de danser et de partager un moment en musique."
+    },
+    {
+      "id": "myPopover102",
+      "title": "EXPOSITION LAPIS LAZULI",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "18:00",
+        "19:30"
+      ],
+      "location": "LA PALME",
+      "address": "50 Avenue de la Mer, 11480, LA PALME",
+      "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
+    },
+    {
+      "id": "myPopover103",
+      "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "15:30",
+        "18:00"
+      ],
+      "location": "SALLELES-D'AUDE",
+      "address": "Rue Voltaire, 11590, SALLELES-D'AUDE",
+      "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
+    },
+    {
+      "id": "myPopover104",
+      "title": "MARCHÉ SAISONNIER",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-saisonnier-2022-7.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "11210, PORT-LA-NOUVELLE",
+      "description": "Marché saisonnier"
+    },
+    {
+      "id": "myPopover105",
+      "title": "BROCANTE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/clap-d-ete-9.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "17:00",
+        "23:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Promenade du Front de Mer, 11100, NARBONNE",
+      "description": "Brocante par l'association Narbonne Broc. Venez chiner des antiquités, bibelots, meubles d'antan..."
+    },
+    {
+      "id": "myPopover106",
+      "title": "YOGA FACE A LA MER",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/IMG-2597.jpeg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Claude Debussy, 11210, PORT-LA-NOUVELLE",
+      "description": "L'association respire vous propose des séances de yoga en plein air face à la mer Il s'agit de respirer , relâcher les tensions bouger en douceur dans un lieu magnifique . Entre le 2 eme et le 3 eme poste de secours face au parking de l'Eldorado Horaires et journées adaptés en fonction de la météo . Sur réservation places limitées 06.19.31.32.62 5 e la séance"
+    },
+    {
+      "id": "myPopover107",
+      "title": "GYM SUR LA PLAGE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/GYM-SUR-LA-PLAGE--2.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-28",
+      "times": [
+        "08:30",
+        "11:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Paul Valéry, 11210, PORT-LA-NOUVELLE",
+      "description": "Du lundi au vendredi de 8h 30 à 11h Animation gratuite proposée par la municipalité gratuite sans inscription Rendez vous sur le parking du casino à coté du boulodrome"
+    },
+    {
+      "id": "myPopover108",
+      "title": "JEUX TRADITIONNELS DE PORT-LA NOUVELLE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Jeux-PLN.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "21:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Boulevard du Front de Mer, 11210, PORT-LA-NOUVELLE",
+      "description": "Jeux traditionnels de Port-La Nouvelle au mouettodrome."
+    },
+    {
+      "id": "myPopover109",
+      "title": "SOIRÉE DANSANTE MUSETTE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Soiree-musette.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "21:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Boulevard du Front de Mer, 11210, PORT-LA-NOUVELLE",
+      "description": "Soirée musette avec Cédric Bergounioux dès 21h"
+    },
+    {
+      "id": "myPopover110",
+      "title": "TAÏ CHI CHUAN",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Tai-chi-chuan-.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "09:00",
+        "11:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Avenue de Perpignan, 11130, SIGEAN",
+      "description": "Taï chi chuan organisé par l'Association Sigeanaise . Séances gratuites"
+    },
+    {
+      "id": "myPopover111",
+      "title": "LA VUELTA",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-12.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "12:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "Passage de la course cycliste la Vuelta à Narbonne dans le cadre de l'étape Gruissan - Font-Romeau."
+    },
+    {
+      "id": "myPopover113",
+      "title": "LUNDIS MUSICAUX",
+      "category": "tradition",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MUSIQUE-.jpg?width=200",
+      "startDate": "2026-08-24",
+      "endDate": "2026-08-24",
+      "times": [
+        "21:00",
+        "23:30"
+      ],
+      "location": "LEUCATE",
+      "address": "Place de la République, 11370, LEUCATE",
+      "description": "Les lundis musicaux avec le groupe Davis Costa Coelho Quartet"
+    },
+    {
+      "id": "myPopover114",
+      "title": "VISITE DE LA CATHÉDRALE SAINT-JUST ET SAINT-PASTEUR",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "11:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "LA CATHÉDRALE SAINT-JUST ET SAINT-PASTEUR Au XIIIe siècle, débute la construction de l’un des plus beaux édifices religieux gothiques du Midi qui se distingue tant par son chœur, unique ouvrage achevé au Moyen Âge à la hauteur vertigineuse, que par ses décors intérieurs."
+    },
+    {
+      "id": "myPopover115",
+      "title": "MENEZ L'ENQUÊTE, L'AFFAIRE DU BIJOU DISPARU",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "nouveau ! MENEZ L’ENQUÊTE EN FAMILLE OU ENTRE AMIS ! L’AFFAIRE DU BIJOU DISPARU Qui a volé la bague de l’archevêque ? Une affaire digne d’un Agatha Christie : des agents du Palais-Musée sont suspectés du vol de bijou. Le larcin a-t-il été commis par Madame Classtout ? Monsieur Régitout ? Madame Surveiltout ? Le guide ? La Conservatrice ? Le technicien ? Pour l’heure, ils sont tous coupables… À vous de résoudre cette enquête au coeur des collections dans le parcours d’Art du Palais-Musée ! En autonomie, sans réservation. Rendez-vous à l’accueil du parcours d’Art, de 10h à 12h et de 14h30 à 16h30, pour récupérer le livret. Inclus dans le billet d’entrée Pass Monumentale Narbonne."
+    },
+    {
+      "id": "myPopover116",
+      "title": "LEVEZ LES VOILES ! VISITE ARCHÉNOMADE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/A.-Spani-c-NarboViaBD.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "16:00",
+        "18:30"
+      ],
+      "location": "NARBONNE",
+      "address": "2 Avenue André Mècle, 11100, NARBONNE",
+      "description": "Embarquez dans cette visite insolite, qui vous conduit du musée jusqu'à l'étang de Bages-Sigean où vous vous montez à bord d'un bateau à voile pour découvrir les ports antiques de Narbo Martius, depuis le large. Dégustation des produits du domaine viticole Ortola en fin de visite. Durée 2h30, déplacement compris. Départ au musée. (45min de visite au musée, 1h15 de bateau) Tarifs : 33e adulte, 20e enfant, 90 famille ( 2 adultes, 2 enfants) Le trajet entre le musée et la Nautique s'effectue de manière autonome. La sortie bateau peut être annulée la veille si la météo n'est pas propice."
+    },
+    {
+      "id": "myPopover117",
+      "title": "SALSA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/clap-d-ete.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "18:00",
+        "23:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Boulevard de la Méditerranée, 11100, NARBONNE",
+      "description": "Cours de bachata et salsa proposés par l'Association des commerçants Cœur de station, en partenariat avec Maurice Manriquez."
+    },
+    {
+      "id": "myPopover118",
+      "title": "IT'S TIME TO TAKE A BREAK",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/time-to-take-a-break.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-29",
+      "times": [
+        "11:00",
+        "12:00",
+        "15:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "15 Rue Gustave Fabre, 11100, NARBONNE",
+      "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
+    },
+    {
+      "id": "myPopover119",
+      "title": "DÉFILÉ DE MASCOTTES - PARC FORAIN",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-foraine-f48beef9cdfd459db11ee7f382ccc748.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "20:30"
+      ],
+      "location": "FLEURY",
+      "address": "Esplanade du Front de Mer, 11560, FLEURY",
+      "description": "À partir de 20h30 Défilé de mascottes Stitch Disney au parc forain Retrouvez Stitch pour une soirée festive et familiale pleine de magie et de bonne humeur !"
+    },
+    {
+      "id": "myPopover120",
+      "title": "MARDIS LATINOS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Caramelo-Latino.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "21:30"
+      ],
+      "location": "FLEURY",
+      "address": "Esplanade du front de mer, 11560, FLEURY",
+      "description": "Mardis Latinos avec le groupe Bongo Loko Place de Vergnettes 21h30 Saint-Pierre la mer"
+    },
+    {
+      "id": "myPopover121",
+      "title": "FESTIVAL D'ORGUES - LES ORGUES DE NARBONNE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/org-2.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "20:30",
+        "22:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Rue Armand Gauthier, 11100, NARBONNE",
+      "description": "La beauté des harmonies crées par les instruments à vent et la puissance maîtrisée de l'orgue, pour des instants d'émotion où chaque son sublime l'autre. Emmanuel Arakélian (orgue), J.M. Ballester (baryton) : l'orgue et la voix profonde du baryton, pour un dialogue intense et expressif."
+    },
+    {
+      "id": "myPopover122",
+      "title": "CINÉMA PLEINE AIR - \"L'HOMME QUI A VU L'OURS QUI A VU L'HOMME\"",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-9.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "21:30"
+      ],
+      "location": "NARBONNE",
+      "address": "2 Av. André Mècle, 11100 Narbonne, 11100, NARBONNE",
+      "description": "\"L'Homme qui a vu l'ours qui a vu l'homme\" de Pierre Richard (2025). Réservation recommandée. Il est conseillé de se munir d'anti-moustique !"
+    },
+    {
+      "id": "myPopover123",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "culture",
+      "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "08:30",
+        "20:30"
+      ],
+      "location": "SALLELES-D'AUDE",
+      "address": "Place de la République, 11590, SALLELES-D'AUDE",
+      "description": "Chaque mardi dès 8h30. Au programme: - Boucher - Fruits et légumes frais - Vente de vêtements"
+    },
+    {
+      "id": "myPopover124",
+      "title": "EXPOSITION LAPIS LAZULI",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
+      "startDate": "2026-08-25",
+      "endDate": "2026-08-25",
+      "times": [
+        "18:00",
+        "19:30"
+      ],
+      "location": "LA PALME",
+      "address": "50 Avenue de la Mer, 11480, LA PALME",
+      "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
     }
   ]
 }
