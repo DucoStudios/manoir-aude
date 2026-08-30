@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T11:29:13.214Z",
+  "generatedAt": "2026-08-30T10:16:39.945Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 120,
+  "count": 111,
   "events": [
     {
       "id": "myPopover1",
@@ -83,23 +83,6 @@
       "description": "Cours gratuit à St Pierre la Mer du 6 Juillet au 31 Août, jours férié inclus du lundi au vendredi. A l'Espace Beach pour tout les cours fitness (L'évidence Narbonne) et au poste de secours N1 pour la marche aquatique (Club sauvetage pérignanais). Vous pouvez prendre une bouteille d'eau et serviette pour les cours."
     },
     {
-      "id": "myPopover6",
-      "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
-      "startDate": "2026-08-19",
-      "endDate": "2026-08-29",
-      "times": [
-        "10:00",
-        "12:00",
-        "15:30",
-        "18:00"
-      ],
-      "location": "SALLELES-D'AUDE",
-      "address": "Rue Voltaire, 11590, SALLELES-D'AUDE",
-      "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
-    },
-    {
       "id": "myPopover7",
       "title": "EXPOSITION - GRÉS CHANTAL",
       "category": "culture",
@@ -115,40 +98,6 @@
       "location": "FLEURY",
       "address": "Place des Vergnettes, 11560, FLEURY",
       "description": "Exposition – Chemin d'espérance Du 22 août au 3 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 20h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
-    },
-    {
-      "id": "myPopover8",
-      "title": "DIDIER TRIGLIA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-didier-triglia-ricardelle1.png?width=200",
-      "startDate": "2026-08-24",
-      "endDate": "2026-08-29",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Route de Gruissan, 11100, NARBONNE",
-      "description": "Découvrez l’univers artistique de l’artiste singulier Didier Triglia. Près de 40 œuvres à découvrir entre le caveau et la salle d’exposition, peintures et sculptures. Didier Triglia est un artiste plasticien autodidacte, reconnu sur la scène artistique contemporaine depuis plus de 30 ans. Son univers est unique : foisonnant, coloré, peuplé de personnages joyeux, de symboles primitifs et de formes inspirées des arts tribaux, du street art ou encore de la figuration libre. Il crée de manière instinctive, sans croquis, en laissant parler son imaginaire. Ses œuvres, à la fois poétiques et puissantes, sont réalisées sur des supports variés – toile, bois, carton, objets recyclés – dans une démarche à la fois artistique et écologique. Didier Triglia transforme l’ordinaire en extraordinaire, mêlant humour, émotion et spiritualité. Exposé dans de nombreuses galeries en France et à l’international, il est aujourd’hui considéré comme l’un des artistes les plus singuliers de sa génération. Son art est une véritable mythologie personnelle, une invitation à redécouvrir le monde avec des yeux d’enfant."
-    },
-    {
-      "id": "myPopover9",
-      "title": "IT'S TIME TO TAKE A BREAK",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/time-to-take-a-break.jpg?width=200",
-      "startDate": "2026-08-25",
-      "endDate": "2026-08-29",
-      "times": [
-        "11:00",
-        "12:00",
-        "15:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "15 Rue Gustave Fabre, 11100, NARBONNE",
-      "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
     },
     {
       "id": "myPopover10",
@@ -181,285 +130,6 @@
       "location": "LA PALME",
       "address": "Chemin des Caveaux, 11480, LA PALME",
       "description": "Patrimoine architectural du village de La Palme, Michel et Framboise ouvrent au public le jardin & la Chapelle qu'ils ont admirablement restaurés. L'Art parsemé dans le jardin ombragé et affiché dans la petite Chapelle ravira vos sens. Les Visites guidées gratuites de la saison 2026, (de 17h à 18h SAUF INTEMPERIES) : Attention : Début de la visite à 17h (ne soyez pas en retard car la porte sera fermé lorsque la guide débute. Pas d'ouverture des portes en cours de visite). MAI : Vendredi 1er et samedi 2, vendredi 8 et samedi 9, samedi 16 et dimanche 17, samedi 23 et dimanche 24 ; JUIN : Samedi 6, dimanche 7, samedi 20 et dimanche 21 ; JUILLET : Samedi 4 et dimanche 5, dimanche 12, lundi 13 ; AOUT : Samedi 1 et dimanche 2, samedi 15 et dimanche 16, samedi 29 et dimanche 30 ; SEPTEMBRE : samedi 5 et dimanche 6, dimanche 15 et les « Journées du Patrimoine » les samedi 19 et dimanche 20. Hormis ces dates, possibilité de visites guidées gratuites sur rendez-vous pour groupe de 5 personnes minimum. Contact par téléphone. Visites libres pour découvrir les pépites du village de La Palme : Profitons-en pour découvrir le jolie village médiéval de La Palme. * LE PATRIMOINE BÂTI : - L'Eglise du 13e siècle, - La porte de la Barbacane (ancien pont-levis au 8e s.), - La porte de la Tour de l'Horloge du 13e s., - La Chapelle St Pancrace du 10e s., - Le Moulin, - Les lavoirs, * LES VESTIGES DU PASSE : - La Via Domitia, la Voie Antique Romaine passe tout proche de la Chapelle Saint Pancrace. - Les anciennes carrières : . L' Ancienne Carrière de Marbre (Proche de la Carrière Lavoye, actuellement en activité. Vue panoramique sur l'Etang, le Salin (vue des partènements, structures géométriques caractéristiques de la saline,) et au troisième plan ; La Méditerranée. . L' Ancienne Carrière de Meule à ciel ouvert, Vestige Romain où l'on peut découvrir les empreintes circulaires typiques conservées dans la roche de l’extractions de la pierre meulière (Proche de la Chapelle St Pancrace) * LE PATRIMOINE NATUREL : - La lagune, - Le Salin (visites guidées (d'avril à septembre) en Petit train et en Calèche (juillet & août)) - La garrigue - Les Randos du village"
-    },
-    {
-      "id": "myPopover12",
-      "title": "CONCERT KARUMANTA TRIO",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vignette-Karumenta-couleur.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "20:30"
-      ],
-      "location": "FLEURY",
-      "address": "1 Place de l'Occitanie, 11560, FLEURY",
-      "description": "KARUMANTA TRIO Misa Criolla & Musiques d'Amérique Latine Le trio Karumanta vous invite à un voyage musical exceptionnel au cœur des Amériques, entre traditions andines, influences africaines et européennes. LE CONCERT Au programme, une œuvre phare du répertoire latino-américain : la Misa Criolla — composée par l'Argentin Ariel Ramírez (1921–2010), bâtie sur les rythmes, thèmes et styles traditionnels du continent — ainsi qu'un voyage à travers des chants et compositions qui font la richesse et la diversité musicale de l'Amérique brune. Ce concert rassemblera le Karumanta Trio et les participants au stage qu'il anime, unissant musiciens aguerris et amateurs dans un même élan festif et partagé. KARUMANTA TRIO Karumanta — « Ceux qui viennent de loin » en quechua, langue des peuples des hauts plateaux des Andes — est né en 1976 sous l'impulsion de Jorge Radic' et Beb Montgaillard. En 1990, Mario Contreras les rejoint, donnant naissance au Karumanta Trio tel qu'on le connaît aujourd'hui. Originaires du Chili, ces trois artistes font de chaque concert une rencontre entre plusieurs mondes. Leur musique mêle chants et pièces traditionnelles, interprétés sur un large éventail d'instruments, à des compositions originales signées Jorge Radic'. Elle porte en elle les influences européennes et africaines qui ont façonné l'âme musicale du continent sud-américain. Retrouvez Karumanta Trio sur Spotify, Deezer et toutes les plateformes numériques. INFORMATIONS PRATIQUES Karumanta Trio & participants au stage Tarifs Plein tarif : 15 € — Tarif réduit : 12 € encompagniedezoe@gmail.com 06 09 54 50 68"
-    },
-    {
-      "id": "myPopover13",
-      "title": "CONCERT AVEC LE GROUPE 6TO6",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/groupe-6to6.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "21:30"
-      ],
-      "location": "FLEURY",
-      "address": "Place du Globe, 11560, FLEURY",
-      "description": "Concert avec le groupe 6to6 21h30, place du Globe Les Cabanes de Fleury"
-    },
-    {
-      "id": "myPopover14",
-      "title": "SAMEDIS ANNÉES 80'S",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/CHEZ-NORBERT-3.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "21:30"
-      ],
-      "location": "FLEURY",
-      "address": "Place Vergnettes, 11560, FLEURY",
-      "description": "Samedis Années 80'S avec le groupe UP SIDE DOWN 21h30, Place de Vergnettes Saint-Pierre la Mer Lieu"
-    },
-    {
-      "id": "myPopover15",
-      "title": "ATELIER TATAKI ZOME, EMPREINTES VÉGÉTALES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "09:30",
-        "12:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
-      "description": "Balade d’une heure autour du Grand Castélou à la découverte de plantes et des arbres pour une petite reconnaissance. De retour création de tissus imprimés avec la technique du Tataki Zomé. Pédagogie active par la nature pour une approche naturaliste et créative. Sophie Pasquer – Phacélie Réservation par téléphone, 20 pers. max"
-    },
-    {
-      "id": "myPopover16",
-      "title": "GROUPE G63",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/clap-d-ete-12.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "21:30"
-      ],
-      "location": "NARBONNE",
-      "address": "Esplanade Didier-Mouly, 11100, NARBONNE",
-      "description": "Formé par cinq amis d'enfance nés en 1963, un groupe à découvrir en live à Narbonne-Plage !"
-    },
-    {
-      "id": "myPopover17",
-      "title": "EXPOSITION LAPIS LAZULI",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-LAPIS-LAZULI.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "18:00",
-        "19:30"
-      ],
-      "location": "LA PALME",
-      "address": "50 Avenue de la Mer, 11480, LA PALME",
-      "description": "Exposition aquarelle par l'association Lapis Lazuli. 1er étage du Complexe Associatif. Entrée libre"
-    },
-    {
-      "id": "myPopover18",
-      "title": "VISITE GUIDEE LA CHAPELLE \"AU GRE DES VENTS\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/visite-guidee-la-chapelle-2.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "17:00",
-        "18:00"
-      ],
-      "location": "LA PALME",
-      "address": "Chemin des Caveaux, 11480, LA PALME",
-      "description": "Visite guidée gratuite de la Chapelle \"au gré des vents\" hors horaires et dates pour groupe de 4 minimum. Avec ou sans rendez-vous. Expositions diverses."
-    },
-    {
-      "id": "myPopover19",
-      "title": "EXPOSITION PHOTOS 2026",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Photo-Pixabay-4.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "10:00",
-        "18:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Chemin de l'Aire Vieille, 11120, BIZE-MINERVOIS",
-      "description": "L'association Lou Recantou avec le concours de la municipalité présente une exposition du club photo de Bize Minervois. Photos sur le thème insolite et 2."
-    },
-    {
-      "id": "myPopover20",
-      "title": "FORUM DES ASSOCIATIONS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/forum-associations-1200x900.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "17:00",
-        "19:30"
-      ],
-      "location": "NEVIAN",
-      "address": "11200, NEVIAN",
-      "description": "Fête des associations Névianaises place de l'église. Venez choisir votre activité 2026 - 2027 parmi plus de 30 propositions locales."
-    },
-    {
-      "id": "myPopover21",
-      "title": "MARCHÉ ANIMÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "08:00",
-        "15:00"
-      ],
-      "location": "ARGELIERS",
-      "address": "Allée Marcelin Albert, 11120, ARGELIERS",
-      "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
-    },
-    {
-      "id": "myPopover22",
-      "title": "AQUAGYM EN MER",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PLAGE-DU-ROUET-7.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "09:30",
-        "10:15"
-      ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Envie d'une séance d'aquagym en mer ? L'Aqua'Pass de Body'Zen, est fait pour toi ! Aqua'Pass plage du Rouet Les samedis matin à partir du 6 juin Forfait : 50€ Professeure diplômée d'état métiers de la forme et Maître Nageur Sauveteur. Body'Zen, c'est Fitness et Marche aquatique."
-    },
-    {
-      "id": "myPopover24",
-      "title": "GOLDSTAR",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Concert-5.bmp?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "21:30"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Saint-Charles, 11210, PORT-LA-NOUVELLE",
-      "description": "Goldstar Tribute JJ Goldman, place Saint-Charles, 21h45"
-    },
-    {
-      "id": "myPopover25",
-      "title": "VIRGIL",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Virgil-6.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "21:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "11210, PORT-LA-NOUVELLE",
-      "description": "Virgil, la voix de Sardou, place Saint-Charles, à 21h."
-    },
-    {
-      "id": "myPopover26",
-      "title": "TORGNOLE - DOUBLE IMPACT",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/cristouclap-knight-777755.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "11:30",
-        "23:30"
-      ],
-      "location": "GINESTAS",
-      "address": "11120, GINESTAS",
-      "description": "Le Domaine Deux Châteaux Wine vous invite à une grande fête médiévale au cœur du village. Au programme, une journée placée sous le signe des chevaliers et des traditions médiévales : 11h30, apéritif et béhourd, avec des combats de chevaliers en armure 13h30, banquet médiéval, sur réservation 15h30, béhourd villageois, avec des combats au corps à corps 19h00, le duel 20h00, réjouissances, soirée musicale et dansante Venez profiter d’une journée conviviale et festive, au cœur d’une véritable ambiance médiévale."
-    },
-    {
-      "id": "myPopover27",
-      "title": "MARCHÉ BIO",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
-    },
-    {
-      "id": "myPopover28",
-      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
-      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
-    },
-    {
-      "id": "myPopover29",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover30",
-      "title": "MARCHÉ ESTIVAL",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Produits alimentaires et non alimentaires, tout y est !"
-    },
-    {
-      "id": "myPopover31",
-      "title": "BROCANTE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-8.jpg?width=200",
-      "startDate": "2026-08-29",
-      "endDate": "2026-08-29",
-      "times": [
-        "09:00",
-        "17:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Promenade des Barques, 11100, NARBONNE",
-      "description": "Venez chiner sur la promenade des barques à la brocante par l’association des Brocanteurs et Narbonne Broc. Découvrez des antiquités, bibelots, meubles d’antan…"
     },
     {
       "id": "myPopover33",
@@ -1787,6 +1457,194 @@
       "location": "NARBONNE",
       "address": "2 Avenue André Mècle, 11100, NARBONNE",
       "description": "Attrapez-les tous ! Dans le cadre du parcours d’art contemporain « Le Souffle du Temps ». Venez capturer une créature mythique, qu’il faudra dresser et nourrir afin d’accomplir une mission de sauvetage essentiel à l'humanité; Musée Narbo Via. Pour les enfants à partir de 7 ans. Tarif : 3€ en plus du billet d’entrée. Renseignements : tél. 04 68 90 28 90 / narbovia.fr"
+    },
+    {
+      "id": "myPopover126",
+      "title": "A LA RENCONTRE DES ASSOCIATIONS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/jarmoluk-hands-2847508-2.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "09:30",
+        "17:30"
+      ],
+      "location": "GINESTAS",
+      "address": "Chemin des Clergues, 11120, GINESTAS",
+      "description": "Venez découvrir les activités proposées lors de cette journée portes ouverte de la MJC. Une belle occasion de rencontrer les bénévoles, d’échanger avec eux et de découvrir les activités proposées tout au long de l’année."
+    },
+    {
+      "id": "myPopover127",
+      "title": "FORUM DES ASSOCIATIONS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/association-2.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "10:00",
+        "13:00"
+      ],
+      "location": "LA PALME",
+      "address": "Avenue de la Mer, 11480, LA PALME",
+      "description": "Forum des associations au jardin du complexe Associatif et dans la cours de l'école"
+    },
+    {
+      "id": "myPopover128",
+      "title": "VIDE GRENIER",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [],
+      "location": "FLEURY",
+      "address": "27 Av. François Mitterrand, 11560, FLEURY",
+      "description": "Dimanche 6 septembre 2026 – CEP Lieu : Parking Salle des Fêtes, Fleury d’Aude Contact : Nathalie Gouazé – 06 30 66 90 16"
+    },
+    {
+      "id": "myPopover129",
+      "title": "VIDE-GRENIER",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/jackmac34-flea-market-1732562-1920-7.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "08:00",
+        "18:00"
+      ],
+      "location": "BIZE-MINERVOIS",
+      "address": "ancien camping Municipal, 11120, BIZE-MINERVOIS",
+      "description": "Vide-greniers organisé par l’association Les Amis des Chats d’Oc. Venez chiner, dénicher de bonnes affaires et profiter d’un moment convivial tout en soutenant l’association. Buvette et petite restauration sur place."
+    },
+    {
+      "id": "myPopover130",
+      "title": "MESSE",
+      "category": "religious",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Messe-5.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "11:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place de l'Eglise, 11210, PORT-LA-NOUVELLE",
+      "description": "Messe en présence de l’harmonie de Sigean, église, 11h"
+    },
+    {
+      "id": "myPopover131",
+      "title": "LOTO",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Loto.bmp?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "15:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "81 Rue Roger Rapin, 11210, PORT-LA-NOUVELLE",
+      "description": "Loto du Rivage d’Or, salle Elie-Ferval (81 rue Roger-Rapin), 15h"
+    },
+    {
+      "id": "myPopover132",
+      "title": "SOIRÉE MUSETTE",
+      "category": "tradition",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Musique.bmp?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "21:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Soirée musette avec David Firmin, place Léon-Blum, 21h"
+    },
+    {
+      "id": "myPopover133",
+      "title": "ENS - LEVEZ LE NEZ, HOLDA LA CIGOGNE VA PASSER !",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-picnoir.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "09:30",
+        "12:30"
+      ],
+      "location": "SIGEAN",
+      "address": "Route des Cabanes, 11379, SIGEAN",
+      "description": "2,5 km / Facile Petite boucle longeant les salins afin d'observer différents oiseaux des zones humides, dont les cigognes qui choisissent de survoler ce site lors de leur migration La Nature du Sud – Karline Martorell Réservation obligatoire par SMS. 25 personnes max. Matériel d'observation fourni. Rendez-vous à la station d'épuration, route des Cabanes"
+    },
+    {
+      "id": "myPopover134",
+      "title": "DE FERME EN FERME - LES PTITS CATHARES",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Les-Ptits-Cathares-les-vins.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "10:00",
+        "18:00"
+      ],
+      "location": "ROQUEFORT-DES-CORBIERES",
+      "address": "24 rue de Saint Martin, 11540, ROQUEFORT-DES-CORBIERES",
+      "description": "Dans le cadre de \"De ferme en ferme\" vous pourrez trouver sur cette exploitation : - A 10h et à 15h : Balade dans les vignes et dégustations à la vinaigrerie. - Pique-nique : Espace pour pique-niquer devant le caveau, sur la place du village. - Toute la journée : Caveau ouvert pour la dégustation et la vente. Depuis 5 générations la famille de Benoît travaille ses 25 hectares de vignes. L'exploitation familiale et artisanale s'est construite avec la volonté de faire découvrir le raisin d'une autre façon : - En vinaigre maison (rosé ou rouge, sans oublier les vinaigres ambrés et balsamiques ) - En gelée - Vins - Autres produits de l'exploitation ou d'autres producteurs (Sels, huile d'olive...) A goûter et déguster toute la journée au caveau. De la récolte jusqu'à l'étiquetage, tout est fait à la main, sur l'exploitation, dans le respect de l'environnement, ce qui leur a permis d'obtenir le label HVE (Haute Valeur Environnementale). Toute l'année, où trouver leurs produits ? - Directement à la Vinaigrerie (aussi sur RDV). - Sur les marchés locaux - Les Jardins de Jeanine Sigean - Le Comptoir des Producteurs Bize Minervois - Le Panier d’Ariejo Vicdessos - Vente par correspondance possible sur demande (prévoir les frais de port en plus) Tombola : Participez au tirage au sort de la tombola gratuite... des paniers garnis de produits à gagner ! Pensez à remplir le bulletin pendant votre visite dans les fermes... Les petits conseils fermiers : - Chiens : à garder en laisse. - Prenez une glacière pour garder vos achats au frais. - Ce jour-là, suivez les flèches... des panneaux vous guideront vers les fermes où vous serez chaleureusement accueillis... Cet évènement \"De ferme en ferme\", permet de promouvoir une agriculture et une alimentation durables ancrée dans le territoire, et un lien direct entre consommateur.trice.s et paysan.ne.s. Les derniers évènements rappellent l'importance des circuits courts de proximité et montre à quel point le travail des paysan.ne.s et des acteurs du monde rural est essentiel à notre quotidien et à notre autonomie alimentaire. * Toutes les fermes maintiennent leur participation, malgré les terribles incendies qui ont durement impactés plusieurs agriculteurs de notre réseau."
+    },
+    {
+      "id": "myPopover135",
+      "title": "MARCHÉ DE PLEIN VENT",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
+      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
+    },
+    {
+      "id": "myPopover136",
+      "title": "MARCHÉ DES PRODUCTEURS HEBDOMADAIRES",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-producteurs-Pixabay-4.jpg?width=200",
+      "startDate": "2026-09-06",
+      "endDate": "2026-09-06",
+      "times": [
+        "09:00",
+        "12:30"
+      ],
+      "location": "SAINT-NAZAIRE-D'AUDE",
+      "address": "75 Rue de la Tannerie, 11120, SAINT-NAZAIRE-D'AUDE",
+      "description": "Au jardin public, un marché de producteurs locaux tous les dimanches matins. Se rencontrer autour de produits de qualité et de saison."
+    },
+    {
+      "id": "myPopover137",
+      "title": "DÉCOUVREZ NARBONNE PAR LE NOM DES RUES",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--17-.jpg?width=200",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-07",
+      "times": [
+        "17:30",
+        "19:00"
+      ],
+      "location": "NARBONNE",
+      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
+      "description": "En compagnie d'un guide conférencier, laissez-vous surprendre par les noms de rues de Narbonne : une balade originale où plaques et ruelles révèlent les secrets et la mémoire de la ville."
+    },
+    {
+      "id": "myPopover138",
+      "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
+      "startDate": "2026-09-07",
+      "endDate": "2026-09-07",
+      "times": [
+        "15:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
     }
   ]
 }
