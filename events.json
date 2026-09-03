@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T09:19:02.109Z",
+  "generatedAt": "2026-09-03T09:28:51.968Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 111,
+  "count": 105,
   "events": [
     {
       "id": "myPopover1",
@@ -39,35 +39,6 @@
       "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
     },
     {
-      "id": "myPopover3",
-      "title": "OLIVIA'S FOOD TOUR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-02",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Discover the products that define our regional cuisine and explore our rich culinary heritage through the ages. Accompanied by a guide with a small group, explore the city center of Narbonne in search of its gourmet treasures. Travel through the history of local gastronomy, learn about the typical dishes and the legacy of this long past. A fun and enriching quest to nourish the body and mind, during a stroll punctuated by a few tastings. Food lovers, come and try it out!"
-    },
-    {
-      "id": "myPopover4",
-      "title": "BALADE ARTISANALE DANS LE BOURG",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--40-.jpg?width=200",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-02",
-      "times": [
-        "16:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Plongez dans l’âme du quartier du Bourg et poussez les portes de ses artisans et créateurs. Suivez notre guide dans ce quartier intrinsèquement lié à l’artisanat et au commerce depuis ses origines, des échoppes médiévales aux ateliers contemporains, pour découvrir les savoir-faire qui ont façonné la ville. Cette balade immersive vous mènera à la rencontre d’artisans d’aujourd’hui qui perpétuent, chacun à leur manière, l’esprit créatif du quartier. Démonstrations, récits, anecdotes… Une parenthèse au cœur du patrimoine vivant."
-    },
-    {
       "id": "myPopover5",
       "title": "MUJO",
       "category": "culture",
@@ -83,67 +54,6 @@
       "location": "NARBONNE",
       "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
-    },
-    {
-      "id": "myPopover6",
-      "title": "VISITE DE LA BASILIQUE SAINT-PAUL ET DU BOURG MÉDIEVAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-02",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "LA BASILIQUE SAINT-PAUL ET LE BOURG MÉDIÉVAL À la découverte d’un des plus vieux édifices religieux de Narbonne, véritable témoin de l’évolution du roman au gothique et bâti sur les restes d’une nécropole antique. Les rues avoisinantes et leurs façades évoquent la vie florissante du quartier de Bourg au Moyen Âge et à la Renaissance."
-    },
-    {
-      "id": "myPopover7",
-      "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-02",
-      "times": [
-        "10:00",
-        "12:00",
-        "15:30",
-        "18:30"
-      ],
-      "location": "SALLELES-D'AUDE",
-      "address": "Rue Voltaire, 11590, SALLELES-D'AUDE",
-      "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
-    },
-    {
-      "id": "myPopover8",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-02",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover9",
-      "title": "DERNIER MARCHÉ NOCTURE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-2.bmp?width=200",
-      "startDate": "2026-09-02",
-      "endDate": "2026-09-02",
-      "times": [
-        "18:00",
-        "00:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Saint-Charles, 11210, PORT-LA-NOUVELLE",
-      "description": "Dernier Marché nocturne, place Saint-Charles, 18h à minuit"
     },
     {
       "id": "myPopover10",
