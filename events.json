@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-04T09:20:26.260Z",
+  "generatedAt": "2026-09-05T08:50:07.255Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 115,
+  "count": 104,
   "events": [
     {
       "id": "myPopover1",
@@ -56,64 +56,6 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover4",
-      "title": "DON DU SANG",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/555-3.jpg?width=200",
-      "startDate": "2026-09-03",
-      "endDate": "2026-09-04",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Domaine de Montplaisir, 11100, NARBONNE",
-      "description": "Don du Sang – Mobilisez-vous pour sauver des vies Venez participer à une collecte de don du sang au Domaine de Montplaisir. Un geste simple, mais essentiel pour sauver des vies. Pour plus de renseignements : dondesang.efs.sante.fr Chaque don compte, alors n’hésitez pas à venir faire un geste de solidarité !"
-    },
-    {
-      "id": "myPopover5",
-      "title": "BALADE GOURMANDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
-    },
-    {
-      "id": "myPopover6",
-      "title": "VISITE DU PALAIS DES ARCHEVÊQUES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "11:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "LE PALAIS DES ARCHEVÊQUES, DU PALAIS ROMAN À L’HÔTEL DE VILLE NÉOGOTHIQUE L’histoire a façonné le palais, à la fois forteresse médiévale et résidence princière. Salles d’apparat, anciennes chapelles, plafonds peints, cours et escaliers monumentaux vous transportent dans l’intimité des prélats, au fil des siècles."
-    },
-    {
-      "id": "myPopover7",
-      "title": "VISITE D'EXEPTION PIERRES ET VINS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "10:30"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "nouveau ! UNE VISITE D'EXEPTION : PIERRES ET VINS Goûtez l’âme de Narbonne ! Découvrez son cœur historique en vous laissant guider à travers ses ruelles chargées d’histoire, où se dévoilent au fil des étapes ses vestiges cachés, ses églises discrètes et son riche passé viticole remontant à l’Antiquité. Trésors de notre patrimoine et édifices remarquables jalonnent cette immersion unique : la visite vous ouvre les portes de lieux habituellement fermés au public, avant de s’achever par une dégustation de vin dans un cadre patrimonial d’exception. Visite commentée proposée par les guides-conférenciers de la Ville d’art et d’histoire de Narbonne, en partenariat avec AOC La Clape et le Conseil Interprofessionnel des Vins du Languedoc (CIVL)."
-    },
-    {
       "id": "myPopover8",
       "title": "EXPOSITION - ARNAUD DANY & BÉROUD GOIS ANDRÉE",
       "category": "culture",
@@ -129,106 +71,6 @@
       "location": "FLEURY",
       "address": "Place des Vergnettes, 11560, FLEURY",
       "description": "Du 4 septembre au 16 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
-    },
-    {
-      "id": "myPopover9",
-      "title": "LE PIANO DU LAC : MOUSS ET HAKIM (ZEBDA)",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/1200x900-Piano-du-lac.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "20:00"
-      ],
-      "location": "VENTENAC-EN-MINERVOIS",
-      "address": "11120, VENTENAC-EN-MINERVOIS",
-      "description": "Les concerts Piano du lac sont des concerts solidaires sur le canal du Midi, organisés au bénéfice de la replantation du canal du Midi. Cette année sur le premier weekend de septembre, vendredi 4 et samedi 5 septembre, Mouss et Hakim du groupe Zebda proposent un concert flottant festif et unique à Ventenac en Minervois puis à Castelnaudary. Mouss et Hakim est le duo formé par les frères Mustapha et Hakim Amokrane et leurs projets en duo, leur parcours mêle engagement, mémoire et émancipation. Porteuses de résistance , leurs chansons accompagnent de l’indignation à l’action avec un seul dogme : la fête fait partie intégrante de la réflexion. À l’occasion de ce concert flottant mis en scène sur le canal du Midi par le pianO du lac, Mouss et Hakim seront accompagnés par Simon Barbe à l'accordéon et au piano. Ils présenteront leur nouveau spectacle - Comme à la maison - récit de leurs aventures depuis 35 ans. La Mission de Replantation - Replantons le canal du Midi : Toute la billetterie est reversée pour la replantation des arbres du canal du Midi."
-    },
-    {
-      "id": "myPopover10",
-      "title": "EXPOSITION: ROUTES D'EAU DU NARBONNAIS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/e2fc7df8-aa2d-4ac5-977a-614167764a8d.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "15:00",
-        "17:30"
-      ],
-      "location": "SALLELES-D'AUDE",
-      "address": "Rue Voltaire, 11590, SALLELES-D'AUDE",
-      "description": "L'Espace Média Grand Narbonne vous propose de sillonner les \"Rotes d'eau du Narbonnais: le canal du midi, le canal de jonction et le canal de la Robine\". L'exposition retrace l'histoire de ces cours d'eau qui traversent notre territoire depuis des siècles, présente les nombreux ouvrages d'art qui les parsèment, évoque les activités économiques et commerciales qui gravitèrent autour et fait découvrir l'avenir de ces canaux résolument tournés vers le tourisme fluvial, depuis leur classement par l'Unesco comme Patromoine mondial de l'humanité"
-    },
-    {
-      "id": "myPopover11",
-      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "08:30",
-        "10:00"
-      ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
-    },
-    {
-      "id": "myPopover12",
-      "title": "RUGBY A XV - RCN XV / USON NEVERS",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/RCN-USON-Nevers.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "19:30"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "RUGBY à XV - Match de Pro D2 - 2ème Journée : Racing Club Narbonnais XV contre USON Nevers au Parc des Sports et de l'Amitié le Vendredi 4 septembre à 19 H 30."
-    },
-    {
-      "id": "myPopover13",
-      "title": "SOIRÉE FESTIVE",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Concert-3.bmp?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "21:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Soirée festive avec ACC, Rockbière, place Léon-Blum, 21h"
-    },
-    {
-      "id": "myPopover14",
-      "title": "IRISH COFFEE GROUP",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/04.09---Concert-Fete-locale-2026.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "18:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Rue Jean Jaurès, 11210, PORT-LA-NOUVELLE",
-      "description": "Concert gratuit devant la médiathèque"
-    },
-    {
-      "id": "myPopover15",
-      "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-04",
-      "times": [
-        "18:30"
-      ],
-      "location": "FLEURY",
-      "address": "2 place des pêcheurs, 11560, FLEURY",
-      "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
       "id": "myPopover16",
