@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-08T09:23:07.508Z",
+  "generatedAt": "2026-09-09T09:24:47.988Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 83,
+  "count": 77,
   "events": [
     {
       "id": "myPopover1",
@@ -34,32 +34,6 @@
       "description": "Semaine découverte pour la semaine de la forme gratuit Lundi : tai chi chuan 18h Mardi : qi gong jeudi : Eco zen rdv parking casino Blacks Pilates"
     },
     {
-      "id": "myPopover3",
-      "title": "VISITE DE LA CATHÉDRALE SAINT-JUST ET SAINT-PASTEUR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
-      "times": [
-        "11:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "LA CATHÉDRALE SAINT-JUST ET SAINT-PASTEUR Au XIIIe siècle, débute la construction de l’un des plus beaux édifices religieux gothiques du Midi qui se distingue tant par son chœur, unique ouvrage achevé au Moyen Âge à la hauteur vertigineuse, que par ses décors intérieurs."
-    },
-    {
-      "id": "myPopover4",
-      "title": "MENEZ L'ENQUÊTE, L'AFFAIRE DU BIJOU DISPARU",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
-      "times": [],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "nouveau ! MENEZ L’ENQUÊTE EN FAMILLE OU ENTRE AMIS ! L’AFFAIRE DU BIJOU DISPARU Qui a volé la bague de l’archevêque ? Une affaire digne d’un Agatha Christie : des agents du Palais-Musée sont suspectés du vol de bijou. Le larcin a-t-il été commis par Madame Classtout ? Monsieur Régitout ? Madame Surveiltout ? Le guide ? La Conservatrice ? Le technicien ? Pour l’heure, ils sont tous coupables… À vous de résoudre cette enquête au coeur des collections dans le parcours d’Art du Palais-Musée ! En autonomie, sans réservation. Rendez-vous à l’accueil du parcours d’Art, de 10h à 12h et de 14h30 à 16h30, pour récupérer le livret. Inclus dans le billet d’entrée Pass Monumentale Narbonne."
-    },
-    {
       "id": "myPopover5",
       "title": "IT'S TIME TO TAKE A BREAK",
       "category": "culture",
@@ -75,65 +49,6 @@
       "location": "NARBONNE",
       "address": "15 Rue Gustave Fabre, 11100, NARBONNE",
       "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
-    },
-    {
-      "id": "myPopover6",
-      "title": "MARCHÉ AUX FRIPES",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
-    },
-    {
-      "id": "myPopover7",
-      "title": "MARCHÉ AU BLÉ",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
-      "times": [
-        "07:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
-    },
-    {
-      "id": "myPopover8",
-      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
-      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
-    },
-    {
-      "id": "myPopover9",
-      "title": "MARCHÉ ESTIVAL",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-08",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Produits alimentaires et non alimentaires, tout y est !"
     },
     {
       "id": "myPopover10",
