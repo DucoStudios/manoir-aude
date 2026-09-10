@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-09T09:24:47.988Z",
+  "generatedAt": "2026-09-10T09:23:58.257Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 77,
+  "count": 106,
   "events": [
     {
       "id": "myPopover1",
@@ -34,7 +34,7 @@
       "description": "Semaine découverte pour la semaine de la forme gratuit Lundi : tai chi chuan 18h Mardi : qi gong jeudi : Eco zen rdv parking casino Blacks Pilates"
     },
     {
-      "id": "myPopover5",
+      "id": "myPopover3",
       "title": "IT'S TIME TO TAKE A BREAK",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/time-to-take-a-break.jpg?width=200",
@@ -51,36 +51,7 @@
       "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
     },
     {
-      "id": "myPopover10",
-      "title": "OLIVIA'S FOOD TOUR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-09",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Discover the products that define our regional cuisine and explore our rich culinary heritage through the ages. Accompanied by a guide with a small group, explore the city center of Narbonne in search of its gourmet treasures. Travel through the history of local gastronomy, learn about the typical dishes and the legacy of this long past. A fun and enriching quest to nourish the body and mind, during a stroll punctuated by a few tastings. Food lovers, come and try it out!"
-    },
-    {
-      "id": "myPopover11",
-      "title": "BALADE ARTISANALE DANS LE BOURG",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--40-.jpg?width=200",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-09",
-      "times": [
-        "16:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Plongez dans l’âme du quartier du Bourg et poussez les portes de ses artisans et créateurs. Suivez notre guide dans ce quartier intrinsèquement lié à l’artisanat et au commerce depuis ses origines, des échoppes médiévales aux ateliers contemporains, pour découvrir les savoir-faire qui ont façonné la ville. Cette balade immersive vous mènera à la rencontre d’artisans d’aujourd’hui qui perpétuent, chacun à leur manière, l’esprit créatif du quartier. Démonstrations, récits, anecdotes… Une parenthèse au cœur du patrimoine vivant."
-    },
-    {
-      "id": "myPopover12",
+      "id": "myPopover4",
       "title": "MUJO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/shunko1.jpg?width=200",
@@ -97,48 +68,7 @@
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
     },
     {
-      "id": "myPopover13",
-      "title": "VISITE DE LA BASILIQUE SAINT-PAUL ET DU BOURG MÉDIEVAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-09",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "LA BASILIQUE SAINT-PAUL ET LE BOURG MÉDIÉVAL À la découverte d’un des plus vieux édifices religieux de Narbonne, véritable témoin de l’évolution du roman au gothique et bâti sur les restes d’une nécropole antique. Les rues avoisinantes et leurs façades évoquent la vie florissante du quartier de Bourg au Moyen Âge et à la Renaissance."
-    },
-    {
-      "id": "myPopover14",
-      "title": "ATELIERS THEATRE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-09",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
-      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
-    },
-    {
-      "id": "myPopover15",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-09-09",
-      "endDate": "2026-09-09",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover16",
+      "id": "myPopover5",
       "title": "SIGUE A OLIVIA EN SU FOOD TOUR",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LES-HALLES-2.jpg?width=200",
@@ -153,7 +83,7 @@
       "description": "Sigue a Olivia en un food tour en español por el centro histórico de Narbona y su mercado : un viaje sabroso en el tiempo con anécdotas y degustaciones de los productos típicos de nuestra región. Amigos gourmets, ¡no esperen más y vengan a probarlo!"
     },
     {
-      "id": "myPopover17",
+      "id": "myPopover6",
       "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -167,7 +97,7 @@
       "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
     },
     {
-      "id": "myPopover18",
+      "id": "myPopover7",
       "title": "VISITE DÉCOUVERTE DU COEUR HISTORIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -181,7 +111,7 @@
       "description": "PARCOURS DÉCOUVERTE EN CITÉ, COEUR HISTORIQUE Avec un guideconférencier, flânez dans le quartier de Cité et découvrez plus de 2000 ans d’histoire, au travers des monuments et des vestiges qui constituent l’âme de Narbonne !"
     },
     {
-      "id": "myPopover19",
+      "id": "myPopover8",
       "title": "8 FEMMES : LES GRANDES FIGURES FÉMININES DE NARBONNE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Design-sans-titre-22.png?width=200",
@@ -196,7 +126,7 @@
       "description": "Partez à la rencontre de 8 personnages féminins qui ont marqué leur temps. De l'Antiquité à nos jours, la visite met en perspective leurs parcours avec l'évolution de la condition féminine au fil du temps. Grandes figures ou anonymes, elles permettent de raconter la ville autrement au cours d'une balade sensible. Attention, le RDV est fixé sur la Place du Forum à Narbonne."
     },
     {
-      "id": "myPopover20",
+      "id": "myPopover9",
       "title": "SOIRÉE CINÉMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/cine-compostelle-bize.jpg?width=200",
@@ -211,7 +141,7 @@
       "description": "L’association Camins et la commune de Bize-Minervois vous invitent à la projection du film Compostelle. La soirée se poursuivra autour d’un verre de l’amitié, l’occasion d’échanger et de partager vos impressions autour du film."
     },
     {
-      "id": "myPopover21",
+      "id": "myPopover10",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
@@ -228,7 +158,7 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover22",
+      "id": "myPopover11",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -243,7 +173,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover23",
+      "id": "myPopover12",
       "title": "MARCHÉ ESTIVAL",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
@@ -258,7 +188,7 @@
       "description": "Produits alimentaires et non alimentaires, tout y est !"
     },
     {
-      "id": "myPopover24",
+      "id": "myPopover13",
       "title": "ESCALE IODÉE – RESTAURANT CHEZ BLONDIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
@@ -272,7 +202,7 @@
       "description": "Chez Blondie vous propose une escale gourmande et iodée Les coquillages de \"Occitanie Coquillages\" s’invitent pour une soirée spéciale autour de plateaux de fruits de mer fraîchement livrés. Dégustation sur place ou à emporter Accompagné d’un verre de vin et de charcuterie À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
-      "id": "myPopover25",
+      "id": "myPopover14",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -287,7 +217,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover26",
+      "id": "myPopover15",
       "title": "VISITE DU PALAIS DES ARCHEVÊQUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -301,7 +231,7 @@
       "description": "LE PALAIS DES ARCHEVÊQUES, DU PALAIS ROMAN À L’HÔTEL DE VILLE NÉOGOTHIQUE L’histoire a façonné le palais, à la fois forteresse médiévale et résidence princière. Salles d’apparat, anciennes chapelles, plafonds peints, cours et escaliers monumentaux vous transportent dans l’intimité des prélats, au fil des siècles."
     },
     {
-      "id": "myPopover27",
+      "id": "myPopover16",
       "title": "SOIRÉE 80'S",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-CANOTIER-3.jpg?width=200",
@@ -315,7 +245,7 @@
       "description": "Soirée Année 80'S avec Epsylon Bar Restaurant Le Canotier Les Cabanes de Fleury"
     },
     {
-      "id": "myPopover28",
+      "id": "myPopover17",
       "title": "QUIZZ MUSICAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/geralt-to-dance-108915-4.jpg?width=200",
@@ -330,7 +260,7 @@
       "description": "Venez tester vos connaissances en musique dans une ambiance conviviale et festive. Buvette et petite restauration sur place."
     },
     {
-      "id": "myPopover29",
+      "id": "myPopover18",
       "title": "LA NUIT DU MIDI",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/1280x720px.jpg?width=200",
@@ -345,7 +275,7 @@
       "description": "L'Office de Tourisme de la Côte du Midi vous invite à Sallèles-d'Aude pour une nouvelle Nuit du Midi, toujours placée sous le signe de la convivialité et du partage ! Cette grande fête, gratuite et ouverte à tous, dans un esprit guinguette réunit habitants et professionnels du tourisme pour clôturer la saison estivale dans une ambiance festive et chaleureuse. Dès 19h, Le Calvaire de Sallèles-d'Aude s'anime et prend des airs de guinguette sous les étoiles: - Dégustations dans un village de vignerons et de producteurs locaux. - Foodtrucks et brasero, brasserie \"Les Têtes Plates\" et des produits du terroir. - DJ set par DJ Petit Nico. Venez en famille ou entre amis, profitez des saveurs du terroir, rencontrez les producteurs et dansez au rythme de la Côte du Midi."
     },
     {
-      "id": "myPopover30",
+      "id": "myPopover19",
       "title": "LA NOUVELLE PHOTOGRAPHIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/11.09---Festival-LNP-2026.jpg?width=200",
@@ -357,7 +287,7 @@
       "description": "La nouvelle photographie 6 eme édition tout public"
     },
     {
-      "id": "myPopover31",
+      "id": "myPopover20",
       "title": "VIDE GRENIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-166.PNG?width=200",
@@ -372,7 +302,7 @@
       "description": "Vide grenier à Peyriac-de-Mer"
     },
     {
-      "id": "myPopover32",
+      "id": "myPopover21",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -387,7 +317,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover33",
+      "id": "myPopover22",
       "title": "STAGE PHOTO",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-167.PNG?width=200",
@@ -399,7 +329,7 @@
       "description": "11 au 13 septembre 2026 : stage photo de 3 jours 2 nuits en demi-pension (débutants acceptés) sur le thème \"Couleurs et Matières des Lagunes\" Thématique : Textures, sel, eau, végétation méditerranéenne Programme indicatif (selon météo) : • Exploration des contrastes de lumière estivale • Atelier technique (exposition, filtres, longues focales) • Restitution conviviale le dernier soir Débutants acceptés"
     },
     {
-      "id": "myPopover34",
+      "id": "myPopover23",
       "title": "ENS - INSECTES NOCTURNES ET ASTRONOMIE À SAINTE LUCIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-fleur.jpg?width=200",
@@ -414,7 +344,7 @@
       "description": "0 km / Facile Observation d’insectes et du ciel, biodiversité, contes et comptages d’étoiles seront au menu de cette soirée pour montrer comment la préservation de la nuit permet de protéger le vivant. Insectes et nature – Stéphanie Dubois Réservation obligatoire par SMS. 25 personnes max. Matériel d'observation fourni. Prévoir vêtements chauds, boissons chaudes et éventuellement couvertures, plaids, fauteuils. Rendez vous maison éclusière, à 10 min à pied du parking obligatoire"
     },
     {
-      "id": "myPopover35",
+      "id": "myPopover24",
       "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
@@ -428,7 +358,7 @@
       "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
-      "id": "myPopover36",
+      "id": "myPopover25",
       "title": "RENC'ART, RENCONTRE DES MÉTIERS D'ART",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ceramique-10.jpg?width=200",
@@ -443,7 +373,7 @@
       "description": "Palais des congrès, samedi de 10h à 19h , dimanche de 10h à 18h. Pour cette édition 2026, Renc’Art réunit 42 artisans d’art et vous invite à découvrir la richesse et l’excellence de leurs savoir-faire à travers des pièces uniques, originales et d’exception. Bijoux, textile, céramique, bois, sculpture, mobilier, luminaires, design végétal… une diversité de créations pensées aussi bien pour se faire plaisir au quotidien que pour embellir un intérieur, aménager un lieu ou accompagner les projets de décorateurs, architectes, domaines et professionnels. Des créations singulières, réalisées avec passion et savoir-faire, pour tous les goûts et pour tous les budgets, avec également des pièces d’exception destinées aux projets les plus exigeants. Renc’Art, c’est la rencontre entre la création, le savoir-faire artisanal et l’art de vivre. Liste des exposants 2026 : Adligna Ébéniste ALEK ATELIER Ande's Art Anthony Thévenoux ART EN VIDRE ARTOTEK Atelier AB Atelier Didi Bhati Atelier du Trefle Atelier Passage secret Bali Coco maroquinerie BERTHEAS THIERRY Céline Gauthier Céramique Christine Gomez Création COCOLINO DIAPOESIE Domi Fado Estelle Mignot Félix Racoupeau Hélène Lacquement L atelier de Ness L' Atelier de Caro La Demoiselle Bleu Le YaB Lab Les bois de la passion Les Curiosités de Fred Magny Carvalho MINO Nathalie Tran Van Thanh O'Calme Oogaya POTERIE DU GALBE PUSHI RONDINGUE SAMARES AILEES Sophie Autard Stéphanie lajus Studio2m Tahouré Tête d'enclume thibus collection Victorian Rehab"
     },
     {
-      "id": "myPopover37",
+      "id": "myPopover26",
       "title": "CONCOURS DE PÊCHE - ACTINAUTIC",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Artinautic-2.jpg?width=200",
@@ -457,7 +387,7 @@
       "description": "Concours de pêche côtière à partir de 8h00, proposé par Actinautic Les Cabanes de Fleury - Port"
     },
     {
-      "id": "myPopover38",
+      "id": "myPopover27",
       "title": "BIZ'ESTIVALES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/BizEstivales-2.jpg?width=200",
@@ -472,7 +402,7 @@
       "description": "Le rendez-vous incontournable de l’été à Bize-Minervois ! Pour cette dernière soirée de la saison, nous vous donnons rendez-vous au jardin public pour une soirée conviviale avec dégustation de produits locaux, tapas, animée par un concert."
     },
     {
-      "id": "myPopover39",
+      "id": "myPopover28",
       "title": "POI, UN TOURBILLON DE CIRQUE ET DE POÉSIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/POI-2.jpg?width=200",
@@ -487,7 +417,7 @@
       "description": "Des représentations du Théâtre+Cinéma Scène Nationale du Grand Narbonne sont également proposées hors-les-mur. Et si une toupie pouvait arrêter le temps? Avec ce spectacle, Guillem Vizcaino transforme cet objet de notre enfance en partenaire de jeu. Un spectacle poétique et joyeux, qui vous fait littéralement tourner la tête. Dès 6 ans. Entrée libre, dans la limite des places disponibles."
     },
     {
-      "id": "myPopover40",
+      "id": "myPopover29",
       "title": "FESTI'BULLES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Festi-Bulles-2.jpg?width=200",
@@ -502,7 +432,7 @@
       "description": "L' association De Fil en Bulles vous propose la 3ème édition\" Festi'Bulles\". Un festival des arts vivants pour petits et grands, des spectacles, ateliers en famille, maquillage. Buvette et restaurant. Réservation conseillée. Entrée libre"
     },
     {
-      "id": "myPopover41",
+      "id": "myPopover30",
       "title": "LO MERCAT FESTIU",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/lo-mercat-bize.jpg?width=200",
@@ -517,7 +447,7 @@
       "description": "Comme tous les samedis, retrouvez le marché animé \"Lo Mercat Festiu\" De 8h à 14h30, venez profiter d'un moment convivial au cœur de Bize-Minervois. Producteurs locaux, commerçants, artisans et animation musicale. Petite restauration et dégustation de vin."
     },
     {
-      "id": "myPopover42",
+      "id": "myPopover31",
       "title": "MARCHÉ ANIMÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
@@ -532,10 +462,10 @@
       "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
     },
     {
-      "id": "myPopover43",
+      "id": "myPopover32",
       "title": "FÊTE DU VÉLO",
       "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Fete-du-Velo-2.jpg?width=200",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/velo-17.jpg?width=200",
       "startDate": "2026-09-12",
       "endDate": "2026-09-12",
       "times": [
@@ -543,11 +473,11 @@
         "17:00"
       ],
       "location": "NARBONNE",
-      "address": "cours mirabeau, 11100, NARBONNE",
-      "description": "Une journée dédiée à la promotion des mobilités actives sur le territoire, organisée par le Grand Narbonne, avec animations et temps de sensibilisation autour du vélo."
+      "address": "11100, NARBONNE",
+      "description": "Chaque année depuis trois ans, la Fête du vélo du Grand Narbonne investit le cours Mirabeau à Narbonne pour mettre en avant le vélo sous toutes ses formes, que ce soit pour un usage sportif, ludique ou quotidien. Au programme : simulateur, manèges, jeux, biking, présentation du service de location de vélos à assistance électrique CitiVélo, démonstration et initiation au BMX Freestyle, circuits vélos… L'occasion aussi de sensibiliser petits et grands à la pratique de la petite reine lors d'ateliers et de quizz. Venez nombreux et profitez pleinement des animations !"
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover33",
       "title": "ENS - LES EXAL'TANTS !",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-grenouille.jpg?width=200",
@@ -562,7 +492,7 @@
       "description": "6 km / Facile / + 6 ans Le matin, balade à énigmes de découverte des Exals : observation des roches fossiles, résurgences et végétations. L'après-midi sera consacrée à la découverte de la plage et du monde marin. Réservation obligatoire par téléphone. 25 personnes max. Matériel d'observation fourni. Prévoir pique-nique. Rendez-vous parking du port"
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover34",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -577,7 +507,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover35",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -592,7 +522,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover36",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -607,7 +537,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover37",
       "title": "ATELIER CULINAIRE À LA VILLA MASKALI",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/file-000000006278720a9d1ac8823bf10a5a.jpg?width=200",
@@ -619,7 +549,7 @@
       "description": "Venez cuisiner en famille, entre amis ou entre collègues aux côtés du chef Patrick Cachot, dans l’atmosphère chaleureuse de la Villa Maskali. Ancien chef de restaurant gastronomique, Patrick transmet son savoir-faire dans un esprit de partage : gestes techniques, cuissons justes, associations de saveurs et respect des produits de saison. Chaque atelier se prolonge autour d’un moment de dégustation, pour savourer ensemble les préparations réalisées et vivre une véritable expérience culinaire à Cuxac-d’Aude, près de Narbonne."
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover38",
       "title": "MARCHÉ ESTIVAL",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
@@ -634,7 +564,7 @@
       "description": "Produits alimentaires et non alimentaires, tout y est !"
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover39",
       "title": "MENEZ L'ENQUÊTE, L'AFFAIRE DU BIJOU DISPARU",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -646,7 +576,7 @@
       "description": "nouveau ! MENEZ L’ENQUÊTE EN FAMILLE OU ENTRE AMIS ! L’AFFAIRE DU BIJOU DISPARU Qui a volé la bague de l’archevêque ? Une affaire digne d’un Agatha Christie : des agents du Palais-Musée sont suspectés du vol de bijou. Le larcin a-t-il été commis par Madame Classtout ? Monsieur Régitout ? Madame Surveiltout ? Le guide ? La Conservatrice ? Le technicien ? Pour l’heure, ils sont tous coupables… À vous de résoudre cette enquête au coeur des collections dans le parcours d’Art du Palais-Musée ! En autonomie, sans réservation. Rendez-vous à l’accueil du parcours d’Art, de 10h à 12h et de 14h30 à 16h30, pour récupérer le livret. Inclus dans le billet d’entrée Pass Monumentale Narbonne."
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover40",
       "title": "FESTIVAL D'ORGUES - LES ORGUES DE NARBONNE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/org-2.jpg?width=200",
@@ -661,7 +591,7 @@
       "description": "La beauté des harmonies crées par les instruments à vent et la puissance maîtrisée de l'orgue, pour des instants d'émotion où chaque son sublime l'autre. Jean-François Escourrou et Milo : une rencontre exceptionnelle autour de l'orgue pour un moment d'exception."
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover41",
       "title": "A LA RENCONTRE DES ASSOCIATIONS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/jarmoluk-hands-2847508-3.jpg?width=200",
@@ -676,7 +606,7 @@
       "description": "Venez découvrir les activités proposées par les associations du village lors de cette matinée de présentation. Une belle occasion de rencontrer les bénévoles, d’échanger avec eux et de découvrir les activités proposées tout au long de l’année."
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover42",
       "title": "POI, UN TOURBILLON DE CIRQUE ET DE POÉSIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/POI.jpg?width=200",
@@ -691,7 +621,7 @@
       "description": "Des représentations du Théâtre+Cinéma Scène Nationale du Grand Narbonne sont également proposées hors-les-mur. Et si une toupie pouvait arrêter le temps? Avec ce spectacle, Guillem Vizcaino transforme cet objet de notre enfance en partenaire de jeu. Un spectacle poétique et joyeux, qui vous fait littéralement tourner la tête. Dès 6 ans. Entrée libre, dans la limite des places disponibles."
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover43",
       "title": "VIDE GRENIER",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
@@ -703,7 +633,7 @@
       "description": "L'Amicale des Sapeurs Pompiers organise son vide-grenier Lieu : Parking Salle des Fêtes, Fleury d’Aude Contact : Xavier Pérez – 06 03 65 06 13"
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover44",
       "title": "VIDE-GRENIERS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche---WEB---RESEAUX-SOCIAUX-sept-2026.jpg?width=200",
@@ -718,7 +648,7 @@
       "description": "Par le comité d'animations Voltaire-Joffre et ses commerçants."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover46",
       "title": "RASSEMBLEMENT AUTOMOBILE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-2.jpg?width=200",
@@ -733,7 +663,7 @@
       "description": "Rassemblement automobile, par l'Automobile club de la Narbonnaise."
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover47",
       "title": "ATELIER DO-IN D’AUTOMNE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
@@ -748,7 +678,7 @@
       "description": "Par Caroline frank 2h pour découvrir les spécificités énergétiques de l’automne et apprendre à stimuler les points d’acupression des méridiens Poumon et Gros Intestin."
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover48",
       "title": "JOURNÉE PORTES OUVERTE ÉCOLE DE VOILE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Journee-portes-ouvertez-Ecole-de-voile.jpg?width=200",
@@ -756,16 +686,14 @@
       "endDate": "2026-09-13",
       "times": [
         "10:00",
-        "12:00",
-        "14:00",
         "17:00"
       ],
       "location": "NARBONNE",
-      "address": "12 Rue des Nautiquards, 11100, NARBONNE",
-      "description": "La société nautique de Narbonne vous propose une journée portes ouvertes de l'école de voile. Gratuit"
+      "address": "43 rue des Nautiquards, 11100, NARBONNE",
+      "description": "La société nautique de Narbonne vous propose une journée portes ouvertes de l'école de voile. Vous pouvez venir en famille, tester, l'optimist, le voilier pour les enfants, le canoë, le stand up paddle, le bateau collectif et d'autres. Toutes ces activités seront GRATUITES ! Ce sera l'occasion d'essayer de nouvelles activités à pratiquer toute l'année et découvrir un site exceptionnel au bord de l'étang à deux pas du centre-ville. N'hésitez pas à nous contacter par téléphone ou par mail, ou venir directement à l'école de voile de la Société Nautique de Narbonne."
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover49",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -780,7 +708,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover50",
       "title": "MARCHÉ DES PRODUCTEURS HEBDOMADAIRES",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-producteurs-Pixabay-4.jpg?width=200",
@@ -795,7 +723,7 @@
       "description": "Au jardin public, un marché de producteurs locaux tous les dimanches matins. Se rencontrer autour de produits de qualité et de saison."
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover51",
       "title": "LOTO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-loto-11.jpg?width=200",
@@ -810,7 +738,7 @@
       "description": "Le comité de lutte contre le cancer organise un loto dont les bénéfices seront reversés à l’ICM de Montpellier. Venez nombreux participer à cette journée conviviale et soutenir cette belle cause. Ouverture des portes à 13h30."
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover52",
       "title": "DÉCOUVREZ NARBONNE PAR LE NOM DES RUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--17-.jpg?width=200",
@@ -825,7 +753,7 @@
       "description": "En compagnie d'un guide conférencier, laissez-vous surprendre par les noms de rues de Narbonne : une balade originale où plaques et ruelles révèlent les secrets et la mémoire de la ville."
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover53",
       "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -839,7 +767,7 @@
       "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover54",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -856,7 +784,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover55",
       "title": "MUJO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/shunko1.jpg?width=200",
@@ -873,7 +801,7 @@
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover56",
       "title": "VISITE DE LA CATHÉDRALE SAINT-JUST ET SAINT-PASTEUR",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -887,7 +815,7 @@
       "description": "LA CATHÉDRALE SAINT-JUST ET SAINT-PASTEUR Au XIIIe siècle, débute la construction de l’un des plus beaux édifices religieux gothiques du Midi qui se distingue tant par son chœur, unique ouvrage achevé au Moyen Âge à la hauteur vertigineuse, que par ses décors intérieurs."
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover57",
       "title": "MENEZ L'ENQUÊTE, L'AFFAIRE DU BIJOU DISPARU",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -899,7 +827,7 @@
       "description": "nouveau ! MENEZ L’ENQUÊTE EN FAMILLE OU ENTRE AMIS ! L’AFFAIRE DU BIJOU DISPARU Qui a volé la bague de l’archevêque ? Une affaire digne d’un Agatha Christie : des agents du Palais-Musée sont suspectés du vol de bijou. Le larcin a-t-il été commis par Madame Classtout ? Monsieur Régitout ? Madame Surveiltout ? Le guide ? La Conservatrice ? Le technicien ? Pour l’heure, ils sont tous coupables… À vous de résoudre cette enquête au coeur des collections dans le parcours d’Art du Palais-Musée ! En autonomie, sans réservation. Rendez-vous à l’accueil du parcours d’Art, de 10h à 12h et de 14h30 à 16h30, pour récupérer le livret. Inclus dans le billet d’entrée Pass Monumentale Narbonne."
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover58",
       "title": "IT'S TIME TO TAKE A BREAK",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/time-to-take-a-break.jpg?width=200",
@@ -916,7 +844,7 @@
       "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover59",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -931,7 +859,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover60",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -945,7 +873,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover61",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -960,7 +888,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover62",
       "title": "MARCHÉ ESTIVAL",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
@@ -975,7 +903,7 @@
       "description": "Produits alimentaires et non alimentaires, tout y est !"
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover63",
       "title": "BALADE ARTISANALE DANS LE BOURG",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--40-.jpg?width=200",
@@ -989,7 +917,7 @@
       "description": "Plongez dans l’âme du quartier du Bourg et poussez les portes de ses artisans et créateurs. Suivez notre guide dans ce quartier intrinsèquement lié à l’artisanat et au commerce depuis ses origines, des échoppes médiévales aux ateliers contemporains, pour découvrir les savoir-faire qui ont façonné la ville. Cette balade immersive vous mènera à la rencontre d’artisans d’aujourd’hui qui perpétuent, chacun à leur manière, l’esprit créatif du quartier. Démonstrations, récits, anecdotes… Une parenthèse au cœur du patrimoine vivant."
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover64",
       "title": "VISITE DE LA BASILIQUE SAINT-PAUL ET DU BOURG MÉDIEVAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -1003,7 +931,7 @@
       "description": "LA BASILIQUE SAINT-PAUL ET LE BOURG MÉDIÉVAL À la découverte d’un des plus vieux édifices religieux de Narbonne, véritable témoin de l’évolution du roman au gothique et bâti sur les restes d’une nécropole antique. Les rues avoisinantes et leurs façades évoquent la vie florissante du quartier de Bourg au Moyen Âge et à la Renaissance."
     },
     {
-      "id": "myPopover76",
+      "id": "myPopover65",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -1015,7 +943,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover77",
+      "id": "myPopover66",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -1030,7 +958,22 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover78",
+      "id": "myPopover67",
+      "title": "JOURNÉE MONDIALE DE RAMASSAGE DES DÉCHETS",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/ramassage-dechets.jpg?width=200",
+      "startDate": "2026-09-16",
+      "endDate": "2026-09-16",
+      "times": [
+        "08:00",
+        "11:30"
+      ],
+      "location": "FLEURY",
+      "address": "L'Oustalet, 11560, FLEURY",
+      "description": "Journée mondiale de ramassage des déchets Rendez-vous au parking du Domaine de l'Oustalet à 8h00 Après un temps d’accueil, les participants seront répartis en plusieurs équipes, chacune mobilisée sur un parcours défini afin de nettoyer différents secteurs. Cette opération collective est l’occasion de sensibiliser à la préservation de nos espaces naturels et de rappeler que chaque geste compte pour maintenir un territoire propre, agréable et préservé."
+    },
+    {
+      "id": "myPopover68",
       "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -1044,7 +987,7 @@
       "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
     },
     {
-      "id": "myPopover79",
+      "id": "myPopover69",
       "title": "EXPOSITION - MELLAL ROSY & GÉLIS MONIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/mellal-2.jpg?width=200",
@@ -1061,7 +1004,7 @@
       "description": "Du 17 septembre au 29 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover70",
       "title": "SAISON 26-27 DE THÉÂTRE + CINÉMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/746420969-936475179462538-2109320896627818108-n.jpg?width=200",
@@ -1076,7 +1019,7 @@
       "description": "Soirée de présentation des spectacles du Théâtre+cinéma scène nationale Grand Narbonne."
     },
     {
-      "id": "myPopover81",
+      "id": "myPopover71",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
@@ -1093,7 +1036,7 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover82",
+      "id": "myPopover72",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -1108,7 +1051,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover83",
+      "id": "myPopover73",
       "title": "ESCALE IODÉE – RESTAURANT CHEZ BLONDIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
@@ -1122,7 +1065,80 @@
       "description": "Chez Blondie vous propose une escale gourmande et iodée Les coquillages de \"Occitanie Coquillages\" s’invitent pour une soirée spéciale autour de plateaux de fruits de mer fraîchement livrés. Dégustation sur place ou à emporter Accompagné d’un verre de vin et de charcuterie À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
-      "id": "myPopover84",
+      "id": "myPopover74",
+      "title": "VISITE DU PALAIS DES ARCHEVÊQUES",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "11:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "LE PALAIS DES ARCHEVÊQUES, DU PALAIS ROMAN À L’HÔTEL DE VILLE NÉOGOTHIQUE L’histoire a façonné le palais, à la fois forteresse médiévale et résidence princière. Salles d’apparat, anciennes chapelles, plafonds peints, cours et escaliers monumentaux vous transportent dans l’intimité des prélats, au fil des siècles."
+    },
+    {
+      "id": "myPopover75",
+      "title": "CONCERT À LA GRANGE Ô Z'ARTS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-Grange-o-Z-Arts.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "21:00"
+      ],
+      "location": "FLEURY",
+      "address": "20 Boulevard Général de Gaulle, 11560, FLEURY",
+      "description": "South Brothers – duo blues Ouverture des portes : 19h30 Concert : 21h Réservation obligatoire: 06 86 98 43 24 lagrangeozarts@gmail.com"
+    },
+    {
+      "id": "myPopover76",
+      "title": "SOIRÉE \"CRU BOUTENAC\"",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-14.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours Mirabeau, 11100, NARBONNE",
+      "description": "Les producteurs viticoles locaux et notamment l'appellation \"Cru Boutenac\" seront à l'honneur durant cette soirée. Au programme : stands de dégustation des producteurs viticoles et des restaurateurs, dans une ambiance musicale."
+    },
+    {
+      "id": "myPopover77",
+      "title": "SOIRÉE JEUX DE SOCIÉTÉ",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-jeux-societe-5.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "17:00",
+        "22:00"
+      ],
+      "location": "OUVEILLAN",
+      "address": "5 Rue du Capitoul, 11590, OUVEILLAN",
+      "description": "Le Tinal vous convie à une nouvelle soirée jeux de société pour tous. Buvette et petite restauration sur place."
+    },
+    {
+      "id": "myPopover78",
+      "title": "BALADE GOURMANDE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "10:00",
+        "11:30"
+      ],
+      "location": "NARBONNE",
+      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
+      "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
+    },
+    {
+      "id": "myPopover79",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -1135,6 +1151,422 @@
       "location": "LA PALME",
       "address": "11480, LA PALME",
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
+    },
+    {
+      "id": "myPopover80",
+      "title": "RUGBY A XV - RCN XV / SOYAUX-ANGOULÈME",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/RCNarbonne-Angouleme.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "19:30"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "RUGBY à XV - Match de Pro D2 - 4ème Journée : Racing Club Narbonnais XV contre Soyaux-Angoulème au Parc des Sports et de l'Amitié le Vendredi 18 septembre à 19 H 30."
+    },
+    {
+      "id": "myPopover81",
+      "title": "AUTO-GESTIONS DES ÉMOTIONS",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "18:30",
+        "20:50"
+      ],
+      "location": "NARBONNE",
+      "address": "1 Rue Benoît Malon, 11100, NARBONNE",
+      "description": "Par Jean-Pierre Desfour Mieux gérer vos émotions, apaiser le stress et les tensions, développer votre autonomie au quotidien et repartir avec des outils concrets à utiliser chez vou"
+    },
+    {
+      "id": "myPopover82",
+      "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-18",
+      "times": [
+        "18:30"
+      ],
+      "location": "FLEURY",
+      "address": "2 place des pêcheurs, 11560, FLEURY",
+      "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
+    },
+    {
+      "id": "myPopover83",
+      "title": "JEP 2026 - VISITE GUIDÉE : CHAPELLE AU GRÉ DES VENTS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LA-PETITE-CHAPELLE-DE-FRAMBOISE-2.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [
+        "17:00",
+        "18:00"
+      ],
+      "location": "LA PALME",
+      "address": "Chemin des Caveaux, 11480, LA PALME",
+      "description": "Dans le cadre des Journées Européennes du Patrimoine : Michel et Framboise ouvrent au public le jardin & la Chapelle, patrimoine architectural du village de La Palme, qu'ils ont admirablement restaurés. L'Art parsemé dans le jardin ombragé et affiché dans la petite Chapelle ravira vos sens : Les Visites guidées gratuites de la saison 2026, (de 17h à 18h SAUF INTEMPERIES) : MAI : Vendredi 1er et samedi 2, vendredi 8 et samedi 9, samedi 16 et dimanche 17, samedi 23 et dimanche 24 ; JUIN : Samedi 6, dimanche 7, samedi 20 et dimanche 21 ; JUILLET : Samedi 4 et dimanche 5, dimanche 12, lundi 13 ; AOUT : Samedi 1 et dimanche 2, samedi 15 et dimanche 16, samedi 29 et dimanche 30 ; SEPTEMBRE : samedi 5 et dimanche 6, dimanche 15 et les « Journées du Patrimoine » les samedi 19 et dimanche 20. Hormis ces dates, possibilité de visites guidées gratuites sur rendez-vous pour groupe de 5 personnes minimum. Contact par téléphone. Visites libres pour découvrir les pépites du village de La Palme : Profitons-en pour découvrir le jolie village médiéval de La Palme. * LE PATRIMOINE BÂTI : - L'Eglise du 13e siècle, - La porte de la Barbacane (ancien pont-levis au 8e s.), - La porte de la Tour de l'Horloge du 13e s., - La Chapelle St Pancrace du 10e s., - Le Moulin, - Les lavoirs, * LES VESTIGES DU PASSE : - La Via Domitia, la Voie Antique Romaine passe tout proche de la Chapelle Saint Pancrace. - Les anciennes carrières : . L' Ancienne Carrière de Marbre (Proche de la Carrière Lavoye, actuellement en activité. Vue panoramique sur l'Etang, le Salin (vue des partènements, structures géométriques caractéristiques de la saline,) et au troisième plan ; La Méditerranée. . L' Ancienne Carrière de Meule à ciel ouvert, Vestige Romain où l'on peut découvrir les empreintes circulaires typiques conservées dans la roche de l’extractions de la pierre meulière (Proche de la Chapelle St Pancrace) * LE PATRIMOINE NATUREL : - La lagune, - Le Salin (visites guidées (d'avril à septembre) en Petit train et en Calèche (juillet & août)) - La garrigue - Les Randos du village"
+    },
+    {
+      "id": "myPopover84",
+      "title": "GRAND CONCOURS DE PÉTANQUE - BAR RESTAURANT LE CANOTIER",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-CANOTIER-3.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "12:00"
+      ],
+      "location": "FLEURY",
+      "address": "Avenue Alain Colas, 11560, FLEURY",
+      "description": "Samedi 19 septembre dès 12h00 Grand concours annuel de pétanque avec le Duo So Good - apéro et repas Bar Restaurant Le Canotier Les Cabanes de Fleury"
+    },
+    {
+      "id": "myPopover85",
+      "title": "ESCALE À LA NAUTIQUE \"LES SECRETS ENFOUIS DE LA NAUTIQUE\"",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-15.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "09:30",
+        "12:00"
+      ],
+      "location": "NARBONNE",
+      "address": "La Nautique, 11100, NARBONNE",
+      "description": "Ce site au charme authentique domine l'étang et le village de Bages. Ancien débarcadère romain fondé en 118 av. J-C., il marie histoire et nature, propice aux balades et aux activités nautiques. Éco-balade avec Mickaël de \"Je vous emmène\" . Sur inscription obligatoire."
+    },
+    {
+      "id": "myPopover86",
+      "title": "JEP 2026 - NARBONNE, VILLE ET PAYS D'ART ET D'HISTOIRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/JEP-Affiches40x60-Ministere-de-la-Culture-1.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [
+        "10:00",
+        "19:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "Durant ce week-end, des visites guidées, circuits thématiques, ateliers, concerts ou encore démonstrations d'histoire vivante rythmeront votre visite des sites et monuments de la ville d'art et d'histoire de Narbonne ! Programme complet ci-dessous."
+    },
+    {
+      "id": "myPopover87",
+      "title": "JEP 2026 - JOURNÉE D'ÉTUDE \" MÉMOIRES DE LAGUNE\"",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-16.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "10:00"
+      ],
+      "location": "NARBONNE",
+      "address": "2 Av. André Mècle, 11100 Narbonne, 11100, NARBONNE",
+      "description": "Découvrez 2000 ans d'histoire autour des étangs narbonnais, des ports antiques jusqu'à la vie lagunaire d'aujourd'hui. Tables rondes, mini-conférences, projection, offrant un regard sensible sur les paysages et leurs transformations. Visite de l'exposition \"Mémoire de lagune\" et activités ludiques aussi au programme avec le NarboMobile dans les jardins du musée."
+    },
+    {
+      "id": "myPopover88",
+      "title": "JEP 2026 - ABBAYE DE FONTFROIDE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Abbaye-de-Fontfroide-6-2.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [
+        "10:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "RD 613 Chem. de Fontfroide, 11100 Narbon, 11100, NARBONNE",
+      "description": "Réflexion sur les enjeux de conservation et de transmission. Avec la projection en avant-première du film produit part Arte \"Gustave Fayet, une vie sur l'Art\"."
+    },
+    {
+      "id": "myPopover89",
+      "title": "JEP 2026 - MAISON DE LA NARBONNAISE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "09:30",
+        "17:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
+      "description": "À l’occasion des Journées du Patrimoine, découvrez deux sites emblématiques du territoire avec l’ouverture exceptionnelle de la Maison de la Narbonnaise et du chantier de charpenterie de marine. Plongez au cœur des savoir-faire traditionnels et du patrimoine local à travers la visite du chantier et la découverte d’un métier unique, tout en profitant de la richesse culturelle de la Maison de la Narbonnaise."
+    },
+    {
+      "id": "myPopover90",
+      "title": "SARDINADE AU PROFIT DU TÉLÉTHON",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/SARDINADE-TELETHON.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [
+        "08:00",
+        "22:00"
+      ],
+      "location": "FLEURY",
+      "address": "2 Chemin de Pissevache, 11560, FLEURY",
+      "description": "Samedi 19 et dimanche 20 septembre de 8h00 à 22h00 - Sardinade au profit du Téléthon 12€ sur place ou à emporter 3€ la crêpe Simulateur de pêche - 4€ le combat Association Le Grand Large Base des Loisirs des Lagunes Saint-Pierre la Mer"
+    },
+    {
+      "id": "myPopover91",
+      "title": "3° SALON DE LA MAQUETTE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/salon-maquette.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "10:00",
+        "19:00"
+      ],
+      "location": "NARBONNE",
+      "address": "74 Avenue Maître Hubert Mouly, 11100, NARBONNE",
+      "description": "Pour sa troisième édition, le Salon de la maquette, du modélisme et de la figurine confirme son ancrage à Narbonne, ville dynamique du sud de la France. C'est au Parc des expositions Grand Narbonne que se retrouvent exposants et amateurs de modélisme, dans un cadre adapté à ce type de manifestation. Ce salon dédié à la maquette et à la figurine s'inscrit dans la continuité des éditions précédentes, qui ont su fédérer une communauté de passionnés dans le département de l'Aude. Organisé sur deux jours complets, cet événement propose aux visiteurs de découvrir un univers où précision, patience et créativité sont à l'honneur. Que vous soyez collectionneur aguerri ou simple curieux, ce salon en Occitanie offre l'occasion de rencontrer des exposants spécialisés, d'observer des réalisations minutieuses et de vous plonger dans la richesse de la culture modéliste. Une manifestation qui gagne en maturité à chaque édition."
+    },
+    {
+      "id": "myPopover92",
+      "title": "JEP 2026 - AMPHORALIS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Sans-titre-18-aec549c4432848ad901968a02143e038-2.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:00",
+        "18:00"
+      ],
+      "location": "SALLELES-D'AUDE",
+      "address": "Allée des Potiers, 11590, SALLELES-D'AUDE",
+      "description": "Comment travaillaient les potiers gallo-romains et à partir de quelles traces archéologiques le sait-on ? Par le jeu, le mime et le dessin. Parcourez le musée et le parc en découvrant les tours et les fours de potiers, mais aussi le jardin qui abrite plus de 160 essences présentes dès l'époque antique. Le village des potiers d'Amphoralis n'aura plus de secrets pour vous. Pour les enfants et adolescents e 7 à 14 ans, ainsi que les adultes prêts à se prêter au jeu."
+    },
+    {
+      "id": "myPopover93",
+      "title": "MARCHÉ FESTIF",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/saveurs-et-terroirs.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "17:00",
+        "23:00"
+      ],
+      "location": "SAINT-MARCEL-SUR-AUDE",
+      "address": "11120, SAINT-MARCEL-SUR-AUDE",
+      "description": "Le Marché festif de Saint-Marcel est de retour ce soir. Au programme, marché de producteurs, restauration et boissons dans une ambiance conviviale. Le groupe Les Rat’s Cordés animera la soirée en musique pour prolonger les festivités."
+    },
+    {
+      "id": "myPopover94",
+      "title": "JEP 2026 - DÉCOUVERTE DU DOMAINE SAINTE-LUCIE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/port-la-nouvelle-2024-05-refuge-sainte-lucie-vue-ile-panoramique-by-conservatoire-littoral.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "11210, PORT-LA-NOUVELLE",
+      "description": "A l'occasion des Journées Européennes du Patrimoine, venez découvrir le Refuge Littoral de Sainte Lucie. Visite libre du domaine."
+    },
+    {
+      "id": "myPopover95",
+      "title": "FESTIVAL LITTÉRAIRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Livres-9.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [
+        "10:00",
+        "18:00"
+      ],
+      "location": "LA PALME",
+      "address": "11480, LA PALME",
+      "description": "Festival littéraire \" Romantikasy\", salle Jean Moulin de 10h à 18h. Entrée gratuite. Par l'association Odyssée romancée et coeur de bikers."
+    },
+    {
+      "id": "myPopover96",
+      "title": "JEP 2026 - BALADE HISTORIQUE DANS LES VIGNES DE FONTFROIDE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/VIGNES-17.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "10:00",
+        "12:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "Balade historique dans les vignes de Fontfroide avec une dégustation Accord mets-vins. Découvrez 1000 ans d’histoire viticole avec une balade historique dans les vignes, guidée par Laure de Chevron Villette ! Au cœur des Journées européennes du patrimoine, les vins de Fontfroide vous invitent à découvrir un patrimoine vivant, ancré dans l’histoire et résolument tourné vers l’avenir. Un terroir chargé de 1000 ans d’histoire ! Réservation obligatoire"
+    },
+    {
+      "id": "myPopover97",
+      "title": "JOURNÉE DU PATRIMOINE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/etang-3.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "times": [
+        "10:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Chemin de Sainte-Lucie, 11210, PORT-LA-NOUVELLE",
+      "description": "Journées du Patrimoine 2026 à Port-la-Nouvelle: Exploration historique de l'île de Sainte-Lucie : balade au cœur d'un patrimoine millénaire et d'une nature préservée. Laissez-vous guider à travers les chemins pittoresques de l'île de Sainte-Lucie, à la découverte des traces de son histoire millénaire. Cette visite vous révélera l'exploitation de la pierre depuis l'Antiquité, l'héritage monastique de l'île, ainsi que la longue tradition agricole qui s'y est développée. Plus récemment, vous découvrirez comment l'île a été préservée en tant que réserve naturelle régionale. La promenade offre également des panoramas spectaculaires sur les paysages côtiers de l'Aude : vastes lagunes, grandes plages de sable, anciens salins, et les majestueux massifs environnants de la Clape et des Corbières orientales. À la fin du parcours, vous serez chaleureusement accueillis par Marc et Véronique au refuge littoral de Sainte-Lucie, ouvert aux visiteurs et aux promeneurs. Dans la grande halle, une exposition vous plongera dans la métamorphose de cet ancien domaine agricole et vous fera découvrir la passion des femmes et des hommes qui se sont engagés dans ce projet de restauration du patrimoine bâti, un véritable défi dans un site isolé Public concerné : Tout public Au programme pour ce lieu : Un refuge pour les hommes, la faune et la flore. Il y a une dizaine d’années, cet ancien domaine agricole menaçait de tomber en ruine et restait fermé au public. En 2015, le conservatoire du littoral et ses partenaires conscients de sa valeur et de ses potentialités, décident de donner une nouvelle vie à ce vaste ensemble bâti, témoignant des activités agricoles sur l’île de Sainte-Lucie. Avec pour ambition d’offrir à un public d’amoureux de la nature, la possibilité d’une étape insolite au sein de ce lieu unique, au cœur du parc naturel régional de la Narbonnaise en Méditerranée. Restauré avec un profond respect de l’esprit des lieux par des architectes et des artisans du patrimoine, le refuge littoral peut aujourd’hui accueillir les promeneurs, à pied ou vélo, désireux de passer une nuit ou deux dans cet environnement d’exception Accès : Aire de stationnement près de la maison éclusière de Sainte Lucie. Accès au refuge à pied ou à vélo. Nos amis à 4 pattes ne sont pas autorisés. Journées du Patrimoine 2026 - horaires : dimanche 20 septembre 2026 - 10:00 - 13:00 Tarifs, conditions spéciales : Limité à 20 personnes. Contact pour réservation : Mickaël Falguéra 06 84 43 82 30. Rdv sur l'aire de stationnement près de la maison éclusière de Sainte-Lucie. Les chiens ne sont pas autorisés. Refuge Littoral de Sainte-Lucie Chemin de Sainte-Lucie 11210 Port-la-Nouvelle Tel : 06 84 43 82 30"
+    },
+    {
+      "id": "myPopover98",
+      "title": "JEP 2026 - CLOS DE LA LOMBARDE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clos-de-la-Lombarde--Laetitia-Guilhem.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "09:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Clos de la Lombarde, 11100, NARBONNE",
+      "description": "Visite virtuelle À 9h, 11h, 14h et 16h Visite du site archéologique À 10h et à 15h Animation théâtrale À 16h15 et à 17h15"
+    },
+    {
+      "id": "myPopover99",
+      "title": "CRÉEZ UN OBJET EN MATIÈRE D’ARBRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Francoise-Langlois.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "14:30",
+        "16:30"
+      ],
+      "location": "SAINT-NAZAIRE-D'AUDE",
+      "address": "168 Allée de la Glacière, 11120, SAINT-NAZAIRE-D'AUDE",
+      "description": "Dans le cadre de l’exposition \"Famille d'O\", découvrez et expérimentez le modelage de la pâte de cellulose. Avec cette matière fibreuse et solide une fois sèche, vous réaliserez de petits objets. Françoise Langlois vous guidera, nature et poésie au rendez-vous... 14h30 - 16h30 15€ À partir de 14 ans, matériel fournis Réservation à l'office de Tourisme du Somail"
+    },
+    {
+      "id": "myPopover100",
+      "title": "LO MERCAT FESTIU",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/lo-mercat-bize.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "BIZE-MINERVOIS",
+      "address": "Avenue de l'Hôtel de Ville, 11120, BIZE-MINERVOIS",
+      "description": "Comme tous les samedis, retrouvez le marché animé \"Lo Mercat Festiu\" De 8h à 14h30, venez profiter d'un moment convivial au cœur de Bize-Minervois. Producteurs locaux, commerçants, artisans et animation musicale. Petite restauration et dégustation de vin."
+    },
+    {
+      "id": "myPopover101",
+      "title": "MARCHÉ ANIMÉ",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "08:00",
+        "15:00"
+      ],
+      "location": "ARGELIERS",
+      "address": "Allée Marcelin Albert, 11120, ARGELIERS",
+      "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
+    },
+    {
+      "id": "myPopover102",
+      "title": "TRIATHLON EXTREMEMAN",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Pixabay-Triathlon.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "12:00",
+        "19:30"
+      ],
+      "location": "NARBONNE",
+      "address": "5 Boulevard de la Méditerranée, 11100, NARBONNE",
+      "description": "Une compétition qui réunit les meilleurs athlètes nationaux et mondiaux. 5 courses au programme : un half, un médium, un short, un relais et un découverte. Organisé par l'association Méditerranée Multisports et le triathlète-club Narbonnais ! Ouvert aux licenciés et aux non-licenciés. Samedi 19 septembre 2026 : 12h00 – 19h00 : Expo + point info 12h00 – 19h00 : Retrait des dossards 14h30 : Départ de l’ExtremeKids (6–9 ans) 15h00 : Départ de l’ExtremeKids (10–13 ans) 17h00 : Départ de l’Extrememan Découverte & Départ de l’Extrememan Relais 19h00 : Remise des prix (Extrememan Découverte et Extrememan Relais) Gratuit pour le public. Inscriptions payantes pour les athlètes. Renseignements : www.extreme-man.com"
+    },
+    {
+      "id": "myPopover103",
+      "title": "FÊTE DE L'AUTOMNE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/randonnee-24.JPG?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "09:00"
+      ],
+      "location": "MONTREDON-DES-CORBIERES",
+      "address": "1 Avenue du Languedoc, 11100, MONTREDON-DES-CORBIERES",
+      "description": "Fête de l'automne au Pôle culturel de Montredon-des-Corbières Organisée par Les Caillouteurs Randonneurs Programme de la journée : 9h : Départ de randonnée facile (9 km) 9h30 : Départ de la randonnade santé (6 km) 12h : Apéro, mignardises 12h30 : Cassoulet à emporter 13h : Repas musical, cassoulet au confit élaboré par les Caillouteurs Tombola"
+    },
+    {
+      "id": "myPopover104",
+      "title": "MARCHÉ BIO",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
+    },
+    {
+      "id": "myPopover105",
+      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
+      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
+    },
+    {
+      "id": "myPopover106",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-19",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover107",
+      "title": "JEP 2026 - AMPHORALIS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Sans-titre-18-aec549c4432848ad901968a02143e038-2.jpg?width=200",
+      "startDate": "2026-09-20",
+      "endDate": "2026-09-20",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:00",
+        "18:00"
+      ],
+      "location": "SALLELES-D'AUDE",
+      "address": "Allée des Potiers, 11590, SALLELES-D'AUDE",
+      "description": "Comment travaillaient les potiers gallo-romains et à partir de quelles traces archéologiques le sait-on ? Par le jeu, le mime et le dessin. Parcourez le musée et le parc en découvrant les tours et les fours de potiers, mais aussi le jardin qui abrite plus de 160 essences présentes dès l'époque antique. Le village des potiers d'Amphoralis n'aura plus de secrets pour vous. Pour les enfants et adolescents e 7 à 14 ans, ainsi que les adultes prêts à se prêter au jeu."
     }
   ]
 }
