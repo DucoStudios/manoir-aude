@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-10T09:23:58.257Z",
+  "generatedAt": "2026-09-11T09:22:19.455Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 106,
+  "count": 97,
   "events": [
     {
       "id": "myPopover1",
@@ -20,18 +20,6 @@
       "location": "FLEURY",
       "address": "Place des Vergnettes, 11560, FLEURY",
       "description": "Du 4 septembre au 16 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
-    },
-    {
-      "id": "myPopover2",
-      "title": "L'ART DES MOUVEMENTS",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/07.09---Semaine-decouverte-ADM.jpg?width=200",
-      "startDate": "2026-09-07",
-      "endDate": "2026-09-10",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "514 Boulevard de l'Avenir, 11210, PORT-LA-NOUVELLE",
-      "description": "Semaine découverte pour la semaine de la forme gratuit Lundi : tai chi chuan 18h Mardi : qi gong jeudi : Eco zen rdv parking casino Blacks Pilates"
     },
     {
       "id": "myPopover3",
@@ -68,79 +56,6 @@
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
     },
     {
-      "id": "myPopover5",
-      "title": "SIGUE A OLIVIA EN SU FOOD TOUR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LES-HALLES-2.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 rue Jean Jaures, 11100, NARBONNE",
-      "description": "Sigue a Olivia en un food tour en español por el centro histórico de Narbona y su mercado : un viaje sabroso en el tiempo con anécdotas y degustaciones de los productos típicos de nuestra región. Amigos gourmets, ¡no esperen más y vengan a probarlo!"
-    },
-    {
-      "id": "myPopover6",
-      "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
-    },
-    {
-      "id": "myPopover7",
-      "title": "VISITE DÉCOUVERTE DU COEUR HISTORIQUE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "11:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "PARCOURS DÉCOUVERTE EN CITÉ, COEUR HISTORIQUE Avec un guideconférencier, flânez dans le quartier de Cité et découvrez plus de 2000 ans d’histoire, au travers des monuments et des vestiges qui constituent l’âme de Narbonne !"
-    },
-    {
-      "id": "myPopover8",
-      "title": "8 FEMMES : LES GRANDES FIGURES FÉMININES DE NARBONNE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Design-sans-titre-22.png?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "17:30",
-        "19:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Place du Forum, 11100, NARBONNE",
-      "description": "Partez à la rencontre de 8 personnages féminins qui ont marqué leur temps. De l'Antiquité à nos jours, la visite met en perspective leurs parcours avec l'évolution de la condition féminine au fil du temps. Grandes figures ou anonymes, elles permettent de raconter la ville autrement au cours d'une balade sensible. Attention, le RDV est fixé sur la Place du Forum à Narbonne."
-    },
-    {
-      "id": "myPopover9",
-      "title": "SOIRÉE CINÉMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/cine-compostelle-bize.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "20:30",
-        "23:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Chemin de l'Aire Vieille, 11120, BIZE-MINERVOIS",
-      "description": "L’association Camins et la commune de Bize-Minervois vous invitent à la projection du film Compostelle. La soirée se poursuivra autour d’un verre de l’amitié, l’occasion d’échanger et de partager vos impressions autour du film."
-    },
-    {
       "id": "myPopover10",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
@@ -156,50 +71,6 @@
       "location": "PEYRIAC-DE-MER",
       "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
-    },
-    {
-      "id": "myPopover11",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover12",
-      "title": "MARCHÉ ESTIVAL",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Produits alimentaires et non alimentaires, tout y est !"
-    },
-    {
-      "id": "myPopover13",
-      "title": "ESCALE IODÉE – RESTAURANT CHEZ BLONDIE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-10",
-      "times": [
-        "18:30"
-      ],
-      "location": "FLEURY",
-      "address": "2 place des pêcheurs, 11560, FLEURY",
-      "description": "Chez Blondie vous propose une escale gourmande et iodée Les coquillages de \"Occitanie Coquillages\" s’invitent pour une soirée spéciale autour de plateaux de fruits de mer fraîchement livrés. Dégustation sur place ou à emporter Accompagné d’un verre de vin et de charcuterie À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
       "id": "myPopover14",
