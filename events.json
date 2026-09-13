@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-12T09:02:06.740Z",
+  "generatedAt": "2026-09-13T10:00:46.951Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 111,
+  "count": 96,
   "events": [
     {
       "id": "myPopover1",
@@ -34,23 +34,6 @@
       "description": "Du 4 septembre au 16 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover3",
-      "title": "IT'S TIME TO TAKE A BREAK",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/time-to-take-a-break.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-12",
-      "times": [
-        "11:00",
-        "12:00",
-        "15:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "15 Rue Gustave Fabre, 11100, NARBONNE",
-      "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
-    },
-    {
       "id": "myPopover4",
       "title": "MUJO",
       "category": "culture",
@@ -66,23 +49,6 @@
       "location": "NARBONNE",
       "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
-    },
-    {
-      "id": "myPopover5",
-      "title": "TRAIT(S) - KITTY SABATIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
-      "startDate": "2026-09-10",
-      "endDate": "2026-09-12",
-      "times": [
-        "10:00",
-        "12:00",
-        "16:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
-      "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
       "id": "myPopover6",
@@ -110,197 +76,6 @@
       "location": "GRUISSAN",
       "address": "Avenue de Narbonne, 11430, GRUISSAN",
       "description": "Palais des congrès, samedi de 10h à 19h , dimanche de 10h à 18h. Pour cette édition 2026, Renc’Art réunit 42 artisans d’art et vous invite à découvrir la richesse et l’excellence de leurs savoir-faire à travers des pièces uniques, originales et d’exception. Bijoux, textile, céramique, bois, sculpture, mobilier, luminaires, design végétal… une diversité de créations pensées aussi bien pour se faire plaisir au quotidien que pour embellir un intérieur, aménager un lieu ou accompagner les projets de décorateurs, architectes, domaines et professionnels. Des créations singulières, réalisées avec passion et savoir-faire, pour tous les goûts et pour tous les budgets, avec également des pièces d’exception destinées aux projets les plus exigeants. Renc’Art, c’est la rencontre entre la création, le savoir-faire artisanal et l’art de vivre. Liste des exposants 2026 : Adligna Ébéniste ALEK ATELIER Ande's Art Anthony Thévenoux ART EN VIDRE ARTOTEK Atelier AB Atelier Didi Bhati Atelier du Trefle Atelier Passage secret Bali Coco maroquinerie BERTHEAS THIERRY Céline Gauthier Céramique Christine Gomez Création COCOLINO DIAPOESIE Domi Fado Estelle Mignot Félix Racoupeau Hélène Lacquement L atelier de Ness L' Atelier de Caro La Demoiselle Bleu Le YaB Lab Les bois de la passion Les Curiosités de Fred Magny Carvalho MINO Nathalie Tran Van Thanh O'Calme Oogaya POTERIE DU GALBE PUSHI RONDINGUE SAMARES AILEES Sophie Autard Stéphanie lajus Studio2m Tahouré Tête d'enclume thibus collection Victorian Rehab"
-    },
-    {
-      "id": "myPopover8",
-      "title": "CONCOURS DE PÊCHE - ACTINAUTIC",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Artinautic-2.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "08:00"
-      ],
-      "location": "FLEURY",
-      "address": "Port les Cabanes de Fleury, 159 Rés les Fleurynes, 11560, FLEURY",
-      "description": "Concours de pêche côtière à partir de 8h00, proposé par Actinautic Les Cabanes de Fleury - Port"
-    },
-    {
-      "id": "myPopover9",
-      "title": "BIZ'ESTIVALES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/BizEstivales-2.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "18:00",
-        "21:30"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Champ de Foire, 11120, BIZE-MINERVOIS",
-      "description": "Le rendez-vous incontournable de l’été à Bize-Minervois ! Pour cette dernière soirée de la saison, nous vous donnons rendez-vous au jardin public pour une soirée conviviale avec dégustation de produits locaux, tapas, animée par un concert."
-    },
-    {
-      "id": "myPopover10",
-      "title": "POI, UN TOURBILLON DE CIRQUE ET DE POÉSIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/POI-2.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "18:00",
-        "19:00"
-      ],
-      "location": "MOUSSAN",
-      "address": "11120, MOUSSAN",
-      "description": "Des représentations du Théâtre+Cinéma Scène Nationale du Grand Narbonne sont également proposées hors-les-mur. Et si une toupie pouvait arrêter le temps? Avec ce spectacle, Guillem Vizcaino transforme cet objet de notre enfance en partenaire de jeu. Un spectacle poétique et joyeux, qui vous fait littéralement tourner la tête. Dès 6 ans. Entrée libre, dans la limite des places disponibles."
-    },
-    {
-      "id": "myPopover11",
-      "title": "FESTI'BULLES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Festi-Bulles-2.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "10:00",
-        "20:00"
-      ],
-      "location": "SIGEAN",
-      "address": "50 Avenue de Perpignan, 11130, SIGEAN",
-      "description": "L' association De Fil en Bulles vous propose la 3ème édition\" Festi'Bulles\". Un festival des arts vivants pour petits et grands, des spectacles, ateliers en famille, maquillage. Buvette et restaurant. Réservation conseillée. Entrée libre"
-    },
-    {
-      "id": "myPopover12",
-      "title": "LO MERCAT FESTIU",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/lo-mercat-bize.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Avenue de l'Hôtel de Ville, 11120, BIZE-MINERVOIS",
-      "description": "Comme tous les samedis, retrouvez le marché animé \"Lo Mercat Festiu\" De 8h à 14h30, venez profiter d'un moment convivial au cœur de Bize-Minervois. Producteurs locaux, commerçants, artisans et animation musicale. Petite restauration et dégustation de vin."
-    },
-    {
-      "id": "myPopover13",
-      "title": "MARCHÉ ANIMÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "08:00",
-        "15:00"
-      ],
-      "location": "ARGELIERS",
-      "address": "Allée Marcelin Albert, 11120, ARGELIERS",
-      "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
-    },
-    {
-      "id": "myPopover14",
-      "title": "FÊTE DU VÉLO",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/velo-17.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "10:00",
-        "17:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Chaque année depuis trois ans, la Fête du vélo du Grand Narbonne investit le cours Mirabeau à Narbonne pour mettre en avant le vélo sous toutes ses formes, que ce soit pour un usage sportif, ludique ou quotidien. Au programme : simulateur, manèges, jeux, biking, présentation du service de location de vélos à assistance électrique CitiVélo, démonstration et initiation au BMX Freestyle, circuits vélos… L'occasion aussi de sensibiliser petits et grands à la pratique de la petite reine lors d'ateliers et de quizz. Venez nombreux et profitez pleinement des animations !"
-    },
-    {
-      "id": "myPopover15",
-      "title": "ENS - LES EXAL'TANTS !",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-grenouille.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "10:00",
-        "16:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "6 km / Facile / + 6 ans Le matin, balade à énigmes de découverte des Exals : observation des roches fossiles, résurgences et végétations. L'après-midi sera consacrée à la découverte de la plage et du monde marin. Réservation obligatoire par téléphone. 25 personnes max. Matériel d'observation fourni. Prévoir pique-nique. Rendez-vous parking du port"
-    },
-    {
-      "id": "myPopover16",
-      "title": "MARCHÉ BIO",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
-    },
-    {
-      "id": "myPopover17",
-      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
-      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
-    },
-    {
-      "id": "myPopover18",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover19",
-      "title": "ATELIER CULINAIRE À LA VILLA MASKALI",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/file-000000006278720a9d1ac8823bf10a5a.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [],
-      "location": "CUXAC-D'AUDE",
-      "address": "8 Boulevard de Vingré, 11590, CUXAC-D'AUDE",
-      "description": "Venez cuisiner en famille, entre amis ou entre collègues aux côtés du chef Patrick Cachot, dans l’atmosphère chaleureuse de la Villa Maskali. Ancien chef de restaurant gastronomique, Patrick transmet son savoir-faire dans un esprit de partage : gestes techniques, cuissons justes, associations de saveurs et respect des produits de saison. Chaque atelier se prolonge autour d’un moment de dégustation, pour savourer ensemble les préparations réalisées et vivre une véritable expérience culinaire à Cuxac-d’Aude, près de Narbonne."
-    },
-    {
-      "id": "myPopover20",
-      "title": "MARCHÉ ESTIVAL",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-64.jpg?width=200",
-      "startDate": "2026-09-12",
-      "endDate": "2026-09-12",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Produits alimentaires et non alimentaires, tout y est !"
     },
     {
       "id": "myPopover21",
