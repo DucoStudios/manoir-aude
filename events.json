@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-14T10:20:27.910Z",
+  "generatedAt": "2026-09-15T09:47:25.018Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 87,
+  "count": 85,
   "events": [
     {
       "id": "myPopover1",
@@ -32,35 +32,6 @@
       "location": "FLEURY",
       "address": "Place des Vergnettes, 11560, FLEURY",
       "description": "Du 4 septembre au 16 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
-    },
-    {
-      "id": "myPopover3",
-      "title": "DÉCOUVREZ NARBONNE PAR LE NOM DES RUES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--17-.jpg?width=200",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-14",
-      "times": [
-        "17:30",
-        "19:00"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "En compagnie d'un guide conférencier, laissez-vous surprendre par les noms de rues de Narbonne : une balade originale où plaques et ruelles révèlent les secrets et la mémoire de la ville."
-    },
-    {
-      "id": "myPopover4",
-      "title": "VISITE DE L'ENSEMBLE MONUMENTAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-14",
-      "endDate": "2026-09-14",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "L’ENSEMBLE MONUMENTAL : PALAIS DES ARCHEVÊQUES ET CATHÉDRALE SAINTJUST ET SAINTPASTEUR À la fois forteresse médiévale et résidence princière, le palais des Archevêques, d’origine médiévale, affiche plus de huit siècles d’histoire, et est associé à une des plus remarquables cathédrales gothiques du Midi de la France, abritant des trésors d’art sacré."
     },
     {
       "id": "myPopover5",
