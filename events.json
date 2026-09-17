@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-16T09:41:48.031Z",
+  "generatedAt": "2026-09-17T09:50:03.080Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 120,
+  "count": 114,
   "events": [
     {
       "id": "myPopover1",
@@ -15,23 +15,6 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "76 Rue Eugène Labiche, 11210, PORT-LA-NOUVELLE",
       "description": "' 4 -ème édition open de Port la nouvelle Juge arbitre Michel Boyer Inscription 20 e"
-    },
-    {
-      "id": "myPopover2",
-      "title": "EXPOSITION - ARNAUD DANY & BÉROUD GOIS ANDRÉE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Beroud-Arnaud.jpg?width=200",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-16",
-      "times": [
-        "10:00",
-        "13:00",
-        "16:00",
-        "18:00"
-      ],
-      "location": "FLEURY",
-      "address": "Place des Vergnettes, 11560, FLEURY",
-      "description": "Du 4 septembre au 16 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
       "id": "myPopover3",
@@ -83,120 +66,6 @@
       "location": "NARBONNE",
       "address": "15 Rue Gustave Fabre, 11100, NARBONNE",
       "description": "Exposition du 27 Juin au 12 Septembre. Exposition de l' artiste L. Trevelot, Il est temps de prendre une pause.. P e in t u r e - i n s t a l l a t i o n - e s t a m p e ."
-    },
-    {
-      "id": "myPopover6",
-      "title": "BALADE ARTISANALE DANS LE BOURG",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Visite-noms-des-rues-Narbonne-aout-2025--Laetitia--40-.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "16:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Plongez dans l’âme du quartier du Bourg et poussez les portes de ses artisans et créateurs. Suivez notre guide dans ce quartier intrinsèquement lié à l’artisanat et au commerce depuis ses origines, des échoppes médiévales aux ateliers contemporains, pour découvrir les savoir-faire qui ont façonné la ville. Cette balade immersive vous mènera à la rencontre d’artisans d’aujourd’hui qui perpétuent, chacun à leur manière, l’esprit créatif du quartier. Démonstrations, récits, anecdotes… Une parenthèse au cœur du patrimoine vivant."
-    },
-    {
-      "id": "myPopover7",
-      "title": "VISITE DE LA BASILIQUE SAINT-PAUL ET DU BOURG MÉDIEVAL",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "15:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "LA BASILIQUE SAINT-PAUL ET LE BOURG MÉDIÉVAL À la découverte d’un des plus vieux édifices religieux de Narbonne, véritable témoin de l’évolution du roman au gothique et bâti sur les restes d’une nécropole antique. Les rues avoisinantes et leurs façades évoquent la vie florissante du quartier de Bourg au Moyen Âge et à la Renaissance."
-    },
-    {
-      "id": "myPopover8",
-      "title": "ATELIERS THEATRE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
-      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
-    },
-    {
-      "id": "myPopover9",
-      "title": "LA BEAUTE SAUVERA LE MONDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Nelle-Photographie-2026.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "18:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "42 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
-      "description": "Présentée par Claudio Isgro Gratuit"
-    },
-    {
-      "id": "myPopover10",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover11",
-      "title": "EXPOSITION \"TOZ ET PEACE\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "Rue des Elysiques/Espace Louis Daudé, 11100, BAGES",
-      "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
-    },
-    {
-      "id": "myPopover12",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover13",
-      "title": "JOURNÉE MONDIALE DE RAMASSAGE DES DÉCHETS",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/ramassage-dechets.jpg?width=200",
-      "startDate": "2026-09-16",
-      "endDate": "2026-09-16",
-      "times": [
-        "08:00",
-        "11:30"
-      ],
-      "location": "FLEURY",
-      "address": "L'Oustalet, 11560, FLEURY",
-      "description": "Journée mondiale de ramassage des déchets Rendez-vous au parking du Domaine de l'Oustalet à 8h00 Après un temps d’accueil, les participants seront répartis en plusieurs équipes, chacune mobilisée sur un parcours défini afin de nettoyer différents secteurs. Cette opération collective est l’occasion de sensibiliser à la préservation de nos espaces naturels et de rappeler que chaque geste compte pour maintenir un territoire propre, agréable et préservé."
     },
     {
       "id": "myPopover14",
@@ -1790,6 +1659,50 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "115 Avenue Adolphe Turrel, 11210, PORT-LA-NOUVELLE",
       "description": "Les amandes et la mémoire agricole de Sainte Lucie. Programme prévisionnel: Atelier pâtisserie Conférence sur la mémoire agricole de l'île : l'agriculture au coeur de l'économie de Sainte Lucie. Déjeuner autour de l'amande. Maximum 25 personnes Groupes de 8 à 10 personnes acceptés"
+    },
+    {
+      "id": "myPopover125",
+      "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
+      "startDate": "2026-09-25",
+      "endDate": "2026-09-25",
+      "times": [
+        "18:30"
+      ],
+      "location": "FLEURY",
+      "address": "2 place des pêcheurs, 11560, FLEURY",
+      "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
+    },
+    {
+      "id": "myPopover126",
+      "title": "LO MERCAT FESTIU",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/lo-mercat-bize.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "BIZE-MINERVOIS",
+      "address": "Avenue de l'Hôtel de Ville, 11120, BIZE-MINERVOIS",
+      "description": "Comme tous les samedis, retrouvez le marché animé \"Lo Mercat Festiu\" De 8h à 14h30, venez profiter d'un moment convivial au cœur de Bize-Minervois. Producteurs locaux, commerçants, artisans et animation musicale. Petite restauration et dégustation de vin."
+    },
+    {
+      "id": "myPopover127",
+      "title": "MARCHÉ ANIMÉ",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "08:00",
+        "15:00"
+      ],
+      "location": "ARGELIERS",
+      "address": "Allée Marcelin Albert, 11120, ARGELIERS",
+      "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
     }
   ]
 }
