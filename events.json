@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:24:04.719Z",
+  "generatedAt": "2026-09-19T09:11:59.764Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
   "count": 120,
@@ -110,181 +110,6 @@
       "location": "PEYRIAC-DE-MER",
       "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
-    },
-    {
-      "id": "myPopover8",
-      "title": "VISITE DU PALAIS DES ARCHEVÊQUES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "11:00"
-      ],
-      "location": "NARBONNE",
-      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "LE PALAIS DES ARCHEVÊQUES, DU PALAIS ROMAN À L’HÔTEL DE VILLE NÉOGOTHIQUE L’histoire a façonné le palais, à la fois forteresse médiévale et résidence princière. Salles d’apparat, anciennes chapelles, plafonds peints, cours et escaliers monumentaux vous transportent dans l’intimité des prélats, au fil des siècles."
-    },
-    {
-      "id": "myPopover9",
-      "title": "CONCERT À LA GRANGE Ô Z'ARTS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/La-Grange-o-Z-Arts.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "21:00"
-      ],
-      "location": "FLEURY",
-      "address": "20 Boulevard Général de Gaulle, 11560, FLEURY",
-      "description": "South Brothers – duo blues Ouverture des portes : 19h30 Concert : 21h Réservation obligatoire: 06 86 98 43 24 lagrangeozarts@gmail.com"
-    },
-    {
-      "id": "myPopover10",
-      "title": "SOIRÉE \"CRU BOUTENAC\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-14-14.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "18:00",
-        "23:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours Mirabeau, 11100, NARBONNE",
-      "description": "Les producteurs viticoles locaux et notamment l'appellation \"Cru Boutenac\" seront à l'honneur durant cette soirée. Au programme : stands de dégustation des producteurs viticoles et des restaurateurs, dans une ambiance musicale."
-    },
-    {
-      "id": "myPopover11",
-      "title": "SOIRÉE JEUX DE SOCIÉTÉ",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-jeux-societe-5.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "17:00",
-        "22:00"
-      ],
-      "location": "OUVEILLAN",
-      "address": "5 Rue du Capitoul, 11590, OUVEILLAN",
-      "description": "Le Tinal vous convie à une nouvelle soirée jeux de société pour tous. Buvette et petite restauration sur place."
-    },
-    {
-      "id": "myPopover12",
-      "title": "BALADE GOURMANDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
-    },
-    {
-      "id": "myPopover13",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover14",
-      "title": "EXPOSITION \"TOZ ET PEACE\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "Rue des Elysiques/Espace Louis Daudé, 11100, BAGES",
-      "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
-    },
-    {
-      "id": "myPopover16",
-      "title": "HOMMAGE À CHARLES TRENET - JOËL ALLAIN ET GEORGES CABARET EN CONCERT",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Joel-Allain.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "20:30"
-      ],
-      "location": "NARBONNE",
-      "address": "10 Place Voltaire, 11100, NARBONNE",
-      "description": "Il faut une grande voix pour revisiter, avec respect, l'œuvre de \"Fou Chantant\" , Joël Allain la possède. Souvenirs; l'artiste vient nous interpréter un florilège de ce poète éternel ; souvenirs, souvenirs un beau moment à partager ; swing et bonne humeur garantis. Réservation par téléphone"
-    },
-    {
-      "id": "myPopover17",
-      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "08:30",
-        "10:00"
-      ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
-    },
-    {
-      "id": "myPopover18",
-      "title": "RUGBY A XV - RCN XV / SOYAUX-ANGOULÈME",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/RCNarbonne-Angouleme.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "19:30"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "RUGBY à XV - Match de Pro D2 - 4ème Journée : Racing Club Narbonnais XV contre Soyaux-Angoulème au Parc des Sports et de l'Amitié le Vendredi 18 septembre à 19 H 30."
-    },
-    {
-      "id": "myPopover19",
-      "title": "AUTO-GESTIONS DES ÉMOTIONS",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "18:30",
-        "20:50"
-      ],
-      "location": "NARBONNE",
-      "address": "1 Rue Benoît Malon, 11100, NARBONNE",
-      "description": "Par Jean-Pierre Desfour Mieux gérer vos émotions, apaiser le stress et les tensions, développer votre autonomie au quotidien et repartir avec des outils concrets à utiliser chez vou"
-    },
-    {
-      "id": "myPopover20",
-      "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
-      "startDate": "2026-09-18",
-      "endDate": "2026-09-18",
-      "times": [
-        "18:30"
-      ],
-      "location": "FLEURY",
-      "address": "2 place des pêcheurs, 11560, FLEURY",
-      "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
       "id": "myPopover21",
@@ -1784,6 +1609,182 @@
       "location": "VENTENAC-EN-MINERVOIS",
       "address": "9 Rue de l'Aqueduc, Boulodrome, 11120, VENTENAC-EN-MINERVOIS",
       "description": "Fête des Vendanges 2026. Rendez-vous le samedi 26 septembre 2026 à partir de 19h00 au boulodrome de Ventenac pour notre traditionnelle fête des vendanges ! Cette année encore, la soirée sera animée. Une ambiance festive et conviviale. Restauration et buvette sur place - pensez à apporter vos couverts ! On vous attend nombreux pour partager ce moment chaleureux et festif au cœur du minervois"
+    },
+    {
+      "id": "myPopover126",
+      "title": "MARCHÉ BIO",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
+    },
+    {
+      "id": "myPopover127",
+      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
+      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
+    },
+    {
+      "id": "myPopover128",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover129",
+      "title": "BROCANTE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-8.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "09:00",
+        "17:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Promenade des Barques, 11100, NARBONNE",
+      "description": "Venez chiner sur la promenade des barques à la brocante par l’association des Brocanteurs et Narbonne Broc. Découvrez des antiquités, bibelots, meubles d’antan…"
+    },
+    {
+      "id": "myPopover130",
+      "title": "VIE SAUVAGE DANS LA ROSALIERE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
+      "startDate": "2026-09-26",
+      "endDate": "2026-09-26",
+      "times": [
+        "09:30",
+        "12:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
+      "description": "Une roselière c’est quoi ? Venez découvrir la biodiversité et la fragilité de ce milieu à travers des ateliers ludiques et scientifiques. Delphine Bruyère-Heinrich – C’est ma nature Réservation 25 pers. max – 04 68 42 70 45 – Gratuit"
+    },
+    {
+      "id": "myPopover131",
+      "title": "ATELIER CUISINE SAUVAGE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [
+        "14:00",
+        "17:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
+      "description": "De la cueillette à l’assiette venez découvrir la flore et les fruits sauvages comestibles et déguster les saveurs d’automne! Laurie Beaufils – Herba Venti Réservation par téléphone, 15 pers. max"
+    },
+    {
+      "id": "myPopover132",
+      "title": "L'OCCITAN C'EST ÉPATANT.",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/journees-du-patrimoine-tsft.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [
+        "10:00",
+        "18:00"
+      ],
+      "location": "NEVIAN",
+      "address": "20 Avenue de Marcorignan, 11200, NEVIAN",
+      "description": "Dans le cadre des Journées européennes du Patrimoine, l’Association d’Histoire de Névian vous propose un programme riche en découvertes, avec une exposition, une conférence, des animations et des veillées."
+    },
+    {
+      "id": "myPopover133",
+      "title": "DE LA POLITIQUE SACRALISÉE À LA QUÊTE ÉTHIQUE DU SAINT",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-dominique--1---002--page-0001.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [
+        "16:00"
+      ],
+      "location": "NARBONNE",
+      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
+      "description": "Rencontre avec DOMINIQUE BONDU, PHILOSOPHE, SOCIOLOGUE ET ECRIVAIN"
+    },
+    {
+      "id": "myPopover134",
+      "title": "EXPOSITION PAOLA DI PRIMA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [
+        "15:00",
+        "19:00"
+      ],
+      "location": "BAGES",
+      "address": "8 Rue des Remparts, 11100, BAGES",
+      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
+    },
+    {
+      "id": "myPopover135",
+      "title": "VIDE-GRENIERS",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [],
+      "location": "FLEURY",
+      "address": "Zone Fête foraine, 11560, FLEURY",
+      "description": "Dimanche 27 septembre 2026 – Fleury sub 11 Lieu : Zone Fête foraine, Saint-Pierre-la-Mer Contact : Lesly Raysseguier – 06 47 54 77 72"
+    },
+    {
+      "id": "myPopover136",
+      "title": "MARCHÉ DES PRODUITS CATHARE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [
+        "09:30",
+        "12:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
+      "description": "À la boutique de la Maison de la Narbonnaise, partez à la rencontre des produits Pays Cathare et redécouvrez tout le savoir-faire d’une marque de qualité audoise, portée par le Département de l’Aude depuis plus de 30 ans."
+    },
+    {
+      "id": "myPopover137",
+      "title": "VIDE-GRENIER",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-275.jpg?width=200",
+      "startDate": "2026-09-27",
+      "endDate": "2026-09-27",
+      "times": [
+        "06:00",
+        "16:00"
+      ],
+      "location": "SAINT-MARCEL-SUR-AUDE",
+      "address": "Chemin des Coopératives, 11120, SAINT-MARCEL-SUR-AUDE",
+      "description": "L'association \"La Jolie Fée Morgan\"organise un vide grenier en extérieur. Buvette et petite restauration sur place."
     }
   ]
 }
