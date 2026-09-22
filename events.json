@@ -1,11 +1,45 @@
 {
-  "generatedAt": "2026-09-21T10:25:07.238Z",
+  "generatedAt": "2026-09-22T09:38:36.021Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 68,
+  "count": 84,
   "events": [
     {
       "id": "myPopover1",
+      "title": "NATURE SAUVAGE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-CHATEAU-DE-LASTOURS-2.jpg?width=200",
+      "startDate": "2026-06-19",
+      "endDate": "2026-09-30",
+      "times": [
+        "10:00",
+        "13:00",
+        "15:00",
+        "19:00"
+      ],
+      "location": "PORTEL-DES-CORBIERES",
+      "address": "CHÂTEAU DE LASTOURS, 11490, PORTEL-DES-CORBIERES",
+      "description": "Antoine Gamard artiste accompli, expose ses œuvres dans notre caveau tout l’été. Art et Grands Vins se mêlent au Château de Lastours pour votre plus grand plaisir. Un voyage enchanteur à vivre seul ou à partager en famille ou entre amis. Profitez d’une visite guidée des chais, caves et dégustations de vins (sur réservation). Complétez votre expérience avec une halte gourmande au restaurant La Bergerie de Lastours. - Antoine Gamard, Diplômé des Beaux-Arts de Paris, il développe un univers singulier où se rencontrent écriture urbaine, couleurs vibrantes et figures du vivant. Entre abstraction, graffiti et inspiration contemporaine. Ses œuvres créent un dialogue puissant entre nature et modernité. Visite des chais et dégustation gratuite."
+    },
+    {
+      "id": "myPopover2",
+      "title": "RÊVES DE JAPON",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fas201910-hokusai011.jpg?width=200",
+      "startDate": "2026-07-03",
+      "endDate": "2026-09-30",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "3 Place Roger Salengro, 11100, NARBONNE",
+      "description": "De l’estampe traditionnelle au manga contemporain, l’art japonais n’a cessé d’inspirer l’Occident, notamment les Impressionnistes. Cette exposition propose un voyage à travers les siècles, des maîtres comme Hokusai et Hiroshige aux figures majeures du manga telles qu’Osamu Tezuka ou Akira Toriyama, en passant par les célèbres Degas, Gauguin ou encore Monet... Réunissant plus de 200 œuvres — estampes, pastels, dessins, mais aussi objets traditionnels et armures de samouraï, issus de collections privées et du Palais Musée des Archevêques — elle met en lumière la richesse et la diversité de cet héritage artistique. Ouvert de 10h à 12h30 et de 14h à 18h."
+    },
+    {
+      "id": "myPopover3",
       "title": "ATELIER: LES HUILES ESSENTIELLES",
       "category": "culture",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -20,7 +54,51 @@
       "description": "Découvrez les bienfaits des huiles essentielles et les bonnes pratiques pour les utiliser au quotidien. Repartez avec votre stick inhalateur personnalisé ! Buvette et petite restauration sur place."
     },
     {
-      "id": "myPopover3",
+      "id": "myPopover4",
+      "title": "FAMILLE D'O",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Francoise-Langlois.jpg?width=200",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "times": [
+        "09:00",
+        "13:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "SAINT-NAZAIRE-D'AUDE",
+      "address": "168 Allée de la Glacière, 11120, SAINT-NAZAIRE-D'AUDE",
+      "description": "Avec « Famille d’O », Françoise Langlois présente une série de sculptures en papier inspirées des cycles du vivant, de ses métamorphoses et de ses formes. Façonnée, tissée et sculptée, la matière papier devient un terrain d’expérimentation où se mêlent formes végétales, minérales et organiques. Nourrie par l’observation de la nature et les collectes quotidiennes, son œuvre invite à une rencontre sensible entre matière, vivant et imaginaire. L’exposition se déroulera du JEUDI 03/09 au VENDREDI 16/10 Vernissage jeudi 3 septembre à 18h30"
+    },
+    {
+      "id": "myPopover5",
+      "title": "EXPOSITION : LE CANAL DU MIDI : UNE ECHAPPEE BELLE EN IMAGES",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Canal-du-Midi.jpg?width=200",
+      "startDate": "2026-09-01",
+      "endDate": "2026-09-30",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "225 Rue Jean Jaurès, 11210, PORT-LA-NOUVELLE",
+      "description": "La médiathèque propose le canal du midi : une échappée belle en images Anniversaire 30 ans au classement de l'UNESCO Exposition réalisée par voies Navigables de France en lien avec les membres de l'entente pour le canal du midi"
+    },
+    {
+      "id": "myPopover6",
+      "title": "PRINCE OF SPEED CHAMPIONNAT DU MONDE DE VITESSE À LA VOILE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/PRINCE-OF-SPEED-2020-10.jpg?width=200",
+      "startDate": "2026-09-01",
+      "endDate": "2026-10-01",
+      "times": [
+        "08:00",
+        "20:00"
+      ],
+      "location": "LA PALME",
+      "address": "11480, LA PALME",
+      "description": "GP international - Farrel Cup d'automne qui se déroule sur la plage sauvage du Rouet de La Palme. Les compétitions de la Farrel Cup : 3 jours dans la période du 1er Septembre au 1er Octobre, selon les conditions météorologiques et marines. Parking : Salin de La Palme (randonnée à pied à travers le salin jusqu'à la plage). Spot unique en Europe, grâce à la direction du vent pour toutes pratiques de voile, les riders sont toujours motivés à établir de nouveaux records ! Les autres rendez-vous Prince of Speed : - La Palme - Championnat du Monde ISWC et GP Wing : du 27 Avril au 6 Mai 2026 - La Palme - Tentative du Record du Monde : entre le 7 Juin et le 7 Juillet 2026."
+    },
+    {
+      "id": "myPopover7",
       "title": "CONCOURS PHOTO AMATEUR",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-octobre-rose-.jpg?width=200",
@@ -32,7 +110,7 @@
       "description": "Concours photographes amateurs Thème 2026 le corps Dépôt des œuvres jusqu'au 26 Septembre 15 e l'intégralité des droits d'inscription est reversée à la ligue contre le cancer"
     },
     {
-      "id": "myPopover5",
+      "id": "myPopover8",
       "title": "EXPOSITION - MELLAL ROSY & GÉLIS MONIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/mellal-2.jpg?width=200",
@@ -49,7 +127,7 @@
       "description": "Du 17 septembre au 29 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover9",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -66,7 +144,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover10",
       "title": "EXPOSITION \"TOZ ET PEACE\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
@@ -81,7 +159,7 @@
       "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover11",
       "title": "DON DU SANG",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/don-du-sang-55.jpg?width=200",
@@ -96,7 +174,7 @@
       "description": "Nous vous donnons RDV à Coursan, mardi 22 septembre de 15h à 19h à la salle polyvalente. Avec ou sans RDV nous avons besoin de vous : https://dondesang.efs.sante.fr/trouver-une-collecte/168290/sang?ville=coursan BON A SAVOIR : Avoir entre 18 et 70 ans, peser +50kg Ne jamais avoir été transfusé Être en forme Manger et s’hydrater avant le don Durée : 1H dont 10min pour le don de sang Se présenter avec un document d’identité Votre don permettra de soigner 3 patients différents dans les prochains jours Retrouvez toutes les infos sur le don de sang ici : https://dondesang.efs.sante.fr/don-de-sang"
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover12",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -111,7 +189,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover13",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -125,7 +203,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover14",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -140,7 +218,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover15",
       "title": "MUJO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/shunko1.jpg?width=200",
@@ -157,7 +235,7 @@
       "description": "Mujō, notion japonaise d’impermanence, évoque le caractère éphémère de toute chose, en perpétuel mouvement et en constante transformation. À travers ses calligraphies, l’artiste explore cette idée avec délicatesse. Le geste, l’encre et le vide composent des œuvres où simplicité et équilibre traduisent une profonde attention à l’instant présent. Fidèle à la tradition japonaise, son travail accorde une place essentielle à l’effacement, à l’espace et à la sobriété. Vernissage le 19 août à 18h30"
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover16",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -169,7 +247,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover17",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -184,7 +262,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover18",
       "title": "EXPOSITION \"TOZ ET PEACE\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
@@ -199,7 +277,7 @@
       "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover19",
       "title": "VIADO VÉLO - ÉTAPE N°5",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VIADO-VELO.jpg?width=200",
@@ -214,7 +292,7 @@
       "description": "À l’occasion des Journées Européennes du Patrimoine, l’association « Via Domitia – Collectif Occitanie », avec le concours de ses partenaires, organise un voyage à vélo : ViadO VélO Il s’agit d’un périple à vélo, de 9 jours consécutifs, du 19 au 27 septembre 2026 inclus. Celui-ci aura lieu sur l’ensemble des quatre départements, le départ se faisant à Beaucaire (Site historique des Colonnes de César), sur la rive droite du Rhône, et l’arrivée au Perthus (Col de Panissars), dans les Pyrénées-Orientales. Étape 5 : Colombiers - Narbonne (23km) LE PARCOURS : 9h00 : Départ place du III ème millénaire à Colombiers. 9h30 : Point de rencontre à la Maison du Malpas (animation UFOLEP) 11h15 : Départ en direction de l'étang de Capestang. 13h00 : Départ vers Coursan 13h30 : Pause à Coursan, accueil par la municipalité avec rafraichissements et rencontre avec la presse. 15h00 : Arrivée à Narbonne, visite commentée du Clos de la Lombarde par Dominique Moulis, archéologue. 16h00 : Accueil, place de l'Hôtel de ville et présentation par Dominique Moulis de la découverte de la voie faite en 1997 à l'occasion de travaux de voirie. 17h00 : Visite du musée Narbo Via, accueil par Valérie Brousselle, directrice de l'EPCI Narbo Via. Le musée Narbo Via restitue le passé de Narbonne, capitale de la province de Narbonnaise sous le nom de Narbo Martius. Le bâtiment, conçu par l'agence internationale Foster & Partners, comprend notamment des vestiges monumentaux et des décors fastueux issus des maisons du Clos de la Lombarde. Inscription en ligne, choisissez votre étape et en route !"
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover20",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -229,7 +307,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover56",
+      "id": "myPopover21",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
@@ -246,7 +324,7 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover22",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -261,7 +339,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover23",
       "title": "EXPOSITION \"TOZ ET PEACE\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
@@ -276,7 +354,7 @@
       "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover24",
       "title": "VIADO VÉLO - ÉTAPE N°6",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VIADO-VELO.jpg?width=200",
@@ -291,7 +369,7 @@
       "description": "À l’occasion des Journées Européennes du Patrimoine, l’association « Via Domitia – Collectif Occitanie », avec le concours de ses partenaires, organise un voyage à vélo : ViadO VélO Il s’agit d’un périple à vélo, de 9 jours consécutifs, du 19 au 27 septembre 2026 inclus. Celui-ci aura lieu sur l’ensemble des quatre départements, le départ se faisant à Beaucaire (Site historique des Colonnes de César), sur la rive droite du Rhône, et l’arrivée au Perthus (Col de Panissars), dans les Pyrénées-Orientales. Étape 6 : Narbonne - Sigean (60km) Au programme : 9h30 : Départ depuis le musée Narbo Via, passage par Mandirac et les étangs.. 12h00 : Pique-nique tiré du sac à Bages. 13h30 : Départ vers Pech Maho avec passage à Peyriac-de-Mer. 14h30 : Visite de l’oppidum de Pech Maho avec une présentation du site par Dominique Moulis 15h00 : Départ vers Sigean 16h00 : Arrivée à Sigean et visite du Musée des Corbières guidée par Catherine Brunet. Inscription en ligne, choisissez votre étape et en route !"
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover25",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -306,7 +384,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover26",
       "title": "ESCALE IODÉE – RESTAURANT CHEZ BLONDIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
@@ -320,7 +398,7 @@
       "description": "Chez Blondie vous propose une escale gourmande et iodée Les coquillages de \"Occitanie Coquillages\" s’invitent pour une soirée spéciale autour de plateaux de fruits de mer fraîchement livrés. Dégustation sur place ou à emporter Accompagné d’un verre de vin et de charcuterie À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover27",
       "title": "VISITE DU PALAIS DES ARCHEVÊQUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2.jpg?width=200",
@@ -334,7 +412,7 @@
       "description": "LE PALAIS DES ARCHEVÊQUES, DU PALAIS ROMAN À L’HÔTEL DE VILLE NÉOGOTHIQUE L’histoire a façonné le palais, à la fois forteresse médiévale et résidence princière. Salles d’apparat, anciennes chapelles, plafonds peints, cours et escaliers monumentaux vous transportent dans l’intimité des prélats, au fil des siècles."
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover28",
       "title": "L'OCCITAN C'EST ÉPATANT.",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/journees-du-patrimoine-tsft.jpg?width=200",
@@ -351,7 +429,7 @@
       "description": "Dans le cadre des Journées européennes du Patrimoine, l’Association d’Histoire de Névian vous propose un programme riche en découvertes, avec une exposition, une conférence, des animations et des veillées. Le vendredi soir, une pièce de théâtre en patois avec Catinou et Jacouti sera également proposée."
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover29",
       "title": "CONCERT FOLK",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/congerdesign-guitar-4297541-5.jpg?width=200",
@@ -366,7 +444,7 @@
       "description": "La Folk de Marty anime le Tinal. Musicien-instrumentiste ayant accompagné de nombreux artistes renommés, Marty vous propose ce soir un concert en solo, où il interprétera ses chansons folk accompagné de ses instruments. Un concert intimiste et authentique à ne pas manquer."
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover30",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -381,7 +459,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover31",
       "title": "RENCONTRE CANAL DU MIDI : L'ESSENCIEL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Canal-du-Midi-3.jpg?width=200",
@@ -395,7 +473,7 @@
       "description": "Diaporama conférence présenté par André Authier et l'association ACAMPO"
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover32",
       "title": "CONCERT DE PIANO ROMANTIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Piano-Romantique-en-JPG.jpg?width=200",
@@ -410,7 +488,7 @@
       "description": "Jean-Michel BODORVSKI est actuellement professeur de piano à la MJC de Narbonne. Il a étudié le piano au Conservatoire de TOULOUSE dans la classe de Jean-Luc DELPLA. Pendant une dizaine d’années, il a été membre du Jury du Concours Musical de France, sous l’égide de Ginette GAUBERT. Pédagogue, compositeur enregistré à la SACEM, passionné de violon et de chant, Jean-Michel BODORVSKI évolue dans plusieurs univers musicaux, toujours au sein de la musique classique. Il se produit aujourd’hui en tant que pianiste, dans un répertoire qu’il affectionne tout particulièrement : le Romantisme. Les oeuvres jouées sont parmi les plus belles pages de F. CHOPIN, R. SCHUMANN, F. LISZT."
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover33",
       "title": "SOIRÉE THÉÂTRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/geralt-theatre-1713816.jpg?width=200",
@@ -425,7 +503,7 @@
       "description": "L’association Lézarts de Saint-Marcel-sur-Aude propose deux représentations à la salle polyvalente de St Nazaire d'Aude. Au programme, « Papa, maman, où tu es ? » et « Le Déparleur », deux spectacles à découvrir et à partager en famille ou entre amis."
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover34",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -440,7 +518,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover35",
       "title": "EXPOSITION \"TOZ ET PEACE\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
@@ -455,7 +533,7 @@
       "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover36",
       "title": "L'EXPERTIBUS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/EXPERTIBUS-.jpg?width=200",
@@ -472,7 +550,7 @@
       "description": "Estimation gratuite et sans rdv d'objets sur le parking du casino"
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover37",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -487,7 +565,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover38",
       "title": "VIADO VÉLO - ÉTAPE N°7",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VIADO-VELO.jpg?width=200",
@@ -502,7 +580,7 @@
       "description": "À l’occasion des Journées Européennes du Patrimoine, l’association « Via Domitia – Collectif Occitanie », avec le concours de ses partenaires, organise un voyage à vélo : ViadO VélO Il s’agit d’un périple à vélo, de 9 jours consécutifs, du 19 au 27 septembre 2026 inclus. Celui-ci aura lieu sur l’ensemble des quatre départements, le départ se faisant à Beaucaire (Site historique des Colonnes de César), sur la rive droite du Rhône, et l’arrivée au Perthus (Col de Panissars), dans les Pyrénées-Orientales. Étape 7 : Sigean - Salses-le-Château (46km) Le parcours : Sigean -> Caves -> Salses-le-Château (visite de la forteresse) Inscription en ligne, choisissez votre étape et en route !"
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover39",
       "title": "FETE DE L'AMANDE DE SAINTE-LUCIE",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/amande-by-marcia-cripps-unsplash.jpg?width=200",
@@ -514,7 +592,7 @@
       "description": "Les amandes et la mémoire agricole de Sainte Lucie. Programme prévisionnel: Atelier pâtisserie Conférence sur la mémoire agricole de l'île : l'agriculture au coeur de l'économie de Sainte Lucie. Déjeuner autour de l'amande. Maximum 25 personnes Groupes de 8 à 10 personnes acceptés"
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover40",
       "title": "PÉPITE DU VIGNERON - RESTAURANT CHEZ BLONDIE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
@@ -528,7 +606,7 @@
       "description": "Venez explorer notre sélection de vignerons d’Occitanie lors d’une soirée dédiée à la dégustation et au partage. Premier verre de dégustation offert Découverte de vins soigneusement sélectionnés À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
-      "id": "myPopover76",
+      "id": "myPopover41",
       "title": "L'OCCITAN C'EST ÉPATANT.",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/journees-du-patrimoine-tsft.jpg?width=200",
@@ -543,7 +621,7 @@
       "description": "Dans le cadre des Journées européennes du Patrimoine, l’Association d’Histoire de Névian vous propose un programme riche en découvertes, avec une exposition, une conférence, des animations et des veillées."
     },
     {
-      "id": "myPopover77",
+      "id": "myPopover42",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -558,22 +636,21 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover78",
-      "title": "CONCERT AUX KARANTES",
+      "id": "myPopover43",
+      "title": "CONCERT DE CLÔTURE AUX KARANTES",
       "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/myrichagnon-concert-10226178-1920.jpg?width=200",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Karantes-Cloture.jpg?width=200",
       "startDate": "2026-09-26",
       "endDate": "2026-09-26",
       "times": [
-        "19:00",
         "20:30"
       ],
       "location": "NARBONNE",
       "address": "Place des Karantes, 11100, NARBONNE",
-      "description": "Soirée festive et concert à la place des Karantes. Venez dès 19h, le concert par Duo Festif débutera à 20h45. Musique rétro, années 60/70/80 au programme."
+      "description": "La saison touche doucement à sa fin… mais aux Karantes, on compte bien la terminer en musique et dans la bonne humeur. Les commerçants des Karantes vous donnent rendez-vous pour un dernier grand concert de clôture avec le Duo Festif Alain & Cécilia. Une soirée au rythme des années 60, 70 et 80, pour chanter, danser et profiter tous ensemble d’une dernière soirée festive aux Karantes ! Des tubes incontournables, de la bonne humeur et une ambiance festive pour clôturer ensemble cette saison 2026. Initialement prévu ce samedi 26 septembre, le Grand Banquet des Karantes ne pourra malheureusement pas avoir lieu cette année, les conditions nécessaires à la mise en place de cet événement n’ayant pas pu être réunies. Les commerçants vous donnent toutefois rendez-vous dans leurs établissements pour bien commencer, et/ou finir, la soirée."
     },
     {
-      "id": "myPopover79",
+      "id": "myPopover44",
       "title": "LO MERCAT FESTIU",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/lo-mercat-bize.jpg?width=200",
@@ -588,7 +665,7 @@
       "description": "Comme tous les samedis, retrouvez le marché animé \"Lo Mercat Festiu\" De 8h à 14h30, venez profiter d'un moment convivial au cœur de Bize-Minervois. Producteurs locaux, commerçants, artisans et animation musicale. Petite restauration et dégustation de vin."
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover45",
       "title": "MARCHÉ ANIMÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
@@ -603,7 +680,7 @@
       "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
     },
     {
-      "id": "myPopover81",
+      "id": "myPopover46",
       "title": "VENDANGES FEST",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/a5406f29-dd33-40ab-8634-29efe77d5a44.jpg?width=200",
@@ -617,7 +694,7 @@
       "description": "Les vendanges touchent à leur fin, et il est grand temps de relâcher la pression... avec du gros son. Rendez-vous au Parc Rouaix pour une soirée Métal qui s'annonce mémorable pour clôturer la saison des vendanges ! Le Comité des Fêtes sera bien évidemment de la partie derrière le comptoir de la buvette. Que vous soyez un fan inconditionnel d'Iron Maiden & consorts prêt à secouer la tête, ou simplement là pour partager un verre et fêter la fin des vendanges dans une ambiance de folie, nous vous attendons de pied ferme pour trinquer ensemble. Au programme: - Une ambiance conviviale et déjantée. - La buvette du Comité pour vous rafraîchir. - Des foodtrucks pour reprendre des forces"
     },
     {
-      "id": "myPopover82",
+      "id": "myPopover47",
       "title": "FETE FORRAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-forraine.jpg?width=200",
@@ -632,7 +709,7 @@
       "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
     },
     {
-      "id": "myPopover83",
+      "id": "myPopover48",
       "title": "LE TEMPS DES LIENS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
@@ -647,7 +724,7 @@
       "description": "Une matinée conviviale pour découvrir les lieux, nos valeurs, rencontrer nos adhérents et rejoindre l’aventure du sablier à nos côtés."
     },
     {
-      "id": "myPopover84",
+      "id": "myPopover49",
       "title": "ATELIER CRÉATIF \"MARQUES PAGES\"",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/1-fma.jpg?width=200",
@@ -662,7 +739,7 @@
       "description": "Atelier créatif \"Marques Pages\" à Narbonne. Matériel inclus sauf ton ou tes pinceaux. Les inscriptions se font par mail ou à l'Espace création.s . Adaptés à tous les niveaux, ados et adultes."
     },
     {
-      "id": "myPopover85",
+      "id": "myPopover50",
       "title": "CHAMPIONAT DE LIGUE - TROPHÉE D'AUTOMNE OCCIANIE - SLALOM ET FOIL",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Championnat-de-Mediterranee-affiche-26-et-27-septembre-2026.png?width=200",
@@ -674,7 +751,7 @@
       "description": "L'école de voile de la Société Nautique de Narbonne organise une épreuve de windsurf slalom et foil. Inscription obligatoire avant le 23 septembre."
     },
     {
-      "id": "myPopover86",
+      "id": "myPopover51",
       "title": "FÊTE DES VENDANGES",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/raisins-Pixabay-2.jpg?width=200",
@@ -688,7 +765,7 @@
       "description": "Fête des Vendanges 2026. Rendez-vous le samedi 26 septembre 2026 à partir de 19h00 au boulodrome de Ventenac pour notre traditionnelle fête des vendanges ! Cette année encore, la soirée sera animée. Une ambiance festive et conviviale. Restauration et buvette sur place - pensez à apporter vos couverts ! On vous attend nombreux pour partager ce moment chaleureux et festif au cœur du minervois"
     },
     {
-      "id": "myPopover87",
+      "id": "myPopover52",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -703,7 +780,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover88",
+      "id": "myPopover53",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -718,7 +795,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover89",
+      "id": "myPopover54",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -733,7 +810,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover90",
+      "id": "myPopover55",
       "title": "BROCANTE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-8.jpg?width=200",
@@ -748,7 +825,7 @@
       "description": "Venez chiner sur la promenade des barques à la brocante par l’association des Brocanteurs et Narbonne Broc. Découvrez des antiquités, bibelots, meubles d’antan…"
     },
     {
-      "id": "myPopover91",
+      "id": "myPopover56",
       "title": "VIE SAUVAGE DANS LA ROSALIERE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
@@ -763,7 +840,7 @@
       "description": "Une roselière c’est quoi ? Venez découvrir la biodiversité et la fragilité de ce milieu à travers des ateliers ludiques et scientifiques. Delphine Bruyère-Heinrich – C’est ma nature Réservation 25 pers. max – 04 68 42 70 45 – Gratuit"
     },
     {
-      "id": "myPopover92",
+      "id": "myPopover57",
       "title": "ATELIER CUISINE SAUVAGE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
@@ -778,7 +855,7 @@
       "description": "De la cueillette à l’assiette venez découvrir la flore et les fruits sauvages comestibles et déguster les saveurs d’automne! Laurie Beaufils – Herba Venti Réservation par téléphone, 15 pers. max"
     },
     {
-      "id": "myPopover93",
+      "id": "myPopover58",
       "title": "L'OCCITAN C'EST ÉPATANT.",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/journees-du-patrimoine-tsft.jpg?width=200",
@@ -793,7 +870,7 @@
       "description": "Dans le cadre des Journées européennes du Patrimoine, l’Association d’Histoire de Névian vous propose un programme riche en découvertes, avec une exposition, une conférence, des animations et des veillées."
     },
     {
-      "id": "myPopover94",
+      "id": "myPopover59",
       "title": "DE LA POLITIQUE SACRALISÉE À LA QUÊTE ÉTHIQUE DU SAINT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-dominique--1---002--page-0001.jpg?width=200",
@@ -807,7 +884,7 @@
       "description": "Rencontre avec DOMINIQUE BONDU, PHILOSOPHE, SOCIOLOGUE ET ECRIVAIN"
     },
     {
-      "id": "myPopover95",
+      "id": "myPopover60",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -822,7 +899,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover96",
+      "id": "myPopover61",
       "title": "VIDE-GRENIERS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
@@ -834,7 +911,7 @@
       "description": "Dimanche 27 septembre 2026 – Fleury sub 11 Lieu : Zone Fête foraine, Saint-Pierre-la-Mer Contact : Lesly Raysseguier – 06 47 54 77 72"
     },
     {
-      "id": "myPopover97",
+      "id": "myPopover62",
       "title": "MARCHÉ DES PRODUITS CATHARE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
@@ -849,7 +926,7 @@
       "description": "À la boutique de la Maison de la Narbonnaise, partez à la rencontre des produits Pays Cathare et redécouvrez tout le savoir-faire d’une marque de qualité audoise, portée par le Département de l’Aude depuis plus de 30 ans."
     },
     {
-      "id": "myPopover98",
+      "id": "myPopover63",
       "title": "VIDE-GRENIER",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-275.jpg?width=200",
@@ -864,7 +941,7 @@
       "description": "L'association \"La Jolie Fée Morgan\"organise un vide grenier en extérieur. Buvette et petite restauration sur place."
     },
     {
-      "id": "myPopover99",
+      "id": "myPopover64",
       "title": "LOTO",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VIDE-GRENIER--16.jpg?width=200",
@@ -878,7 +955,7 @@
       "description": "Loto de l'association du Saint Pierre Nouvellois"
     },
     {
-      "id": "myPopover100",
+      "id": "myPopover65",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -893,7 +970,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover101",
+      "id": "myPopover66",
       "title": "MARCHÉ DES PRODUCTEURS HEBDOMADAIRES",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-producteurs-Pixabay-4.jpg?width=200",
@@ -908,7 +985,7 @@
       "description": "Au jardin public, un marché de producteurs locaux tous les dimanches matins. Se rencontrer autour de produits de qualité et de saison."
     },
     {
-      "id": "myPopover102",
+      "id": "myPopover67",
       "title": "GRAND NETTOYAGE DE LA NATURE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/pixelwanderer-beach-cleanup-10178221.jpg?width=200",
@@ -920,7 +997,7 @@
       "description": "Grand nettoyage organisé dans le cadre du World Cleanup Day avec Project Rescue Ocean. Pourquoi participer au World CleanUp Day avec PRO ? Chaque année, des millions de tonnes de déchets finissent dans nos océans. L'association Project Rescue Ocean organise un moment de mobilisation pour nettoyer nos plages et protéger la Méditerranée. Que vous soyez seul, en famille, entre collègues ou avec votre classe, chaque main compte. 🛠️ Infos pratiques Matériel : Gants, sacs et pesons sont fournis par l’association. Esprit : Une action éco-citoyenne, libre, gratuite, sans inscription et dans la bonne humeur. Le petit plus : Une pesée géante en fin de ramassage pour mesurer l’impact de notre effort collectif. Pour connaître le lieu et l'horaire de RDV, suivez la page de Facebook de l'événement : https://www.facebook.com/pro.narbonne/?locale=fr_FR"
     },
     {
-      "id": "myPopover103",
+      "id": "myPopover68",
       "title": "MARCHE DES PRODUCTEURS PAYS CATHARE ET ARTISANS D'ART",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/narbonne-2025-maison-narbonnaise-vue-aerienne-by-pnrnm-2-2-2.jpg?width=200",
@@ -935,7 +1012,7 @@
       "description": "À la Maison de la Narbonnaise, un marché pour célébrer les savoir-faire du territoire Marché des producteurs Pays Cathare et artisans d’art Dimanche 27 septembre 2026 – de 9h30 à 12h30 Maison de la Narbonnaise – Domaine du Grand Castélou – Narbonne Parmi les producteurs présents, la Miellerie des Clauses bénéficie des deux marques, Pays Cathare et Valeurs Parc, illustrant la complémentarité de ces démarches de valorisation des productions et des savoir-faire du territoire. Un stand d’animation dédié à la marque Pays Cathare permettra également aux visiteurs de mieux comprendre la démarche, ses valeurs et les professionnels qui s’engagent à travers cette marque. Un stand d’information de l’Office de Tourisme Côte du Midi complètera cette matinée, pour faire découvrir aux visiteurs les nombreuses possibilités de découverte et de séjour sur le territoire."
     },
     {
-      "id": "myPopover104",
+      "id": "myPopover69",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -952,7 +1029,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover105",
+      "id": "myPopover70",
       "title": "LES VENTES D'AUTOMNE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Ventes-d-automne-2.jpg?width=200",
@@ -969,7 +1046,7 @@
       "description": "L'Association Célian présente les Ventes d’automne. Ses créations artisanales. Une animation mettant à l’honneur les créations faites main de nos bénévoles"
     },
     {
-      "id": "myPopover106",
+      "id": "myPopover71",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -984,7 +1061,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover107",
+      "id": "myPopover72",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -998,7 +1075,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover108",
+      "id": "myPopover73",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -1011,6 +1088,171 @@
       "location": "NARBONNE",
       "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
+    },
+    {
+      "id": "myPopover74",
+      "title": "EXPOSITION - HUPONT DENISE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Hupont-Denise.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-12",
+      "times": [
+        "10:00",
+        "13:00",
+        "16:00",
+        "18:00"
+      ],
+      "location": "FLEURY",
+      "address": "Place des Vergnettes, 11560, FLEURY",
+      "description": "Exposition – Promenades en aquarelle Du 30 septembre au 12 octobre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
+    },
+    {
+      "id": "myPopover75",
+      "title": "ATELIERS THEATRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
+      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
+    },
+    {
+      "id": "myPopover76",
+      "title": "HOMMAGE A EMMANUEL DARLEY",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/E.-DARLEY.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "times": [
+        "18:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "42 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
+      "description": "Hommage à Emmanuel Darley par Mona Darley et Bruno Perren Lectures et vidéos Gratuit"
+    },
+    {
+      "id": "myPopover77",
+      "title": "EXPOSITION PAOLA DI PRIMA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "times": [
+        "15:00",
+        "19:00"
+      ],
+      "location": "BAGES",
+      "address": "8 Rue des Remparts, 11100, BAGES",
+      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
+    },
+    {
+      "id": "myPopover78",
+      "title": "EXPOSITION « VARIATIONS » – AM'ART",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fma-14.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-14",
+      "times": [
+        "13:00",
+        "18:30"
+      ],
+      "location": "NARBONNE",
+      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
+      "description": "L' association méditerranée art rencontres vous propose l'exposition « VARIATIONS » – AM'ART. Vernissage vendredi 02 Octobre à 18h."
+    },
+    {
+      "id": "myPopover79",
+      "title": "FETE FORRAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-forraine.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "times": [
+        "14:00",
+        "20:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Quai Victor Hugo, 11100, NARBONNE",
+      "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
+    },
+    {
+      "id": "myPopover80",
+      "title": "ATELIER \"BRODERIE SUR CARTES\"",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/260930.png?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "times": [
+        "14:30",
+        "17:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Passage de l'Ancien Courrier, 11100, NARBONNE",
+      "description": "Broderie sur Cartes Nul besoin de savoir broder, juste l'envie d'apprendre, de passer un bon moment en laissant parler son imagination. Vous pouvez apporter cartes ou photos personnelles si vous le souhaitez Matériel fourni, vous repartez avec votre carte brodée. Venez vous inscrire directement à \"Espace Création.s\"; ou en envoyant un mail."
+    },
+    {
+      "id": "myPopover81",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-09-30",
+      "endDate": "2026-09-30",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover82",
+      "title": "TRAIT(S) - KITTY SABATIER",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-03",
+      "times": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
+      "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
+    },
+    {
+      "id": "myPopover83",
+      "title": "EXPOSITION PAOLA DI PRIMA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "times": [
+        "15:00",
+        "19:00"
+      ],
+      "location": "BAGES",
+      "address": "8 Rue des Remparts, 11100, BAGES",
+      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
+    },
+    {
+      "id": "myPopover84",
+      "title": "MARCHÉ DE PLEIN VENT",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
+      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     }
   ]
 }
