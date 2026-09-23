@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-22T09:38:36.021Z",
+  "generatedAt": "2026-09-23T09:45:50.023Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 84,
+  "count": 79,
   "events": [
     {
       "id": "myPopover1",
@@ -142,80 +142,6 @@
       "location": "NARBONNE",
       "address": "Rte de Gruissan, 11100, NARBONNE",
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover10",
-      "title": "EXPOSITION \"TOZ ET PEACE\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "Rue des Elysiques/Espace Louis Daudé, 11100, BAGES",
-      "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
-    },
-    {
-      "id": "myPopover11",
-      "title": "DON DU SANG",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/don-du-sang-55.jpg?width=200",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "COURSAN",
-      "address": "88 Avenue Jean Jaurès, 11110, COURSAN",
-      "description": "Nous vous donnons RDV à Coursan, mardi 22 septembre de 15h à 19h à la salle polyvalente. Avec ou sans RDV nous avons besoin de vous : https://dondesang.efs.sante.fr/trouver-une-collecte/168290/sang?ville=coursan BON A SAVOIR : Avoir entre 18 et 70 ans, peser +50kg Ne jamais avoir été transfusé Être en forme Manger et s’hydrater avant le don Durée : 1H dont 10min pour le don de sang Se présenter avec un document d’identité Votre don permettra de soigner 3 patients différents dans les prochains jours Retrouvez toutes les infos sur le don de sang ici : https://dondesang.efs.sante.fr/don-de-sang"
-    },
-    {
-      "id": "myPopover12",
-      "title": "MARCHÉ AUX FRIPES",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
-    },
-    {
-      "id": "myPopover13",
-      "title": "MARCHÉ AU BLÉ",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "times": [
-        "07:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
-    },
-    {
-      "id": "myPopover14",
-      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
-      "startDate": "2026-09-22",
-      "endDate": "2026-09-22",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
-      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
       "id": "myPopover15",
