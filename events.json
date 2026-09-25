@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-24T09:43:24.058Z",
+  "generatedAt": "2026-09-25T10:00:22.206Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 104,
+  "count": 98,
   "events": [
     {
       "id": "myPopover1",
@@ -159,95 +159,6 @@
       "location": "PEYRIAC-DE-MER",
       "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
-    },
-    {
-      "id": "myPopover11",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover12",
-      "title": "EXPOSITION : TOZ ET PEACE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Bages.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "Rue des Elysiques/Espace Louis Daudé, 11100, BAGES",
-      "description": "Exposition intitulée \"Reliques de guerres et fragments de paix\" . Entrée libre du mardi au vendredi ou sur rendez-vous. Rencontre et discussion avec l'artiste et en partenariat avec l'Université Populaire de la Narbonnaise le lundi 28 septembre à 18h15."
-    },
-    {
-      "id": "myPopover13",
-      "title": "L'ÉTANGD'ART GALERIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous."
-    },
-    {
-      "id": "myPopover14",
-      "title": "VIADO VÉLO - ÉTAPE N°6",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VIADO-VELO.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "times": [
-        "09:30",
-        "19:30"
-      ],
-      "location": "NARBONNE",
-      "address": "2 Avenue André Mècle, 11100, NARBONNE",
-      "description": "À l’occasion des Journées Européennes du Patrimoine, l’association « Via Domitia – Collectif Occitanie », avec le concours de ses partenaires, organise un voyage à vélo : ViadO VélO Il s’agit d’un périple à vélo, de 9 jours consécutifs, du 19 au 27 septembre 2026 inclus. Celui-ci aura lieu sur l’ensemble des quatre départements, le départ se faisant à Beaucaire (Site historique des Colonnes de César), sur la rive droite du Rhône, et l’arrivée au Perthus (Col de Panissars), dans les Pyrénées-Orientales. Étape 6 : Narbonne - Sigean (60km) Au programme : 9h30 : Départ depuis le musée Narbo Via, passage par Mandirac et les étangs.. 12h00 : Pique-nique tiré du sac à Bages. 13h30 : Départ vers Pech Maho avec passage à Peyriac-de-Mer. 14h30 : Visite de l’oppidum de Pech Maho avec une présentation du site par Dominique Moulis 15h00 : Départ vers Sigean 16h00 : Arrivée à Sigean et visite du Musée des Corbières guidée par Catherine Brunet. Inscription en ligne, choisissez votre étape et en route !"
-    },
-    {
-      "id": "myPopover15",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover16",
-      "title": "ESCALE IODÉE – RESTAURANT CHEZ BLONDIE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Chez-Blondie.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-24",
-      "times": [
-        "18:30"
-      ],
-      "location": "FLEURY",
-      "address": "2 place des pêcheurs, 11560, FLEURY",
-      "description": "Chez Blondie vous propose une escale gourmande et iodée Les coquillages de \"Occitanie Coquillages\" s’invitent pour une soirée spéciale autour de plateaux de fruits de mer fraîchement livrés. Dégustation sur place ou à emporter Accompagné d’un verre de vin et de charcuterie À partir de 18h30 Réservation : 06 20 87 38 11"
     },
     {
       "id": "myPopover17",
