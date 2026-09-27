@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-26T09:42:42.776Z",
+  "generatedAt": "2026-09-27T10:22:21.585Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 98,
+  "count": 79,
   "events": [
     {
       "id": "myPopover1",
@@ -37,21 +37,6 @@
       "location": "NARBONNE",
       "address": "3 Place Roger Salengro, 11100, NARBONNE",
       "description": "De l’estampe traditionnelle au manga contemporain, l’art japonais n’a cessé d’inspirer l’Occident, notamment les Impressionnistes. Cette exposition propose un voyage à travers les siècles, des maîtres comme Hokusai et Hiroshige aux figures majeures du manga telles qu’Osamu Tezuka ou Akira Toriyama, en passant par les célèbres Degas, Gauguin ou encore Monet... Réunissant plus de 200 œuvres — estampes, pastels, dessins, mais aussi objets traditionnels et armures de samouraï, issus de collections privées et du Palais Musée des Archevêques — elle met en lumière la richesse et la diversité de cet héritage artistique. Ouvert de 10h à 12h30 et de 14h à 18h."
-    },
-    {
-      "id": "myPopover3",
-      "title": "ATELIER: LES HUILES ESSENTIELLES",
-      "category": "culture",
-      "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
-      "startDate": "2026-08-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "10:00",
-        "12:00"
-      ],
-      "location": "OUVEILLAN",
-      "address": "5 Rue du Capitoul, 11590, OUVEILLAN",
-      "description": "Découvrez les bienfaits des huiles essentielles et les bonnes pratiques pour les utiliser au quotidien. Repartez avec votre stick inhalateur personnalisé ! Buvette et petite restauration sur place."
     },
     {
       "id": "myPopover4",
@@ -98,18 +83,6 @@
       "description": "GP international - Farrel Cup d'automne qui se déroule sur la plage sauvage du Rouet de La Palme. Les compétitions de la Farrel Cup : 3 jours dans la période du 1er Septembre au 1er Octobre, selon les conditions météorologiques et marines. Parking : Salin de La Palme (randonnée à pied à travers le salin jusqu'à la plage). Spot unique en Europe, grâce à la direction du vent pour toutes pratiques de voile, les riders sont toujours motivés à établir de nouveaux records ! Les autres rendez-vous Prince of Speed : - La Palme - Championnat du Monde ISWC et GP Wing : du 27 Avril au 6 Mai 2026 - La Palme - Tentative du Record du Monde : entre le 7 Juin et le 7 Juillet 2026."
     },
     {
-      "id": "myPopover7",
-      "title": "CONCOURS PHOTO AMATEUR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-octobre-rose-.jpg?width=200",
-      "startDate": "2026-09-08",
-      "endDate": "2026-09-26",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "225 Rue Jean Jaurès, 11210, PORT-LA-NOUVELLE",
-      "description": "Concours photographes amateurs Thème 2026 le corps Dépôt des œuvres jusqu'au 26 Septembre 15 e l'intégralité des droits d'inscription est reversée à la ligue contre le cancer"
-    },
-    {
       "id": "myPopover8",
       "title": "EXPOSITION - MELLAL ROSY & GÉLIS MONIQUE",
       "category": "culture",
@@ -127,40 +100,6 @@
       "description": "Du 17 septembre au 29 septembre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover9",
-      "title": "EXPOSITION CHRISTIAN BARTELLEMY",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
-      "startDate": "2026-09-21",
-      "endDate": "2026-09-26",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Rte de Gruissan, 11100, NARBONNE",
-      "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover10",
-      "title": "TRAIT(S) - KITTY SABATIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
-      "startDate": "2026-09-24",
-      "endDate": "2026-09-26",
-      "times": [
-        "10:00",
-        "12:00",
-        "16:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
-      "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
-    },
-    {
       "id": "myPopover11",
       "title": "RELIÉS",
       "category": "culture",
@@ -174,109 +113,6 @@
       "location": "BAGES",
       "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
-    },
-    {
-      "id": "myPopover12",
-      "title": "L'OCCITAN C'EST ÉPATANT.",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/journees-du-patrimoine-tsft.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "10:00",
-        "18:00"
-      ],
-      "location": "NEVIAN",
-      "address": "20 Avenue de Marcorignan, 11200, NEVIAN",
-      "description": "Dans le cadre des Journées européennes du Patrimoine, l’Association d’Histoire de Névian vous propose un programme riche en découvertes, avec une exposition, une conférence, des animations et des veillées."
-    },
-    {
-      "id": "myPopover13",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover14",
-      "title": "CONCERT DE CLÔTURE AUX KARANTES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Karantes-Cloture.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "20:30"
-      ],
-      "location": "NARBONNE",
-      "address": "Place des Karantes, 11100, NARBONNE",
-      "description": "La saison touche doucement à sa fin… mais aux Karantes, on compte bien la terminer en musique et dans la bonne humeur. Les commerçants des Karantes vous donnent rendez-vous pour un dernier grand concert de clôture avec le Duo Festif Alain & Cécilia. Une soirée au rythme des années 60, 70 et 80, pour chanter, danser et profiter tous ensemble d’une dernière soirée festive aux Karantes ! Des tubes incontournables, de la bonne humeur et une ambiance festive pour clôturer ensemble cette saison 2026. Initialement prévu ce samedi 26 septembre, le Grand Banquet des Karantes ne pourra malheureusement pas avoir lieu cette année, les conditions nécessaires à la mise en place de cet événement n’ayant pas pu être réunies. Les commerçants vous donnent toutefois rendez-vous dans leurs établissements pour bien commencer, et/ou finir, la soirée."
-    },
-    {
-      "id": "myPopover15",
-      "title": "L'ÉTANGD'ART GALERIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
-    },
-    {
-      "id": "myPopover16",
-      "title": "LO MERCAT FESTIU",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/lo-mercat-bize.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Avenue de l'Hôtel de Ville, 11120, BIZE-MINERVOIS",
-      "description": "Comme tous les samedis, retrouvez le marché animé \"Lo Mercat Festiu\" De 8h à 14h30, venez profiter d'un moment convivial au cœur de Bize-Minervois. Producteurs locaux, commerçants, artisans et animation musicale. Petite restauration et dégustation de vin."
-    },
-    {
-      "id": "myPopover17",
-      "title": "MARCHÉ ANIMÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "08:00",
-        "15:00"
-      ],
-      "location": "ARGELIERS",
-      "address": "Allée Marcelin Albert, 11120, ARGELIERS",
-      "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
-    },
-    {
-      "id": "myPopover18",
-      "title": "VENDANGES FEST",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/a5406f29-dd33-40ab-8634-29efe77d5a44.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "21:00"
-      ],
-      "location": "MOUSSAN",
-      "address": "Rue des Lavoirs, 11120, MOUSSAN",
-      "description": "Les vendanges touchent à leur fin, et il est grand temps de relâcher la pression... avec du gros son. Rendez-vous au Parc Rouaix pour une soirée Métal qui s'annonce mémorable pour clôturer la saison des vendanges ! Le Comité des Fêtes sera bien évidemment de la partie derrière le comptoir de la buvette. Que vous soyez un fan inconditionnel d'Iron Maiden & consorts prêt à secouer la tête, ou simplement là pour partager un verre et fêter la fin des vendanges dans une ambiance de folie, nous vous attendons de pied ferme pour trinquer ensemble. Au programme: - Une ambiance conviviale et déjantée. - La buvette du Comité pour vous rafraîchir. - Des foodtrucks pour reprendre des forces"
     },
     {
       "id": "myPopover19",
@@ -294,36 +130,6 @@
       "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
     },
     {
-      "id": "myPopover20",
-      "title": "LE TEMPS DES LIENS",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "10:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "1 Rue Benoît Malon, 11100, NARBONNE",
-      "description": "Une matinée conviviale pour découvrir les lieux, nos valeurs, rencontrer nos adhérents et rejoindre l’aventure du sablier à nos côtés."
-    },
-    {
-      "id": "myPopover21",
-      "title": "ATELIER CRÉATIF - MARQUES PAGES",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/1-fma.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "10:00",
-        "12:30"
-      ],
-      "location": "NARBONNE",
-      "address": "50 Rue de l'Ancien Courrier, 11100, NARBONNE",
-      "description": "Atelier créatif \"Marques Pages\" à Narbonne. Matériel inclus sauf ton ou tes pinceaux. Les inscriptions se font par mail ou à l'Espace création.s . Adaptés à tous les niveaux, ados et adultes."
-    },
-    {
       "id": "myPopover22",
       "title": "CHAMPIONAT DE LIGUE - TROPHÉE D'AUTOMNE OCCIANIE - SLALOM ET FOIL",
       "category": "sportandleisure",
@@ -334,95 +140,6 @@
       "location": "NARBONNE",
       "address": "43 Rue des Nautiquards, 11100, NARBONNE",
       "description": "L'école de voile de la Société Nautique de Narbonne organise une épreuve de windsurf slalom et foil. Inscription obligatoire avant le 23 septembre."
-    },
-    {
-      "id": "myPopover23",
-      "title": "FÊTE DES VENDANGES",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/raisins-Pixabay-2.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "19:30"
-      ],
-      "location": "VENTENAC-EN-MINERVOIS",
-      "address": "9 Rue de l'Aqueduc, Boulodrome, 11120, VENTENAC-EN-MINERVOIS",
-      "description": "Fête des Vendanges 2026. Rendez-vous le samedi 26 septembre 2026 à partir de 19h00 au boulodrome de Ventenac pour notre traditionnelle fête des vendanges ! Cette année encore, la soirée sera animée. Une ambiance festive et conviviale. Restauration et buvette sur place - pensez à apporter vos couverts ! On vous attend nombreux pour partager ce moment chaleureux et festif au cœur du minervois"
-    },
-    {
-      "id": "myPopover24",
-      "title": "MARCHÉ BIO",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
-    },
-    {
-      "id": "myPopover25",
-      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
-      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
-    },
-    {
-      "id": "myPopover26",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover27",
-      "title": "BROCANTE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Clap-ete-2026-2-8.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "09:00",
-        "17:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Promenade des Barques, 11100, NARBONNE",
-      "description": "Venez chiner sur la promenade des barques à la brocante par l’association des Brocanteurs et Narbonne Broc. Découvrez des antiquités, bibelots, meubles d’antan…"
-    },
-    {
-      "id": "myPopover28",
-      "title": "VIE SAUVAGE DANS LA ROSALIERE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
-      "startDate": "2026-09-26",
-      "endDate": "2026-09-26",
-      "times": [
-        "09:30",
-        "12:30"
-      ],
-      "location": "NARBONNE",
-      "address": "Domaine du Grand Castelou, 11100, NARBONNE",
-      "description": "Une roselière c’est quoi ? Venez découvrir la biodiversité et la fragilité de ce milieu à travers des ateliers ludiques et scientifiques. Delphine Bruyère-Heinrich – C’est ma nature Réservation 25 pers. max – 04 68 42 70 45 – Gratuit"
     },
     {
       "id": "myPopover29",
