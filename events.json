@@ -1,72 +1,9 @@
 {
-  "generatedAt": "2026-09-30T10:54:43.386Z",
+  "generatedAt": "2026-10-01T11:23:39.470Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 95,
+  "count": 84,
   "events": [
-    {
-      "id": "myPopover1",
-      "title": "NATURE SAUVAGE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/EXPO-CHATEAU-DE-LASTOURS-2.jpg?width=200",
-      "startDate": "2026-06-19",
-      "endDate": "2026-09-30",
-      "times": [
-        "10:00",
-        "13:00",
-        "15:00",
-        "19:00"
-      ],
-      "location": "PORTEL-DES-CORBIERES",
-      "address": "CHÂTEAU DE LASTOURS, 11490, PORTEL-DES-CORBIERES",
-      "description": "Antoine Gamard artiste accompli, expose ses œuvres dans notre caveau tout l’été. Art et Grands Vins se mêlent au Château de Lastours pour votre plus grand plaisir. Un voyage enchanteur à vivre seul ou à partager en famille ou entre amis. Profitez d’une visite guidée des chais, caves et dégustations de vins (sur réservation). Complétez votre expérience avec une halte gourmande au restaurant La Bergerie de Lastours. - Antoine Gamard, Diplômé des Beaux-Arts de Paris, il développe un univers singulier où se rencontrent écriture urbaine, couleurs vibrantes et figures du vivant. Entre abstraction, graffiti et inspiration contemporaine. Ses œuvres créent un dialogue puissant entre nature et modernité. Visite des chais et dégustation gratuite."
-    },
-    {
-      "id": "myPopover2",
-      "title": "RÊVES DE JAPON",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/fas201910-hokusai011.jpg?width=200",
-      "startDate": "2026-07-03",
-      "endDate": "2026-09-30",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "3 Place Roger Salengro, 11100, NARBONNE",
-      "description": "De l’estampe traditionnelle au manga contemporain, l’art japonais n’a cessé d’inspirer l’Occident, notamment les Impressionnistes. Cette exposition propose un voyage à travers les siècles, des maîtres comme Hokusai et Hiroshige aux figures majeures du manga telles qu’Osamu Tezuka ou Akira Toriyama, en passant par les célèbres Degas, Gauguin ou encore Monet... Réunissant plus de 200 œuvres — estampes, pastels, dessins, mais aussi objets traditionnels et armures de samouraï, issus de collections privées et du Palais Musée des Archevêques — elle met en lumière la richesse et la diversité de cet héritage artistique. Ouvert de 10h à 12h30 et de 14h à 18h."
-    },
-    {
-      "id": "myPopover3",
-      "title": "FAMILLE D'O",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Francoise-Langlois.jpg?width=200",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-30",
-      "times": [
-        "09:00",
-        "13:00",
-        "14:00",
-        "18:00"
-      ],
-      "location": "SAINT-NAZAIRE-D'AUDE",
-      "address": "168 Allée de la Glacière, 11120, SAINT-NAZAIRE-D'AUDE",
-      "description": "Avec « Famille d’O », Françoise Langlois présente une série de sculptures en papier inspirées des cycles du vivant, de ses métamorphoses et de ses formes. Façonnée, tissée et sculptée, la matière papier devient un terrain d’expérimentation où se mêlent formes végétales, minérales et organiques. Nourrie par l’observation de la nature et les collectes quotidiennes, son œuvre invite à une rencontre sensible entre matière, vivant et imaginaire. L’exposition se déroulera du JEUDI 03/09 au VENDREDI 16/10 Vernissage jeudi 3 septembre à 18h30"
-    },
-    {
-      "id": "myPopover4",
-      "title": "EXPOSITION : LE CANAL DU MIDI : UNE ECHAPPEE BELLE EN IMAGES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Canal-du-Midi.jpg?width=200",
-      "startDate": "2026-09-01",
-      "endDate": "2026-09-30",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "225 Rue Jean Jaurès, 11210, PORT-LA-NOUVELLE",
-      "description": "La médiathèque propose le canal du midi : une échappée belle en images Anniversaire 30 ans au classement de l'UNESCO Exposition réalisée par voies Navigables de France en lien avec les membres de l'entente pour le canal du midi"
-    },
     {
       "id": "myPopover5",
       "title": "PRINCE OF SPEED CHAMPIONNAT DU MONDE DE VITESSE À LA VOILE",
@@ -134,47 +71,6 @@
       "description": "Exposition – Promenades en aquarelle Du 30 septembre au 12 octobre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
     },
     {
-      "id": "myPopover9",
-      "title": "ATELIERS THEATRE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
-      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
-    },
-    {
-      "id": "myPopover10",
-      "title": "HOMMAGE A EMMANUEL DARLEY",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/E.-DARLEY.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [
-        "18:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "42 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
-      "description": "Hommage à Emmanuel Darley par Mona Darley et Bruno Perren Lectures et vidéos Gratuit"
-    },
-    {
-      "id": "myPopover11",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
       "id": "myPopover12",
       "title": "EXPOSITION - VARIATIONS - AM'ART",
       "category": "culture",
@@ -188,65 +84,6 @@
       "location": "NARBONNE",
       "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
       "description": "L' association méditerranée art rencontres vous propose l'exposition « VARIATIONS » – AM'ART. Vernissage vendredi 02 Octobre à 18h."
-    },
-    {
-      "id": "myPopover13",
-      "title": "MANIA, THE ABBA TRIBUTE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/mama-abba.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [
-        "20:00"
-      ],
-      "location": "NARBONNE",
-      "address": "74 Avenue Maître Hubert Mouly, 11100, NARBONNE",
-      "description": "Richard Walter Productions est fier d’accueillir à nouveau Abba Mania, le tribute band d’Abba le plus reconnu dans le monde, dans sa série de spectacles le concert extraordinaire. « Mania » est l’incarnation saisissante et plus vraie que nature d’un des groupes les plus Mythiques des années 80 et symbolise à lui seul une époque que nous n’avons jamais cessé de vénérer. « Mania » reste en effet fidèle aux moindres détails : instruments, éclairages, chorégraphies, semelles compensées, paillettes et boules disco… jusqu’à l’accent suédois pour mieux vous emporter dans l’univers d’Abba ! Durant deux heures d’un spectacle à couper le souffle, venez revivre, chanter et danser au son de leurs tubes éternels : Money Money Money, Waterloo, Gimme, Gimme, Gimme, Dancing Queen, SOS, et bien d’autres encore… Venez faire la fête et vous installer à bord d’une formidable machine à remonter le temps ! Ambiance Garantie !"
-    },
-    {
-      "id": "myPopover14",
-      "title": "FETE FORRAINE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-forraine.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [
-        "14:00",
-        "20:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Quai Victor Hugo, 11100, NARBONNE",
-      "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
-    },
-    {
-      "id": "myPopover15",
-      "title": "ATELIER BRODERIE SUR CARTES",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/260930.png?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [
-        "14:30",
-        "17:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Passage de l'Ancien Courrier, 11100, NARBONNE",
-      "description": "Broderie sur Cartes Nul besoin de savoir broder, juste l'envie d'apprendre, de passer un bon moment en laissant parler son imagination. Vous pouvez apporter cartes ou photos personnelles si vous le souhaitez Matériel fourni, vous repartez avec votre carte brodée. Venez vous inscrire directement à \"Espace Création.s\"; ou en envoyant un mail."
-    },
-    {
-      "id": "myPopover16",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-09-30",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
       "id": "myPopover17",
