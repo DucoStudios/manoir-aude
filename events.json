@@ -1,26 +1,26 @@
 {
-  "generatedAt": "2026-10-01T11:23:39.470Z",
+  "generatedAt": "2026-10-02T10:53:36.776Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 84,
+  "count": 114,
   "events": [
     {
-      "id": "myPopover5",
-      "title": "PRINCE OF SPEED CHAMPIONNAT DU MONDE DE VITESSE À LA VOILE",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PRINCE-OF-SPEED-2020-10.jpg?width=200",
-      "startDate": "2026-09-01",
-      "endDate": "2026-10-01",
+      "id": "myPopover1",
+      "title": "EXPOSITION : UNE ROSE, MILLE MONDES",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vernissage-une-rose-mille-mondes-by-soufianezaidi-chateau-hospitalet.jpg?width=200",
+      "startDate": "2026-06-05",
+      "endDate": "2026-10-10",
       "times": [
-        "08:00",
-        "20:00"
+        "09:00",
+        "19:00"
       ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "GP international - Farrel Cup d'automne qui se déroule sur la plage sauvage du Rouet de La Palme. Les compétitions de la Farrel Cup : 3 jours dans la période du 1er Septembre au 1er Octobre, selon les conditions météorologiques et marines. Parking : Salin de La Palme (randonnée à pied à travers le salin jusqu'à la plage). Spot unique en Europe, grâce à la direction du vent pour toutes pratiques de voile, les riders sont toujours motivés à établir de nouveaux records ! Les autres rendez-vous Prince of Speed : - La Palme - Championnat du Monde ISWC et GP Wing : du 27 Avril au 6 Mai 2026 - La Palme - Tentative du Record du Monde : entre le 7 Juin et le 7 Juillet 2026."
+      "location": "NARBONNE",
+      "address": "D168, 11100, NARBONNE",
+      "description": "Réunissant peintures, sculptures, céramiques et installations contemporaines, « Une Rose, Mille Mondes » rassemble des artistes aux univers singuliers parmi lesquels Jihee Han, Danhôo, Shiori Eda, An Xiaotong, Jono Toh, Lê Thúy, Tran Trong Vu, Takashi Hara, Sepand Danesh, Bui Cong Khanh, Wai Ming Lung ou encore le sculpteur Émeric Chantier. Leurs créations témoignent de la richesse des regards portés sur des thèmes intemporels : l’imaginaire, la mémoire, le rêve, l’exil, la responsabilité, la nature ou encore la quête de sens. Portée par A2Z Art Gallery, galerie parisienne reconnue pour son travail de mise en lumière des scènes artistiques asiatiques et internationales, cette exposition poursuit également une vocation caritative puisque qu’une partie des ventes des œuvres sera reversée à la Fondation Antoine de Saint-Exupéry pour la Jeunesse. Ouvert tous les jours de 9h à 19h. Accessible gratuitement."
     },
     {
-      "id": "myPopover6",
+      "id": "myPopover2",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -37,7 +37,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover7",
+      "id": "myPopover3",
       "title": "LES VENTES D'AUTOMNE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Ventes-d-automne-2.jpg?width=200",
@@ -54,39 +54,7 @@
       "description": "L'Association Célian présente les Ventes d’automne. Ses créations artisanales. Une animation mettant à l’honneur les créations faites main de nos bénévoles"
     },
     {
-      "id": "myPopover8",
-      "title": "EXPOSITION - HUPONT DENISE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Hupont-Denise.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-10-12",
-      "times": [
-        "10:00",
-        "13:00",
-        "16:00",
-        "18:00"
-      ],
-      "location": "FLEURY",
-      "address": "Place des Vergnettes, 11560, FLEURY",
-      "description": "Exposition – Promenades en aquarelle Du 30 septembre au 12 octobre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
-    },
-    {
-      "id": "myPopover12",
-      "title": "EXPOSITION - VARIATIONS - AM'ART",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/fma-14.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-10-14",
-      "times": [
-        "13:00",
-        "18:30"
-      ],
-      "location": "NARBONNE",
-      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
-      "description": "L' association méditerranée art rencontres vous propose l'exposition « VARIATIONS » – AM'ART. Vernissage vendredi 02 Octobre à 18h."
-    },
-    {
-      "id": "myPopover17",
+      "id": "myPopover4",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
@@ -103,37 +71,7 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover18",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover19",
-      "title": "L'ÉTANGD'ART GALERIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
-    },
-    {
-      "id": "myPopover20",
+      "id": "myPopover5",
       "title": "RELIÉS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
@@ -148,22 +86,7 @@
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
     },
     {
-      "id": "myPopover21",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-01",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover22",
+      "id": "myPopover6",
       "title": "DON DU SANG",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/555-3.jpg?width=200",
@@ -178,7 +101,7 @@
       "description": "Don du Sang – Mobilisez-vous pour sauver des vies Venez participer à une collecte de don du sang au Domaine de Montplaisir. Un geste simple, mais essentiel pour sauver des vies. Pour plus de renseignements : dondesang.efs.sante.fr Chaque don compte, alors n’hésitez pas à venir faire un geste de solidarité !"
     },
     {
-      "id": "myPopover23",
+      "id": "myPopover7",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -193,7 +116,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover24",
+      "id": "myPopover8",
       "title": "FESTIVAL INTERNATIONAL DES ORCHIDÉES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VISUEL-ORCHIDEES-2026.jpg?width=200",
@@ -208,7 +131,7 @@
       "description": "Le monde fascinant des orchidées rencontre l’Égypte à Fontfroide ! Les 2, 3 et 4 octobre 2026, Fontfroide vous invite à un voyage floral exceptionnel, entre orchidées extraordinaires et mystères de l’Égypte antique. Pendant trois jours, producteurs et spécialistes venus de France et de l’étranger dévoilent leurs plus beaux spécimens dans le cadre majestueux de l’abbaye. Expositions, ventes, ateliers, conférences, animations et artisanat rythment cette nouvelle édition placée sous le signe des pharaons. Après avoir séduit plus de 9 000 visiteurs lors de la précédente édition, le Festival des Orchidées revient plus spectaculaire que jamais. Admirez, échangez, laissez-vous surprendre… et repartez avec vos coups de cœur !"
     },
     {
-      "id": "myPopover25",
+      "id": "myPopover9",
       "title": "LOVE INCLUSIVE : SANDRINE ALEXI",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LOVE-INCLUSIVE-.jpg?width=200",
@@ -222,7 +145,7 @@
       "description": "Les voix du coeur sont immitables Mise en scène Esteban Perroy 5 e l'entrée"
     },
     {
-      "id": "myPopover26",
+      "id": "myPopover10",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -237,7 +160,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover27",
+      "id": "myPopover11",
       "title": "PORTES OUVERTES DU SITE LAFARGE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Portes-ouvertes-Lafarge.jpg?width=200",
@@ -252,7 +175,7 @@
       "description": "Portes ouvertes du site LAFARGE, une visite au coeur de notre usine. Départ et retour de la visite uniquement du Gymnase Jean Monnet à Port La Nouvelle, inscription obligatoire."
     },
     {
-      "id": "myPopover28",
+      "id": "myPopover12",
       "title": "L'ÉTANGD'ART GALERIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
@@ -267,7 +190,7 @@
       "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
     },
     {
-      "id": "myPopover29",
+      "id": "myPopover13",
       "title": "EXPOSITION \"ART AT 80\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
@@ -282,7 +205,7 @@
       "description": "Vernissage de l'exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
     },
     {
-      "id": "myPopover31",
+      "id": "myPopover15",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -297,7 +220,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover32",
+      "id": "myPopover16",
       "title": "OCTOBRE ROSE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Octobre-rose--4.jpg?width=200",
@@ -312,7 +235,7 @@
       "description": "Le stand d'Octobre Rose sur le marché organisé par les bénévoles de coeur. Infos et ventes d'objets confectionnés au profit de la lutte contre le cancer."
     },
     {
-      "id": "myPopover33",
+      "id": "myPopover17",
       "title": "COLLECTE DÉPARTEMENTALE \"LES RESTAURANTS DU COEUR\"",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Collecte-restaurant-du-coeur-2.jpg?width=200",
@@ -327,7 +250,7 @@
       "description": "Collecte au profit des Restaurants du Coeur dans les magasins et supermachés."
     },
     {
-      "id": "myPopover34",
+      "id": "myPopover18",
       "title": "ATELIERS ARTS PLASTIQUES",
       "category": "culture",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -344,7 +267,7 @@
       "description": "De 10h à 12h: atelier dessins multitechnique avec Léa Muller, l'artiste qui expose au Tinal en octobre. De 14h à 16h: atelier reliure / création de carnet. Buvette et petite restauration sur place."
     },
     {
-      "id": "myPopover35",
+      "id": "myPopover19",
       "title": "OFFRE DUO VISITES : BALADE GOURMANDE + NOM DES RUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Pack-2-visites.png?width=200",
@@ -361,7 +284,7 @@
       "description": "L'Office de Tourisme vous propose une formule découverte comprenant deux balades commentées pour une véritable immersion, entre mets et mots. Les deux visites ont lieu le même jour et sont proposées à un tarif spécial. 11h : Suivez Olivia dans une balade gourmande Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits. 14h30 : Découvrez Narbonne par le nom des rues En compagnie de notre guide conférencière, laissez-vous surprendre par les noms de rues de Narbonne : une balade originale où plaques et ruelles révèlent les secrets et la mémoire de la ville."
     },
     {
-      "id": "myPopover36",
+      "id": "myPopover20",
       "title": "DÉFILÉ DE MODE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/defile-de-mode.jpg?width=200",
@@ -376,7 +299,7 @@
       "description": "L'Association Célian présente son défilé de mode. Dès 14h , Salle Jacques Miro – Coursan Au programme : Défilé de mode, Mode, élégance et convivialité Présence de deux boutiques : Maison Élora, Style & Confiance Entrée : 2 € Venez nombreux découvrir les collections, encourager les mannequins et passer un agréable après-midi placé sous le signe de la mode, du partage et de la solidarité."
     },
     {
-      "id": "myPopover37",
+      "id": "myPopover21",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -391,7 +314,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover38",
+      "id": "myPopover22",
       "title": "LE MARCHÉ DE L'ART",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-170.png?width=200",
@@ -406,7 +329,7 @@
       "description": "Ne manquez pas le marché de l'Art du mois d’octobre ! Expositions, Rencontres, Performances Artistiques Plus de 20 artistes exposeront leurs œuvres. Toutes les formes d’art seront représentées : peinture, sculpture, pastel, dessin, photographie... Ouvert à tous et gratuit Commerces tout autour et à proximité de la place donc possibilité de se restaurer. Stationnement gratuit en centre-ville de Narbonne le samedi."
     },
     {
-      "id": "myPopover39",
+      "id": "myPopover23",
       "title": "JOURNÉE DE L'AEROPOSTALE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Brasero-Pixabay.jpg?width=200",
@@ -421,7 +344,7 @@
       "description": "La balade du Canal vous propose ce samedi 3 octobre, la découverte de l'aéropostale avec le phare de Saint-Cyr. Au programme: 10h00 - Visite à pied du phare de Saint Cyr (RDV à La Balade du Canal) 12h30 - Grillade conviviale à La Balade du Canal (apéritif, saucisse et poivrons grillés, dessert,vin) 18€ sur réservation. 15h00 - Conférence: les débuts de l'aviation dans l'Aude, les phares de l'aéropostale et les premiers vols de nuit Réservation conseilllé. Participation libre"
     },
     {
-      "id": "myPopover40",
+      "id": "myPopover24",
       "title": "L'ÉTANGD'ART GALERIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
@@ -436,7 +359,7 @@
       "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
     },
     {
-      "id": "myPopover41",
+      "id": "myPopover25",
       "title": "EXPOSITION \"ART AT 80\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
@@ -451,7 +374,7 @@
       "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
     },
     {
-      "id": "myPopover42",
+      "id": "myPopover26",
       "title": "MARCHÉ ANIMÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
@@ -466,7 +389,7 @@
       "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
     },
     {
-      "id": "myPopover43",
+      "id": "myPopover27",
       "title": "MARCHÉ",
       "category": "trade",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -481,7 +404,7 @@
       "description": "Marché au profit de la lutte et la recherche contre le cancer."
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover28",
       "title": "CONCERT: LA BRIGADE DU KIF ET PAPITO COLLECTIVE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/concert-7424190-1280-2.jpg?width=200",
@@ -496,7 +419,7 @@
       "description": "Concert La brigade du kif & Papito Collective. Les 10 ans de la Brigade du Kif - Sortie Album Live. Le Comité des fêtes de Saint Marcel sur Aude vous donne rendez-vous pour une soirée exceptionnelle."
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover29",
       "title": "FETE FORRAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-forraine.jpg?width=200",
@@ -511,7 +434,7 @@
       "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover30",
       "title": "INTER-VILLAGES",
       "category": "sportandleisure",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -526,7 +449,7 @@
       "description": "Rencontres Annuelle sportive et conviviale entre Marcorignan, Montredon-des-Corbières et Névian."
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover31",
       "title": "LA BOUM ANNÉE 90/2000",
       "category": "tradition",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-4.jpg?width=200",
@@ -538,7 +461,7 @@
       "description": "La boum des années 1990/2000 Place du 18 juin, en cas de mauvais temps: dans la Salle Jean Moulin Organisé par le Comité des Fêtes"
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover32",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -553,7 +476,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover33",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -568,7 +491,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover34",
       "title": "ENS - UNE ÎLE ENTRE LE CIEL ET L'EAU",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-grenouille.jpg?width=200",
@@ -583,7 +506,7 @@
       "description": "1 km / Moyen / + 5 ans Venez en famille découvrir l’île de l’Aute. L’occasion rêvée pour faire une traversée en bateau à moteur, visiter l’île, s’émerveiller des paysages à 360°. Réservation obligatoire par SMS. 20 personnes max. Rendez-vous base nautique de Port-Mahon."
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover35",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -598,7 +521,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover36",
       "title": "MARCHE ROSE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-rose.jpg?width=200",
@@ -613,7 +536,7 @@
       "description": "À l’occasion d’Octobre Rose, le CCAS de la mairie d’Ouveillan vous invite à participer à une marche solidaire pour soutenir la lutte contre le cancer du sein. RDV à 9h pour une collation offerte et pour une marche de 7 km. Participation 5€."
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover37",
       "title": "COLLECTE DÉPARTEMENTALE \"LES RESTAURANTS DU COEUR\"",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Collecte-restaurant-du-coeur-2.jpg?width=200",
@@ -628,7 +551,7 @@
       "description": "Collecte au profit des Restaurants du Coeur dans les magasins et supermachés."
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover38",
       "title": "MARCHE POUR TOUS",
       "category": "culture",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -643,7 +566,7 @@
       "description": "randonnée autour du village et repas. Gratuit / repas payant."
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover39",
       "title": "VIDE GRENIER",
       "category": "culture",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -658,7 +581,7 @@
       "description": "Organisé par le comité des fêtes avec son grand retour au coeur du village !"
     },
     {
-      "id": "myPopover56",
+      "id": "myPopover40",
       "title": "LA FÊTE DE LA RANDONNÉE PEDESTRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Flyer-Fete-Randonnee-page-0001.jpg?width=200",
@@ -673,7 +596,7 @@
       "description": "Le Comité Départemental de la Randonnée Pédestre de l’Aude organise, en collaboration avec le club “Narbonne Randonnée & Montagne” de Narbonne, sa fête annuelle de la Randonnée. Au départ de l’Espace Dominique Baudis à Narbonne Plage, 5 circuits vous sont proposés, de durée et de difficulté variées. Cette matinée de randonnée sera suivie par un moment de convivialité animé, où vous pourrez parcourir les stands de partenaires et déguster des produits locaux. La journée se conclura par un pot de l’amitié. Inscriptions jusqu'au 27.09.2026 : www.auderando.fr, rubrique \"Manifestation\" et paiement par Hello Asso. Joëlette disponible sur réservation lors de l'inscription. Programme de randonnées : - Rando Longue : 8h45, 13km - Rando Découverte : 9h, 11,5km - Rando Marche Nordique : 9h30, 7km - Initiation Marche aquatique Longe Côte : 9h15 - Rando Santé Familles et Joëlette : 10h, 4,6km Programme de la journée : - 8h : accueil café - dès 8h45 : départ des randonnées - repas tiré du sac à prévoir, ou restauration sur place (camions de restauration ambulante) sauf pour la Rando Longue - 12h - 16h : stands de partenaires et marché de producteurs - 16h : tombola et pot de l'amitié À ne pas oublier : chaussures de randonnée, de l'eau, une collation, des vêtements adaptés, des bâtons de marche, de la crème solaire... Nos amis les chiens ne sont pas acceptés, même tenus en laisse."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover41",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -688,7 +611,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover42",
       "title": "L'ÉTANGD'ART GALERIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
@@ -703,7 +626,7 @@
       "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover43",
       "title": "VIDE-GRENIERS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
@@ -715,7 +638,7 @@
       "description": "Dimanche 4 octobre 2026 – Bouchon Périgournais Lieu : Zone Fête foraine, Saint-Pierre-la-Mer Contact : Frédéric Borie – 06 28 22 51 06"
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover44",
       "title": "VIDE GRENIERS D'AUTOMNE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-greniers-75.jpg?width=200",
@@ -730,7 +653,7 @@
       "description": "Vide greniers d'automne. Buvettes et petite restauration."
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover45",
       "title": "LOTO LES AMIS DES CHATS NOUVELLOIS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/--vide-greniers-des-amis-des-chats.JPG?width=200",
@@ -745,7 +668,7 @@
       "description": "Loto organisé par les amis des chats Nouvellois Si mauvais temps annulé"
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover46",
       "title": "LOTO AMICALE DES SAPEURS POMPIERS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/04.10---loto-des-pompiers.jpg?width=200",
@@ -759,7 +682,7 @@
       "description": "Amicale des sapeurs pompiers de Port la Nouvelle plus de 3000 e de lots Ouverture des portes 13h Début des parties 14h30"
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover47",
       "title": "TRAIL PORTEL DES CORBIERES 2SEO PCT COTE DU MIDI",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/TRAIL-PORTEL-.jpg?width=200",
@@ -773,7 +696,7 @@
       "description": "Ce trail est une aventure unique au cœur des Corbières dans l'Aude. Les parcours offrent une course nature variée entre reliefs, vignobles, sentiers de garrigue et vues dégagées. C'est aussi une expérience exceptionnelle pour allier effort physique et contemplation de la nature de la Côte du Midi sous ses plus beaux angles. Au-delà du défi sportif, c’est aussi une course solidaire et une occasion de profiter d’un week-end dans l’Aude, près de Narbonne, entre villages typiques, espaces naturels et découverte d'expériences locales. 08h30 Départ de l'Africa (Solo et relais) 08h40 Départ du Terra 08h50 Départ du Trail Portelais 09h00 Départ des Marches Roses Le retrait des dossards se fait sur le site de Terra Vinéa. Samedi 3 octobre : de 15h00 à 18h00. Dimanche 4 octobre : à partir de 07h00 et jusqu’au départ des courses. Attention : pas d'inscriptions sur place le jour de la course ! Les inscriptions se font via la plateforme officielle de l’événement organisé par 2SEO. Départ : Sur le site de Terra Vinéa à Portel-des-Corbières. Contact organisateurs : 06.99.36.92.01 - 06.82.34.11.66‬ - 2seorganisations@gmail.com"
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover48",
       "title": "RANDO DES ÉTANGS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fma-15.jpg?width=200",
@@ -785,7 +708,7 @@
       "description": "Créée en 2006 par le Lions Club Via Domitia de Narbonne, la Rando des étangs permet de soutenir les associations engagées auprès des personnes malvoyantes. Dimanche 4 octobre, de Narbonne à Argeliers. Argeliers Narbonne Cette randonnée VTT se veut conviviale et accessible à tout le monde (enfants, personnes malvoyantes en tandem) avec un parcours de 30 km, le long des canaux de l'agglomération Narbonnaise. Depuis 4 ans, une randonnée pédestre de 4 à 5 km se déroule le même jour autour du village d'arrivée, avec une thématique tournée vers l'histoire et le patrimoine. Pour cette 20e année, le départ VTT se fera de la place de la mairie de Narbonne à 9h, direction Argeliers, en passant par Cuxac-d'Aude et Sallèles-d'Aude. La rando pédestre partira de la salle polyvalente d'Argeliers à 10h, lieu même où les participants se réuniront à 13h pour un repas plein de bonne humeur. A ARGELIERS, EVOCATION THEATRALISEE DES EVENEMENTS DE 1907 Participez aussi à la tombola et à la vente de cartons de vins offerts par les vignerons de la Clape, partenaires de cette belle action !"
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover49",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -800,7 +723,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover50",
       "title": "COLLECTE DÉPARTEMENTALE \"LES RESTAURANTS DU COEUR\"",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Collecte-restaurant-du-coeur-2.jpg?width=200",
@@ -815,7 +738,7 @@
       "description": "Collecte au profit des Restaurants du Coeur dans les magasins et supermachés."
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover51",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -832,7 +755,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover52",
       "title": "MIEUX PRÉSERVER VOTRE SANTÉ - DR. LAURENT CHEVALIER",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-171.png?width=200",
@@ -847,7 +770,7 @@
       "description": "Conférence Octobre Rose Le Docteur Laurent Chevalier, Médecin nutritionniste et spécialiste en santé environnementale. Prévention, alimentation, énergie, santé durable : un temps d'échanges pour mieux comprendre les leviers du bien-être au quotidien."
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover53",
       "title": "LE PAS DU MONDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-PAS-DU-MONDE--Fabrice-Dimier-2.jpg?width=200",
@@ -861,7 +784,7 @@
       "description": "Le pas du monde Collectif X Y Dès 7 ans Durée : 1h00 Une œuvre magistrale traversée d’envolées lyriques et acrobatiques En 2022, ils nous avaient émerveillés par l’audace de leur chorégraphie aérienne dans Möbius, incarnant avec grâce les murmurations d’oiseaux. Les acrobates du collectif XY reviennent à Narbonne avec cette nouvelle création où l’art du porté se mêle au chant pour célébrer la beauté fragile du temps qui passe. Depuis près de vingt ans, cette compagnie réinvente le porté acrobatique interrogeant sans cesse, dans ses pièces, notre rapport au monde et à l’environnement. Fidèle à cette exigence, elle imagine cette œuvre d’une ampleur exceptionnelle, réunissant vingt-deux interprètes sur scène. Avec virtuosité, les artistes enchaînent les figures à une vitesse effrénée, donnant à voir les métamorphoses du vivant. Face à nous, des pyramides humaines se dressent, semblables à des montagnes qui s’érodent. Les saltos évoquent le souffle du vent dans la cime des arbres. Les chutes résonnent comme le craquement d’un glacier. Les courses dessinent les méandres d’une rivière. Accompagnés de trois chanteurs, les acrobates sculptent de leurs corps des paysages mouvants. Et autour d’eux, lumières, sons et voix s’entrelacent avec délicatesse pour composer ce tableau d’une très grande poésie."
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover54",
       "title": "CINEMA \" DE PLUS BELLE \"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2.jpg?width=200",
@@ -875,7 +798,7 @@
       "description": "Cinéma : de plus belle avec Florence Foresti"
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover55",
       "title": "EXPOSITION \"ART AT 80\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
@@ -892,7 +815,7 @@
       "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover56",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -907,7 +830,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover57",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -921,7 +844,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover58",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -936,7 +859,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover59",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -948,7 +871,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover76",
+      "id": "myPopover60",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -963,7 +886,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover77",
+      "id": "myPopover61",
       "title": "LE PAS DU MONDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-PAS-DU-MONDE--Fabrice-Dimier-2.jpg?width=200",
@@ -977,7 +900,7 @@
       "description": "Le pas du monde Collectif X Y Dès 7 ans Durée : 1h00 Une œuvre magistrale traversée d’envolées lyriques et acrobatiques En 2022, ils nous avaient émerveillés par l’audace de leur chorégraphie aérienne dans Möbius, incarnant avec grâce les murmurations d’oiseaux. Les acrobates du collectif XY reviennent à Narbonne avec cette nouvelle création où l’art du porté se mêle au chant pour célébrer la beauté fragile du temps qui passe. Depuis près de vingt ans, cette compagnie réinvente le porté acrobatique interrogeant sans cesse, dans ses pièces, notre rapport au monde et à l’environnement. Fidèle à cette exigence, elle imagine cette œuvre d’une ampleur exceptionnelle, réunissant vingt-deux interprètes sur scène. Avec virtuosité, les artistes enchaînent les figures à une vitesse effrénée, donnant à voir les métamorphoses du vivant. Face à nous, des pyramides humaines se dressent, semblables à des montagnes qui s’érodent. Les saltos évoquent le souffle du vent dans la cime des arbres. Les chutes résonnent comme le craquement d’un glacier. Les courses dessinent les méandres d’une rivière. Accompagnés de trois chanteurs, les acrobates sculptent de leurs corps des paysages mouvants. Et autour d’eux, lumières, sons et voix s’entrelacent avec délicatesse pour composer ce tableau d’une très grande poésie."
     },
     {
-      "id": "myPopover78",
+      "id": "myPopover62",
       "title": "EXPOSITION \"ART AT 80\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
@@ -994,7 +917,7 @@
       "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
     },
     {
-      "id": "myPopover79",
+      "id": "myPopover63",
       "title": "FETE FORRAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-forraine.jpg?width=200",
@@ -1009,7 +932,7 @@
       "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover64",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -1024,7 +947,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover81",
+      "id": "myPopover65",
       "title": "CAFE THEMA : ACTEURS CULTURELS ET ARTISTIQUES, PRÉPAREZ VOTRE DEMANDE DE SUBVENTION AU DÉPARTEMENT DE L’AUDE !",
       "category": "culture",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -1039,7 +962,7 @@
       "description": "La recherche de financements est une étape incontournable pour monter et développer son projet artistique. Quel soutien financier peut vous apporter le Département ? A quel moment devons-nous le solliciter ? Quels sont les critères d’éligibilité ? Profitez de ce temps d’information et de dialogue avec les représentants de la collectivité pour éclairer vos démarches. OBJECTIFS : Identifier le dispositif le plus adapté à son projet Mieux appréhender le développement et la réalisation de son projet artistique Mieux appréhender les attentes des financeurs Rencontrer et échanger avec les techniciens du service culture Connaître les ressources et les critères d’éligibilité des demandes de subvention INTERVENANTS : Eric Misse, adjoint au chef du service culture Département de l’Aude - Stéphane Guerrero, gestionnaire administratif et financier - Département de l’Aude LE PUBLIC CONCERNE : Artistes et leurs équipes, développeurs d’artistes, associations, collectivités et structures culturelles du département de l’Aude INSCRIPTION AUX CAFES THEMA GRATUITE MAIS OBLIGATOIRE"
     },
     {
-      "id": "myPopover82",
+      "id": "myPopover66",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
@@ -1056,7 +979,7 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover83",
+      "id": "myPopover67",
       "title": "EXPOSITION PAOLA DI PRIMA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
@@ -1071,7 +994,7 @@
       "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
     },
     {
-      "id": "myPopover84",
+      "id": "myPopover68",
       "title": "L'ÉTANGD'ART GALERIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
@@ -1086,7 +1009,7 @@
       "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
     },
     {
-      "id": "myPopover85",
+      "id": "myPopover69",
       "title": "RELIÉS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
@@ -1101,7 +1024,7 @@
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
     },
     {
-      "id": "myPopover86",
+      "id": "myPopover70",
       "title": "EXPOSITION \"ART AT 80\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
@@ -1116,7 +1039,7 @@
       "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
     },
     {
-      "id": "myPopover87",
+      "id": "myPopover71",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -1131,7 +1054,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover88",
+      "id": "myPopover72",
       "title": "ATELIER CUISINE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/atelier-cuisine-somail.jpg?width=200",
@@ -1146,7 +1069,7 @@
       "description": "Un moment de partage pour cuisiner une recette avec un professionnel et la déguster entre vous. Idéal pour découvrir un plat et faire de nouvelles connaissances. inscription obligatoire avant le 5 octobre."
     },
     {
-      "id": "myPopover89",
+      "id": "myPopover73",
       "title": "TOURNOI DE TAROT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/cjmm-tarot-4579145.jpg?width=200",
@@ -1161,7 +1084,7 @@
       "description": "La MJC organise un tournoi de tarot à partir de 14h. Avant le tournoi, les participants auront la possibilité de partager un repas dans une ambiance conviviale. Pensez à vous inscrire au plus tard le 6 octobre et à apporter vos propres couverts."
     },
     {
-      "id": "myPopover90",
+      "id": "myPopover74",
       "title": "L'ÉTANGD'ART GALERIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
@@ -1176,7 +1099,7 @@
       "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
     },
     {
-      "id": "myPopover91",
+      "id": "myPopover75",
       "title": "CONFÉRENCE — LES CAGOTS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LES-CAGOTS.jpg?width=200",
@@ -1190,7 +1113,7 @@
       "description": "Conférence — Les Cagots Assistez à une conférence animée par Cathy James pour découvrir l'histoire et les mystères autour des Cagots. Date : Vendredi 9 octobre à 14h30 Lieu : Médiathèque Guillaume Apollinaire (5 rue Guillaume Apollinaire, 11560 Fleury d'Aude) Tarif : Gratuit Inscription : Obligatoire par téléphone au 04 68 33 99 26"
     },
     {
-      "id": "myPopover92",
+      "id": "myPopover76",
       "title": "EXPOSITION \"ART AT 80\"",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
@@ -1207,7 +1130,7 @@
       "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
     },
     {
-      "id": "myPopover93",
+      "id": "myPopover77",
       "title": "LOTO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-LOTO-PORTEL.jpg?width=200",
@@ -1221,7 +1144,24 @@
       "description": "Loto Portel des Corbières organisé par team L Autosport Ouverture des portes à 19.30"
     },
     {
-      "id": "myPopover94",
+      "id": "myPopover78",
+      "title": "JOURNÉES CULTURELLES SIGEANAISES",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Journees-culturelles-Sigeanaises-.jpg?width=200",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-09",
+      "times": [
+        "09:00",
+        "12:00",
+        "14:00",
+        "17:00"
+      ],
+      "location": "SIGEAN",
+      "address": "1 Rue de la Barbacane, 11130, SIGEAN",
+      "description": "Journées culturelles Sigeanaises organisées par LES AMIS DU PATRIMOINE, ASAC, AMICALE LAÏQUE, ZÉRO DÉCHET. Exposition sur le thème \"Monde Maritime\", le vernissage à 19h."
+    },
+    {
+      "id": "myPopover79",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -1236,7 +1176,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover95",
+      "id": "myPopover80",
       "title": "OPÉRATION BRIOCHES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/operation-brioches-2.jpg?width=200",
@@ -1251,7 +1191,7 @@
       "description": "Journées solidaires des associations UNAPEI. Opération brioches est une campagne nationale de solidarité et de sensibilisation au handicap (notamment intellectuel), permettant de collecter des fonds. Vente de brioches sur le marché."
     },
     {
-      "id": "myPopover96",
+      "id": "myPopover81",
       "title": "VIDE GRENIER",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-2.jpg?width=200",
@@ -1264,6 +1204,501 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "427 Boulevard Francis Vals, 11210, PORT-LA-NOUVELLE",
       "description": "Vide grenier l'entre 2 en partenariat avec les gourmandiz parking du collège"
+    },
+    {
+      "id": "myPopover82",
+      "title": "LE JOUR DE LA NUIT",
+      "category": "culture",
+      "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [],
+      "location": "BIZE-MINERVOIS",
+      "address": "Avenue de la Gare, 11120, BIZE-MINERVOIS",
+      "description": "Organisé par l'association \"La Bize aux étoiles\". Manifestation nationale de sensibilisation à la pollution lumineuse, à la protection de la biodiversité nocturne et à la découverte du ciel étoilé."
+    },
+    {
+      "id": "myPopover83",
+      "title": "JOURNÉE AUTOUR DE LA FEMME",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Bien-etre-Pixabay-2.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "10:00"
+      ],
+      "location": "MIREPEISSET",
+      "address": "Impasse du Berger, 11120, MIREPEISSET",
+      "description": "Journée autour de la femme."
+    },
+    {
+      "id": "myPopover84",
+      "title": "FIN DE SAISON DU CLUB DE PÉTANQUE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Brunch-Pixabay-7.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "20:00"
+      ],
+      "location": "ARGELIERS",
+      "address": "Avenue Pierre de Coubertin, 11120, ARGELIERS",
+      "description": "Le club de pétanque d'Argeliers organise une soirée repas et musique ouverte à tous."
+    },
+    {
+      "id": "myPopover85",
+      "title": "FESTIVAL MA VIGNE EN MUSIQUE : RÉCITAL PRESTIGE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Capture-169.png?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "16:30"
+      ],
+      "location": "Paraza",
+      "address": "1 Rue du Viala, 11200, Paraza",
+      "description": "Récital Prestige – L’élégance à fleur d’âme… Dans l’écrin du Château de Paraza, le festival Ma Vigne en Musique vous convie à un moment suspendu, où le piano devient confidence. Figure majeure du piano français, Jean-Marc Luisada nous entraîne dans un voyage sensible, entre les paysages intérieurs de Chopin et les résonances du cinéma, dans un programme où l’émotion se raconte autant qu’elle se joue. En ouverture, le lauréat du Tremplin 2026 viendra prolonger cette promesse, comme un écho vivant entre les générations, entre l’éclosion et la maturité. Un récital d’exception, tout en nuances et en profondeur, où chaque note semble toucher à l’essentiel. Ouverture des portes à 15h30"
+    },
+    {
+      "id": "myPopover86",
+      "title": "L'ÉTANGD'ART GALERIE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "14:30",
+        "18:30"
+      ],
+      "location": "BAGES",
+      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
+      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
+    },
+    {
+      "id": "myPopover87",
+      "title": "SARDINADE AU PROFIT DU TÉLÉTHON",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/SARDINADE-TELETHON.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "times": [
+        "08:00",
+        "22:00"
+      ],
+      "location": "FLEURY",
+      "address": "2 Chemin de Pissevache, 11560, FLEURY",
+      "description": "Samedi 10 et dimanche 11 octobre de 8h00 à 22h00 - Sardinade au profit du Téléthon 12€ sur place ou à emporter 3€ la crêpe Simulateur de pêche - 4€ le combat Association Le Grand Large Base des Loisirs des Lagunes Saint-Pierre la Mer"
+    },
+    {
+      "id": "myPopover88",
+      "title": "L’ENDORMI",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/L-ENDORMI.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "2 Avenue Maître Hubert Mouly, 11100, NARBONNE",
+      "description": "L'endormi Estelle Savasta - Cie Hippolyte a mal au cœur Dès 9 ans Durée : 50 minutes Un récit rap à découvrir en famille Victoire a dix ans. Son frère Isaac en a quinze, c’est le caïd du quartier. Jusqu’ici, tout semble calme dans le quotidien de Victoire. Mais depuis quelques jours, elle a le sentiment que les adultes lui cachent quelque chose. Elle ignore que son frère se bat entre la vie et la mort, après une rixe qui a mal tourné. Mêlant avec brio théâtre et rap, L’Endormi est un récit pour la jeunesse écrit à six mains par un auteur, un rappeur, un musicien et porté à la scène par une metteuse en scène, une rappeuse, une musicienne. Sur scène, les voix de Victoire et d’Isaac se répondent avec énergie et tendresse, alternent narration et plages musicales de rap. L’Endormi raconte ainsi la possibilité de se réinventer face aux épreuves de la vie."
+    },
+    {
+      "id": "myPopover89",
+      "title": "30 ANS DES AMIS DU MONDE DIPLOMATIQUE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/30ans-promo-invit.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "13:00",
+        "19:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Domaine de Montplaisir, 11100, NARBONNE",
+      "description": "Cette année, les Amis du Monde diplomatique fêtent leurs 30 ans. Pour marquer cet anniversaire, une journée de conférences suivie d'un concert est organisée par les Amis du Monde diplomatique de l’Aude et de Toulouse au Domaine de Montplaisir. PROGRAMME : (Des pauses café et/ou glace sont prévues entre chaque intervention) 13h00 : Accueil des participants 13h30 : Présentation des producteurs et des partenaires locaux 14h00 : Présentation du Manuel d’autodéfense intellectuelle – Géopolitique par Gregory Rzepski, rédacteur en chef du Monde diplomatique. 15h00 : « Pour une reconstruction des services publics » - Gregory Rzepski « Le cas de l’hôpital » – Christine Pintus, cadre de santé, coordinatrice de la recherche au CH de Carcassonne. 16h00 : « L’anticomplotisme officiel » – Laurent Dauré, journaliste indépendant, spécialiste du complotisme. 17h00 : « Quelle politique des sociétés dans une Constitution » – Lauréline Fontaine, professeure de droit public – Sorbonne Nouvelle. 18h00 : Concert avec La Mal Coiffée Programme complet disponible sur : https://www.amis.monde-diplomatique.fr/30-ans-ca-se-fete-a-Narbonne.html Possibilité de pique-niquer dans le parc. Café et glaces offerts. Participation demandée : 5 euros Réservation sur : https://my.weezevent.com/30ans-narbonne Les billets ne sont ni échangeables ni remboursables, sauf en cas d’annulation de l’événement."
+    },
+    {
+      "id": "myPopover90",
+      "title": "OCTOBRE ROSE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-2026.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "08:30",
+        "13:00"
+      ],
+      "location": "FLEURY",
+      "address": "Place des Vergnettes, 11560, FLEURY",
+      "description": "Octobre rose Place de Vergnettes – Saint-Pierre la Mer De 8h30 à 13h00 Au programme : marche rose, concours de pétanque, danse, résultats de la tombola et annonce des dons récoltés Participation : 5 € avec goodies offerts ! Prévention et sensibilisation avec la présence d’une équipe médicale. Tous en blanc et rose pour la bonne cause !"
+    },
+    {
+      "id": "myPopover91",
+      "title": "EXPOSITION \"ART AT 80\"",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "09:00",
+        "12:00"
+      ],
+      "location": "SIGEAN",
+      "address": "37 Rue du Commerce, 11130, SIGEAN",
+      "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
+    },
+    {
+      "id": "myPopover92",
+      "title": "JOURNEES DES ATELIERS D'ARTISTES D'OCCITANIE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/JAAO.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "times": [
+        "10:00",
+        "18:00"
+      ],
+      "location": "SALLES-D'AUDE",
+      "address": "8 Rue du 4 septembre, 1 Bis rue de la nouvelle rampe, 11110, SALLES-D'AUDE",
+      "description": "La région organise les Journées des Ateliers d’Artistes d’Occitane les 10 et 11 octobre 2026. Elke Trittel et Geneviève Boussouar artistes peintres participent à cet évènement. Durant ce weekend ces 2 artistes vous accueilleront avec grand plaisir dans leurs ateliers situés à Salles-d’Aude afin de de vous faire découvrir leur travail artistique et partager avec vous un moment convivial."
+    },
+    {
+      "id": "myPopover93",
+      "title": "BAL DES VENDANGES",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Bal-des-Vendanges-Peyriac.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "18:00",
+        "23:30"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "7 Place Joseph Aubin Fabre, 11440, PEYRIAC-DE-MER",
+      "description": "Le comité des fêtes de Peyriac de Mer vous donne rendez-vous au Bal des Vendanges accompagné des producteurs. Repas sur place ou portion à emporter (sur réservation)! La soirée sera animée par \"La chanteuse et ses zicoss\" Inscription ouverte jusqu'au 06/10/2026 à la boulangerie."
+    },
+    {
+      "id": "myPopover94",
+      "title": "LOTO",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Loto-353.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "13:30",
+        "17:00"
+      ],
+      "location": "SAINT-MARCEL-SUR-AUDE",
+      "address": "Chemin des Coopératives, 11120, SAINT-MARCEL-SUR-AUDE",
+      "description": "Loto de lajolie fée Morgan."
+    },
+    {
+      "id": "myPopover95",
+      "title": "GRAFITERIA",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Braderie-Pixabay-4.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "09:00",
+        "12:00"
+      ],
+      "location": "ARGELIERS",
+      "address": "Avenue Pierre de Coubertin, 11120, ARGELIERS",
+      "description": "Échange et don de biens divers."
+    },
+    {
+      "id": "myPopover96",
+      "title": "FETE FORRAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-forraine.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "times": [
+        "14:00",
+        "20:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Quai Victor Hugo, 11100, NARBONNE",
+      "description": "Elle investit chaque année le bout du quai Victor-Hugo et fait le bonheur des petits… et souvent aussi des grands ! La fête foraine d'automne installe ses manèges et baraques à jeux à Narbonne : pinces et pêche aux canards, trampolines et machines à sous, peluches à ficelle et auto-tamponneuses… Rendez-vous pour un petit tour ou deux, « eeet c'est partiii ! »"
+    },
+    {
+      "id": "myPopover97",
+      "title": "TÉLÉTHON 2026",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Telethon-2026.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "times": [],
+      "location": "FLEURY",
+      "address": "2 Chemin de Pissevache, 11560, FLEURY",
+      "description": "Samedi 10 et dimanche 11 octobre 2026 Base de loisirs – Saint-Pierre-la-Mer De nombreuses animations vous attendent tout au long du week-end au profit du Téléthon. Les Ânes de Sylvie De 10h30 à 17h, en continu : Balades à dos d’ânes pour les enfants de 6 à 10 ans (participation libre) Initiation au pastel et aux nœuds marins avec Andrée et Robert (participation libre) Vente de gâteaux et de boissons Renseignements : 06 60 61 57 95 Pour les balades à dos d’ânes, prévoir une tenue adaptée : pantalon long et chaussures fermées. Qi-Gong Pérignanais Samedi de 14h à 17h Dimanche de 10h30 à 12h Initiation au Qi Gong (participation libre) Yoga Pérignanais Information et présentation de l’association de 10h30 à 17h. Yoga du Son – Libération de la voix Initiation : Samedi de 15h à 16h Dimanche de 10h30 à 11h30 (participation libre) Grand Large Saint-Pierre Samedi de 11h30 à 21h et dimanche de 11h30 à 15h : Combat sur simulateur de pêche : 4 € la partie Sardines grillées : 12 € la portion Menu complet : 20 € Crêpes : 3 € Tombola : 2 € Renseignements : 06 89 33 05 20 Dimanche 11 octobre Le Bouchon Pérignanais Concours de pétanque en doublette formée à partir de 14h. Participation : 5 € par personne. Venez nombreux participer aux animations et soutenir le Téléthon !"
+    },
+    {
+      "id": "myPopover98",
+      "title": "KARAOKÉ DANSANT",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Disco-Pixabay-12.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "19:00",
+        "23:00"
+      ],
+      "location": "POUZOLS-MINERVOIS",
+      "address": "19 Rue de la République, 11120, POUZOLS-MINERVOIS",
+      "description": "Mamie Cocotte vous propose son second Karaoké dansant de l'année. Organisé par \"Les Soirées de Titi\". Menu: Couscous maison, petit fours en dessert, verre de vin offert au tarifs de 20€. Réservation par téléphone tou directement à l'épicerie."
+    },
+    {
+      "id": "myPopover99",
+      "title": "MARCHÉ BIO",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
+    },
+    {
+      "id": "myPopover100",
+      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
+      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
+    },
+    {
+      "id": "myPopover101",
+      "title": "ATELIER CULINAIRE À LA VILLA MASKALI",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/file-000000006278720a9d1ac8823bf10a5a.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "08:30",
+        "15:30"
+      ],
+      "location": "CUXAC-D'AUDE",
+      "address": "8 Boulevard de Vingré, 11590, CUXAC-D'AUDE",
+      "description": "Venez cuisiner en famille, entre amis ou entre collègues aux côtés du chef Patrick Cachot, dans l’atmosphère chaleureuse de la Villa Maskali. Ancien chef de restaurant gastronomique, Patrick transmet son savoir-faire dans un esprit de partage : gestes techniques, cuissons justes, associations de saveurs et respect des produits de saison. Chaque atelier se prolonge autour d’un moment de dégustation, pour savourer ensemble les préparations réalisées et vivre une véritable expérience culinaire à Cuxac-d’Aude, près de Narbonne."
+    },
+    {
+      "id": "myPopover102",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover104",
+      "title": "RENCONTRE LITERAIRE AGNES DESARTHE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Rencontre-litteraire-avecAgnes-Desarthe-affiche.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "15:00"
+      ],
+      "location": "NARBONNE",
+      "address": "2 Avenue Maître Hubert Mouly, 11100, NARBONNE",
+      "description": "Rencontre littéraire avec l’écrivaine Agnès Desarthe, autour de son dernier livre, Qui se ressemble, (Éditions Libella, 2026), un magnifique récit qui évoque la grand-mère de l’autrice, juive de Libye parlant en arabe, qui transmet à sa petite-fille son amour pour la grande chanteuse Oum Kalsoum. Au fil du récit, une chanson d’Oum Kalsoum devient fil d’Ariane : une musique-mémoire pour dire l’exil, la langue, la transmission, la traduction – et ce « douanier » imaginaire qui laisse passer les mots mais retient la culture."
+    },
+    {
+      "id": "myPopover105",
+      "title": "SPECTACLE MUSICAL - CABARET BOBY",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Theatre-spectacle-PIXABAY-2.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "16:00"
+      ],
+      "location": "NARBONNE",
+      "address": "27 Avenue de Lattre de Tassigny, 11100, NARBONNE",
+      "description": "Spectacle musical « CABARET BOBY » Avec le duo complice Hervé Tirefort et Marc Feldhun, plongez dans l’univers joyeusement décalé de Boby Lapointe ! Entre jeux de mots, fantaisie, poésie et humour irrésistible, les deux artistes revisitent avec talent et malice les chansons du maître des calembours. Accompagnés au piano, ils entraînent le public dans un cabaret pétillant où l’on rit, chante et s’émerveille. Un spectacle plein d’inventivité et de bonne humeur, qui constitue un excellent remède contre la morosité ! Hervé Tirefort, chansonnier, humoriste et imitateur, a notamment fait ses armes à Paris au célèbre Caveau de la République. À ses côtés, Marc Feldhun, comédien et beau-fils de Boby Lapointe, a grandi au plus près de son univers, bercé par ses mots, ses chansons et son humour si singulier. À eux deux, ils font revivre et détournent avec espièglerie les grands classiques de Boby Lapointe, dans un spectacle à la fois drôle, tendre et délicieusement décalé. Un rendez-vous à ne surtout pas manquer pour retrouver Boby… sans perdre le nord ! Réservation vivement conseillée par téléphone"
+    },
+    {
+      "id": "myPopover106",
+      "title": "L'ÉTANGD'ART GALERIE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "14:30",
+        "18:30"
+      ],
+      "location": "BAGES",
+      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
+      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
+    },
+    {
+      "id": "myPopover107",
+      "title": "STAGE DE TAMTAM",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/083f7da8-2a6c-4d20-9769-3d89311d562e.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "10:00",
+        "12:00"
+      ],
+      "location": "SALLELES-D'AUDE",
+      "address": "3 Rue de la Cave Coopérative, 11590, SALLELES-D'AUDE",
+      "description": "Envie de faire vibrer le rythme qui sommeille en vous ? L'association TamTam et Nanas vous propose un stage d'initiation à la percussion pour lâcher prise et faire le plein de bonnes vibrations ! Durant deux heures, laissez-vous guider par Myriam pour découvrir les bases du tam-tam, apprivoiser les frappes, explorer la polyrythmie et surtout partager un moment d'énergie pure et de convivialité. Accessible à toutes et tous: débutants bienvenus, aucun prérequis nécessaire, juste l'envie de s'amuser en rythme."
+    },
+    {
+      "id": "myPopover108",
+      "title": "VIDE-GRENIERS",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-CEP-3.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [],
+      "location": "FLEURY",
+      "address": "Parking Salle des Fêtes, 11560, FLEURY",
+      "description": "Dimanche 11 octobre 2026 – Amicale des Donneurs de Sang Lieu : Parking Salle des Fêtes + Producteurs, Fleury d’Aude Contact : Martine Cadena – 06 76 24 69 41"
+    },
+    {
+      "id": "myPopover109",
+      "title": "VIDE GRENIER",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier--17.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "07:00",
+        "17:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "2 Route de Bages, 11440, PEYRIAC-DE-MER",
+      "description": "Vide grenier au stade du rugby sous les ombrières. Le matin, viennoiseries pour bien commencer la journée! Toute la journée plancha, frites, saucisses, sandwich et glace. Tarif de l'emplacement 10 euros avec véhicule. Réservation obligatoire!!!"
+    },
+    {
+      "id": "myPopover110",
+      "title": "MARCHÉ HEBDOMADAIRE: OCTOBRE ROSE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-producteurs-Pixabay-7.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "09:00",
+        "12:30"
+      ],
+      "location": "SAINT-NAZAIRE-D'AUDE",
+      "address": "75 Rue de la Tannerie, 11120, SAINT-NAZAIRE-D'AUDE",
+      "description": "Octobre Rose à Saint-Nazaire-d'Aude. À l'occasion d'Octobre Rose, le CCAS et les associations du village organisent une matinée solidaire le dimanche 11 octobre, de 9h à 12h30. Au programme: sortie vélo, marche autour du village, séance de Zumba, jeux, défis sportifs, ateliers créatifs et différents stands associatifs."
+    },
+    {
+      "id": "myPopover113",
+      "title": "BAIN ROSE - OCTOBRE ROSE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Flyer-Evenement-Solidaire-Octobre-Rose-Sensibilisation-Cancer-du-Sein--3-.png?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "10:00",
+        "14:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Front de Mer, 11100, NARBONNE",
+      "description": "Manifestation organisée dans le cadre d'Octobre Rose, le mois du dépistage des cancers du sein et du col de l'utérus. Au programme : - dès 10h Accueil boissons chaudes et crêpes - 10h30 Danse et initiation yoga (Narbonne-Plage Amitié) - 11h Bain Rose (participation 5€) et Gabriel au Saxo - 11h30 Chorale (Narbonne-Plage Amitié) - 12h30 : Repas Paëlla, Boisson, Dessert (15€, sur réservation) Inscriptions (Bain Rose et/ou Repas) : avant le 5 octobre, au 06.12.09.01.00 ou coerdestation.np@gmail.com Stands : Boutique Héroïnes, Santé et Beauté, Prévention, Photographe. Une partie des bénéfices de la journée sera reversée à la lutte contre le cancer du sein. Manifestation proposée par l'association des Commerçants de Cœur de Station avec le soutien de la ville de Narbonne. Le lieu de la manifestation pourra changer en fonction de la météo."
+    },
+    {
+      "id": "myPopover114",
+      "title": "MARCHÉ DE PLEIN VENT",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
+      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
+    },
+    {
+      "id": "myPopover115",
+      "title": "ENS - ET LE VENT SOUFFLE SUR LA CLAPE !",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-loir.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "09:30",
+        "16:00"
+      ],
+      "location": "ARMISSAN",
+      "address": "11110, ARMISSAN",
+      "description": "18 km / Moyen / + 10 ans Randonnée aux points de vue superbes depuis les reliefs escarpés de la montagne de la Clape anciennement « Île du Lac » ! Lecture de paysage d'une crête à l'autre entre garrigue, vignes et falaises. Réservation obligatoire par SMS. 20 personnes max. Prévoir pique-nique. Être très bien chaussé."
+    },
+    {
+      "id": "myPopover116",
+      "title": "ENS - AUTOUR DE LA LAGUNE : PLANTES ET PAYSAGES",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-grenouille.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "14:00",
+        "17:00"
+      ],
+      "location": "LA PALME",
+      "address": "11480, LA PALME",
+      "description": "5 km / Moyen / + 8 ans Comment fonctionne la lagune ? Parcourez la sansouïre jusqu'à prendre de la hauteur en garrigue pour observer l'étang, comprendre son importance et découvrir les plantes qui l'entourent. Réservation obligatoire par SMS. 20 personnes max."
+    },
+    {
+      "id": "myPopover117",
+      "title": "LOTO",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/loto-ouveillan.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "15:00",
+        "18:00"
+      ],
+      "location": "OUVEILLAN",
+      "address": "Place Carnot, 11590, OUVEILLAN",
+      "description": "L'association Les volants d'Ouveillan font leur loto. Nombreux lots à gagner. Buvette et goûter sur place. La salle sera ouverte à 14H"
+    },
+    {
+      "id": "myPopover118",
+      "title": "OCTOBRE ROSE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Octobre-Rose-45.jpg?width=200",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-11",
+      "times": [
+        "09:00",
+        "12:30"
+      ],
+      "location": "SAINT-NAZAIRE-D'AUDE",
+      "address": "11120, SAINT-NAZAIRE-D'AUDE",
+      "description": "Venez soutenir la cause en participant à diverses activités avec les associations du village. Participation libre. Les recettes seront reversées à l'institut de la recherche pour le cancer de Montpellier."
     }
   ]
 }
