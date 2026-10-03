@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-02T10:53:36.776Z",
+  "generatedAt": "2026-10-03T10:12:52.056Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 114,
+  "count": 103,
   "events": [
     {
       "id": "myPopover1",
@@ -37,23 +37,6 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover3",
-      "title": "LES VENTES D'AUTOMNE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Ventes-d-automne-2.jpg?width=200",
-      "startDate": "2026-09-28",
-      "endDate": "2026-10-02",
-      "times": [
-        "10:00",
-        "12:00",
-        "15:00",
-        "18:00"
-      ],
-      "location": "COURSAN",
-      "address": "Rue Fabre d'Eglantine, 11110, COURSAN",
-      "description": "L'Association Célian présente les Ventes d’automne. Ses créations artisanales. Une animation mettant à l’honneur les créations faites main de nos bénévoles"
-    },
-    {
       "id": "myPopover4",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
@@ -86,36 +69,6 @@
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
     },
     {
-      "id": "myPopover6",
-      "title": "DON DU SANG",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/555-3.jpg?width=200",
-      "startDate": "2026-10-01",
-      "endDate": "2026-10-02",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Domaine de Montplaisir, 11100, NARBONNE",
-      "description": "Don du Sang – Mobilisez-vous pour sauver des vies Venez participer à une collecte de don du sang au Domaine de Montplaisir. Un geste simple, mais essentiel pour sauver des vies. Pour plus de renseignements : dondesang.efs.sante.fr Chaque don compte, alors n’hésitez pas à venir faire un geste de solidarité !"
-    },
-    {
-      "id": "myPopover7",
-      "title": "BALADE GOURMANDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
-    },
-    {
       "id": "myPopover8",
       "title": "FESTIVAL INTERNATIONAL DES ORCHIDÉES",
       "category": "culture",
@@ -129,125 +82,6 @@
       "location": "NARBONNE",
       "address": "RD 613 Chemin de Fontfroide, 11100, NARBONNE",
       "description": "Le monde fascinant des orchidées rencontre l’Égypte à Fontfroide ! Les 2, 3 et 4 octobre 2026, Fontfroide vous invite à un voyage floral exceptionnel, entre orchidées extraordinaires et mystères de l’Égypte antique. Pendant trois jours, producteurs et spécialistes venus de France et de l’étranger dévoilent leurs plus beaux spécimens dans le cadre majestueux de l’abbaye. Expositions, ventes, ateliers, conférences, animations et artisanat rythment cette nouvelle édition placée sous le signe des pharaons. Après avoir séduit plus de 9 000 visiteurs lors de la précédente édition, le Festival des Orchidées revient plus spectaculaire que jamais. Admirez, échangez, laissez-vous surprendre… et repartez avec vos coups de cœur !"
-    },
-    {
-      "id": "myPopover9",
-      "title": "LOVE INCLUSIVE : SANDRINE ALEXI",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LOVE-INCLUSIVE-.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "20:30"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
-      "description": "Les voix du coeur sont immitables Mise en scène Esteban Perroy 5 e l'entrée"
-    },
-    {
-      "id": "myPopover10",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover11",
-      "title": "PORTES OUVERTES DU SITE LAFARGE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Portes-ouvertes-Lafarge.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "09:00",
-        "12:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "780 Avenue d'Occitanie, 11210, PORT-LA-NOUVELLE",
-      "description": "Portes ouvertes du site LAFARGE, une visite au coeur de notre usine. Départ et retour de la visite uniquement du Gymnase Jean Monnet à Port La Nouvelle, inscription obligatoire."
-    },
-    {
-      "id": "myPopover12",
-      "title": "L'ÉTANGD'ART GALERIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
-    },
-    {
-      "id": "myPopover13",
-      "title": "EXPOSITION \"ART AT 80\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "18:00",
-        "19:30"
-      ],
-      "location": "SIGEAN",
-      "address": "37 Rue du Commerce, 11130, SIGEAN",
-      "description": "Vernissage de l'exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
-    },
-    {
-      "id": "myPopover15",
-      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "08:30",
-        "10:00"
-      ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
-    },
-    {
-      "id": "myPopover16",
-      "title": "OCTOBRE ROSE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Octobre-rose--4.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "SIGEAN",
-      "address": "Place de la Libération, 11130, SIGEAN",
-      "description": "Le stand d'Octobre Rose sur le marché organisé par les bénévoles de coeur. Infos et ventes d'objets confectionnés au profit de la lutte contre le cancer."
-    },
-    {
-      "id": "myPopover17",
-      "title": "COLLECTE DÉPARTEMENTALE \"LES RESTAURANTS DU COEUR\"",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Collecte-restaurant-du-coeur-2.jpg?width=200",
-      "startDate": "2026-10-02",
-      "endDate": "2026-10-02",
-      "times": [
-        "08:30",
-        "19:30"
-      ],
-      "location": "SIGEAN",
-      "address": "29 Rue du Peyrou, CARREFOUR, 11130, SIGEAN",
-      "description": "Collecte au profit des Restaurants du Coeur dans les magasins et supermachés."
     },
     {
       "id": "myPopover18",
