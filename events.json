@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-06T11:48:47.629Z",
+  "generatedAt": "2026-10-07T11:32:17.415Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 96,
+  "count": 90,
   "events": [
     {
       "id": "myPopover1",
@@ -84,95 +84,6 @@
       "location": "NARBONNE",
       "address": "Rte de Gruissan, 11100, NARBONNE",
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover6",
-      "title": "LE PAS DU MONDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-PAS-DU-MONDE--Fabrice-Dimier-2.jpg?width=200",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "times": [
-        "20:00"
-      ],
-      "location": "NARBONNE",
-      "address": "2 Avenue Maître Hubert Mouly, 11100, NARBONNE",
-      "description": "Le pas du monde Collectif X Y Dès 7 ans Durée : 1h00 Une œuvre magistrale traversée d’envolées lyriques et acrobatiques En 2022, ils nous avaient émerveillés par l’audace de leur chorégraphie aérienne dans Möbius, incarnant avec grâce les murmurations d’oiseaux. Les acrobates du collectif XY reviennent à Narbonne avec cette nouvelle création où l’art du porté se mêle au chant pour célébrer la beauté fragile du temps qui passe. Depuis près de vingt ans, cette compagnie réinvente le porté acrobatique interrogeant sans cesse, dans ses pièces, notre rapport au monde et à l’environnement. Fidèle à cette exigence, elle imagine cette œuvre d’une ampleur exceptionnelle, réunissant vingt-deux interprètes sur scène. Avec virtuosité, les artistes enchaînent les figures à une vitesse effrénée, donnant à voir les métamorphoses du vivant. Face à nous, des pyramides humaines se dressent, semblables à des montagnes qui s’érodent. Les saltos évoquent le souffle du vent dans la cime des arbres. Les chutes résonnent comme le craquement d’un glacier. Les courses dessinent les méandres d’une rivière. Accompagnés de trois chanteurs, les acrobates sculptent de leurs corps des paysages mouvants. Et autour d’eux, lumières, sons et voix s’entrelacent avec délicatesse pour composer ce tableau d’une très grande poésie."
-    },
-    {
-      "id": "myPopover7",
-      "title": "CINEMA \" DE PLUS BELLE \"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2.jpg?width=200",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "times": [
-        "19:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
-      "description": "Cinéma : de plus belle avec Florence Foresti"
-    },
-    {
-      "id": "myPopover8",
-      "title": "EXPOSITION \"ART AT 80\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "times": [
-        "09:00",
-        "12:00",
-        "14:30",
-        "18:00"
-      ],
-      "location": "SIGEAN",
-      "address": "37 Rue du Commerce, 11130, SIGEAN",
-      "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
-    },
-    {
-      "id": "myPopover9",
-      "title": "MARCHÉ AUX FRIPES",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
-    },
-    {
-      "id": "myPopover10",
-      "title": "MARCHÉ AU BLÉ",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "times": [
-        "07:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
-    },
-    {
-      "id": "myPopover11",
-      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
-      "startDate": "2026-10-06",
-      "endDate": "2026-10-06",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
-      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
       "id": "myPopover12",
