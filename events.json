@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-08T11:47:15.115Z",
+  "generatedAt": "2026-10-09T11:39:53.713Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 120,
+  "count": 117,
   "events": [
     {
       "id": "myPopover1",
@@ -86,21 +86,6 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover6",
-      "title": "CAFE THEMA : ACTEURS CULTURELS ET ARTISTIQUES, PRÉPAREZ VOTRE DEMANDE DE SUBVENTION AU DÉPARTEMENT DE L’AUDE !",
-      "category": "culture",
-      "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "09:30",
-        "12:00"
-      ],
-      "location": "NARBONNE",
-      "address": "13 Boulevard Gambetta, 11100, NARBONNE",
-      "description": "La recherche de financements est une étape incontournable pour monter et développer son projet artistique. Quel soutien financier peut vous apporter le Département ? A quel moment devons-nous le solliciter ? Quels sont les critères d’éligibilité ? Profitez de ce temps d’information et de dialogue avec les représentants de la collectivité pour éclairer vos démarches. OBJECTIFS : Identifier le dispositif le plus adapté à son projet Mieux appréhender le développement et la réalisation de son projet artistique Mieux appréhender les attentes des financeurs Rencontrer et échanger avec les techniciens du service culture Connaître les ressources et les critères d’éligibilité des demandes de subvention INTERVENANTS : Eric Misse, adjoint au chef du service culture Département de l’Aude - Stéphane Guerrero, gestionnaire administratif et financier - Département de l’Aude LE PUBLIC CONCERNE : Artistes et leurs équipes, développeurs d’artistes, associations, collectivités et structures culturelles du département de l’Aude INSCRIPTION AUX CAFES THEMA GRATUITE MAIS OBLIGATOIRE"
-    },
-    {
       "id": "myPopover7",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
@@ -118,36 +103,6 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover8",
-      "title": "EXPOSITION PAOLA DI PRIMA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/PAOLA-DI-PRIMA.jpg?width=200",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue des Remparts, 11100, BAGES",
-      "description": "Paola DI PRIMA propose une exposition \"Les couleurs de la nuit\" Entrée libre du Mercredi au dimanche de 15h à 19h ou sur rendez-vous"
-    },
-    {
-      "id": "myPopover9",
-      "title": "L'ÉTANGD'ART GALERIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L-Etangd-art.jpg?width=200",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Exposition à la galerie l'Étangd'Art, peinture, sculpture et céramique avec de nombreux artistes. Du jeudi au dimanche au horaire d'ouverture ou sur rendez-vous. Vernissage à partir de 18h."
-    },
-    {
       "id": "myPopover10",
       "title": "RELIÉS",
       "category": "culture",
@@ -161,68 +116,6 @@
       "location": "BAGES",
       "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
-    },
-    {
-      "id": "myPopover11",
-      "title": "EXPOSITION \"ART AT 80\"",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/art-at-80.jpg?width=200",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "14:30",
-        "18:00"
-      ],
-      "location": "SIGEAN",
-      "address": "37 Rue du Commerce, 11130, SIGEAN",
-      "description": "Exposition par Mark HERMAN, peintures et droodles (énigme visuelle sous la forme d'un petit dessin minimaliste et abstrait, dont le sens n'apparaît qu'une fois la légende révélée)"
-    },
-    {
-      "id": "myPopover12",
-      "title": "EXPOSITION DIDIER TRIGLIA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
-      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
-    },
-    {
-      "id": "myPopover13",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover14",
-      "title": "ATELIER CUISINE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/atelier-cuisine-somail.jpg?width=200",
-      "startDate": "2026-10-08",
-      "endDate": "2026-10-08",
-      "times": [
-        "09:00",
-        "14:00"
-      ],
-      "location": "SAINT-NAZAIRE-D'AUDE",
-      "address": "180 Rue du Canalet, 11120, SAINT-NAZAIRE-D'AUDE",
-      "description": "Un moment de partage pour cuisiner une recette avec un professionnel et la déguster entre vous. Idéal pour découvrir un plat et faire de nouvelles connaissances. inscription obligatoire avant le 5 octobre."
     },
     {
       "id": "myPopover15",
@@ -1806,6 +1699,65 @@
       "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Bien-etre-Pixabay.jpg?width=200",
       "startDate": "2026-10-17",
       "endDate": "2026-10-17",
+      "times": [
+        "10:00"
+      ],
+      "location": "SAINT-MARCEL-SUR-AUDE",
+      "address": "Chemin des Coopératives, 11120, SAINT-MARCEL-SUR-AUDE",
+      "description": "Week-end bien-être avec stands et intervenants, organisé par le Comité de lutte contre le cancer. Buvette sur place."
+    },
+    {
+      "id": "myPopover130",
+      "title": "VES 2026 - CHÂTEAU CAPITOUL - DÉGUSTATION SUNSET",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Capitoul-coucher-de-soleil--ambroggiani-1200x900.jpg?width=200",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "times": [
+        "17:30",
+        "19:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Route de Gruissan, 11100, NARBONNE",
+      "description": "La visite : Venez vivre une expérience inoubliable au cœur du Château Capitoul, qui allie visite de cave, dégustation et paysage à couper le souffle au soleil couchant Laissez-vous guider au milieu des barriques et des cuves en cours de fermentation, en cette période unique de l’année qui ne dure que quelques semaines. Laissez-vous initier aux secrets de l’élaboration et goûtez le vin en cours de création, directement au cœur de la cave. La dégustation : La visite se prolonge avec une dégustation sur le Roof Top de la cave où vous profiterez d’une vue imprenable sur les Pyrénées et l’étang de Bages au soleil couchant. Dans cette atmosphère unique, vous dégusterez plusieurs cuvées emblématiques du Domaine, soigneusement sélectionnées, accompagnées de savoureuses charcuteries régionales. Inclus : - Dégustation de jus en cours de fermentation. - Dégustation de 5 vins du Château Capitoul. - Charcuterie - Dégustation de jus de cépages pour les enfants. Prévoir des vêtements pour le soir et anti moustique. Durée : 1h30 Réservation en ligne."
+    },
+    {
+      "id": "myPopover131",
+      "title": "OCTOBRE ROSE \"EVENEMENT L'UNION FAIT LA COURSE\"",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Octobre-Rose--5.jpg?width=200",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-17",
+      "times": [
+        "08:45",
+        "12:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Complexe sportif des Grazelles, 11130, SIGEAN",
+      "description": "Une marche de 4 km ou une course de 10 km organisé par l'ASARCM. Inscription sur place ou sur internet : asarcm-athle.com. Animation musicale avec \"OS SEDENTOS BATUCADA\", foodtruck \"TIKMAN MO KO\""
+    },
+    {
+      "id": "myPopover132",
+      "title": "MARCHÉ DE NOËL EN ÉTÉ INDIEN",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/d22a69b8-8133-4d00-9f0c-9ea9a0c6fe5e.jpg?width=200",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
+      "times": [
+        "10:00",
+        "19:00"
+      ],
+      "location": "OUVEILLAN",
+      "address": "Place Carnot, 11590, OUVEILLAN",
+      "description": "Le marché de Noël en plein été indien fait son grand retour pour sa seconde édition ! Plus de 50 stands sont prévus, entre artisans créateurs, mini-ferme tactile et jeux gonflables. Le samedi soir, dès 21h30, place au concert avec \"C&Syl'\". Au programme également: balades à poney, danse country et une tombola."
+    },
+    {
+      "id": "myPopover133",
+      "title": "OTCOBRE ROSE: WEEK-END BIEN-ÊTRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Bien-etre-Pixabay.jpg?width=200",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-18",
       "times": [
         "10:00"
       ],
