@@ -1,26 +1,9 @@
 {
-  "generatedAt": "2026-10-12T12:46:27.260Z",
+  "generatedAt": "2026-10-13T12:28:24.506Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 120,
+  "count": 119,
   "events": [
-    {
-      "id": "myPopover1",
-      "title": "EXPOSITION - HUPONT DENISE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Expo-Hupont-Denise.jpg?width=200",
-      "startDate": "2026-09-30",
-      "endDate": "2026-10-12",
-      "times": [
-        "10:00",
-        "13:00",
-        "16:00",
-        "18:00"
-      ],
-      "location": "FLEURY",
-      "address": "Place des Vergnettes, 11560, FLEURY",
-      "description": "Exposition – Promenades en aquarelle Du 30 septembre au 12 octobre 2026 à la salle d’exposition, place de Vergnettes à Saint-Pierre-la-Mer. Ouvert tous les jours de 10h à 13h et de 16h à 18h. Salle d’exposition – Place de Vergnettes, Saint-Pierre-la-Mer"
-    },
     {
       "id": "myPopover2",
       "title": "EXPOSITION - VARIATIONS - AM'ART",
@@ -69,38 +52,6 @@
       "location": "NARBONNE",
       "address": "Rte de Gruissan, 11100, NARBONNE",
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover5",
-      "title": "EXPOSITION DIDIER TRIGLIA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
-      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
-    },
-    {
-      "id": "myPopover6",
-      "title": "DON DU SANG",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/12.10---don-du-sang.jpg?width=200",
-      "startDate": "2026-10-12",
-      "endDate": "2026-10-12",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "197 Rue Alain Colas, 11210, PORT-LA-NOUVELLE",
-      "description": "Don du sang salle Jacques brel"
     },
     {
       "id": "myPopover7",
@@ -1834,6 +1785,36 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
       "description": "Cinémé les 5 légendes film d'animation Gratuit pour les moins de 18 ans 4 e la séance pour les adultes"
+    },
+    {
+      "id": "myPopover121",
+      "title": "ENS - SAINTE-LUCIE, À VOS MARQUES, PRÊT, PARTEZ !",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-lezard.jpg?width=200",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "times": [
+        "14:00",
+        "17:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "11210, PORT-LA-NOUVELLE",
+      "description": "4 km / Facile / + 6 ans Venez participer à un jeu de piste qui vous fera découvrir, à travers des énigmes, l'histoire et la biodiversité de l'île. Nous aborderons également les aléas climatiques et notamment le risque incendie. Réservation obligatoire par SMS. 25 personnes max. Matériel d'observation fourni. Rendez-Mvous maison éclusière, à 10 min à pied du parking obligatoire."
+    },
+    {
+      "id": "myPopover122",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-21",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     }
   ]
 }
