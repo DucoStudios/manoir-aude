@@ -1,230 +1,9 @@
 {
-  "generatedAt": "2026-10-18T09:20:23.478Z",
+  "generatedAt": "2026-10-19T10:31:41.623Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 120,
+  "count": 117,
   "events": [
-    {
-      "id": "myPopover1",
-      "title": "RELIÉS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
-      "startDate": "2026-10-15",
-      "endDate": "2026-10-18",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
-    },
-    {
-      "id": "myPopover2",
-      "title": "WEEK-END MOTO AU PROFIT DU TÉLÉTHON",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Telethon-2026-2.jpg?width=200",
-      "startDate": "2026-10-17",
-      "endDate": "2026-10-18",
-      "times": [
-        "10:00"
-      ],
-      "location": "FLEURY",
-      "address": "Place de Vergnettes, 11560, FLEURY",
-      "description": "Week-end moto au profit du Téléthon Samedi 17 et dimanche 18 octobre 2026 Place des Vergnettes – Saint-Pierre la Mer À l’occasion du Téléthon, l’association Septi Bikers d’Oc vous propose un week-end placé sous le signe de la moto, avec des animations et balades au profit du Téléthon. Samedi 17 octobre Balade moto dans le Minervois – environ 140 km Départ à 10h depuis la place des Vergnettes. Participation : 10 € par casque Dimanche 18 octobre Baptêmes en Harley-Davidson Rendez-vous de 10h à 16h sur la place des Vergnettes. Deux parcours proposés : Tour de ville de Saint-Pierre la Mer : 5 € La Transclape – La Pagèze, Fleury, Saint-Pierre la Mer : 10 € L’ensemble des participations est au profit du Téléthon. Renseignements : 06 78 91 78 20 / 06 23 89 13 05 septibikerdoc@gmail.com"
-    },
-    {
-      "id": "myPopover3",
-      "title": "LES PETITS CHANTEURS À LA CROIX DE BOIS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Sans-titre-2-172.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "16:30",
-        "18:30"
-      ],
-      "location": "NARBONNE",
-      "address": "Rue Armand Gauthier, 11100, NARBONNE",
-      "description": "Les Petits Chanteurs à la Croix de Bois se produiront à la Cathédrale de Narbonne avec la participation de la chorale de l’École Saint-Just et Saint-Pasteur."
-    },
-    {
-      "id": "myPopover4",
-      "title": "EXPOSITION AU L.A.C",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "14:00",
-        "17:00"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Berre, 11130, SIGEAN",
-      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
-    },
-    {
-      "id": "myPopover5",
-      "title": "MARCHÉ DE NOËL EN ÉTÉ INDIEN",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/d22a69b8-8133-4d00-9f0c-9ea9a0c6fe5e.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "10:00",
-        "19:00"
-      ],
-      "location": "OUVEILLAN",
-      "address": "Place Carnot, 11590, OUVEILLAN",
-      "description": "Le marché de Noël en plein été indien fait son grand retour pour sa seconde édition ! Plus de 50 stands sont prévus, entre artisans créateurs, mini-ferme tactile et jeux gonflables. Le samedi soir, dès 21h30, place au concert avec \"C&Syl'\". Au programme également: balades à poney, danse country et une tombola."
-    },
-    {
-      "id": "myPopover6",
-      "title": "SUPER LOTO",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Loto-356.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "15:00",
-        "19:00"
-      ],
-      "location": "GINESTAS",
-      "address": "Chemin des Clergues, 11120, GINESTAS",
-      "description": "Le super loto est de retour à Ginestas. De nombreux lots à gagner: - 15 quines - 4 cartons pleins dont un à 300€ - 3 consolantes -1 tombola. -1 partie bingo. De quoi passer un super après-midi, tenter sa chance et surtout partager un bon moment tous ensemble."
-    },
-    {
-      "id": "myPopover7",
-      "title": "SEMAINE DU GOÛT",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/halles.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "10:00"
-      ],
-      "location": "NARBONNE",
-      "address": "1 Cours Mirabeau, 11100, NARBONNE",
-      "description": "La pissaladière sera la vedette de la matinée. Cette spécialité niçoise, préparée à partir d’une pâte à pain, d’oignons fondants, d’anchois, d’olives noires et de pissalat, sera proposée en dégustation gratuite aux clients des Halles. La recette sera préparée par l’Association des artisans et commerçants des Halles avec la participation de France Bénévolat Aude Narbonne. Une ambiance fanfare accompagnera ce rendez-vous dominical, pensé pour les familles comme pour les habitués du marché."
-    },
-    {
-      "id": "myPopover8",
-      "title": "MARCHE SOLIDAIRE",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-rando.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "08:00"
-      ],
-      "location": "ARGELIERS",
-      "address": "Avenue Pierre de Coubertin, 11120, ARGELIERS",
-      "description": "Randonnées deux niveaux, au profit de la lutte contre le cancer"
-    },
-    {
-      "id": "myPopover9",
-      "title": "LOTO LES AMIS DES CHATS NOUVELLOIS",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/--vide-greniers-des-amis-des-chats.JPG?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "place saint charles, Salle Jacques Brel, 11210, PORT-LA-NOUVELLE",
-      "description": "Loto organisé par les amis des chats Nouvellois Si mauvais temps annulé"
-    },
-    {
-      "id": "myPopover10",
-      "title": "BALADE À VÉLO",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/f88c7d1c-b81a-4ebe-b296-8d12e9498d7f.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "14:30",
-        "18:00"
-      ],
-      "location": "SALLELES-D'AUDE",
-      "address": "1 Avenue du Gailhousty, 11590, SALLELES-D'AUDE",
-      "description": "Une balade tranquille à vélo ouverte à tous, pour soutenir octobre rose. 12km entièrement plat le long du Canal du Midi, jusqu'au port du Somail - Pont-canal sur la Cesse, épanchoir des Patiasses. On roule ensemble, à allure de promenade, et on rentre partager un goûter au bois de la Nation. Comment participer ? - Vous louez un vélo classique ou électrique. - Vous venez avec votre vélo Prévenez Maud pour qu'elle sache que vous serez là. Bon à savoir ! Venez en rose ! un vêtement, un foulard ou bien un accessoire. Goûter partagé à l'arrivée - apportez un petit quelque chose. En cas de pluie, la balade est annulée et les inscrits sont prévenus la veille."
-    },
-    {
-      "id": "myPopover11",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover12",
-      "title": "ENS - PETITE REINE POUR GRANDS ESPACES !",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-oiseau.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "13:30",
-        "16:30"
-      ],
-      "location": "BAGES",
-      "address": "11100, BAGES",
-      "description": "20 km / Facile / + 8 ans Balade sympathique à vélo sur petites routes et grands chemins. Lecture de paysages et observations dans cette mosaïque des zones humides à la biodiversité riche. Réservation obligatoire par SMS. 15 personnes max. Apporter son vélo."
-    },
-    {
-      "id": "myPopover13",
-      "title": "VES 2026 - WINE ADVENTURE : À LA RECHERCHE DE VOTRE CUVÉE SIGNATURE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/noos-aventure---VES26-2.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "10:00",
-        "13:00"
-      ],
-      "location": "GRUISSAN",
-      "address": "Route Bleue, 11430, GRUISSAN",
-      "description": "Partez pour une aventure immersive unique au cœur du massif de la Clape, ou nature, mystère et art de la dégustation du vin se rencontrent. Les Dégust de Lisa et Noosaventures s'associent pour vous proposer une expérience originale mêlant chasse au trésor, exploration en pleine nature et création de votre propre bouteille de vin. En équipes de 3 à 5 personnes équipées de bandanas aux couleurs de votre clan, vous partirez à la recherche de 5 drapeaux et des éléments indispensables à la création de votre cuvée signature, disséminés entre le vignoble et les paysages sauvages de la Clape. Enigmes, indices et défis rythmeront cette aventure conviviale et accessible à tous. La première équipe arrivée remportera un cadeau local surprise... Après cette quête en pleine nature, place à la dégustation et à la créativité : Toutes les équipes se retrouveront au caveau de dégustation du Domaine, aux cotés de Lisa, pour découvrir les secrets de l'assemblage et créer leur propre cuvée de vin. Pendant 2 h 30 à 3 h, vivez une expérience hors du commun entre découverte du terroir, esprit d'équipe, familial, aventure et plaisir de la dégustation. Une activité idéale pour explorer autrement l'univers du vin. Nota : L'aventure peut se proposer aux enfants à partir de 10 ans et la dégustation se fera avec du jus de raisin."
-    },
-    {
-      "id": "myPopover14",
-      "title": "OTCOBRE ROSE: WEEK-END BIEN-ÊTRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/TOURIN-Bien-etre-Pixabay.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "10:00"
-      ],
-      "location": "SAINT-MARCEL-SUR-AUDE",
-      "address": "Chemin des Coopératives, 11120, SAINT-MARCEL-SUR-AUDE",
-      "description": "Week-end bien-être avec stands et intervenants, organisé par le Comité de lutte contre le cancer. Buvette sur place."
-    },
-    {
-      "id": "myPopover15",
-      "title": "FÊTE DE LA LUCQUES NOUVELLE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VES-2026---FETE-DE-LA-LUCQUES-NOUVELLE.jpg?width=200",
-      "startDate": "2026-10-18",
-      "endDate": "2026-10-18",
-      "times": [
-        "09:00",
-        "17:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "4 Hameau de Cabezac, 11120, BIZE-MINERVOIS",
-      "description": "Comme chaque année, l'Oulibo vous invite à célébrer la Lucques Nouvelle. Il est temps de se retrouver autour d’un moment festif, convivial et incontournable de l’Oulibo, la fête de la Lucques Nouvelle qui met en valeur l’arrivée de la star des olives : la Lucques. Au programme cette année : - Balade matinale, - Démonstration de taille d'oliviers, - Confection de bracelets en noyaux d'olives et atelier, - Atelier de préparation de l'olive de table cassée, - Initiation et compétition de lancer de Scourtins (paniers plats utilsiés pour l'extraction de l'huile), - Dégustation d'olives de table à l'aveugle, - Jeux en bois traditionnels géants, - Championnat de lancer de noyaux d'olives, - Visite théâtralisée autour de la légende de la Lucques du Languedoc, - Atelier de pâtisserie pour les plus jeunes,. Restauration sur place : Apéritif musical, Petite restauration (sandwich, grillages, tapas) autour du brasero aux noyaux d'olives. Repas traditionnel sous les oliviers Réservation obligatoire : menu adulte 29 €, menu enfant 15 €."
-    },
     {
       "id": "myPopover16",
       "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
@@ -1802,6 +1581,191 @@
       "location": "NARBONNE",
       "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
+    },
+    {
+      "id": "myPopover121",
+      "title": "EXPOSITION CHRISTIAN BARTELLEMY",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-31",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Rte de Gruissan, 11100, NARBONNE",
+      "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
+    },
+    {
+      "id": "myPopover122",
+      "title": "EXPOSITION DIDIER TRIGLIA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "times": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
+      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
+    },
+    {
+      "id": "myPopover123",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover124",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-26",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de l'Octroi, 11130, SIGEAN",
+      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
+    },
+    {
+      "id": "myPopover125",
+      "title": "EXPOSITION DIDIER TRIGLIA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
+      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
+    },
+    {
+      "id": "myPopover126",
+      "title": "SOIRÉES JEUX",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Soirees-jeux-.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "37 Rue du Commerce, 11130, SIGEAN",
+      "description": "Activités : Jeux de société modernes, jeux traditionnels et jeux en bois (comme l'awalé). Accès libre et gratuit/enfants accompagnés d'un adulte."
+    },
+    {
+      "id": "myPopover127",
+      "title": "MARCHÉ AUX FRIPES",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
+    },
+    {
+      "id": "myPopover128",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover129",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de l'Octroi, 11130, SIGEAN",
+      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
+    },
+    {
+      "id": "myPopover130",
+      "title": "MARCHÉ AU BLÉ",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "07:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
+    },
+    {
+      "id": "myPopover131",
+      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
+      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
+    },
+    {
+      "id": "myPopover132",
+      "title": "DON DE SANG",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/DON-DU-SANG-56.jpg?width=200",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-27",
+      "times": [
+        "15:00",
+        "19:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Annexe du gymnase, 11130, SIGEAN",
+      "description": "Don de sang à l'annexe du gymnase avec ou sans rendez-vous! Après le don, une collation améliorée par Mc DO sigean."
     }
   ]
 }
