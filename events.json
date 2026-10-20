@@ -1,28 +1,11 @@
 {
-  "generatedAt": "2026-10-19T10:31:41.623Z",
+  "generatedAt": "2026-10-20T09:49:07.936Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 117,
+  "count": 120,
   "events": [
     {
-      "id": "myPopover16",
-      "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "10:00",
-        "12:30",
-        "13:30",
-        "18:00"
-      ],
-      "location": "MONTREDON-DES-CORBIERES",
-      "address": "165 Rue du Pech Redon, 11100, MONTREDON-DES-CORBIERES",
-      "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
-    },
-    {
-      "id": "myPopover17",
+      "id": "myPopover1",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -39,133 +22,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover18",
-      "title": "EN COULISSE - CHARPENTERIE MARINE DU PNR DE LA NARBONNAISE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/CHANTIER-DE-CHARPENTERIE-DE-MARINE-2-2.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "08:30",
-        "12:30",
-        "13:30",
-        "17:30"
-      ],
-      "location": "NARBONNE",
-      "address": "185 Chemin de Mandirac, 11100, NARBONNE",
-      "description": "Constitué d’une équipe d’une dizaine de personnes en insertion professionnelle, le chantier de charpenterie de marine du Parc naturel régional de la Narbonnaise en Méditerranée est dirigé par Yann Pajot, charpentier de marine et expert auprès de la DRAC. Le chantier charpenterie de marine du Parc est emblématique en France. Il œuvre pour la conservation du patrimoine maritime et fluvial national. Son équipe travaille pour entretenir et restaurer le patrimoine maritime et fluvial languedocien en mettant en œuvre des techniques traditionnelles de charpenterie de marine. A l'occasion de Entreprise en Coulisse, visite de la restauration d'embarcation classée au titre des Monuments Historiques, le lundi 19 octobre, de 8h30 à 12h30 et de 13h30 à 17h30. Projet porté par le Parc naturel régional, financé par l’Europe, l’État, le département de l’Aude et Le Grand Narbonne, ce chantier est axé sur la réinsertion socio-professionnelle au travers de la restauration d’un mobilier classé."
-    },
-    {
-      "id": "myPopover19",
-      "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "10:30",
-        "14:30"
-      ],
-      "location": "LA PALME",
-      "address": "La Pacheyrasso, 11480, LA PALME",
-      "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
-    },
-    {
-      "id": "myPopover20",
-      "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "08:00",
-        "18:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Hameau Cabezac, 11120, BIZE-MINERVOIS",
-      "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
-    },
-    {
-      "id": "myPopover21",
-      "title": "EXPOSITION DIDIER TRIGLIA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
-      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
-    },
-    {
-      "id": "myPopover22",
-      "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "10:30",
-        "11:30",
-        "16:00",
-        "17:00"
-      ],
-      "location": "COURSAN",
-      "address": "16 Rue Béranger, 11110, COURSAN",
-      "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
-    },
-    {
-      "id": "myPopover23",
-      "title": "INITIATION À L'ASTRONOMIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/79c6bd8b-e56e-4653-bd19-0986cca2fd63.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "14:00",
-        "17:30"
-      ],
-      "location": "SAINT-MARCEL-SUR-AUDE",
-      "address": "Chemin des Coopératives, 11120, SAINT-MARCEL-SUR-AUDE",
-      "description": "Un après-midi d’initiation à l'astronomie. Passionné(e) d'Astronomie ou curieux, La MJC des Rives de l'Aude et le Club \"Chercheurs d'étoiles\" vous invitent à un après-midi d'initiation ouvert aux scolaires niveau CM2, aux ados et aux adultes. venez nombreux. Réservation !"
-    },
-    {
-      "id": "myPopover24",
-      "title": "BALADE CONTÉE ET VERRE AU BAR ASADO",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/RDV-GOURMAND-CAPITOUL-191026.png?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "11:00",
-        "12:30"
-      ],
-      "location": "NARBONNE",
-      "address": "Route de Gruissan, 11100, NARBONNE",
-      "description": "Envie d’une jolie parenthèse dans un lieu d'exception au milieu des vignes ? 🌿 Venez découvrir la balade contée du Château Capitoul. Une belle visite de ce superbe resort vigneron vous attend (Hôtel, Restaurant, Spa) Le programme de ce joli moment : Visite guidée du Château et de ses espaces Histoire des lieux Dégustation d’un verre au Bar Asado (verre de vin ou soft) et sa sublime terrasse avec vue panoramique sur les vignes Durée : 1h30"
-    },
-    {
-      "id": "myPopover25",
-      "title": "ENS - SUR LES PAS DU PETIT PRINCE AUTOUR DU CHÂTEAU PECH CELEYRAN",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-picnoir.jpg?width=200",
-      "startDate": "2026-10-19",
-      "endDate": "2026-10-19",
-      "times": [
-        "10:00",
-        "16:00"
-      ],
-      "location": "SALLES-D'AUDE",
-      "address": "11110, SALLES-D'AUDE",
-      "description": "3 km / Moyen Depuis le château de la famille Saint-Exupéry, une petite boucle autour du domaine qui, avec la vigne, associe les arbres du futur : infos, légendes du cru et dégustation à l'arrivée. Réservation obligatoire par SMS. 25 personnes max. Prévoir pique-nique. Visite commentée du domaine et dégustation offertes."
-    },
-    {
-      "id": "myPopover26",
+      "id": "myPopover2",
       "title": "EN COULISSE - ATELIER DE POTERIE & DÉMONSTRATION",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Claire-Visite-de-l-atelier-de-poterie-et-demonstration-2.jpg?width=200",
@@ -177,7 +34,7 @@
       "description": "Claire CHAOUAT, céramiste développe un travail céramique artisanal autour des arts de la table et de l’objet décoratif. Elle travaille le grès et la faïence, principalement au tour, en pièces uniques et petites séries. Pour la semaine Entreprise en Coulisse du mardi 20 au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h : Accueil et visite de l'atelier boutique et démonstration commentée."
     },
     {
-      "id": "myPopover27",
+      "id": "myPopover3",
       "title": "EN COULISSE - ATELIER DE BIJOUTERIE CAROLE CHIOTASSO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Carole-Decouverte-du-metier-de-bijoutier-6a9adc921d9fc---Copie.jpg?width=200",
@@ -192,7 +49,7 @@
       "description": "Vous découvrez un atelier artisanal de bijouterie, avec la présentation des outils, des procédés de fabrication d'un bijou en or, démonstration possibles de fonte de l'or, étirage d'un fil ou laminage d'une plaque. A l'occasion de Entreprise en Coulisse, visite guidée de l’atelier, du mardi 20 Octobre au vendredi 23 octobre le mardi 20 octobre à 16h00 le mercredi 21 octobre à 10h00 le jeudi 22 octobre à 11h00 le vendredi 23 octobre à 17h00 Durée de la visite guidée : 40 min. 6 personnes maximum. Tout âge. Places limitées, réservation en ligne fortement conseillée. En français ou espagnol. boutique ouverte de 10h à 18h"
     },
     {
-      "id": "myPopover28",
+      "id": "myPopover4",
       "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
@@ -207,7 +64,7 @@
       "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
     },
     {
-      "id": "myPopover29",
+      "id": "myPopover5",
       "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
@@ -222,7 +79,7 @@
       "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
     },
     {
-      "id": "myPopover30",
+      "id": "myPopover6",
       "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
@@ -239,7 +96,7 @@
       "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
     },
     {
-      "id": "myPopover31",
+      "id": "myPopover7",
       "title": "BEBES LECTEURS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/bebe-lecteurs-2.jpg?width=200",
@@ -253,7 +110,7 @@
       "description": "Pour les enfants de 0 à 3 ans séance animée par Marie et Sophie Sur inscription"
     },
     {
-      "id": "myPopover32",
+      "id": "myPopover8",
       "title": "EXPOSITION DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
@@ -270,7 +127,7 @@
       "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
     },
     {
-      "id": "myPopover33",
+      "id": "myPopover9",
       "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
@@ -287,7 +144,7 @@
       "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
     },
     {
-      "id": "myPopover34",
+      "id": "myPopover10",
       "title": "SOIRÉES JEUX",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Soirees-jeux-.jpg?width=200",
@@ -302,7 +159,7 @@
       "description": "Activités : Jeux de société modernes, jeux traditionnels et jeux en bois (comme l'awalé). Accès libre et gratuit/enfants accompagnés d'un adulte."
     },
     {
-      "id": "myPopover35",
+      "id": "myPopover11",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -317,7 +174,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover36",
+      "id": "myPopover12",
       "title": "SEANCE MEDITATION AVEC VOYAGE SONORE",
       "category": "sportandleisure",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -331,7 +188,7 @@
       "description": "Séance de méditation avec voyage sonore Avec Smart harmonie"
     },
     {
-      "id": "myPopover37",
+      "id": "myPopover13",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -345,7 +202,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover38",
+      "id": "myPopover14",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -360,22 +217,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover39",
-      "title": "ENS - VOLEZ À VÉLO LE LONG DU CANAL !",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-grenouille.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "20 km / Moyen / + 10 ans Depuis Narbonne, les chemins et canaux nous permettront d'atteindre le fleuve Aude tout en longeant le canal de la Robine. Des pauses d’observations des oiseaux sont prévues ! Réservation obligatoire par SMS. 20 personnes max. Matériel d'observation fourni. Apporter son vélo, casque et gilet fluorescent."
-    },
-    {
-      "id": "myPopover40",
+      "id": "myPopover15",
       "title": "ATELIER MOBILE OISEAU QUI VOLE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
@@ -390,7 +232,7 @@
       "description": "Venez peindre et bricoler votre propre mobile en forme d’oiseau qui vole ! Vous aurez le choix entre les plus beaux oiseaux colorés du territoire de la Narbonnaise : Guêpier d’Europe, Martin-pêcheur, Huppe fasciée. Valérie Le Failler – Lutins des Mers Réservation par téléphone, 15 pers max - à partir de 8 ans"
     },
     {
-      "id": "myPopover41",
+      "id": "myPopover16",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -402,7 +244,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover42",
+      "id": "myPopover17",
       "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
@@ -417,7 +259,7 @@
       "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
     },
     {
-      "id": "myPopover43",
+      "id": "myPopover18",
       "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
@@ -432,7 +274,7 @@
       "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover19",
       "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
@@ -449,7 +291,7 @@
       "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover20",
       "title": "EN COULISSE - ATELIER DE BIJOUTERIE CAROLE CHIOTASSO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Carole-Decouverte-du-metier-de-bijoutier-6a9adc921d9fc---Copie.jpg?width=200",
@@ -464,7 +306,7 @@
       "description": "Vous découvrez un atelier artisanal de bijouterie, avec la présentation des outils, des procédés de fabrication d'un bijou en or, démonstration possibles de fonte de l'or, étirage d'un fil ou laminage d'une plaque. A l'occasion de Entreprise en Coulisse, visite guidée de l’atelier, du mardi 20 Octobre au vendredi 23 octobre le mardi 20 octobre à 16h00 le mercredi 21 octobre à 10h00 le jeudi 22 octobre à 11h00 le vendredi 23 octobre à 17h00 Durée de la visite guidée : 40 min. 6 personnes maximum. Tout âge. Places limitées, réservation en ligne fortement conseillée. En français ou espagnol. boutique ouverte de 10h à 18h"
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover21",
       "title": "EN COULISSE - ATELIER DE POTERIE & DÉMONSTRATION",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Claire-Visite-de-l-atelier-de-poterie-et-demonstration-2.jpg?width=200",
@@ -476,7 +318,7 @@
       "description": "Claire CHAOUAT, céramiste développe un travail céramique artisanal autour des arts de la table et de l’objet décoratif. Elle travaille le grès et la faïence, principalement au tour, en pièces uniques et petites séries. Pour la semaine Entreprise en Coulisse du mardi 20 au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h : Accueil et visite de l'atelier boutique et démonstration commentée."
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover22",
       "title": "BÉBÉS LECTEURS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Bebes-lecteurs-.jpg?width=200",
@@ -491,7 +333,7 @@
       "description": "Histoires, comptines et chansons pour les tout-petits jusqu'à 3 ans. Gratuit, réservation obligatoire et pour chaque séance à l'accueil de la médiathèque ou par téléphone."
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover23",
       "title": "EXPOSITION DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
@@ -508,7 +350,7 @@
       "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover24",
       "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
@@ -525,7 +367,7 @@
       "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover25",
       "title": "BALADE SERENITE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-5.jpg?width=200",
@@ -539,7 +381,7 @@
       "description": "Balade sérénité avec l'association respire"
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover26",
       "title": "SANTE VITALITE : SOPHROLOGIE YOGA",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-6.jpg?width=200",
@@ -553,7 +395,7 @@
       "description": "Sophrologie yoga par l'association respire"
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover27",
       "title": "MARCHE POUR TOUS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-7.jpg?width=200",
@@ -567,7 +409,7 @@
       "description": "Rdv cabanon parking du casino Départ marche pour tous avec l'association la nouvelle rando"
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover28",
       "title": "CINEMA : LES 5 LEGENDES",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/les-5-legendes-.jpg?width=200",
@@ -581,7 +423,7 @@
       "description": "Cinémé les 5 légendes film d'animation Gratuit pour les moins de 18 ans 4 e la séance pour les adultes"
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover29",
       "title": "ENS - SAINTE-LUCIE, À VOS MARQUES, PRÊT, PARTEZ !",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ENS-lezard.jpg?width=200",
@@ -596,7 +438,7 @@
       "description": "4 km / Facile / + 6 ans Venez participer à un jeu de piste qui vous fera découvrir, à travers des énigmes, l'histoire et la biodiversité de l'île. Nous aborderons également les aléas climatiques et notamment le risque incendie. Réservation obligatoire par SMS. 25 personnes max. Matériel d'observation fourni. Rendez-Mvous maison éclusière, à 10 min à pied du parking obligatoire."
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover30",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -611,7 +453,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover56",
+      "id": "myPopover31",
       "title": "TRAIT(S) - KITTY SABATIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
@@ -628,7 +470,7 @@
       "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover32",
       "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
@@ -643,7 +485,7 @@
       "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover33",
       "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
@@ -658,7 +500,7 @@
       "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover34",
       "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
@@ -675,7 +517,7 @@
       "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover35",
       "title": "EN COULISSE - ATELIER DE BIJOUTERIE CAROLE CHIOTASSO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Carole-Decouverte-du-metier-de-bijoutier-6a9adc921d9fc---Copie.jpg?width=200",
@@ -690,7 +532,7 @@
       "description": "Vous découvrez un atelier artisanal de bijouterie, avec la présentation des outils, des procédés de fabrication d'un bijou en or, démonstration possibles de fonte de l'or, étirage d'un fil ou laminage d'une plaque. A l'occasion de Entreprise en Coulisse, visite guidée de l’atelier, du mardi 20 Octobre au vendredi 23 octobre le mardi 20 octobre à 16h00 le mercredi 21 octobre à 10h00 le jeudi 22 octobre à 11h00 le vendredi 23 octobre à 17h00 Durée de la visite guidée : 40 min. 6 personnes maximum. Tout âge. Places limitées, réservation en ligne fortement conseillée. En français ou espagnol. boutique ouverte de 10h à 18h"
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover36",
       "title": "EN COULISSE - ATELIER DE POTERIE & DÉMONSTRATION",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Claire-Visite-de-l-atelier-de-poterie-et-demonstration-2.jpg?width=200",
@@ -702,7 +544,7 @@
       "description": "Claire CHAOUAT, céramiste développe un travail céramique artisanal autour des arts de la table et de l’objet décoratif. Elle travaille le grès et la faïence, principalement au tour, en pièces uniques et petites séries. Pour la semaine Entreprise en Coulisse du mardi 20 au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h : Accueil et visite de l'atelier boutique et démonstration commentée."
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover37",
       "title": "ALEX LUTZ - SEXE, GROG ET ROCKING CHAIR",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ALEX-LUTZ---SEXE--GROG-ET-ROCKING-CHAIR.jpg?width=200",
@@ -716,7 +558,7 @@
       "description": "Sexe, grog et rocking-chair Alex Lutz Un one-man-show poétique où l’émotion côtoie le rire Récompensé en 2026, pour la troisième fois, d’un Molière du meilleur spectacle d’humour, Alex Lutz triomphe avec ce nouveau seul en scène. Depuis plusieurs années, l’artiste imaginait une pièce qui mette en miroir la génération des baby-boomers et la sienne. La disparition de son père, Gérard, a précipité l’émergence de ce projet. Enfant de l’après-guerre, Gérard chantait Joan Baez et Stevie Wonder. Il rêvait de paix, des œillets glissés dans les canons de fusils. La génération d’Alex Lutz, elle, est née avec le chômage et le sida. Elle a grandi avec la peur au ventre au rythme des crises économiques qui semblaient murmurer : « La fête est finie ». Sur une playlist qui nous emporte cinquante ans en arrière, le comédien retrace la vie de son père. Au fil d’anecdotes savoureuses, il s’amuse à faire dialoguer ces deux générations. Deux visions du monde qui se confrontent avec tendresse et malice. Fidèle à son humour, Alex Lutz n’hésite pas à tourner en dérision des situations tragiques, comme ce rendez-vous chez les pompes funèbres. Il plonge dans mille objets de son enfance. Tout ceci avant de retrouver son magnifique compagnon de vie, son cheval, pour une séquence très personnelle qui nous bouleverse."
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover38",
       "title": "RELIÉS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
@@ -731,7 +573,7 @@
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover39",
       "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
@@ -748,7 +590,7 @@
       "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover40",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -763,7 +605,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover41",
       "title": "LOTO RIVAGE D'OR",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-8.jpg?width=200",
@@ -777,7 +619,7 @@
       "description": "Loto de l'association rivage d'or"
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover42",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -792,7 +634,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover43",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -807,7 +649,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover44",
       "title": "REPAS DANSANT DES VENDANGES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Disco-Pixabay-11.jpg?width=200",
@@ -822,7 +664,7 @@
       "description": "Repas dansant des vendanges. L'association Ouveill'Anim vous donne rendez-vous le vendredi 23 octobre 2026 à partir de 19h, à la salle des fêtes pour une soirée conviviale autour d'un repas dansant animé par Gérald. Traiteur Arqué. Repas tout compris et animation musicale. Réservation au plus tard le 15 octobre. Places limitées."
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover45",
       "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
@@ -837,7 +679,7 @@
       "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover46",
       "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
@@ -852,7 +694,7 @@
       "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover47",
       "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
@@ -869,7 +711,7 @@
       "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover48",
       "title": "EN COULISSE - ATELIER DE BIJOUTERIE CAROLE CHIOTASSO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Carole-Decouverte-du-metier-de-bijoutier-6a9adc921d9fc---Copie.jpg?width=200",
@@ -884,7 +726,7 @@
       "description": "Vous découvrez un atelier artisanal de bijouterie, avec la présentation des outils, des procédés de fabrication d'un bijou en or, démonstration possibles de fonte de l'or, étirage d'un fil ou laminage d'une plaque. A l'occasion de Entreprise en Coulisse, visite guidée de l’atelier, du mardi 20 Octobre au vendredi 23 octobre le mardi 20 octobre à 16h00 le mercredi 21 octobre à 10h00 le jeudi 22 octobre à 11h00 le vendredi 23 octobre à 17h00 Durée de la visite guidée : 40 min. 6 personnes maximum. Tout âge. Places limitées, réservation en ligne fortement conseillée. En français ou espagnol. boutique ouverte de 10h à 18h"
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover49",
       "title": "EN COULISSE - ATELIER DE POTERIE & DÉMONSTRATION",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Claire-Visite-de-l-atelier-de-poterie-et-demonstration-2.jpg?width=200",
@@ -896,7 +738,7 @@
       "description": "Claire CHAOUAT, céramiste développe un travail céramique artisanal autour des arts de la table et de l’objet décoratif. Elle travaille le grès et la faïence, principalement au tour, en pièces uniques et petites séries. Pour la semaine Entreprise en Coulisse du mardi 20 au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h : Accueil et visite de l'atelier boutique et démonstration commentée."
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover50",
       "title": "LA PLEINE CONSCIENCE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
@@ -911,7 +753,7 @@
       "description": "La pleine conscience par Jean-Pierre Desfour, la pleine conscience c’est de vivre l’instant présent et de limiter les vagabondage de notre cerveau dans le passé ou le futur. Ces vagabondages nous font vivre soit des événements qui n’existent plus ou qui n’existent pas encore. De plus sur les 60 000 pensées que nous avons en moyenne par jours, 80% sont négatives. En pratiquant la pleine conscience nous réduisons ce flot de pensée et de ce fait le stress qui y est associé. Durant cet atelier vous allez expérimenter des techniques de pleine conscience que vous pourrez pratiquer dans votre quotidien et ainsi reprendre le contrôle de votre cerveau."
     },
     {
-      "id": "myPopover76",
+      "id": "myPopover51",
       "title": "EXPOSITION DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
@@ -928,7 +770,7 @@
       "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
     },
     {
-      "id": "myPopover77",
+      "id": "myPopover52",
       "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
@@ -945,7 +787,7 @@
       "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
     },
     {
-      "id": "myPopover78",
+      "id": "myPopover53",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -960,7 +802,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover79",
+      "id": "myPopover54",
       "title": "RENCONTRE « LA MÉMOIRE » PAR DALILA AKKAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/dalila.jpg?width=200",
@@ -974,7 +816,7 @@
       "description": "Qu'est-ce que la mémoire et comment fonctionne-t-elle ? Comment les souvenirs sont-ils modifiés au fil du temps ? L'oubli est-il parfois nécessaire ? Quel est l'impact du vieillissement normal sur la mémoire et que sait-on sur la maladie d'Alzheimer ? Autant de questions auxquelles cette rencontre apportera des éléments de réponse à la lumière des dernières découvertes scientifiques dans le domaine des neurosciences. En partenariat avec l’(UPN), Université Populaire de la Narbonnaise"
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover55",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -989,7 +831,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover81",
+      "id": "myPopover56",
       "title": "SOIRÉE JEUX DE SOCIÉTÉ",
       "category": "trade",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -1004,7 +846,7 @@
       "description": "Buvette et petite restauration sur place."
     },
     {
-      "id": "myPopover82",
+      "id": "myPopover57",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -1019,7 +861,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover83",
+      "id": "myPopover58",
       "title": "AQUA ROSE - AQUAGYM THEME ANNEE 80",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-9.jpg?width=200",
@@ -1033,7 +875,7 @@
       "description": "Aquagym thème année 80 animée par les maitres nageurs de la piscine municipale"
     },
     {
-      "id": "myPopover84",
+      "id": "myPopover59",
       "title": "LES QUART'À STROPHE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Les-Quatr-a-strophe.jpg?width=200",
@@ -1048,7 +890,7 @@
       "description": "Lecture musicale aves \"les Quart'à strophe\", des paroles et des notes. Poèmes de Prévert, Nougaro, Jammes... Organisé par CORPS avec la librairie ARLOCO, sur réservation!"
     },
     {
-      "id": "myPopover85",
+      "id": "myPopover60",
       "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
@@ -1063,7 +905,7 @@
       "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
     },
     {
-      "id": "myPopover86",
+      "id": "myPopover61",
       "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
@@ -1078,7 +920,7 @@
       "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
     },
     {
-      "id": "myPopover87",
+      "id": "myPopover62",
       "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
@@ -1095,7 +937,7 @@
       "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
     },
     {
-      "id": "myPopover88",
+      "id": "myPopover63",
       "title": "EN COULISSE - ATELIER DE POTERIE & DÉMONSTRATION",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Claire-Visite-de-l-atelier-de-poterie-et-demonstration-2.jpg?width=200",
@@ -1107,7 +949,7 @@
       "description": "Claire CHAOUAT, céramiste développe un travail céramique artisanal autour des arts de la table et de l’objet décoratif. Elle travaille le grès et la faïence, principalement au tour, en pièces uniques et petites séries. Pour la semaine Entreprise en Coulisse du mardi 20 au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h : Accueil et visite de l'atelier boutique et démonstration commentée."
     },
     {
-      "id": "myPopover89",
+      "id": "myPopover64",
       "title": "PROMENADE A TRAVERS UNE OEUVRE D'ART",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/oeuvre-d-art-.jpg?width=200",
@@ -1121,7 +963,7 @@
       "description": "Promenade à travers une oeuvre d'art pour les 8- 15 ans Gratuit sur inscription"
     },
     {
-      "id": "myPopover90",
+      "id": "myPopover65",
       "title": "EXPOSITION DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
@@ -1138,7 +980,7 @@
       "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
     },
     {
-      "id": "myPopover91",
+      "id": "myPopover66",
       "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
@@ -1155,7 +997,7 @@
       "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
     },
     {
-      "id": "myPopover92",
+      "id": "myPopover67",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -1170,7 +1012,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover93",
+      "id": "myPopover68",
       "title": "MARCHÉ ANIMÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-argeliers-2.jpg?width=200",
@@ -1185,7 +1027,7 @@
       "description": "Tous les samedis, le marché hebdomadaire s’installe au cœur du village. Producteurs et artisans locaux vous proposent leurs produits dans une ambiance conviviale. Chaque semaine, une association différente tient la buvette et propose une petite restauration, l’occasion de profiter d’un moment chaleureux tout en soutenant les associations du village."
     },
     {
-      "id": "myPopover94",
+      "id": "myPopover69",
       "title": "SALON DU MARIAGE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/coeurs.png?width=200",
@@ -1200,7 +1042,7 @@
       "description": "Organisé par Fotofosu, ce salon du mariage se veut bien plus qu’un simple rendez-vous de prestataires. Véritable invitation au voyage, il marie élégance occidentale et ambiance asiatique pour faire rêver les futurs mariés et leur offrir des rencontres privilégiées avec des professionnels locaux passionnés. Les visiteurs pourront découvrir une belle diversité de savoir-faire : photographie, création de robes et de costumes, décoration, gastronomie, bijoux, animation, musique… Un moment d’inspiration et d’échanges dans une atmosphère à la fois chaleureuse et raffinée."
     },
     {
-      "id": "myPopover95",
+      "id": "myPopover70",
       "title": "FÊTE DU PRIMEUR",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Apero-Vin-17.jpg?width=200",
@@ -1215,7 +1057,7 @@
       "description": "Entre amis ou en famille, venez profiter d’un bon moment, déguster le vin primeur, manger et faire la fête. Soirée organisée par le comité de fêtes. Restauration et buvette assuré. La soirée se poursuit en musique à partir de 22h."
     },
     {
-      "id": "myPopover96",
+      "id": "myPopover71",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -1230,8 +1072,8 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover97",
-      "title": "LA PLUS GROSSE EXPOSITION PLAYMOBIL® DE L'AUDE",
+      "id": "myPopover72",
+      "title": "LA PLUS GROSSE EXPOSITION PLAYMOBIL DE L'AUDE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/playmobil-13.jpg?width=200",
       "startDate": "2026-10-24",
@@ -1245,7 +1087,7 @@
       "description": "L'association Playmo Du Sud et la Mairie de Cuxac-d'Aude vous invitent à la plus grosse exposition Playmobil® d'Occitanie avec plus de 20 000 personnages et animaux qui prendront leurs quartiers durant deux jours. Vous pourrez admirer des scènes géantes dont le Moyen Âge, les Vikings, les fées, les contes, les nains, l'Heroic Fantasy, l'Île de la Réunion au XVIIIe-XIXe siècles… Il sera également possible d'acheter des Playmobil® à l'unité ou des pièces détachées ainsi que de réaliser son propre custom Playmobil®. De nouveau cette année, plusieurs mètres cubes de pièces détachées seront donnés pour ceux qui veulent redonner une seconde vie aux Playmobil® ou les customiser. Tombola incluse dans le prix d'entrée"
     },
     {
-      "id": "myPopover98",
+      "id": "myPopover73",
       "title": "GRAND SPECTACLE DE MULTI DANSES",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-10.jpg?width=200",
@@ -1259,7 +1101,7 @@
       "description": "Avec les associations : l'art des mouvements , école de danse cie Cyriac , philocalie,studio Tina ,sune et vente des programmes par l'association La ruche des createurs , Entrée 5 e"
     },
     {
-      "id": "myPopover99",
+      "id": "myPopover74",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -1274,7 +1116,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover100",
+      "id": "myPopover75",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -1289,7 +1131,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover101",
+      "id": "myPopover76",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -1304,7 +1146,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover102",
+      "id": "myPopover77",
       "title": "REPAS SOLIDAIRE",
       "category": "animation",
       "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
@@ -1319,7 +1161,7 @@
       "description": "Repas dansant au profit du Téléthon, organisé par les petites mains d'Argeliers."
     },
     {
-      "id": "myPopover103",
+      "id": "myPopover78",
       "title": "PLANTES MÉDICINALES MÉDITERRANÉES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Maison-de-la-Narbonnaise.jpg?width=200",
@@ -1334,7 +1176,7 @@
       "description": "Découverte des plantes médicinales dans le jardin sec de la Maison de la Narbonnaise, leurs adaptations et leurs propriétés. Ensuite, atelier de transformation pour découvrir le procédé de distillation avec une plante choisie. Sophie Pasquer – Phacélie Réservation par téléphone, 15 pers. max"
     },
     {
-      "id": "myPopover104",
+      "id": "myPopover79",
       "title": "L’ÉTHIQUE ET LES MONOTHÉISMES, PAR ALAIN PETIT",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/RENCONTRE-ALAIN-PETIT-.jpg?width=200",
@@ -1348,7 +1190,7 @@
       "description": "CPJN s’associe au Comité Laïcité République de l’Aude (C.L.R.11) qui propose une conférence du penseur Alain Petit sur le thème : \" L’éthique et les monothéismes \""
     },
     {
-      "id": "myPopover105",
+      "id": "myPopover80",
       "title": "BERGER STORY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/BERGER-STORY.jpg?width=200",
@@ -1362,7 +1204,7 @@
       "description": "En 2026, le Chœur Spectacul’Art rend un hommage vibrant et inédit à Michel Berger ! Plongez dans l’univers mythique de l’un des plus grands auteurs-compositeurs français, à travers un spectacle exceptionnel mêlant émotion, énergie et passion. Avec 350 choristes sur scène et la participation exceptionnelle de Élodie Frégé sur quelques titres, Spectacul’Art vous fera revivre les plus grands titres de Michel Berger : La groupie du pianiste, Seras-tu là, Quelques mots d’amour, Diego… et bien d’autres. Spectacul’Art, spécialiste du show vocal, vous propose une expérience unique, 100% live. Avec des musiciens live sur scène, ce spectacle créé et dirigé par Vincent Fuchs vous plongera dans vos souvenirs. En tournée dans toute la France pour une quarantaine de dates, ce spectacle unique promet de toucher toutes les générations. Réservez dès maintenant et laissez-vous emporter par la magie de la Berger Story, version Spectacul’Art !"
     },
     {
-      "id": "myPopover106",
+      "id": "myPopover81",
       "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
@@ -1377,7 +1219,7 @@
       "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
     },
     {
-      "id": "myPopover107",
+      "id": "myPopover82",
       "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
@@ -1392,7 +1234,7 @@
       "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
     },
     {
-      "id": "myPopover108",
+      "id": "myPopover83",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -1407,7 +1249,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover109",
+      "id": "myPopover84",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -1422,7 +1264,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover110",
+      "id": "myPopover85",
       "title": "LOTO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Loto--6.jpg?width=200",
@@ -1437,7 +1279,7 @@
       "description": "Une ambiance conviviale et chaleureuse garantie (tombola, bingo) 1500 euros de lots à gagner! Buvette sur place, entrée libre dès 13h30 et début du loto à 14h30."
     },
     {
-      "id": "myPopover111",
+      "id": "myPopover86",
       "title": "VIDE-GRENIERS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
@@ -1449,7 +1291,7 @@
       "description": "Vide grenier association Les ânes de Sylvie Saint Pierre la mer - Zone Fête Foraine contact : Sylvie Le Roch-Porret 06 60 61 57 95"
     },
     {
-      "id": "myPopover112",
+      "id": "myPopover87",
       "title": "SALON DU MARIAGE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/coeurs.png?width=200",
@@ -1464,7 +1306,7 @@
       "description": "Organisé par Fotofosu, ce salon du mariage se veut bien plus qu’un simple rendez-vous de prestataires. Véritable invitation au voyage, il marie élégance occidentale et ambiance asiatique pour faire rêver les futurs mariés et leur offrir des rencontres privilégiées avec des professionnels locaux passionnés. Les visiteurs pourront découvrir une belle diversité de savoir-faire : photographie, création de robes et de costumes, décoration, gastronomie, bijoux, animation, musique… Un moment d’inspiration et d’échanges dans une atmosphère à la fois chaleureuse et raffinée."
     },
     {
-      "id": "myPopover113",
+      "id": "myPopover88",
       "title": "DÉGUSTATION DE PÂTISSERIES À L'AVEUGLE / CHABANA NARBONNE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/chabana.JPG?width=200",
@@ -1479,7 +1321,7 @@
       "description": "La Pâtisserie Chabana vous invite à vivre un voyage fleuri, gourmand et ludique aux côtés de Pierre et Anaëlle, dans les coulisses de leur pâtisserie-salon de thé à Narbonne. Au programme : Rencontre avec Anaëlle et Pierre et découverte de leur univers. Dégustation à l’aveugle d’un plateau de mini-pâtisseries gastronomiques, accompagné d’un thé soigneusement sélectionné par Anaëlle. À vous de jouer ! Saurez-vous deviner ce que vous êtes en train de déguster ? Faites appel à vos papilles, votre mémoire et votre imagination… 👀 Et pour ajouter un peu de challenge, le meilleur dégustateur repartira avec un petit cadeau gourmand !"
     },
     {
-      "id": "myPopover114",
+      "id": "myPopover89",
       "title": "URBAN RACE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/urban-race.jpg?width=200",
@@ -1494,7 +1336,7 @@
       "description": "Le dimanche 25 octobre 2026, dans le cadre d'octobre rose, Urban Race Narbonne est de retour pour la 7 ème édition Une expérience entre urbain et campagne, un défi accessible à tous. Une découverte du patrimoine et du canal de la Robine, une ambiance festive et conviviale avec de nombreuses animations le long de votre parcours, une aventure humaine, collective et solidaire. De nombreux cadeaux aux participants : 1 boisson offerte (bière ou limonade pression) 1 t shirt urban race aux couleurs d'octobre (aux 1200 premiers inscrits) Pour les épreuves il y aura : 2 courses ,1er semi marathon 21,100 km (course chronométrée) 11 km (course chronométrée) Avec 2 marches : 11 km et 5 km."
     },
     {
-      "id": "myPopover115",
+      "id": "myPopover90",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -1509,8 +1351,8 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover116",
-      "title": "LA PLUS GROSSE EXPOSITION PLAYMOBIL® DE L'AUDE",
+      "id": "myPopover91",
+      "title": "LA PLUS GROSSE EXPOSITION PLAYMOBIL DE L'AUDE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/playmobil-13.jpg?width=200",
       "startDate": "2026-10-25",
@@ -1524,7 +1366,7 @@
       "description": "L'association Playmo Du Sud et la Mairie de Cuxac-d'Aude vous invitent à la plus grosse exposition Playmobil® d'Occitanie avec plus de 20 000 personnages et animaux qui prendront leurs quartiers durant deux jours. Vous pourrez admirer des scènes géantes dont le Moyen Âge, les Vikings, les fées, les contes, les nains, l'Heroic Fantasy, l'Île de la Réunion au XVIIIe-XIXe siècles… Il sera également possible d'acheter des Playmobil® à l'unité ou des pièces détachées ainsi que de réaliser son propre custom Playmobil®. De nouveau cette année, plusieurs mètres cubes de pièces détachées seront donnés pour ceux qui veulent redonner une seconde vie aux Playmobil® ou les customiser. Tombola incluse dans le prix d'entrée"
     },
     {
-      "id": "myPopover117",
+      "id": "myPopover92",
       "title": "LOTO AMICALE DES SAPEURS POMPIERS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/04.10---loto-des-pompiers.jpg?width=200",
@@ -1538,7 +1380,7 @@
       "description": "Amicale des sapeurs pompiers de Port la Nouvelle plus de 3000 e de lots Ouverture des portes 13h Début des parties 14h30"
     },
     {
-      "id": "myPopover118",
+      "id": "myPopover93",
       "title": "BAPTEMES DE PLONGEE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/OCTOBRE-ROSE-PLN-V2-11.jpg?width=200",
@@ -1553,7 +1395,7 @@
       "description": "Baptemes de plongée à la piscine de Port la nouvelle avec l'association Nouvelle vague"
     },
     {
-      "id": "myPopover119",
+      "id": "myPopover94",
       "title": "LE JOUR DE LA NUIT \"BALADE NOCTURNE\"",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Le-jour-de-nuit.jpg?width=200",
@@ -1568,7 +1410,7 @@
       "description": "Balade nocturne animée et gratuite de 5km durée 1h45. Parcours accessible à tous, se munir de chaussures adaptées . Rendez-vous sur le parvis de la mairie. Buffet campagnard offert par la municipalité."
     },
     {
-      "id": "myPopover120",
+      "id": "myPopover95",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -1583,7 +1425,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover121",
+      "id": "myPopover96",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -1600,7 +1442,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover122",
+      "id": "myPopover97",
       "title": "EXPOSITION DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
@@ -1617,7 +1459,7 @@
       "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
     },
     {
-      "id": "myPopover123",
+      "id": "myPopover98",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -1632,7 +1474,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover124",
+      "id": "myPopover99",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -1647,7 +1489,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover125",
+      "id": "myPopover100",
       "title": "EXPOSITION DIDIER TRIGLIA",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
@@ -1664,7 +1506,7 @@
       "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
     },
     {
-      "id": "myPopover126",
+      "id": "myPopover101",
       "title": "SOIRÉES JEUX",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Soirees-jeux-.jpg?width=200",
@@ -1679,7 +1521,7 @@
       "description": "Activités : Jeux de société modernes, jeux traditionnels et jeux en bois (comme l'awalé). Accès libre et gratuit/enfants accompagnés d'un adulte."
     },
     {
-      "id": "myPopover127",
+      "id": "myPopover102",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -1694,7 +1536,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover128",
+      "id": "myPopover103",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -1709,7 +1551,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover129",
+      "id": "myPopover104",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -1724,7 +1566,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover130",
+      "id": "myPopover105",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -1738,7 +1580,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover131",
+      "id": "myPopover106",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -1753,7 +1595,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover132",
+      "id": "myPopover107",
       "title": "DON DE SANG",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/DON-DU-SANG-56.jpg?width=200",
@@ -1766,6 +1608,203 @@
       "location": "SIGEAN",
       "address": "Annexe du gymnase, 11130, SIGEAN",
       "description": "Don de sang à l'annexe du gymnase avec ou sans rendez-vous! Après le don, une collation améliorée par Mc DO sigean."
+    },
+    {
+      "id": "myPopover108",
+      "title": "ATELIERS THEATRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
+      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
+    },
+    {
+      "id": "myPopover109",
+      "title": "CONTE YOGA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/conte-yoga--2.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [
+        "10:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "42 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
+      "description": "Conte yoga pour les 4-7 ans animé par Sophie Gratuit sans inscription"
+    },
+    {
+      "id": "myPopover110",
+      "title": "EXPOSITION DIDIER TRIGLIA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
+      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
+    },
+    {
+      "id": "myPopover111",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover112",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de l'Octroi, 11130, SIGEAN",
+      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
+    },
+    {
+      "id": "myPopover113",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover114",
+      "title": "DON DE SANG",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/DON-DU-SANG-56.jpg?width=200",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-28",
+      "times": [
+        "15:00",
+        "19:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Annexe du gymnase, 11130, SIGEAN",
+      "description": "Don de sang à l'annexe du gymnase avec ou sans rendez-vous! Après le don, une collation améliorée par Mc DO sigean."
+    },
+    {
+      "id": "myPopover115",
+      "title": "TRAIT(S) - KITTY SABATIER",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "times": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
+      "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
+    },
+    {
+      "id": "myPopover116",
+      "title": "RELIÉS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "times": [
+        "14:30",
+        "18:30"
+      ],
+      "location": "BAGES",
+      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
+      "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
+    },
+    {
+      "id": "myPopover117",
+      "title": "EXPOSITION DIDIER TRIGLIA",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "times": [
+        "10:00",
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
+      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
+    },
+    {
+      "id": "myPopover118",
+      "title": "EXPOSITION AU L.A.C",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "times": [
+        "14:00",
+        "18:00"
+      ],
+      "location": "SIGEAN",
+      "address": "1 Rue de la Berre, 11130, SIGEAN",
+      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
+    },
+    {
+      "id": "myPopover119",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover120",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de l'Octroi, 11130, SIGEAN",
+      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     }
   ]
 }
