@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-20T09:49:07.936Z",
+  "generatedAt": "2026-10-21T09:50:25.671Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 120,
+  "count": 109,
   "events": [
     {
       "id": "myPopover1",
@@ -20,201 +20,6 @@
       "location": "NARBONNE",
       "address": "Rte de Gruissan, 11100, NARBONNE",
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover2",
-      "title": "EN COULISSE - ATELIER DE POTERIE & DÉMONSTRATION",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Claire-Visite-de-l-atelier-de-poterie-et-demonstration-2.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [],
-      "location": "NARBONNE",
-      "address": "3 Rue de la Parerie, 11100, NARBONNE",
-      "description": "Claire CHAOUAT, céramiste développe un travail céramique artisanal autour des arts de la table et de l’objet décoratif. Elle travaille le grès et la faïence, principalement au tour, en pièces uniques et petites séries. Pour la semaine Entreprise en Coulisse du mardi 20 au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h : Accueil et visite de l'atelier boutique et démonstration commentée."
-    },
-    {
-      "id": "myPopover3",
-      "title": "EN COULISSE - ATELIER DE BIJOUTERIE CAROLE CHIOTASSO",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Carole-Decouverte-du-metier-de-bijoutier-6a9adc921d9fc---Copie.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "16:00",
-        "17:00"
-      ],
-      "location": "NARBONNE",
-      "address": "1 Rue Cabirol, 11100, NARBONNE",
-      "description": "Vous découvrez un atelier artisanal de bijouterie, avec la présentation des outils, des procédés de fabrication d'un bijou en or, démonstration possibles de fonte de l'or, étirage d'un fil ou laminage d'une plaque. A l'occasion de Entreprise en Coulisse, visite guidée de l’atelier, du mardi 20 Octobre au vendredi 23 octobre le mardi 20 octobre à 16h00 le mercredi 21 octobre à 10h00 le jeudi 22 octobre à 11h00 le vendredi 23 octobre à 17h00 Durée de la visite guidée : 40 min. 6 personnes maximum. Tout âge. Places limitées, réservation en ligne fortement conseillée. En français ou espagnol. boutique ouverte de 10h à 18h"
-    },
-    {
-      "id": "myPopover4",
-      "title": "EN COULISSE - ODYSSÉE DE L'OLIVIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/CRTLOccitanie-0027944-MD-2.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "08:00",
-        "18:00"
-      ],
-      "location": "BIZE-MINERVOIS",
-      "address": "Hameau Cabezac, 11120, BIZE-MINERVOIS",
-      "description": "Visitez le monde de l’Olive ! Le moulin de l’Oulibo vous ouvre ses portes à la découverte de l’arbre éternel, l’olivier. Cette visite guidée vous révèlera les secrets de fabrication de l’huile d’olive et des olives de table de la coopérative. Un voyage extraordinaire en 4 étapes pour vivre la culture de l’olivier : - L'oliveraie pédagogique - Son et Lumière dans le moulin - Espace Muséographique - Initiation à la dégustation des olives et des huiles d'olives Durée de la visite : 1h30 À l'occasion d'Entreprise en Coulisse 2026, découvrez notre exposition photo commentée."
-    },
-    {
-      "id": "myPopover5",
-      "title": "EN COULISSE - SALIN DE LA PALME EN PETIT TRAIN ELECTRIQUE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Salins-de-La-Palme---Jamaya--8--2.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "10:30",
-        "14:30"
-      ],
-      "location": "LA PALME",
-      "address": "La Pacheyrasso, 11480, LA PALME",
-      "description": "C’est à bord d’un petit train électrique que vous découvrirez l’histoire du sel et les secrets des hommes qui travaillent ici sur plus de 400 hectares. A l'occasion de Entreprise en Coulisse, don du sel lors de la visite"
-    },
-    {
-      "id": "myPopover6",
-      "title": "EN COULISSE - MUSÉE DU CHOCOLAT",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/les-chocolatiers-cathares-04-2.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "10:00",
-        "12:30",
-        "13:30",
-        "18:00"
-      ],
-      "location": "MONTREDON-DES-CORBIERES",
-      "address": "165 Rue du Pech Redon, 11100, MONTREDON-DES-CORBIERES",
-      "description": "Visitez le musée du chocolat en spectacle sons et lumières et plongez dans le monde merveilleux du cacao ! L’histoire du chocolat n’aura plus de secrets pour vous ! Pour la semaine Entreprise en Coulisse, visite du lundi 19 octobre au samedi 24 octobre, de 10h à 12h30 et de 13h30 à 18h Visite guidée et démonstration et dégustation de mendiants avec le Chef et 10% de remise sur les achats en boutique. Vous découvrirez toutes ces douceurs dans notre boutique ainsi que notre collection de charmantes boîtes souvenirs de notre Région. Tous nos produits sont fabriqués Artisanalement, dans la plus pure des traditions, garantis sans conservateurs, sans huile de palme, sans arômes artificiels."
-    },
-    {
-      "id": "myPopover7",
-      "title": "BEBES LECTEURS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/bebe-lecteurs-2.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "15:30"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "225 Rue Jean Jaurès, 11210, PORT-LA-NOUVELLE",
-      "description": "Pour les enfants de 0 à 3 ans séance animée par Marie et Sophie Sur inscription"
-    },
-    {
-      "id": "myPopover8",
-      "title": "EXPOSITION DIDIER TRIGLIA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
-      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
-    },
-    {
-      "id": "myPopover9",
-      "title": "EN COULISSE, VINAIGRERIE GRANHOTA, DE LA VIGNE AU VINAIGRE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Laurent-Picollino-De-la-vigne-au-vinaigre---visite-de-la-vinaigrerie-Granhota-Copie.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "10:30",
-        "11:30",
-        "16:00",
-        "17:00"
-      ],
-      "location": "COURSAN",
-      "address": "16 Rue Béranger, 11110, COURSAN",
-      "description": "Plongez au cœur du savoir-faire artisanal de Granhota et découvrez les secrets de fabrication de nos vinaigres et balsamiques. Pendant environ 45 minutes, nous vous faisons découvrir notre vinaigrerie, notre méthode de fabrication et les différentes étapes de transformation et d’élevage de nos vinaigres. Vous découvrirez notamment le travail autour du moût de raisin, l’acétification et le vieillissement en fûts. La visite se termine par une dégustation de nos vinaigres et créations gourmandes, l’occasion de découvrir toute la richesse de leurs arômes et leurs différentes utilisations en cuisine. A l'occasion de Entreprise en Coulisse, visite d’environ 45 minutes permettant de découvrir la fabrication artisanale de nos vinaigres et balsamiques, suivie d’une dégustation de nos produits. Visites à Accueil du lundi au samedi : 9h00 à 12h00 et de 14h00 à 18h00 Visites guidées à : 10h30 et 16h00 - réservation en ligne conseillée"
-    },
-    {
-      "id": "myPopover10",
-      "title": "SOIRÉES JEUX",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Soirees-jeux-.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "18:00",
-        "23:00"
-      ],
-      "location": "SIGEAN",
-      "address": "37 Rue du Commerce, 11130, SIGEAN",
-      "description": "Activités : Jeux de société modernes, jeux traditionnels et jeux en bois (comme l'awalé). Accès libre et gratuit/enfants accompagnés d'un adulte."
-    },
-    {
-      "id": "myPopover11",
-      "title": "MARCHÉ AUX FRIPES",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
-    },
-    {
-      "id": "myPopover12",
-      "title": "SEANCE MEDITATION AVEC VOYAGE SONORE",
-      "category": "sportandleisure",
-      "image": "/bnb_website_models/static/src/img/img_placeholder_bgwhite.jpg",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "18:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "147 Rue de la Paix, 11210, PORT-LA-NOUVELLE",
-      "description": "Séance de méditation avec voyage sonore Avec Smart harmonie"
-    },
-    {
-      "id": "myPopover13",
-      "title": "MARCHÉ AU BLÉ",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "07:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
-    },
-    {
-      "id": "myPopover14",
-      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
-      "startDate": "2026-10-20",
-      "endDate": "2026-10-20",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
-      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
       "id": "myPopover15",
@@ -1805,6 +1610,36 @@
       "location": "SIGEAN",
       "address": "Place de l'Octroi, 11130, SIGEAN",
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
+    },
+    {
+      "id": "myPopover121",
+      "title": "MARCHÉ DE PLEIN VENT",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
+      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
+    },
+    {
+      "id": "myPopover122",
+      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-30",
+      "times": [
+        "08:30",
+        "10:00"
+      ],
+      "location": "LA PALME",
+      "address": "11480, LA PALME",
+      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     }
   ]
 }
