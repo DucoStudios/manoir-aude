@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-26T10:46:45.754Z",
+  "generatedAt": "2026-10-27T10:13:32.351Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 70,
+  "count": 67,
   "events": [
     {
       "id": "myPopover1",
@@ -32,53 +32,6 @@
       "location": "NARBONNE",
       "address": "Rte de Gruissan, 11100, NARBONNE",
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover3",
-      "title": "EXPOSITION DIDIER TRIGLIA",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Exposition-Didier-Triglia.jpg?width=200",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-26",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "10 Rue du Rec de l'Ayre, 11440, PEYRIAC-DE-MER",
-      "description": "Partez à la découverte de l'univers artistique coloré et joyeux de l'artiste singulier Didier TRIGLIA. Un univers unique !!! L'exposition est visible du lundi au samedi au heure d'ouverture mais aussi sur rendez-vous."
-    },
-    {
-      "id": "myPopover5",
-      "title": "LUMIÈRES D'AFRIQUE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-26",
-      "times": [
-        "17:30",
-        "20:00"
-      ],
-      "location": "SIGEAN",
-      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
-      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
-    },
-    {
-      "id": "myPopover6",
-      "title": "FÊTE FORAINE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-26",
-      "times": [
-        "18:00",
-        "23:00"
-      ],
-      "location": "SIGEAN",
-      "address": "Place de l'Octroi, 11130, SIGEAN",
-      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
       "id": "myPopover7",
