@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-30T11:11:12.812Z",
+  "generatedAt": "2026-10-31T10:43:58.600Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 79,
+  "count": 74,
   "events": [
     {
       "id": "myPopover1",
@@ -64,81 +64,6 @@
       "location": "BAGES",
       "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
-    },
-    {
-      "id": "myPopover5",
-      "title": "BALADE GOURMANDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
-    },
-    {
-      "id": "myPopover6",
-      "title": "EXPOSITION AU L.A.C",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Berre, 11130, SIGEAN",
-      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
-    },
-    {
-      "id": "myPopover7",
-      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "times": [
-        "08:30",
-        "10:00"
-      ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
-    },
-    {
-      "id": "myPopover8",
-      "title": "LUMIÈRES D'AFRIQUE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "times": [
-        "17:30",
-        "20:00"
-      ],
-      "location": "SIGEAN",
-      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
-      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
-    },
-    {
-      "id": "myPopover9",
-      "title": "FÊTE FORAINE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
-      "startDate": "2026-10-30",
-      "endDate": "2026-10-30",
-      "times": [
-        "18:00",
-        "23:00"
-      ],
-      "location": "SIGEAN",
-      "address": "Place de l'Octroi, 11130, SIGEAN",
-      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
       "id": "myPopover10",
