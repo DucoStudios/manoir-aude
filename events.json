@@ -1,307 +1,11 @@
 {
-  "generatedAt": "2026-10-31T10:43:58.600Z",
+  "generatedAt": "2026-11-01T11:41:26.675Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 74,
+  "count": 68,
   "events": [
     {
       "id": "myPopover1",
-      "title": "LA NOUVELLE PHOTOGRAPHIE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/11.09---Festival-LNP-2026.jpg?width=200",
-      "startDate": "2026-09-11",
-      "endDate": "2026-10-31",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "42 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
-      "description": "La nouvelle photographie 6 eme édition tout public"
-    },
-    {
-      "id": "myPopover2",
-      "title": "EXPOSITION CHRISTIAN BARTELLEMY",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
-      "startDate": "2026-10-26",
-      "endDate": "2026-10-31",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Rte de Gruissan, 11100, NARBONNE",
-      "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover3",
-      "title": "TRAIT(S) - KITTY SABATIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-K.S.jpg?width=200",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-31",
-      "times": [
-        "10:00",
-        "12:00",
-        "16:00",
-        "18:00"
-      ],
-      "location": "PEYRIAC-DE-MER",
-      "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
-      "description": "Exposition du 3 septembre au 31 octobre. Kitty est diplômée de l’école des Beaux Arts de Toulouse. Elle a travaillé à Paris dans la communication, puis l’édition et la formation. Parallèlement elle poursuit un travail de recherche graphique. Sa pratique de la calligraphie et du dessin est à l’origine de sa fascination pour le trait. « Il est toujours question de mise en place du vide, enchevêtrements de lignes, déconstructions de formes » Kitty expose dans de nombreuses galeries."
-    },
-    {
-      "id": "myPopover4",
-      "title": "RELIÉS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
-      "startDate": "2026-10-29",
-      "endDate": "2026-10-31",
-      "times": [
-        "14:30",
-        "18:30"
-      ],
-      "location": "BAGES",
-      "address": "8 Rue de l'Ancien Puits, 11100, BAGES",
-      "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
-    },
-    {
-      "id": "myPopover10",
-      "title": "MURDER ON THE DANCE FLOOR",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/motd.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "20:00",
-        "02:00"
-      ],
-      "location": "BAGES",
-      "address": "1 Route Nationale, 11100, BAGES",
-      "description": "On se retrouve dans la salle voûtée du château pour une nuit intense : gros son & dancefloor avec Dj Petit Nico Enfile ta tenue pour Halloween ! Places limitées"
-    },
-    {
-      "id": "myPopover11",
-      "title": "EXPOSITION AU L.A.C",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "14:00",
-        "17:00"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Berre, 11130, SIGEAN",
-      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
-    },
-    {
-      "id": "myPopover12",
-      "title": "LA PARADE D'HALLOWEEN",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/La-parade-d-halloween.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "18:00",
-        "20:00"
-      ],
-      "location": "SIGEAN",
-      "address": "24 Avenue de Port la Nouvelle, 11130, SIGEAN",
-      "description": "Parade organisée par la MJL, le départ dans la cour de la MLC. Défilé dans Sigean avec OS SEDENDOS Enfants sous la responsabilité des parents!"
-    },
-    {
-      "id": "myPopover13",
-      "title": "HALLOWEEN : LE BAL DES PETITS MONSTRES",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-BAL-DES-PETITS-MONSTRES-2.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "18:00",
-        "22:00"
-      ],
-      "location": "COURSAN",
-      "address": "88 Avenue Jean Jaurès, 11110, COURSAN",
-      "description": "À l'occasion d'Halloween, l'APECM de Coursan invite les enfants de 3 à 12 ans à participer au Bal des Petits Monstres, le samedi 31 octobre 2026, à la salle polyvalente de Coursan. Au programme : une soirée monstrueusement amusante, rythmée par des jeux, des déguisements et une ambiance festive pour faire frissonner de plaisir les petits monstres ! Sorcières, fantômes, vampires et autres créatures d'Halloween sont invités à enfiler leurs plus beaux déguisements pour profiter de cette soirée. Une buvette et un espace de restauration seront proposés sur place. Informations pratiques : Date : samedi 31 octobre 2026 Horaires : de 18h à 22h Lieu : salle polyvalente de Coursan Public : enfants de 3 à 12 ans Entrée gratuite Organisateur : APECM de Coursan Les enfants restent sous la responsabilité de leurs parents."
-    },
-    {
-      "id": "myPopover14",
-      "title": "LUMIÈRES D'AFRIQUE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "17:30",
-        "20:00"
-      ],
-      "location": "SIGEAN",
-      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
-      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
-    },
-    {
-      "id": "myPopover15",
-      "title": "HALLOWEEN PARTY",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/halloween-2026.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "16:00"
-      ],
-      "location": "FLEURY",
-      "address": "11560, FLEURY",
-      "description": "Halloween Clape en Scène, association de théâtre, et Côte Indigo vous donnent rendez-vous pour une soirée d’Halloween pleine de surprises ! Samedi 31 octobre 2026 Place Jean Moulin À partir de 16h Le programme complet sera dévoilé très prochainement, avec cette année de belles nouveautés à découvrir… Restez à l’affût !"
-    },
-    {
-      "id": "myPopover16",
-      "title": "FÊTE FORAINE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "18:00",
-        "23:00"
-      ],
-      "location": "SIGEAN",
-      "address": "Place de l'Octroi, 11130, SIGEAN",
-      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
-    },
-    {
-      "id": "myPopover17",
-      "title": "FÊTE HALLOWEEN",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/halloween-PIXABAY-8.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "19:30",
-        "23:30"
-      ],
-      "location": "SAINT-NAZAIRE-D'AUDE",
-      "address": "18 Lotissement Gai Soleil, 11120, SAINT-NAZAIRE-D'AUDE",
-      "description": "Le Comité des Fêtes St Nazairois vous propose une fête foraine d'antan. Rendez-vous à la cave coopérative à partir de 19h30 pour des spectacles terrifiants, décors immersifs, animations et des frissons garantis. Food trucks sur place. Interdit pour les moins de 12 ans."
-    },
-    {
-      "id": "myPopover19",
-      "title": "COURSE HALLOWEEN",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/course-halloween-1200x900.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "14:00",
-        "17:00"
-      ],
-      "location": "MIREPEISSET",
-      "address": "Route de Ginestas, 11120, MIREPEISSET",
-      "description": "La course d'Halloween revient à Mirepeisset. Deux parcours proposés : course de 5km et course de 10km. Préparez-vous et trouvez de beaux costumes pour cette course unique."
-    },
-    {
-      "id": "myPopover20",
-      "title": "RC NARBONNAIS / US CARCASSONNE - DEBY DES ESPOIRS",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/rcn-2.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "16:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Rue Gay Lussac, 11100, NARBONNE",
-      "description": "Le Racing Club Narbonnais et l’US Carcassonne se retrouvent à Cassayet ce samedi à 16h pour un derby entre deux clubs du rugby audois."
-    },
-    {
-      "id": "myPopover21",
-      "title": "HALLOWEEN À OUVEILLAN",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/halloween-PIXABAY-6.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "17:30",
-        "22:00"
-      ],
-      "location": "OUVEILLAN",
-      "address": "Place Carnot, 11590, OUVEILLAN",
-      "description": "La mairie d'Ouveillan vous donne rendez-vous pour une soirée festive placée sous le signe des bonbons, de la musique et de la gourmandise ! Côté Halloween: - 17h30 : Départ du cortège, place Carnot, pour faire le plein de bonbons dans les rues du village. - 18h45 : Retour à la salle des fêtes. - 19h: Animation DJ et jeux musicaux. - 20h à 22h: Place à la boom d'Halloween. Un food truck sera également présent. La buvette et les mets sucrés seront assurés par l'association Les écoliers d'Ouveillan. En parallèle, l'association Le Final d'Ouveillan vous invite à sa fête de la soupe !"
-    },
-    {
-      "id": "myPopover22",
-      "title": "LE BAL DES SORCIERES SOIREE HALLOWEEN",
-      "category": "tradition",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/halloween-4.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Fête d'Halloween Salle Jean Moulin Organisé par l'association le Sanctuaire du Paon 17h chasse aux bonbons 18H marché des créateurs Pour réserver les activités 06.10.40.15.65 20h30 concert animé par the bealip show"
-    },
-    {
-      "id": "myPopover24",
-      "title": "MARCHÉ BIO",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "11100, NARBONNE",
-      "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
-    },
-    {
-      "id": "myPopover25",
-      "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Avenue de la Naïade, Parking de la Maison des Services, 11100, NARBONNE",
-      "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
-    },
-    {
-      "id": "myPopover26",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
-    },
-    {
-      "id": "myPopover27",
-      "title": "FÊTE DE LA SOUPE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/image-pour-FMA-----marche-alimentaire-produits-locaux-5.png?width=200",
-      "startDate": "2026-10-31",
-      "endDate": "2026-10-31",
-      "times": [
-        "17:00",
-        "22:00"
-      ],
-      "location": "OUVEILLAN",
-      "address": "5 Rue du Capitoul, 11590, OUVEILLAN",
-      "description": "Venez avec votre marmite et faites découvrir votre recette secrète ou votre soupe préférée...et si vous n'avez pas de recette à partager, venez tout simplement avec votre bol pour les déguster."
-    },
-    {
-      "id": "myPopover28",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -316,7 +20,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover29",
+      "id": "myPopover2",
       "title": "VIDE-GRENIERS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-246.jpg?width=200",
@@ -328,7 +32,7 @@
       "description": "Vide-grenier organisé par l'Association 7 Vies de Chats. Zone Fête foraine, Saint-Pierre-la-Mer Contact : Marlene Farges – 06 40 77 78 92"
     },
     {
-      "id": "myPopover30",
+      "id": "myPopover3",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -343,7 +47,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover31",
+      "id": "myPopover4",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -358,7 +62,36 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover32",
+      "id": "myPopover5",
+      "title": "LOTO DE NOËL DES SAPEURS POMPIERS",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/sapeurs-pompiers.jpg?width=200",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "times": [
+        "15:00"
+      ],
+      "location": "COURSAN",
+      "address": "Zone Artisanale La Condamine, 30 rue Gustave Eiffel, 11110, COURSAN",
+      "description": "𝗟𝗢𝗧𝗢 𝗗𝗘 𝗡𝗢𝗘̈𝗟 𝗗𝗘𝗦 𝗦𝗔𝗣𝗘𝗨𝗥𝗦-𝗣𝗢𝗠𝗣𝗜𝗘𝗥𝗦 𝗗𝗘 𝗖𝗢𝗨𝗥𝗦𝗔𝗡 ! Les Sapeurs-Pompiers de Coursan vous donnent rendez-vous ce dimanche 1er novembre pour leur traditionnel Loto de Noël, au centre de secours ! De nombreux lots sont à gagner ! 16 quines avec des caissettes de viande 4 cartons pleins avec notamment une console de jeux, une télévision et de l'électroménager Une partie spéciale enfants avec un vélo à remporter ! Au programme : 20 parties + 1 partie enfant, sans oublier la traditionnelle tombola avec la pesée du jambon ! Ouverture des portes à 14h – Début du loto à 15h Centre de secours de Coursan – 30 avenue Gustave Eiffel Une buvette et des crêpes seront également proposées sur place pour les petits creux ! Venez nombreux partager un moment convivial et tenter votre chance, tout en soutenant les Sapeurs-Pompiers de Coursan !"
+    },
+    {
+      "id": "myPopover6",
+      "title": "𝗠𝗔𝗥𝗖𝗛𝗘́ 𝗗𝗘 𝗖𝗢𝗨𝗥𝗦𝗔𝗡 : 𝗦𝗔𝗖𝗦 𝗣𝗢𝗨𝗕𝗘𝗟𝗟𝗘𝗦 𝗘𝗧 𝗩𝗜𝗡 𝗣𝗥𝗜𝗠𝗘𝗨𝗥",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-de-Coursan.jpg?width=200",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-01",
+      "times": [
+        "07:30",
+        "13:00"
+      ],
+      "location": "COURSAN",
+      "address": "11110, COURSAN",
+      "description": "𝗠𝗔𝗥𝗖𝗛𝗘́ 𝗗𝗘 𝗖𝗢𝗨𝗥𝗦𝗔𝗡 : 𝗦𝗔𝗖𝗦 𝗣𝗢𝗨𝗕𝗘𝗟𝗟𝗘𝗦 𝗘𝗧 𝗩𝗜𝗡 𝗣𝗥𝗜𝗠𝗘𝗨𝗥 ! Dimanche 1er novembre, rendez-vous sur la place Auguste Tailhades, de 7h30 à 13h, pour le marché de Coursan, avec deux animations au programme ! 𝗗𝗜𝗦𝗧𝗥𝗜𝗕𝗨𝗧𝗜𝗢𝗡 𝗚𝗥𝗔𝗧𝗨𝗜𝗧𝗘 𝗗𝗘 𝗦𝗔𝗖𝗦 𝗣𝗢𝗨𝗕𝗘𝗟𝗟𝗘𝗦 De 8h à 12h30, la Ville distribuera gratuitement des sacs poubelles du Grand Narbonne aux Coursannais. Vous ne pouvez pas venir ? Un proche ou un voisin peut les récupérer pour vous ! Un registre sera tenu sur place. 𝗗𝗘́𝗚𝗨𝗦𝗧𝗔𝗧𝗜𝗢𝗡 𝗗𝗨 𝗩𝗜𝗡 𝗣𝗥𝗜𝗠𝗘𝗨𝗥 𝗢𝗙𝗙𝗘𝗥𝗧 𝗣𝗔𝗥 𝗟𝗔 𝗖𝗔𝗩𝗘 𝗖𝗢𝗢𝗣𝗘𝗥𝗔𝗧𝗜𝗩𝗘 À partir de 11h15, retrouvez-nous pour un apéritif convivial offert par la municipalité, avec le vin primeur OFFERT par les Caves de l'Espérance ! 𝗘𝗧 𝗕𝗜𝗘𝗡 𝗦𝗨̂𝗥, 𝗟𝗘 𝗠𝗔𝗥𝗖𝗛𝗘́ ! Profitez de cette matinée pour retrouver les commerçants, producteurs et artisans, faire vos emplettes et découvrir leurs produits ! Des sacs poubelles gratuits, un marché animé et un verre de vin primeur : difficile de trouver une excuse pour ne pas venir ! L'abus d'alcool est dangereux pour la santé, à consommer avec modération."
+    },
+    {
+      "id": "myPopover7",
       "title": "LOTO DE LA NOUVELLE RANDO",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LOTO-NOUVELLE-RANDO-.jpg?width=200",
@@ -372,7 +105,7 @@
       "description": "Loto de la nouvelle rando en 21 parties ouverture des portes à 13h45"
     },
     {
-      "id": "myPopover33",
+      "id": "myPopover8",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -387,7 +120,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover34",
+      "id": "myPopover9",
       "title": "EXPOSITION CHRISTIAN BARTELLEMY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
@@ -404,7 +137,7 @@
       "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
     },
     {
-      "id": "myPopover35",
+      "id": "myPopover10",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -419,7 +152,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover36",
+      "id": "myPopover11",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -434,7 +167,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover37",
+      "id": "myPopover12",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -449,7 +182,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover38",
+      "id": "myPopover13",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -464,7 +197,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover39",
+      "id": "myPopover14",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -479,7 +212,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover40",
+      "id": "myPopover15",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -493,7 +226,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover41",
+      "id": "myPopover16",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -508,7 +241,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover42",
+      "id": "myPopover17",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -520,7 +253,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover43",
+      "id": "myPopover18",
       "title": "NOUVEOL TEMPS D'ECHANGE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/visuel-panneau-NOUVEOL-4-novembre-led.jpg?width=200",
@@ -534,7 +267,22 @@
       "description": "Nouveol pole portuaire dédié à l'éolien flottant Dernier temps d'échange Ensemble construisons l'avenir du territoire Réunion publique de clôture"
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover19",
+      "title": "𝗙𝗘̂𝗧𝗘 𝗗𝗨 𝗖𝗢𝗡𝗧𝗘 𝗘𝗧 𝗗𝗘 𝗟’𝗜𝗠𝗔𝗚𝗜𝗡𝗔𝗜𝗥𝗘",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-du-conte-2.jpg?width=200",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-04",
+      "times": [
+        "11:00",
+        "15:00"
+      ],
+      "location": "COURSAN",
+      "address": "Rue Fabre d'Eglantine, 11110, COURSAN",
+      "description": "𝗙𝗘̂𝗧𝗘 𝗗𝗨 𝗖𝗢𝗡𝗧𝗘 𝗘𝗧 𝗗𝗘 𝗟’𝗜𝗠𝗔𝗚𝗜𝗡𝗔𝗜𝗥𝗘 : Dans le cadre de la Fête du Conte et de l’Imaginaire du Grand Narbonne, les tout-petits sont invités à découvrir « Tempo ! », un spectacle spécialement adapté aux jeunes enfants . À 11h : pour les enfants de 6 mois à 3 ans À 15h : pour les enfants de 3 à 6 ans Durée : 30 minutes Spectacle gratuit et ouvert à tous ! Une belle occasion de partager un moment d'éveil, de découverte et d'imaginaire en famille ! Renseignements et réservations : 04 68 43 40 40"
+    },
+    {
+      "id": "myPopover20",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -549,7 +297,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover21",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -564,7 +312,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover22",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -579,7 +327,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover23",
       "title": "RELIÉS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-L-Etangd-Art-Relis-OK2.jpg?width=200",
@@ -594,7 +342,7 @@
       "description": "Du 24 septembre au 15 novembre Cet accrochage nous invite à découvrir les œuvres de sept artistes aux univers très singuliers, à explorer avec eux, au travers de leur vision du monde, ce qui nous relie au vivant, à la mémoire des choses et leurs empreintes sur nos vies..."
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover24",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -609,7 +357,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover25",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -624,7 +372,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover26",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -639,7 +387,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover27",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -654,7 +402,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover28",
       "title": "MOSCATO PASSE A TABLE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/moscato.jpeg?width=200",
@@ -668,7 +416,7 @@
       "description": "Vincent Moscato \"passe à table\" avec humour et mauvaise foi pour aborder les sujets de société qu'il ne maîtrise pas, entre anecdotes et répliques piquantes."
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover29",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -683,7 +431,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover30",
       "title": "THE 5 ROSIES - TRIBUTE AC/DC",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Sans-titre-1-170.jpg?width=200",
@@ -697,7 +445,7 @@
       "description": "Nouvelle tournée : Back in Black Tour Préparez-vous à une décharge de pur Hard Rock ! De l’Australie à l’Écosse, nourri de blues américain et d’énergie brute : le groupe AC/DC est une légende. The 5 Rosies leur rendent hommage avec une puissance et une fidélité à couper le souffle. Des riffs martelés à la Malcolm Young, des solos incendiaires façon Angus Young, et une voix rugissante digne de Brian Johnson... Tout y est ! Aucun artifice, juste du vrai, du bon, du gros Rock, joué avec passion et précision. Revivez les concerts mythiques d’AC/DC à travers les hymnes immortels : Highway to Hell, Back in Black, Thunderstruck, Hells Bells, For Those About to Rock… La cloche sonne, les canons grondent, les murs de Marshall s’embrasent et la magie opère. Un show électrisant, authentique, et terriblement vivant. Parce que, comme le dit Angus Young : “Le Rock est la foutue meilleure drogue du monde.”"
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover31",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -712,7 +460,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover56",
+      "id": "myPopover32",
       "title": "MÉDITERRAJAZZ - DUO MIRAL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/DUO-MIRAL.jpg?width=200",
@@ -726,7 +474,7 @@
       "description": "Mediterrajazz est une proposition musicale originale à Narbonne qui souhaite s'inscrire dans la tradition des grandes salles de club de Jazz, celles où la scène touche presque les tables et où le concert se déroule en deux sets. La restauration et le bar sont au service de la musique : service avant le premier set et à l'entracte, lumières tamisées pendant que les artistes jouent, Jazz Bar ouvert après le concert. Duo Miral, c'est une rencontre. Celle de Climène Zarkan, chanteuse, pianiste et percussionniste à la voix magnétique, qui a grandi entre Damas et la France et circule librement du jazz à la musique traditionnelle orientale. Et celle de Baptiste Ferrandis, guitariste raffiné dont l'écriture tient autant de la poésie que de la composition. Ensemble, ils construisent une musique profondément humaine, tournée vers l'intime et le sensible, où les musiques traditionnelles, le jazz et la poésie sonore se répondent. Leur premier EP, « Horizons Roses », six titres originaux sortis en novembre 2025, incarne cette alchimie : un monde d'ombres douces et de lumières fragiles, porté par une esthétique délicieusement anachronique où virtuosité rime avec frisson. On y entend un hommage surréaliste au séga, une valse musette qui parle d'addiction, une chanson enregistrée dans la chaleur d'une cuisine un soir d'été. Pour la soirée d'ouverture de Mediterrajazz, le duo se fait trio et invite la violoncelliste Lina Bélaïd."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover33",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -741,7 +489,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover34",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -756,7 +504,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover35",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -771,7 +519,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover36",
       "title": "OFFRE DUO VISITES : BALADE GOURMANDE + NOM DES RUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Pack-2-visites.png?width=200",
@@ -788,7 +536,7 @@
       "description": "L'Office de Tourisme vous propose une formule découverte comprenant deux balades commentées pour une véritable immersion, entre mets et mots. Les deux visites ont lieu le même jour et sont proposées à un tarif spécial. 11h : Suivez Olivia dans une balade gourmande Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits. 14h30 : Découvrez Narbonne par le nom des rues En compagnie de notre guide conférencière, laissez-vous surprendre par les noms de rues de Narbonne : une balade originale où plaques et ruelles révèlent les secrets et la mémoire de la ville."
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover37",
       "title": "FESTIVAL MA VIGNE EN MUSIQUE : CONCERT DE CLÔTURE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MVEM.jpg?width=200",
@@ -803,7 +551,7 @@
       "description": "Soirée de Gala – L’apothéose… Depuis dix ans, la musique trace ici des chemins que l’on n’oublie pas. Pour clôturer son édition anniversaire, Ma Vigne en Musique vous donne rendez-vous dans le cadre majestueux de l’Abbaye de Fontfroide pour une soirée d’exception réunissant l’Orchestre de Chambre de Toulouse, la violoniste Manon Galy, le compositeur Laurent Lefrançois et le directeur artistique du festival, Cyril Guillotin, au piano et à la direction d’orchestre. La soirée s’ouvrira sur un moment rare : la création mondiale du Concertino pour piano et orchestre de Laurent Lefrançois, seconde œuvre commandée spécialement pour le dixième anniversaire du festival. Une musique d’aujourd’hui tournée vers l’avenir, fidèle à l’engagement de Ma Vigne en Musique en faveur de la création contemporaine. Elle se poursuivra avec le lumineux Concerto n°1 pour piano et orchestre de Beethoven, éclatant de jeunesse, d’élan et de virtuosité, avant d’atteindre son sommet avec l’un des monuments absolus du répertoire : le Concerto pour violon et orchestre, porté par le jeu inspiré et magnétique de Manon Galy. Héritage et création, mémoire et avenir, puissance et émotion dialogueront ainsi dans un même élan, offrant au public une conclusion à la hauteur de cette édition anniversaire. Une soirée de lumière et de résonance, où patrimoine, musique et partage s’unissent pour célébrer dix années d’émotions. Et lorsque la dernière note s’éteindra sous les voûtes de Fontfroide… c’est déjà le souvenir qui commencera. Ouvertures des portes à 17h."
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover38",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -818,7 +566,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover39",
       "title": "FÊTE DE LA SAINT MARTIN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-de-la-saint-martin.jpg?width=200",
@@ -832,7 +580,22 @@
       "description": "FÊTE DE LA SAINT-MARTIN Salle des fêtes – Fleury d’Aude Samedi 7, dimanche 8 et mercredi 11 novembre Trois jours de fête, de musique et de spectacles pour petits et grands ! PROGRAMME - Samedi 7 novembre Concert du groupe festif KITSCH, suivi d’un DJ set jusqu’à 0h30 Ouverture des portes à 19h Buvette et petite restauration sur place - Dimanche 8 novembre 14h30 et 17h | Spectacle L’école de Sorcelville (spectacle enfant / tout public) Ouverture des portes à 13h30 et 16h Buvette et petite restauration sucrée sur place Spectacle gratuit mais réservation obligatoire (places limitées) : https://www.billetweb.fr/lecole-de-sorceville-spectacle... - Mercredi 11 novembre 14h30 et 17h | Bruno Boniface (spectacle humour / imitation / chanson) Ouverture des portes à 13h30 et 16h Buvette et petite restauration sucrée sur place Spectacle gratuit mais réservation obligatoire (places limitées) : https://www.billetweb.fr/bruno-boniface Venez nombreux partager ces moments festifs !"
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover40",
+      "title": "𝗕𝗥𝗔𝗗𝗘𝗥𝗜𝗘 𝗦𝗢𝗟𝗜𝗗𝗔𝗜𝗥𝗘 𝗗𝗨 𝗦𝗘𝗖𝗢𝗨𝗥𝗦 𝗖𝗔𝗧𝗛𝗢𝗟𝗜𝗤𝗨𝗘",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/braderie-solidaire-2.jpg?width=200",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-07",
+      "times": [
+        "10:00",
+        "13:00"
+      ],
+      "location": "COURSAN",
+      "address": "Chemin des Mailheuls, 11110, COURSAN",
+      "description": "𝗕𝗥𝗔𝗗𝗘𝗥𝗜𝗘 𝗦𝗢𝗟𝗜𝗗𝗔𝗜𝗥𝗘 𝗗𝗨 𝗦𝗘𝗖𝗢𝗨𝗥𝗦 𝗖𝗔𝗧𝗛𝗢𝗟𝗜𝗤𝗨𝗘 ! Envie de faire de bonnes affaires tout en faisant une bonne action ? Le Secours Catholique de Coursan organise une grande braderie solidaire le samedi 7 novembre 2026, de 10h à 13h ! Vêtements et accessoires, livres, jouets et bien d'autres trésors vous attendent à tout petits prix ! Samedi 7 novembre 2026 De 10h à 13h Chemin des Mailheuls à Coursan L'occasion idéale de donner une seconde vie aux objets tout en soutenant les actions solidaires du Secours Catholique. Un petit achat pour vous, un grand geste de solidarité !"
+    },
+    {
+      "id": "myPopover41",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -847,7 +610,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover42",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -862,7 +625,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover43",
       "title": "CONCOURS DE TAROT",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/tarot-pln.jpg?width=200",
@@ -876,7 +639,7 @@
       "description": "Concours de tarot hebdomadaire les samedis à 14h organisé par le tarot club Nouvellois Renseignements et inscriptions : 06.95.31.98.28 ou 06.62.39.99.25"
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover44",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -891,7 +654,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover45",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -906,7 +669,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover46",
       "title": "ATELIER CULINAIRE À LA VILLA MASKALI",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/file-000000006278720a9d1ac8823bf10a5a.jpg?width=200",
@@ -921,7 +684,7 @@
       "description": "Venez cuisiner en famille, entre amis ou entre collègues aux côtés du chef Patrick Cachot, dans l’atmosphère chaleureuse de la Villa Maskali. Ancien chef de restaurant gastronomique, Patrick transmet son savoir-faire dans un esprit de partage : gestes techniques, cuissons justes, associations de saveurs et respect des produits de saison. Chaque atelier se prolonge autour d’un moment de dégustation, pour savourer ensemble les préparations réalisées et vivre une véritable expérience culinaire à Cuxac-d’Aude, près de Narbonne."
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover47",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -936,7 +699,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover48",
       "title": "SÉMINIARE : L'AME ET LE SANG, RENÉ LEVY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Ame-et-le-sang.jpg?width=200",
@@ -951,7 +714,7 @@
       "description": "Le philosophe et talmudiste René Lévy propose un séminaire intitulé : L’Âme et le sang : la question de l’« union » de l’âme et du corps. L’âme (néfech nafs) et ses facultés : une âme une ou multiple ? Une lecture du livre des Huit Chapitres de Maïmonide."
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover49",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -966,7 +729,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover50",
       "title": "SÉMINIARE L' AME ET LE SANG RENÉ LEVY",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L-Ame-et-le-sang.jpg?width=200",
@@ -981,7 +744,7 @@
       "description": "le philosophe et talmudiste René Lévy propose un séminaire intitulé : L’Âme et le sang : la question de l’« union » de l’âme et du corps. L’âme (néfech nafs) et ses facultés : une âme une ou multiple ? Une lecture du livre des Huit Chapitres de Maïmonide."
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover51",
       "title": "FÊTE DE LA SAINT MARTIN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/fete-de-la-saint-martin.jpg?width=200",
@@ -995,7 +758,21 @@
       "description": "FÊTE DE LA SAINT-MARTIN Salle des fêtes – Fleury d’Aude Samedi 7, dimanche 8 et mercredi 11 novembre Trois jours de fête, de musique et de spectacles pour petits et grands ! PROGRAMME - Samedi 7 novembre Concert du groupe festif KITSCH, suivi d’un DJ set jusqu’à 0h30 Ouverture des portes à 19h Buvette et petite restauration sur place - Dimanche 8 novembre 14h30 et 17h | Spectacle L’école de Sorcelville (spectacle enfant / tout public) Ouverture des portes à 13h30 et 16h Buvette et petite restauration sucrée sur place Spectacle gratuit mais réservation obligatoire (places limitées) : https://www.billetweb.fr/lecole-de-sorceville-spectacle... - Mercredi 11 novembre 14h30 et 17h | Bruno Boniface (spectacle humour / imitation / chanson) Ouverture des portes à 13h30 et 16h Buvette et petite restauration sucrée sur place Spectacle gratuit mais réservation obligatoire (places limitées) : https://www.billetweb.fr/bruno-boniface Venez nombreux partager ces moments festifs !"
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover52",
+      "title": "SOIRÉE CABARET",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/SOIREE-CABARET-12.jpg?width=200",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "times": [
+        "15:00"
+      ],
+      "location": "COURSAN",
+      "address": "88 avenue Jean Jaurès, 11110, COURSAN",
+      "description": "𝗦𝗢𝗜𝗥𝗘́𝗘 𝗖𝗔𝗕𝗔𝗥𝗘𝗧 𝗔̀ 𝗖𝗢𝗨𝗥𝗦𝗔𝗡 : 𝗣𝗔𝗜𝗟𝗟𝗘𝗧𝗧𝗘𝗦 𝗘𝗧 𝗙𝗘𝗦𝗧𝗜𝗩𝗜𝗧𝗘́𝗦 𝗔𝗨 𝗥𝗘𝗡𝗗𝗘𝗭-𝗩𝗢𝗨𝗦 ! Le Comité des Fêtes de Coursan vous donne rendez-vous le dimanche 8 novembre pour une après-midi festive et conviviale à la salle polyvalente ! Au programme, un spectacle haut en couleur avec la troupe Dreams Girls, qui vous plongera dans l'univers du cabaret, entre plumes, strass et paillettes ! Et pour prolonger ce moment de convivialité, profitez d'une dégustation de châtaignes et de vin nouveau, offerte par la Cave de l'Espérance ! Entrée gratuite ! Une belle après-midi de spectacle et de partage, entièrement offerte par le Comité des Fêtes de Coursan ! Venez nombreux profiter de ce rendez-vous festif !"
+    },
+    {
+      "id": "myPopover53",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
@@ -1010,7 +787,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover76",
+      "id": "myPopover54",
       "title": "LOTO",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Loto-354.jpg?width=200",
@@ -1025,7 +802,7 @@
       "description": "Le comité de lutte contre le cancer d'Ouveillan organise son loto. De nombreux lots à remporter. Bon d'achats, volailles, agneaux, jambons et de nombreux autres lots"
     },
     {
-      "id": "myPopover77",
+      "id": "myPopover55",
       "title": "FÊTE FORAINE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
@@ -1040,7 +817,7 @@
       "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
     },
     {
-      "id": "myPopover78",
+      "id": "myPopover56",
       "title": "HOMMAGE À « LA CHANSON DE SAINT-GERMAIN-DES-PRÉS »",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/okabaret.jpg?width=200",
@@ -1054,7 +831,7 @@
       "description": "Peu d’endroits à Paris possèdent un passé aussi riche que Saint-Germain-des-Prés, ce quartier mythique où se sont toujours côtoyés écrivains, intellectuels, peintres, musiciens… et chanteurs. Dans les années 1950 et 1960, au cœur du Paris existentialiste, les caves, les cabarets et les cafés de la Rive gauche deviennent le rendez-vous d’une génération d’artistes dont les chansons parlent d’amour, de liberté, de poésie et de révolte. Aline Algudo, artiste à la voix somptueuse et à la présence lumineuse, nous invite à retrouver cette atmosphère unique. Accompagnée au piano par Lætitia Jollet, dont les arrangements élégants subliment chaque chanson, elle fait revivre quelques-unes des grandes figures de la Rive gauche : Léo Ferré, Boris Vian, Juliette Gréco, Barbara, Georges Brassens, Charles Aznavour, Serge Gainsbourg, Cora Vaucaire, Mouloudji, Jeanne Moreau… Autant de noms, autant de chansons qui ont accompagné nos vies et traversé les générations."
     },
     {
-      "id": "myPopover79",
+      "id": "myPopover57",
       "title": "LE TEMPS DE PAUSE : LA GESTION DU STRESS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
@@ -1069,7 +846,7 @@
       "description": "Le temps de pause : La gestion du stress – organisé par le sablier « pourquoi notre corps et notre tête restent parfois sous pression même quand tout semble aller bien ? Venez comprendre les mécanisme du stress et découvrir des pistes pour retrouver davantage de calme. »"
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover58",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -1084,7 +861,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover81",
+      "id": "myPopover59",
       "title": "BOURSE AUX JOUETS",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/bOURSE-AUX-JOUETS--2.jpg?width=200",
@@ -1097,6 +874,141 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "963 Boulevard de l'Avenir, 11210, PORT-LA-NOUVELLE",
       "description": "Bourse aux jouets organisée par l'association nos enfants Nouvellois Sous le préau de l'école André Pic 5 e la table Buvette sur place réservations par sms au 06.26.38.54.26"
+    },
+    {
+      "id": "myPopover60",
+      "title": "EXPOSITION CHRISTIAN BARTELLEMY",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-14",
+      "times": [
+        "10:00",
+        "12:30",
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Rte de Gruissan, 11100, NARBONNE",
+      "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
+    },
+    {
+      "id": "myPopover61",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover62",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-09",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de l'Octroi, 11130, SIGEAN",
+      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
+    },
+    {
+      "id": "myPopover63",
+      "title": "MARCHÉ AUX FRIPES",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
+    },
+    {
+      "id": "myPopover64",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LUMIERES-D-AFRIQUE-.jpg?width=200",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover65",
+      "title": "FÊTE FORAINE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/La-fete-foraine.jpg?width=200",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "times": [
+        "18:00",
+        "23:00"
+      ],
+      "location": "SIGEAN",
+      "address": "Place de l'Octroi, 11130, SIGEAN",
+      "description": "Manèges et attractions pour petits et grands ( stands, snacking...)"
+    },
+    {
+      "id": "myPopover66",
+      "title": "MARCHÉ AU BLÉ",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "times": [
+        "07:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
+    },
+    {
+      "id": "myPopover67",
+      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-10",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
+      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
+    },
+    {
+      "id": "myPopover68",
+      "title": "FÊTE DE LA SAINT MARTIN",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/fete-de-la-saint-martin.jpg?width=200",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-11",
+      "times": [
+        "13:30"
+      ],
+      "location": "FLEURY",
+      "address": "autour du hangar, 11560, FLEURY",
+      "description": "FÊTE DE LA SAINT-MARTIN Salle des fêtes – Fleury d’Aude Samedi 7, dimanche 8 et mercredi 11 novembre Trois jours de fête, de musique et de spectacles pour petits et grands ! PROGRAMME - Samedi 7 novembre Concert du groupe festif KITSCH, suivi d’un DJ set jusqu’à 0h30 Ouverture des portes à 19h Buvette et petite restauration sur place - Dimanche 8 novembre 14h30 et 17h | Spectacle L’école de Sorcelville (spectacle enfant / tout public) Ouverture des portes à 13h30 et 16h Buvette et petite restauration sucrée sur place Spectacle gratuit mais réservation obligatoire (places limitées) : https://www.billetweb.fr/lecole-de-sorceville-spectacle... - Mercredi 11 novembre 14h30 et 17h | Bruno Boniface (spectacle humour / imitation / chanson) Ouverture des portes à 13h30 et 16h Buvette et petite restauration sucrée sur place Spectacle gratuit mais réservation obligatoire (places limitées) : https://www.billetweb.fr/bruno-boniface Venez nombreux partager ces moments festifs !"
     }
   ]
 }
