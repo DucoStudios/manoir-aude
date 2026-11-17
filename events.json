@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-16T13:22:31.435Z",
+  "generatedAt": "2026-11-17T14:07:33.111Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 57,
+  "count": 69,
   "events": [
     {
       "id": "myPopover1",
@@ -22,69 +22,7 @@
       "description": "Claude Planquette sublime le nouveau Prieuré par l'exposition de ses peintures. Claude Planquette, artiste issu de l'école impressionniste, insuffle une atmosphère à la fois sereine et mystérieuse à ses paysages urbains et scènes de vie. On part à la découverte d'un univers qui invite. Ses toiles ne sont pas seulement des représentations, mais des fenêtres ouvertes sur l'expérience humaine. Uniquement sur inscription, rendez-vous préalable."
     },
     {
-      "id": "myPopover16",
-      "title": "ÉCHAPPÉES BIEN-ÊTRE À VÉLO",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/10-20261013-163049-0009.jpg?width=200",
-      "startDate": "2026-11-15",
-      "endDate": "2026-12-15",
-      "times": [
-        "09:00",
-        "12:00"
-      ],
-      "location": "SALLELES-D'AUDE",
-      "address": "11590, SALLELES-D'AUDE",
-      "description": "Et si vous vous offriez une matinée rien que pour vous ? Respirez, pédalez, échangez et profitez de la nature lors d'une balade à vélo accessible à tous, ponctuée d'une pause bien-être avec collation autour des tisanes. Une parenthèse de douceur, coanimée avec Lucile, éducatrice sportive, pour se ressourcer, prendre soin de soi et repartir avec une belle dose d'énergie. Sur réservation."
-    },
-    {
-      "id": "myPopover21",
-      "title": "EXPOSITION CHRISTIAN BARTELLEMY",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/expo-Bartellemy.jpg?width=200",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-16",
-      "times": [
-        "10:00",
-        "12:30",
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Rte de Gruissan, 11100, NARBONNE",
-      "description": "Venez découvrir les œuvres de l’artiste Christian Bartellemy lors de cette nouvelle exposition ! Christian Bartellemy est artiste peintre et développe un travail de peinture abstraite contemporaine autour de la matière, de la lumière et du mouvement. Travaillant à l’acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, il crée des œuvres évoquant des paysages minéraux, marins ou des fragments de mémoire. Sa démarche artistique repose sur la recherche d’harmonie entre matière, lumière et émotion, afin de proposer une peinture sensible, contemporaine et intemporelle. Il travaille la peinture acrylique, parfois associée à la résine et aux pigments métalliques, sur toile, bois ou miroir, afin de créer des œuvres où la texture et la lumière jouent un rôle essentiel. Inspiré par la nature, la mer, la roche et les atmosphères photographiques, il cherche à capter une sensation plutôt qu’à représenter un sujet. Ses œuvres sont des paysages intérieurs où la matière devient lumière et où la peinture devient espace de contemplation."
-    },
-    {
-      "id": "myPopover22",
-      "title": "LUMIÈRES D'AFRIQUE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-16",
-      "times": [
-        "17:30",
-        "20:00"
-      ],
-      "location": "SIGEAN",
-      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
-      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
-    },
-    {
-      "id": "myPopover23",
-      "title": "CYCLISTES, BRILLEZ !",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/fe1dfb3ad5da5fac983a973fdf215723f1128ba8.jpg?width=200",
-      "startDate": "2026-11-16",
-      "endDate": "2026-11-16",
-      "times": [
-        "17:30",
-        "18:30"
-      ],
-      "location": "NARBONNE",
-      "address": "Place de l'Hôtel de Ville, 11100, NARBONNE",
-      "description": "Lundi 16 novembre, à partir de 17h30 et pendant une heure, des groupes se positionneront dans six lieux de passage stratégiques de la ville de Narbonne. Ce sera l’occasion de rappeler quels sont les équipements de visibilité obligatoires lorsque l’on circule de nuit à vélo (éclairage arrière rouge, éclairage avant blanc ou jaune, réflecteurs de pédale, etc.) et de délivrer des conseils pour optimiser sa visibilité et évoluer dans la circulation en sécurité."
-    },
-    {
-      "id": "myPopover24",
+      "id": "myPopover2",
       "title": "OSTAL OCCITAN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ostal-occitan-loran.jpg?width=200",
@@ -99,7 +37,7 @@
       "description": "Venez découvrir l'exposition Loran qui est un artiste peintre Nouvellois. L’art agit comme un exutoire lui permettant de traduire en forme et en couleur ses émotions, ses angoisses, ses doutes.. À mi-chemin entre le pop art et le street art, son travail se distingue par des couleurs vives, des contrastes marqués, des visages expressifs et des symboles forts. Loran aime mélanger les styles, croiser les influences et détourner les codes, sans chercher à entrer dans une catégorie précise. Travaillant principalement la peinture aérosol, souvent associée à l’acrylique et aux feutres, sur toile, dessin ou métal, il crée des œuvres évoquant des sujets de société avec des figures iconiques appuyant son message. La spiritualité occupe également une place importante dans son univers. Il représente le Christ sous différentes situations, en portrait ou sur la croix. Notamment dans une série de trois œuvres réalisées sur papier. En le représentant à travers une esthétique contemporaine, colorée et parfois audacieuse, Loran propose une autre perspective sur la réalisation d’œuvres sacrés ; un regard personnel sur des figures et des symboles chargés de sens, en les inscrivant dans une expression résolument moderne. Rencontre avec l'artiste le 10 novembre."
     },
     {
-      "id": "myPopover25",
+      "id": "myPopover3",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -114,7 +52,33 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover26",
+      "id": "myPopover4",
+      "title": "EXPOSITION NATHALIE CHAPPERT",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/mediatheque-264.jpg?width=200",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-27",
+      "times": [],
+      "location": "CUXAC-D'AUDE",
+      "address": "12 Boulevard Jean Jaurès, 11590, CUXAC-D'AUDE",
+      "description": "Peintures de Nathalie Chappert. Vernissage le vendredi 20 novembre à 18h30. Du mardi 17 au vendredi 27 novembre, Médiathèque Louis Molveau, à Cuxac-d'Aude. Cuxac-d'Aude - Médiathèque Louis Molveau"
+    },
+    {
+      "id": "myPopover5",
+      "title": "SHOW CASE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/mediatheque-264.jpg?width=200",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-17",
+      "times": [
+        "18:30"
+      ],
+      "location": "CUXAC-D'AUDE",
+      "address": "12 Boulevard Jean Jaurès, 11590, CUXAC-D'AUDE",
+      "description": "Concert de Christel, en version duo, accompagnée de Guilam. Mardi 17 novembre, à 18h30, Médiathèque Louis Molveau, à Cuxac-d'Aude."
+    },
+    {
+      "id": "myPopover6",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -129,7 +93,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover27",
+      "id": "myPopover7",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -144,7 +108,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover28",
+      "id": "myPopover8",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -158,7 +122,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover29",
+      "id": "myPopover9",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -173,7 +137,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover30",
+      "id": "myPopover10",
       "title": "DON DE SANG",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-181622-SALLES-D-AUDE-JEDONNE-ADSB-A3P-20261019132331.jpg?width=200",
@@ -188,7 +152,7 @@
       "description": "En novembre, faites un don qui réchauffe : donnez votre sang ! Nous vous donnons RDV à Salles d’Aude, lieu le Mardi 17 novembre de 15h00 à 19h00 à la salle municipale le cube Avec ou sans RDV nous avons besoin de vous : BON A SAVOIR : - Avoir entre 18 et 70 ans, peser +50kg - Ne jamais avoir été transfusé - Être en forme - Manger et s’hydrater avant le don - Durée : 1H dont 10min pour le don de sang - Se présenter avec un document d’identité - Votre don permettra de soigner 3 patients différents dans les prochains jours Au nom des patients transfusés MERCI !"
     },
     {
-      "id": "myPopover31",
+      "id": "myPopover11",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -200,7 +164,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover32",
+      "id": "myPopover12",
       "title": "L’HÉRITAGE GOLDMAN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/HG-NEW-40x60-1.jpg?width=200",
@@ -214,7 +178,7 @@
       "description": "Déjà plus de 400 000 spectateurs conquis dans tous les Zéniths de France. Envole-moi, Je te donne, Là-bas, Quand la musique est bonne, Encore un matin, Au bout de mes rêves, Il suffira d’un signe… Depuis plus de quarante ans, les chansons de Jean-Jacques Goldman accompagnent nos vies. Elles traversent les générations, rassemblent les familles et continuent d’être reprises en chœur par des salles entières. C’est un phénomène unique. Jean-Jacques Goldman a écrit la bande-son de nos vies. Peu d’artistes ont marqué autant de générations et signé autant de classiques du patrimoine musical français. Aux commandes de cette aventure, Erick Benzi, collaborateur historique de Jean-Jacques Goldman et réalisateur de ses plus grands succès. Entourés par la désormais célèbre troupe de L’Héritage Goldman, chanteurs et musiciens font revivre sur scène 25 titres incontournables dans un spectacle 100 % live de plus de deux heures. Bien plus qu’un concert, L’Héritage Goldman est un moment de partage, d’émotion et de communion où chaque chanson réveille un souvenir, une histoire, une part de nous-mêmes. L’aventure continue. Rejoignez-là !"
     },
     {
-      "id": "myPopover33",
+      "id": "myPopover13",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -229,7 +193,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover34",
+      "id": "myPopover14",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -244,7 +208,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover35",
+      "id": "myPopover15",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -259,7 +223,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover36",
+      "id": "myPopover16",
       "title": "REGARDS INTÉRIEURS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ss-2.jpg?width=200",
@@ -276,7 +240,7 @@
       "description": "Exposition du 12 novembre au 30 janvier. \"Regards intérieurs\" de Siobhàn Sheehy"
     },
     {
-      "id": "myPopover37",
+      "id": "myPopover17",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -291,7 +255,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover38",
+      "id": "myPopover18",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -306,7 +270,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover39",
+      "id": "myPopover19",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -321,7 +285,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover40",
+      "id": "myPopover20",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -336,7 +300,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover41",
+      "id": "myPopover21",
       "title": "FIESTA VINO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FIESTA-VINO-2.jpg?width=200",
@@ -351,7 +315,7 @@
       "description": "Fiesta Vino est un salon festif dédié à la vigne et au vin, organisé chaque automne à la Narbonne Arena. Créé en 2024 par l'association Aude à la Vigne et à l'Agriculture, cet événement réunit vignerons audois, dégustations, ateliers découverte et concerts live dans une ambiance conviviale. Pendant trois jours, familles et amateurs de vin découvrent les vins de l'Aude sous un angle différent, entre animations pour enfants, bar à vins et soirées musicales électrisantes. Ce salon sera une occasion unique de découvrir les vins du département, le savoir-faire de nos vignerons, et d’échanger avec eux autour de leur passion. Entrée gratuite pour les enfants. Concert 20h00 : Jukebox Live 21h00 : The Toffees"
     },
     {
-      "id": "myPopover42",
+      "id": "myPopover22",
       "title": "ATELIER AUTO HYPNOSE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
@@ -366,7 +330,7 @@
       "description": "Venez découvrir L'Auto-Hypnose par Jean-Pierre Desfour Guidé par Jean-Pierre Desfour, vous apprendrez à entrer progressivement dans un état hypnoïde et expérimenterez différentes techniques d’autohypnose. À travers des exercices pratiques, vous découvrirez comment mobiliser votre concentration, vos ressources personnelles et vos capacités d’apprentissage, avec l’objectif de pouvoir ensuite réutiliser certaines techniques de manière autonome."
     },
     {
-      "id": "myPopover43",
+      "id": "myPopover23",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -381,7 +345,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover24",
       "title": "MÉDITERRAJAZZ - NESRINE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/NESRINE.jpg?width=200",
@@ -395,7 +359,7 @@
       "description": "Mediterrajazz est une proposition musicale originale à Narbonne qui souhaite s'inscrire dans la tradition des grandes salles de club de Jazz, celles où la scène touche presque les tables et où le concert se déroule en deux sets. La restauration et le bar sont au service de la musique : service avant le premier set et à l'entracte, lumières tamisées pendant que les artistes jouent, Jazz Bar ouvert après le concert. Nesrine donne son premier concert à six ans. Formée au violoncelle classique, elle joue sous la direction de Daniel Barenboim, Lorin Maazel ou Zubin Mehta avant de tracer sa propre route. Son premier album, « Ahlam » (2018), est salué par le Times et domine les World Music Charts Europe. Le deuxième, éponyme, est nommé au Jazzpreis allemand et la mène à la Philharmonie de Berlin comme au Café de la Danse. Le troisième, « Kan Ya Makan », paraît en novembre 2024 chez ACT. Entre-temps, elle a collaboré avec Michel Portal, Placido Domingo, IAM, Vincent Peirani, André Manoukian, Michael League de Snarky Puppy ou Andrea Bocelli, et tenu le rôle principal d'« Amaluna » du Cirque du Soleil. Rolling Stone décrit sa voix comme légère et aérienne, The Guardian parle d'un monde musical sans limites. Sur scène à l'Hospitalet, le dispositif est le plus sobre qui soit : une voix, un violoncelle. Avec un répertoire revisité pour le solo, Nesrine explore les contrastes, la puissance et la fragilité, l'intime et l'universel, le silence et la vibration. Un voyage où l'émotion prime sur le spectacle."
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover25",
       "title": "EXPOSITION : CHEMIN DE VIE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-Chemins-de-vie.jpg?width=200",
@@ -407,7 +371,7 @@
       "description": "Fanette Bruel, Bernadette Marty, Céline Alcoser & Béatrice Gerbaud-Nieto vous présentent leurs œuvres. (Peinture, photographies, céramique et encre)"
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover26",
       "title": "EXPOSITION :\" CHEMIN DE VIE \" VERNISSAGE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-Chemins-de-vie.jpg?width=200",
@@ -421,7 +385,7 @@
       "description": "Vernissage en présence des artistes le Vendredi 20 novembre à partir de 17h30 Tout Public - Gratuit Merci de bien vouloir confirmer votre présence Fanette Bruel, Bernadette Marty, Céline Alcoser & Béatrice Gerbaud-Nieto vous présentent leurs œuvres. (Peinture, photographies, céramique et encre)"
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover27",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -438,7 +402,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover28",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -453,7 +417,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover29",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -468,7 +432,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover30",
       "title": "FIESTA VINO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FIESTA-VINO-2.jpg?width=200",
@@ -483,7 +447,7 @@
       "description": "Fiesta Vino est un salon festif dédié à la vigne et au vin, organisé chaque automne à la Narbonne Arena. Créé en 2024 par l'association Aude à la Vigne et à l'Agriculture, cet événement réunit vignerons audois, dégustations, ateliers découverte et concerts live dans une ambiance conviviale. Pendant trois jours, familles et amateurs de vin découvrent les vins de l'Aude sous un angle différent, entre animations pour enfants, bar à vins et soirées musicales électrisantes. Ce salon sera une occasion unique de découvrir les vins du département, le savoir-faire de nos vignerons, et d’échanger avec eux autour de leur passion. Entrée gratuite pour les enfants. Concert 20h00 : Rythme and Smile 21h00 : Hurricane"
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover31",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -498,7 +462,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover32",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -513,7 +477,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover33",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -528,7 +492,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover34",
       "title": "CONCOURS DE TAROT",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/tarot-pln.jpg?width=200",
@@ -542,7 +506,7 @@
       "description": "Concours de tarot hebdomadaire les samedis à 14h organisé par le tarot club Nouvellois Renseignements et inscriptions : 06.95.31.98.28 ou 06.62.39.99.25"
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover35",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-494f066f6de0428eac3f76547c3e772a.jpg?width=200",
@@ -557,7 +521,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover56",
+      "id": "myPopover36",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -572,7 +536,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover37",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -587,7 +551,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover38",
       "title": "FIESTA VINO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FIESTA-VINO-2.jpg?width=200",
@@ -602,7 +566,7 @@
       "description": "Fiesta Vino est un salon festif dédié à la vigne et au vin, organisé chaque automne à la Narbonne Arena. Créé en 2024 par l'association Aude à la Vigne et à l'Agriculture, cet événement réunit vignerons audois, dégustations, ateliers découverte et concerts live dans une ambiance conviviale. Pendant trois jours, familles et amateurs de vin découvrent les vins de l'Aude sous un angle différent, entre animations pour enfants, bar à vins et soirées musicales électrisantes. Ce salon sera une occasion unique de découvrir les vins du département, le savoir-faire de nos vignerons, et d’échanger avec eux autour de leur passion. Entrée gratuite pour les enfants. Marché Paysan animé par la Banda les Baladins"
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover39",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -617,7 +581,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover40",
       "title": "VIDE GRENIER",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-greniers-26.jpg?width=200",
@@ -629,7 +593,7 @@
       "description": "Vide grenier organisé par le CEP : Club d'Education Physique Lieu : Parking Salle des Fêtes + Vide dressing + Bourse aux jouets, Fleury d’Aude Contact : Nathalie Gouazé – 06 30 66 90 16 Organisateur CEP : Club d'Education Physique"
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover41",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -646,7 +610,22 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover42",
+      "title": "LOTO DES POMPIERS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LOTO-Pixabay-21.jpg?width=200",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "times": [
+        "14:30",
+        "17:00"
+      ],
+      "location": "SALLES-D'AUDE",
+      "address": "6 Chemin de Rouch, 11110, SALLES-D'AUDE",
+      "description": "Dimanche 22 novembre, au Cube, à Salles-d'Aude. Le Cube (salle municipale) Loto organisé par l'Amicale des sapeurs-pompiers de Salles-d'Aude. Rens. cantuelgerome@hotmail.fr"
+    },
+    {
+      "id": "myPopover43",
       "title": "VIDE-GRENIERS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-CEP-3.jpg?width=200",
@@ -658,7 +637,7 @@
       "description": "Dimanche 22 novembre 2026 – CEP Lieu : Parking Salle des Fêtes + Vide dressing + Bourse aux jouets, Fleury d’Aude Contact : Nathalie Gouazé – 06 30 66 90 16"
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover44",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -673,7 +652,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover45",
       "title": "VIDE DRESSING",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Braderie-Pixabay-5.jpg?width=200",
@@ -688,7 +667,22 @@
       "description": "C'est la fin d'année... envie de vider les placards, se refaire une petite garde-robe ou chiner et se faire plaisir ? L'Association \"Artistes au Somail\" vous attend pour son tout 1er vide-dressing. Places limitées. Inscriptions obligatoires."
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover46",
+      "title": "LA BOURSE AUX VINYLES",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/VINYLES-2.jpg?width=200",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "times": [
+        "09:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "4 Avenue Pierre de Coubertin, 11100, NARBONNE",
+      "description": "Grand rendez-vous pour les mélomanes : La Bourse aux Vinyles s’installe au Parc des Sports et de l’Amitié de Narbonne Narbonne, le 22 novembre 2026 – Les passionnés de musique, collectionneurs et chineurs ont rendez-vous ce dimanche 22 novembre 2026 au chapiteau du Parc des Sports et de l’Amitié (4, avenue Pierre de Coubertin) à Narbonne pour la grande Bourse aux Vinyles organisée par l'association La Calandreta Narbonesa. De 9h00 à 18h00, cette journée propose de venir acheter, vendre ou échanger des vinyles et disques. C'est l'occasion idéale pour les amateurs de musique de parcourir les bacs des exposants, de dénicher des pépites et de partager un moment convivial. Informations pratiques : Lieu : Chapiteau du Parc des Sports et de l’Amitié, 4 avenue Pierre de Coubertin, 11100 Narbonne Date : Dimanche 22 novembre 2026 Horaires : 9h00 à 18h00 Entrée : Gratuite Sur place : Buvette et restauration Association La Calandreta Narbonesa"
+    },
+    {
+      "id": "myPopover47",
       "title": "LOTO DES ANCIENS DU RUGBY JOUEURS DE L'ESN RUGBY",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LOTO--7.jpg?width=200",
@@ -702,7 +696,19 @@
       "description": "Loto organisé par les anciens joueurs de l'esn rugby"
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover48",
+      "title": "BRUNCH ET ATELIER CUSTOMISATION TEXTILE",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/chez-claire-.jpg?width=200",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-22",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "1410 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
+      "description": "Brunch et atelier customisation textile Réserve ton atelier sur le site de la customerie"
+    },
+    {
+      "id": "myPopover49",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -717,7 +723,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover50",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -732,7 +738,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover51",
       "title": "BEBES LECTEURS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/bebe-lecteurs-2.jpg?width=200",
@@ -746,7 +752,7 @@
       "description": "Pour les enfants de 0 à 3 ans séance animée par Marie et Sophie Sur inscription"
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover52",
       "title": "OSTAL OCCITAN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ostal-occitan-loran.jpg?width=200",
@@ -761,7 +767,7 @@
       "description": "Venez découvrir l'exposition Loran qui est un artiste peintre Nouvellois. L’art agit comme un exutoire lui permettant de traduire en forme et en couleur ses émotions, ses angoisses, ses doutes.. À mi-chemin entre le pop art et le street art, son travail se distingue par des couleurs vives, des contrastes marqués, des visages expressifs et des symboles forts. Loran aime mélanger les styles, croiser les influences et détourner les codes, sans chercher à entrer dans une catégorie précise. Travaillant principalement la peinture aérosol, souvent associée à l’acrylique et aux feutres, sur toile, dessin ou métal, il crée des œuvres évoquant des sujets de société avec des figures iconiques appuyant son message. La spiritualité occupe également une place importante dans son univers. Il représente le Christ sous différentes situations, en portrait ou sur la croix. Notamment dans une série de trois œuvres réalisées sur papier. En le représentant à travers une esthétique contemporaine, colorée et parfois audacieuse, Loran propose une autre perspective sur la réalisation d’œuvres sacrés ; un regard personnel sur des figures et des symboles chargés de sens, en les inscrivant dans une expression résolument moderne. Rencontre avec l'artiste le 10 novembre."
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover53",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -776,7 +782,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover54",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -791,7 +797,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover55",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -806,7 +812,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover56",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -820,7 +826,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover57",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -835,7 +841,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover58",
       "title": "GRANDE BRADERIE FARANDOLE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/-Grande-braderie-Farandole-led.jpg?width=200",
@@ -845,6 +851,169 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "Rue Alain Colas, 11210, PORT-LA-NOUVELLE",
       "description": "Grande braderie farandole tout à 1 e Organisé par l'association farandole"
+    },
+    {
+      "id": "myPopover59",
+      "title": "ATELIERS THEATRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "times": [],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
+      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
+    },
+    {
+      "id": "myPopover60",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover61",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-25",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover62",
+      "title": "CAFÉ LITTÉRAIRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/livres-2.bmp?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "times": [
+        "17:30"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "101 RUE ROGER RAPIN, 11210, PORT-LA-NOUVELLE",
+      "description": "par l'Autan des Livres, ouvert à tous,"
+    },
+    {
+      "id": "myPopover63",
+      "title": "CONFÉRENCE AVEC STÉFANIE ROUSSELLE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "times": [
+        "18:30",
+        "20:00"
+      ],
+      "location": "NARBONNE",
+      "address": "1 Rue Benoît Malon, 11100, NARBONNE",
+      "description": "Venez découvrir le bonheur de Stefanie Rousselle, Stefanie Rousselle revient avec une nouvelle question, à la fois simple et vertigineuse : « Êtes-vous heureux.se ? » Pour son nouveau livre Bonheur, la journaliste et réalisatrice est partie à la rencontre de Françaises et de Français, de tous horizons, pour recueillir leurs histoires, leurs joies, leurs difficultés et ces petits ou grands moments qui donnent du sens à une vie. À travers 28 portraits en mots et en images, elle dessine une France intime, vivante et profondément humaine. Le bonheur peut être dans une passion, une famille, une rencontre, la nature, le rire, le fait de prendre soin des autres… Il n’a pas une seule définition."
+    },
+    {
+      "id": "myPopover64",
+      "title": "EXPOSITION AU L.A.C",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "times": [
+        "14:00",
+        "18:00"
+      ],
+      "location": "SIGEAN",
+      "address": "1 Rue de la Berre, 11130, SIGEAN",
+      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
+    },
+    {
+      "id": "myPopover65",
+      "title": "REGARDS INTÉRIEURS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/ss-2.jpg?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "times": [
+        "10:00",
+        "12:00",
+        "16:00",
+        "18:00"
+      ],
+      "location": "PEYRIAC-DE-MER",
+      "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
+      "description": "Exposition du 12 novembre au 30 janvier. \"Regards intérieurs\" de Siobhàn Sheehy"
+    },
+    {
+      "id": "myPopover66",
+      "title": "FEMINAE SUMUS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "times": [
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
+      "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
+    },
+    {
+      "id": "myPopover67",
+      "title": "LUMIÈRES D'AFRIQUE",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "times": [
+        "17:30",
+        "20:00"
+      ],
+      "location": "SIGEAN",
+      "address": "19 Chemin Hameau du Lac, 11130, SIGEAN",
+      "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
+    },
+    {
+      "id": "myPopover68",
+      "title": "MARCHÉ DE PLEIN VENT",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
+      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
+    },
+    {
+      "id": "myPopover69",
+      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-27",
+      "times": [
+        "08:30",
+        "10:00"
+      ],
+      "location": "LA PALME",
+      "address": "11480, LA PALME",
+      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     }
   ]
 }
