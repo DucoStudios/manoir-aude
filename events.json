@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-19T14:07:59.592Z",
+  "generatedAt": "2026-11-20T13:50:19.267Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 78,
+  "count": 75,
   "events": [
     {
       "id": "myPopover1",
@@ -49,21 +49,6 @@
       "description": "Peintures de Nathalie Chappert. Vernissage le vendredi 20 novembre à 18h30. Du mardi 17 au vendredi 27 novembre, Médiathèque Louis Molveau, à Cuxac-d'Aude. Cuxac-d'Aude - Médiathèque Louis Molveau"
     },
     {
-      "id": "myPopover4",
-      "title": "EXPOSITION AU L.A.C",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-19",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Berre, 11130, SIGEAN",
-      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
-    },
-    {
       "id": "myPopover5",
       "title": "REGARDS INTÉRIEURS",
       "category": "culture",
@@ -79,36 +64,6 @@
       "location": "PEYRIAC-DE-MER",
       "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
       "description": "Exposition du 12 novembre au 30 janvier. \"Regards intérieurs\" de Siobhàn Sheehy"
-    },
-    {
-      "id": "myPopover6",
-      "title": "FEMINAE SUMUS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-19",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
-      "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
-    },
-    {
-      "id": "myPopover7",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-19",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
       "id": "myPopover8",
