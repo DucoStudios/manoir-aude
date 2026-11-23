@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-22T13:05:21.117Z",
+  "generatedAt": "2026-11-23T15:42:08.274Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 76,
+  "count": 74,
   "events": [
     {
       "id": "myPopover1",
@@ -17,194 +17,7 @@
       "description": "Peintures de Nathalie Chappert. Vernissage le vendredi 20 novembre à 18h30. Du mardi 17 au vendredi 27 novembre, Médiathèque Louis Molveau, à Cuxac-d'Aude. Cuxac-d'Aude - Médiathèque Louis Molveau"
     },
     {
-      "id": "myPopover12",
-      "title": "FIESTA VINO",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/FIESTA-VINO-2.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "11:00",
-        "17:00"
-      ],
-      "location": "NARBONNE",
-      "address": "74 Avenue Maître Hubert Mouly, 11100, NARBONNE",
-      "description": "Fiesta Vino est un salon festif dédié à la vigne et au vin, organisé chaque automne à la Narbonne Arena. Créé en 2024 par l'association Aude à la Vigne et à l'Agriculture, cet événement réunit vignerons audois, dégustations, ateliers découverte et concerts live dans une ambiance conviviale. Pendant trois jours, familles et amateurs de vin découvrent les vins de l'Aude sous un angle différent, entre animations pour enfants, bar à vins et soirées musicales électrisantes. Ce salon sera une occasion unique de découvrir les vins du département, le savoir-faire de nos vignerons, et d’échanger avec eux autour de leur passion. Entrée gratuite pour les enfants. Marché Paysan animé par la Banda les Baladins"
-    },
-    {
-      "id": "myPopover13",
-      "title": "EXPOSITION AU L.A.C",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "14:00",
-        "17:00"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Berre, 11130, SIGEAN",
-      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
-    },
-    {
-      "id": "myPopover14",
-      "title": "VIDE GRENIER",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier2-20.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [],
-      "location": "FLEURY",
-      "address": "27 Av. François Mitterrand, 11560, FLEURY",
-      "description": "Vide grenier organisé par le CEP : Club d'Education Physique Lieu : Parking Salle des Fêtes + Vide dressing + Bourse aux jouets, Fleury d’Aude Contact : Nathalie Gouazé – 06 30 66 90 16 Organisateur CEP : Club d'Education Physique"
-    },
-    {
-      "id": "myPopover15",
-      "title": "FEMINAE SUMUS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "16:00"
-      ],
-      "location": "NARBONNE",
-      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
-      "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
-    },
-    {
-      "id": "myPopover16",
-      "title": "LOTO DES POMPIERS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LOTO-Pixabay-21.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "14:30",
-        "17:00"
-      ],
-      "location": "SALLES-D'AUDE",
-      "address": "6 Chemin de Rouch, 11110, SALLES-D'AUDE",
-      "description": "Dimanche 22 novembre, au Cube, à Salles-d'Aude. Le Cube (salle municipale) Loto organisé par l'Amicale des sapeurs-pompiers de Salles-d'Aude. Rens. cantuelgerome@hotmail.fr"
-    },
-    {
-      "id": "myPopover17",
-      "title": "BOURSE AUX JOUETS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/bourse-aux-jouets.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "08:00",
-        "17:00"
-      ],
-      "location": "COURSAN",
-      "address": "88 Avenue Jean Jaurès, 11110, COURSAN",
-      "description": "Jouets, jeux, livres, puériculture vous attendent dans une ambiance conviviale. N'hésitez pas à partager l'événement autour de vous et à venir en famille ! À dimanche ! L'équipe de l'APECM"
-    },
-    {
-      "id": "myPopover18",
-      "title": "VIDE-GRENIERS",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vide-grenier-CEP-3.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [],
-      "location": "FLEURY",
-      "address": "Parking Salle des Fêtes, 11560, FLEURY",
-      "description": "Dimanche 22 novembre 2026 – CEP Lieu : Parking Salle des Fêtes + Vide dressing + Bourse aux jouets, Fleury d’Aude Contact : Nathalie Gouazé – 06 30 66 90 16"
-    },
-    {
-      "id": "myPopover19",
-      "title": "VIDE DRESSING",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Braderie-Pixabay-5.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "10:00",
-        "17:00"
-      ],
-      "location": "SAINT-NAZAIRE-D'AUDE",
-      "address": "Rue du Canalet, 11120, SAINT-NAZAIRE-D'AUDE",
-      "description": "C'est la fin d'année... envie de vider les placards, se refaire une petite garde-robe ou chiner et se faire plaisir ? L'Association \"Artistes au Somail\" vous attend pour son tout 1er vide-dressing. Places limitées. Inscriptions obligatoires."
-    },
-    {
-      "id": "myPopover20",
-      "title": "LA BOURSE AUX VINYLES",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VINYLES-2.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "09:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "4 Avenue Pierre de Coubertin, 11100, NARBONNE",
-      "description": "Grand rendez-vous pour les mélomanes : La Bourse aux Vinyles s’installe au Parc des Sports et de l’Amitié de Narbonne Narbonne, le 22 novembre 2026 – Les passionnés de musique, collectionneurs et chineurs ont rendez-vous ce dimanche 22 novembre 2026 au chapiteau du Parc des Sports et de l’Amitié (4, avenue Pierre de Coubertin) à Narbonne pour la grande Bourse aux Vinyles organisée par l'association La Calandreta Narbonesa. De 9h00 à 18h00, cette journée propose de venir acheter, vendre ou échanger des vinyles et disques. C'est l'occasion idéale pour les amateurs de musique de parcourir les bacs des exposants, de dénicher des pépites et de partager un moment convivial. Informations pratiques : Lieu : Chapiteau du Parc des Sports et de l’Amitié, 4 avenue Pierre de Coubertin, 11100 Narbonne Date : Dimanche 22 novembre 2026 Horaires : 9h00 à 18h00 Entrée : Gratuite Sur place : Buvette et restauration Association La Calandreta Narbonesa"
-    },
-    {
-      "id": "myPopover21",
-      "title": "MARCHÉ DE NOËL AU CHÂTEAU PECH CÉLEYRAN",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Noel-Pech-Celeyran-4.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "10:00",
-        "18:00"
-      ],
-      "location": "SALLES-D'AUDE",
-      "address": "Domaine de Pech Celeyran, 11110, SALLES-D'AUDE",
-      "description": "Marché de Noël au Château Pech Céleyran. Venez prendre un bon gouter en famille lors de notre Marché de Noël 2026. Beaucoup de douceur et de joie vous attendent ! Des étals qui feront briller les yeux dans une semaine à notre Marché de Noël 2026 ! Nous sommes impatients de vous faire découvrir nos nouveaux millésimes à votre arrivée. L’événement propose des animations pour petits et grands, des artisans, producteurs et créateurs locaux, ainsi que de la musique live. Restauration sur place avec vins AOC de La Clape. Entrée libre"
-    },
-    {
-      "id": "myPopover22",
-      "title": "LOTO DES ANCIENS DU RUGBY JOUEURS DE L'ESN RUGBY",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LOTO--7.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "15:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Rue Alain Colas, 11210, PORT-LA-NOUVELLE",
-      "description": "Loto organisé par les anciens joueurs de l'esn rugby"
-    },
-    {
-      "id": "myPopover23",
-      "title": "BRUNCH ET ATELIER CUSTOMISATION TEXTILE",
-      "category": "sportandleisure",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/chez-claire-.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "1410 Avenue de la Mer, 11210, PORT-LA-NOUVELLE",
-      "description": "Brunch et atelier customisation textile Réserve ton atelier sur le site de la customerie"
-    },
-    {
-      "id": "myPopover24",
-      "title": "MARCHÉ DE PLEIN VENT",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
-      "startDate": "2026-11-22",
-      "endDate": "2026-11-22",
-      "times": [
-        "07:00",
-        "13:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Cours de la République et Cours Mirabeau, 11100, NARBONNE",
-      "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
-    },
-    {
-      "id": "myPopover25",
+      "id": "myPopover2",
       "title": "BEBES LECTEURS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/bebe-lecteurs-2.jpg?width=200",
@@ -218,7 +31,7 @@
       "description": "Pour les enfants de 0 à 3 ans séance animée par Marie et Sophie Sur inscription"
     },
     {
-      "id": "myPopover26",
+      "id": "myPopover3",
       "title": "OSTAL OCCITAN",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ostal-occitan-loran.jpg?width=200",
@@ -233,7 +46,7 @@
       "description": "Venez découvrir l'exposition Loran qui est un artiste peintre Nouvellois. L’art agit comme un exutoire lui permettant de traduire en forme et en couleur ses émotions, ses angoisses, ses doutes.. À mi-chemin entre le pop art et le street art, son travail se distingue par des couleurs vives, des contrastes marqués, des visages expressifs et des symboles forts. Loran aime mélanger les styles, croiser les influences et détourner les codes, sans chercher à entrer dans une catégorie précise. Travaillant principalement la peinture aérosol, souvent associée à l’acrylique et aux feutres, sur toile, dessin ou métal, il crée des œuvres évoquant des sujets de société avec des figures iconiques appuyant son message. La spiritualité occupe également une place importante dans son univers. Il représente le Christ sous différentes situations, en portrait ou sur la croix. Notamment dans une série de trois œuvres réalisées sur papier. En le représentant à travers une esthétique contemporaine, colorée et parfois audacieuse, Loran propose une autre perspective sur la réalisation d’œuvres sacrés ; un regard personnel sur des figures et des symboles chargés de sens, en les inscrivant dans une expression résolument moderne. Rencontre avec l'artiste le 10 novembre."
     },
     {
-      "id": "myPopover27",
+      "id": "myPopover4",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -248,7 +61,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover28",
+      "id": "myPopover5",
       "title": "MARCHÉ AUX FRIPES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
@@ -263,7 +76,7 @@
       "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
     },
     {
-      "id": "myPopover29",
+      "id": "myPopover6",
       "title": "MARCHÉ AU BLÉ",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
@@ -277,7 +90,7 @@
       "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
     },
     {
-      "id": "myPopover30",
+      "id": "myPopover7",
       "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
@@ -292,7 +105,7 @@
       "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
     },
     {
-      "id": "myPopover31",
+      "id": "myPopover8",
       "title": "GRANDE BRADERIE FARANDOLE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/-Grande-braderie-Farandole-led.jpg?width=200",
@@ -304,7 +117,7 @@
       "description": "Grande braderie farandole tout à 1 e Organisé par l'association farandole"
     },
     {
-      "id": "myPopover32",
+      "id": "myPopover9",
       "title": "ATELIERS THEATRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
@@ -316,7 +129,7 @@
       "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
     },
     {
-      "id": "myPopover33",
+      "id": "myPopover10",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -331,7 +144,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover34",
+      "id": "myPopover11",
       "title": "CAFÉ LITTÉRAIRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/livres-2.bmp?width=200",
@@ -345,7 +158,7 @@
       "description": "par l'Autan des Livres, ouvert à tous,"
     },
     {
-      "id": "myPopover35",
+      "id": "myPopover12",
       "title": "CONFÉRENCE AVEC STÉFANIE ROUSSELLE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
@@ -360,7 +173,7 @@
       "description": "Venez découvrir le bonheur de Stefanie Rousselle, Stefanie Rousselle revient avec une nouvelle question, à la fois simple et vertigineuse : « Êtes-vous heureux.se ? » Pour son nouveau livre Bonheur, la journaliste et réalisatrice est partie à la rencontre de Françaises et de Français, de tous horizons, pour recueillir leurs histoires, leurs joies, leurs difficultés et ces petits ou grands moments qui donnent du sens à une vie. À travers 28 portraits en mots et en images, elle dessine une France intime, vivante et profondément humaine. Le bonheur peut être dans une passion, une famille, une rencontre, la nature, le rire, le fait de prendre soin des autres… Il n’a pas une seule définition."
     },
     {
-      "id": "myPopover36",
+      "id": "myPopover13",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -375,7 +188,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover37",
+      "id": "myPopover14",
       "title": "REGARDS INTÉRIEURS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/ss-2.jpg?width=200",
@@ -392,7 +205,7 @@
       "description": "Exposition du 12 novembre au 30 janvier. \"Regards intérieurs\" de Siobhàn Sheehy"
     },
     {
-      "id": "myPopover38",
+      "id": "myPopover15",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -407,7 +220,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover39",
+      "id": "myPopover16",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -422,7 +235,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover40",
+      "id": "myPopover17",
       "title": "BALADE GOURMANDE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
@@ -437,7 +250,7 @@
       "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
     },
     {
-      "id": "myPopover41",
+      "id": "myPopover18",
       "title": "DAVID HALLYDAY - REQUIEM POUR UN FOU",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Narbonne-Requiem-pour-un-fou-Story-1080x1920px-1.jpg?width=200",
@@ -451,7 +264,7 @@
       "description": "La tournée 100% Hallyday. En décembre 2017 Johnny nous quitte, en laissant derrière lui des millions de fans orphelins de leur Idole… Un seul homme peut revendiquer la légitimité et le talent pour rallumer le feu sur scène et remettre le nom « Hallyday » dans le cœur de millions de fans. Artiste unique au talent immense, multi-récompensé et estimé de tous, il a composé \"Sang pour Sang\", l’album le plus vendu de son père qui scellera leur réconciliation. Cet artiste, cet homme, ce fils, c’est : David Hallyday ! Un spectacle unique en son genre, deux heures de musique qui permettront de découvrir sur scène les répertoires mêlés des deux artistes, la vision unique d’un fils sur l’œuvre de son père, comme un pacte. Un spectacle hors du temps où il est question de filiation, de transmission, et d’amour…"
     },
     {
-      "id": "myPopover42",
+      "id": "myPopover19",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -466,7 +279,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover43",
+      "id": "myPopover20",
       "title": "MÉDITERRAJAZZ - LEÏLA DUCLOS QUARTET",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LEILA-DUCLOS-QUARTET.jpg?width=200",
@@ -480,7 +293,7 @@
       "description": "Mediterrajazz est une proposition musicale originale à Narbonne qui souhaite s'inscrire dans la tradition des grandes salles de club de Jazz, celles où la scène touche presque les tables et où le concert se déroule en deux sets. La restauration et le bar sont au service de la musique : service avant le premier set et à l'entracte, lumières tamisées pendant que les artistes jouent, Jazz Bar ouvert après le concert. Fille du guitariste Cyril Duclos, Leïla Duclos grandit dans la musique, entre tournées, répétitions et rencontres artistiques. Elle enregistre son premier titre à dix ans, puis son premier disque de compositions à dix-neuf ans. En 2018, Raphaël Faÿs l’invite à l’Alhambra. Elle participe également à « Héritages » de Ninine Garcia, aux côtés de Liane Foly et Thomas Dutronc. Son premier album, « Fille du feu » (2022) rencontre un succès et lui vaut une Révélation Jazz. Elle le défend ensuite sur les scènes françaises et internationales, avec plusieurs tournées aux États-Unis et en Europe. De retour avec son deuxième opus « À l’Amour et au Diable », Leïla Duclos revient avec un album personnel et incandescent, récemment salué par la distinction de disque Choc Jazz Magazine. Elle y affirme une voix libre, entre émotion, swing et virtuosité. « À l'Amour et au Diable », sortira le 13 novembre 2026 avec un lancement au New Morning à Paris le 20 octobre. Il met en friction deux forces contraires : l'élan amoureux et les ombres qui l'accompagnent, le doute, le vertige, la brûlure. Le scat y devient conversation organique avec les instruments. Entourée d'un quartet d'exception, Leïla Duclos clôt Mediterrajazz en novembre avec un jazz incandescent où la voix mène la danse."
     },
     {
-      "id": "myPopover44",
+      "id": "myPopover21",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -497,7 +310,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover45",
+      "id": "myPopover22",
       "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
@@ -512,7 +325,7 @@
       "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
     },
     {
-      "id": "myPopover46",
+      "id": "myPopover23",
       "title": "BAL DES COLLÉGIENS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/bal-des-lyceens.jpg?width=200",
@@ -527,7 +340,7 @@
       "description": "La soirée annuelle des collégiens et des lycéens à Narbonne : Participez à un Bal de Promo à l'américaine ! Au programme une super soirée spéciale : dress code chic (robes longues et chemises), arrivées sur le tapis rouge et présence d'une limousine. Soirée animée par un DJ et encadrée par une équipe de sécurité. Tout est prévu pour que tu passes une soirée exceptionnelle, entouré de tes amis, dans une ambiance festive et chic"
     },
     {
-      "id": "myPopover47",
+      "id": "myPopover24",
       "title": "BIGFLO & OLI - KARMA TOUR",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/BIGFLO---OLI---KARMA-TOUR.jpg?width=200",
@@ -541,7 +354,7 @@
       "description": "Bigflo & Oli annoncent Karma, leur 5e album, symbole d’un retour aux sources après plus de 10 ans de carrière rythmés par les succès et le travail acharné. Un projet rap pur, frontal et sincère, dans la lignée des freestyles percutants dévoilés tout au long de l’année 2025. Karma sortira le 13 mars et est déjà disponible en précommande. Cet album ouvre un nouveau chapitre live : une tournée événement dans toute la France, en Belgique, en Suisse."
     },
     {
-      "id": "myPopover48",
+      "id": "myPopover25",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -556,7 +369,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover49",
+      "id": "myPopover26",
       "title": "NOELISSIMO TOUR 2026 PAR TENOR DI BETTINO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-de-concert-de-Noel-doree.jpg?width=200",
@@ -570,7 +383,7 @@
       "description": "A l'occasion de l'inauguration des Fééries de Noël 2026, laissez-vous emporter par la magie des fêtes avec « Noelissimo », un concert de Noël exceptionnel proposé pour la première fois dans l'Aude par le Ténor Di Bettino ! Dans le cadre enchanteur de l'église Saint-Sébastien à Narbonne, venez vivre un moment musical riche en émotions, où les plus beaux chants de Noël résonneront pour le plaisir des petits et des grands. Une parenthèse féerique à partager en famille, en couple ou entre amis pour entrer dans la magie de Noël! UN CONCERT FÉERIQUE AVEC LE TÉNOR DI BETTINO Pour cette quatrième édition de sa tournée « Noelissimo », le Ténor Di Bettino vous invite à un voyage musical au coeur des traditions de Noël. Accompagné du talentueux pianiste Maxime Buatier, il interprétera avec émotion et puissance les plus grands airs de Noël : Douce Nuit, Mon beau sapin, Minuit Chrétiens, Panis Angelicus, White Christmas et bien d'autres mélodies incontournables. Entre la voix envoûtante du ténor, la virtuosité du piano et l'atmosphère chaleureuse de l'église Saint-Sébastien, tous les ingrédients seront réunis pour vivre un instant suspendu, empreint de douceur et de féerie. Un rendez-vous musical à ne pas manquer pour célébrer Noël autrement et repartir des étoiles plein les yeux !"
     },
     {
-      "id": "myPopover50",
+      "id": "myPopover27",
       "title": "HORIZONS ROMANTIQUES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/HORIZONS-ROMANTIQUES.jpg?width=200",
@@ -584,7 +397,7 @@
       "description": "Quatre interprètes de premier plan, parmi lesquels une lauréate des Victoires de la Musique Classique et un premier prix du Concours international de Genève : l’Abbaye de Fontfroide réunit Manon Galy (violon), Théo Fouchenneret (piano), Léa Hennino (alto) et Héloïse Luzzati (violon) pour un concert d’exception consacré à Robert Schumann et Rita Strohl. Programme : Robert Schumann, Quatuor avec piano en mi bémol majeur, op. 47 ; Rita Strohl, Quatuor avec piano en ré mineur."
     },
     {
-      "id": "myPopover51",
+      "id": "myPopover28",
       "title": "L'OLYMPE DES INFORTUNES",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/O-des-Infortunes.jpg?width=200",
@@ -598,7 +411,7 @@
       "description": "L'olympe des infortunes par la compagnie Dessous de scène adapté du roman de Yasmina Khadra Entrée 5 e Gratuit moins de 18 ans Billet web ou accueil médiathèque"
     },
     {
-      "id": "myPopover52",
+      "id": "myPopover29",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -613,7 +426,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover53",
+      "id": "myPopover30",
       "title": "STAGE DE DANSE TRADITIONNELLE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/baleti-6.jpg?width=200",
@@ -627,7 +440,7 @@
       "description": "Stage suivi d'une soirée et balèti. Samedi 28 novembre, à 14h30, au Cube, à Salles-d'Aude. Le Cube (salle municipale) Organisé par l'association la BES. Rens. bonne.entente@orange.fr"
     },
     {
-      "id": "myPopover54",
+      "id": "myPopover31",
       "title": "MARCHÉ DE NOËL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-de-noel-47.jpg?width=200",
@@ -642,7 +455,7 @@
       "description": "La magie de Noël arrive à la Bergerie de Camplazens ! Venez profiter d’une belle journée en famille ou entre amis, placée sous le signe de la convivialité et des fêtes de fin d’année ! Au programme : Une vingtaine d’exposants pour vos idées cadeaux et vos envies gourmandes. Châteaux gonflables, jeux et maquillage pour enfants. Défilés du Père Noël à 11h30 et 16h ! Dégustation des vins de Camplazens à 11h30 et 17h. Restauration sur place : sucré et salé pour régaler les petits et les grands. De quoi passer un agréable moment, faire de jolies découvertes et profiter de l’esprit de Noël dans un cadre chaleureux ! On vous attend nombreux ! N’hésitez pas à partager l’événement autour de vous !"
     },
     {
-      "id": "myPopover55",
+      "id": "myPopover32",
       "title": "FÉÉRIES DE NOËL - SON & LUMIÈRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -657,7 +470,7 @@
       "description": "Retrouvez la magie, l'émerveillement et l'insouciance de l'enfance à travers ces nuits merveilleuses qui précèdent Noël : au fil du rêve, les jouets prennent vie et entraînent petits et grands dans des mondes magiques, spectaculaires, surprenants et féériques, enveloppant toute la place de l'Hôtel-de-Ville. Une expérience visuelle et sonore à vivre en famille ou entre amis, imaginée par Christian Salès, Architecte des Imaginaires."
     },
     {
-      "id": "myPopover56",
+      "id": "myPopover33",
       "title": "FÉÉRIES DE NOËL - PALAIS DU JEU",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -674,7 +487,7 @@
       "description": "Les ludothèques de la ville vous donnent rendez-vous au Palais du Jeu ! Découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
     },
     {
-      "id": "myPopover57",
+      "id": "myPopover34",
       "title": "FÉÉRIES DE NOËL - PATINOIRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -689,7 +502,7 @@
       "description": "Venez glisser, rire et profiter de bons moments en famille ou entre amis!"
     },
     {
-      "id": "myPopover58",
+      "id": "myPopover35",
       "title": "FÉÉRIES DE NOËL - MARCHÉ DE NOËL",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -704,7 +517,7 @@
       "description": "De nombreuses gourmandises et surprises à découvrir : décoration de Noël, santons de Provence, arts de la fête, fabrications artisanales, vin chaud, produit du terroir. Les chalets de restauration jusqu'à minuit. Fin des ventes d'alcool à 23h."
     },
     {
-      "id": "myPopover59",
+      "id": "myPopover36",
       "title": "LUMIÈRES D'AFRIQUE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/sigean-2026-lumieres-afrique-reserve-africaine.jpg?width=200",
@@ -719,7 +532,7 @@
       "description": "3ème édition \"Lumières d'Afrique\", à la tombée de la nuit, des centaines de lanternes illuminent les allées de la Réserve et vous immergent dans la beauté de la faune et de la flore africaine. Achat en ligne obligatoire!"
     },
     {
-      "id": "myPopover60",
+      "id": "myPopover37",
       "title": "BAL DES LYCÉENS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/bal-des-lyceens.jpg?width=200",
@@ -734,7 +547,7 @@
       "description": "La soirée annuelle des collégiens et des lycéens à Narbonne : Participez à un Bal de Promo à l'américaine ! Au programme une super soirée spéciale : dress code chic (robes longues et chemises), arrivées sur le tapis rouge et présence d'une limousine. Soirée animée par un DJ et encadrée par une équipe de sécurité. Tout est prévu pour que tu passes une soirée exceptionnelle, entouré de tes amis, dans une ambiance festive et chic."
     },
     {
-      "id": "myPopover61",
+      "id": "myPopover38",
       "title": "FÉÉRIES DE NOËL - LES MASCOTTES EN FÊTE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -749,7 +562,7 @@
       "description": "Les Mascottes en Fête, animation de rue. Partagez des moments de tendresse, câlins et photos avec de géantes peluches au cœur des rues commerçantes."
     },
     {
-      "id": "myPopover62",
+      "id": "myPopover39",
       "title": "FÉÉRIES DE NOËL - LANCEMENT DES FÉÉRIES",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -763,7 +576,7 @@
       "description": "Lancement des Féeries à 17h. Ambiance musicale, le trio lumineux Lumen interprète avec talent les plus beaux classiques de Noël pour lancer les festivités. 17h30 : Lancement officiel des illuminations , Place de l'Hôtel-de-Ville 18h30 : Feu d'artifice, un spectacle étincelant pour illuminer le ciel nocturne de la ville pour cette première soirée féerique! Tiré depuis le pont de la Liberté."
     },
     {
-      "id": "myPopover63",
+      "id": "myPopover40",
       "title": "CONCOURS DE TAROT",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/tarot-pln.jpg?width=200",
@@ -777,7 +590,7 @@
       "description": "Concours de tarot hebdomadaire les samedis à 14h organisé par le tarot club Nouvellois Renseignements et inscriptions : 06.95.31.98.28 ou 06.62.39.99.25"
     },
     {
-      "id": "myPopover64",
+      "id": "myPopover41",
       "title": "DINER SPECTACLE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/diner-spectacle-.jpg?width=200",
@@ -791,7 +604,7 @@
       "description": "4 artistes , 4 univers une soirée inoubliable Diner spectacle 40 e vin et café inclu"
     },
     {
-      "id": "myPopover65",
+      "id": "myPopover42",
       "title": "PORTES OUVERTES ASSOCIATIONS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/visuel-panneau-PORTE-OUVERTE-LA-CAUQUENNE-led.jpg?width=200",
@@ -806,7 +619,7 @@
       "description": "Portes ouvertes avec les associations : La ruche des créateurs De fils en aiguilles Les petites mains Les dentellières Perles et compagnie"
     },
     {
-      "id": "myPopover66",
+      "id": "myPopover43",
       "title": "FÉÉRIES DE NOËL - LES MANÈGES ENCHANTÉS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -821,7 +634,7 @@
       "description": "De quoi s'amuser et vibrer pendant toutes les Féeries, avec de nombreux manèges pour tous les goût et pour tous les âges"
     },
     {
-      "id": "myPopover67",
+      "id": "myPopover44",
       "title": "PALAIS DU JEU",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2025.jpg?width=200",
@@ -838,7 +651,7 @@
       "description": "Palais des Archevêques, salle des Consuls (accès libre) Les ludothèques de la Ville vous donnent rendez-vous au cœur de la magie des féeries ! Poussez les portes du Palais du Jeu et découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
     },
     {
-      "id": "myPopover68",
+      "id": "myPopover45",
       "title": "MARCHÉ BIO",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-BIO-4.jpg?width=200",
@@ -853,7 +666,7 @@
       "description": "\"Mettez du Bio dans votre assiette!\". Plus d'un français sur 4 consomme régulièrement des produits issus de l'agriculture biologique. Pourquoi pas vous ? Venez découvrir le marché Bio de Narbonne, tous les samedis matin !"
     },
     {
-      "id": "myPopover69",
+      "id": "myPopover46",
       "title": "MARCHÉ DE PLEIN VENT SAINT-JEAN SAINT-PIERRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-ST-JEAN-ST-PIERRE.jpg?width=200",
@@ -868,7 +681,7 @@
       "description": "Marché de plein vent (tous produits) dans le quartier de St-Jean-St-Pierre, sur le parking de la Maison des Services avenue de la Naïade, tous les samedis matin de 7h à 13h."
     },
     {
-      "id": "myPopover70",
+      "id": "myPopover47",
       "title": "MARCHÉ HEBDOMADAIRE",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
@@ -883,7 +696,7 @@
       "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
-      "id": "myPopover71",
+      "id": "myPopover48",
       "title": "EXPOSITION AU L.A.C",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
@@ -898,7 +711,7 @@
       "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
     },
     {
-      "id": "myPopover72",
+      "id": "myPopover49",
       "title": "FEMINAE SUMUS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
@@ -915,7 +728,7 @@
       "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
     },
     {
-      "id": "myPopover73",
+      "id": "myPopover50",
       "title": "LOTO",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Loto-Cuxac.jpg?width=200",
@@ -929,7 +742,7 @@
       "description": "GRAND LOTO DE NOËL- ALMA DE LUNA L'association Alma de Luna vous donne rendez-vous le dimanche 29 novembre à Cuxac-d'Aude pour un après-midi placé sous le signe de la chance et de la convivialité Salle du Jeu de Paume – Cuxac-d'Aude ouverture des portes à 14h30 Début du loto à 15h Une démonstration de danse est aussi prévue pour animer votre après midi De nombreux lots à gagner ! 5 trains de la chance Quines à 50 € Doubles quines à 80 € Cartons pleins à 120 €, 150 € et 200 € Et un carton plein spécial Noël à 300 € ! Tarifs des cartons : 2 € le carton 5 € les 3 cartons 10 € les 7 cartons 20 € les 15 cartons Buvette, crêpes et gaufres sur place ! Venez tenter votre chance et partager un beau moment avec nous! Que vous soyez joueurs, amateurs de danse ou simplement à la recherche d'un bon moment à partager nous vous attendons nombreux!"
     },
     {
-      "id": "myPopover74",
+      "id": "myPopover51",
       "title": "FÉÉRIES DE NOËL - PALAIS DU JEU",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -944,7 +757,7 @@
       "description": "Les ludothèques de la ville vous donnent rendez-vous au Palais du Jeu ! Découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
     },
     {
-      "id": "myPopover75",
+      "id": "myPopover52",
       "title": "BOURSE AUX JOUETS",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Bourse-auxs-jouets-APE.jpg?width=200",
@@ -959,7 +772,7 @@
       "description": "Bourse aux jouets organisée par l'APE Chavernex Jouets, jeux, livres, puériculture vous attendent dans une ambiance conviviale. N'hésitez pas à partager l'événement autour de vous et à venir en famille ! Buvette et restauration sur place."
     },
     {
-      "id": "myPopover76",
+      "id": "myPopover53",
       "title": "FÉÉRIES DE NOËL - PATINOIRE",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -974,7 +787,7 @@
       "description": "Venez glisser, rire et profiter de bons moments en famille ou entre amis!"
     },
     {
-      "id": "myPopover77",
+      "id": "myPopover54",
       "title": "BOURSE AUX JOUETS, AUX LIVRES ET ARTICLES DE PUÉRICULTURE",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-bourse-aux-jouets-2026.jpg?width=200",
@@ -989,7 +802,7 @@
       "description": "L’association Narbonne en Fête organise à la salle des fêtes du palais du travail la bourse aux jouets, aux livres et articles de puériculture. Prix de l’emplacement : 12 € Vous pouvez vous inscrire au local de l’association à partir du mardi 27 octobre 2026 le mardi et vendredi de 17 H 30 à 19 h 00, Avenue Pierre de Coubertin à Narbonne. Pas d'inscription par téléphone."
     },
     {
-      "id": "myPopover78",
+      "id": "myPopover55",
       "title": "VIDE GRENIER DES AMIS DES CHATS NOUVELLOIS",
       "category": "trade",
       "image": "https://cdt11.media.tourinsoft.eu/upload/VIDE-GRENIER--13.jpg?width=200",
@@ -1004,7 +817,7 @@
       "description": "Vide grenier Place st Charles Inscription au 06 87 39 93 82."
     },
     {
-      "id": "myPopover79",
+      "id": "myPopover56",
       "title": "PALAIS DU JEU",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2025.jpg?width=200",
@@ -1019,7 +832,7 @@
       "description": "Palais des Archevêques, salle des Consuls (accès libre) Les ludothèques de la Ville vous donnent rendez-vous au cœur de la magie des féeries ! Poussez les portes du Palais du Jeu et découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
     },
     {
-      "id": "myPopover80",
+      "id": "myPopover57",
       "title": "MARCHE DE NOEL CHATEAU CAPITOUL",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/marche-de-noel-chateau-capitoul.jpg?width=200",
@@ -1034,7 +847,7 @@
       "description": "Rejoignez-nous pour une journée féérique au Château Capitoul le dimanche 29 novembre 2026, de 10h30 à 18h. Au programme : - Rencontre avec le Père Noël - Artisans locaux - Stands sucrés & salés - Ambiance musicale - Dégustation et vente de vin - Ateliers créatifs pour les enfants - Balades à poney - Tombola avec de belles surprises (séjour au château, déjeuner dans notre restaurant, massage et accès à notre spa...) Entrée libre et gratuite. Pour faciliter votre venue, pensez au covoiturage."
     },
     {
-      "id": "myPopover82",
+      "id": "myPopover59",
       "title": "LOTO DES ANCIENS COMBATTANTS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/LOTO-.jpg?width=200",
@@ -1048,7 +861,7 @@
       "description": "Loto organisé par les anciens combattants"
     },
     {
-      "id": "myPopover83",
+      "id": "myPopover60",
       "title": "LA CHANSON FRANCAISE EN FETE",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/CONCERT--3.jpg?width=200",
@@ -1062,7 +875,7 @@
       "description": "Un après-midi musical qui nous entraînera de la fantaisie lumineuse de Charles Trenet à l'univers poétique et sensible de Georges Nounou. Deux spectacles en un pour le plaisir de découvrir, de redécouvrir et de partager de belles émotions 🎶 DEUX BELLES RENCONTRES MUSICALES À NE PAS MANQUER ! D'un côté, la fantaisie, la poésie et l'éternelle jeunesse de Charles Trenet. De l'autre, une chanson d'aujourd'hui, sensible, libre et pleine de vie. Deux générations de chansons, deux univers, mais une même conviction : les belles chansons traversent le temps parce qu'elles continuent de nous parler de nous ! 📅 Dimanche 29 novembre à 16 h 📍 Salle Okabaret – Narbonne 📞 Réservations : 06 21 46 75 81"
     },
     {
-      "id": "myPopover84",
+      "id": "myPopover61",
       "title": "MARCHÉ DE PLEIN VENT",
       "category": "animation",
       "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLEIN-VENT.jpg?width=200",
@@ -1077,7 +890,7 @@
       "description": "Marché de plein vent tous produits en cœur de ville, le long du canal de la Robine. Lors d’événements majeurs ayant lieu sur le Cours Mirabeau et le Cours de la République, le marché est déplacé sur les quais Victor Hugo et Vallière."
     },
     {
-      "id": "myPopover85",
+      "id": "myPopover62",
       "title": "FÉÉRIES DE NOËL - PALAIS DU JEU",
       "category": "culture",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -1092,7 +905,7 @@
       "description": "Les ludothèques de la ville vous donnent rendez-vous au Palais du Jeu ! Découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
     },
     {
-      "id": "myPopover86",
+      "id": "myPopover63",
       "title": "PALAIS DU JEU",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2025.jpg?width=200",
@@ -1107,7 +920,7 @@
       "description": "Palais des Archevêques, salle des Consuls (accès libre) Les ludothèques de la Ville vous donnent rendez-vous au cœur de la magie des féeries ! Poussez les portes du Palais du Jeu et découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
     },
     {
-      "id": "myPopover87",
+      "id": "myPopover64",
       "title": "FÉÉRIES DE NOËL - LES MANÈGES ENCHANTÉS",
       "category": "sportandleisure",
       "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
@@ -1120,6 +933,172 @@
       "location": "NARBONNE",
       "address": "Cours Mirabeau, Parvis des Halles, 11100, NARBONNE",
       "description": "De quoi s'amuser et vibrer pendant toutes les Féeries, avec de nombreux manèges pour tous les goût et pour tous les âges"
+    },
+    {
+      "id": "myPopover65",
+      "title": "CINEMA MARY POPPINS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Affiche-Mary-Poppins.jpg?width=200",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "times": [
+        "19:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
+      "description": "Projection de Mary Poppins un film de Robert Stevenson avec Julie Andrews Entrée 4 e gratuit jusqu'a 18 ans En VOST à voir en famille réservation des billet au 04.68.40.43.13 ou billetweb"
+    },
+    {
+      "id": "myPopover66",
+      "title": "FÉÉRIES DE NOËL - PALAIS DU JEU",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "times": [
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, Salle des Consuls, 11100, NARBONNE",
+      "description": "Les ludothèques de la ville vous donnent rendez-vous au Palais du Jeu ! Découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
+    },
+    {
+      "id": "myPopover67",
+      "title": "MARCHÉ AUX FRIPES",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/FRIPES.jpg?width=200",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "À Narbonne, le marché aux fripes est un trésor caché pour les amateurs de vêtements d'occasion. Chaque week-end, les étals débordants de vêtements vintage, des chemises à fleurs aux vestes en cuir, attendent les chineurs en quête de trésors oubliés. Le marché est un endroit où les styles du passé rencontrent la créativité du présent, offrant une expérience de shopping inoubliable pour tous les amateurs de mode."
+    },
+    {
+      "id": "myPopover68",
+      "title": "MARCHÉ AU BLÉ",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-PLACE-AU-BLE.jpg?width=200",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "times": [
+        "07:00"
+      ],
+      "location": "NARBONNE",
+      "address": "11100, NARBONNE",
+      "description": "Marché de plein vent. Les commerçants locaux proposent leurs produits alimentaires."
+    },
+    {
+      "id": "myPopover69",
+      "title": "MARCHÉ DE PLEIN VENT RAZIMBAUD",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/MARCHE-RAZIMBAUD.jpg?width=200",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "times": [
+        "07:00",
+        "13:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Parking du boulevard du Roussillon, 11100, NARBONNE",
+      "description": "Marché de plein vent dans le quartier de Razimbaud, sur le parking du boulevard du Roussillon, tous les mardis matins de 7h à 13h (marché alimentaire et tous produits)."
+    },
+    {
+      "id": "myPopover70",
+      "title": "JOURNEE MULTI DEPISTAGES",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/--mamobile.jpg?width=200",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-01",
+      "times": [
+        "10:00",
+        "17:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Rue Alain Colas, 11210, PORT-LA-NOUVELLE",
+      "description": "Un village prévention multi dépistage Gratuit ouvert à tous"
+    },
+    {
+      "id": "myPopover71",
+      "title": "FÉÉRIES DE NOËL - PALAIS DU JEU",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "times": [
+        "09:30",
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, Salle des Consuls, 11100, NARBONNE",
+      "description": "Les ludothèques de la ville vous donnent rendez-vous au Palais du Jeu ! Découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
+    },
+    {
+      "id": "myPopover72",
+      "title": "FÉÉRIES DE NOËL - NOËL À MONTPLAISIR",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "times": [
+        "13:30",
+        "16:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Route de Perpignan ou RD 6009, 11100, NARBONNE",
+      "description": "Noël à Montplaisir Un après-midi féérique avec châteaux gonflables, maquillage, ateliers nature et créations artistiques. Gratuit (enfants sous la responsabilité d'un parent). Au Château de Montplaisir"
+    },
+    {
+      "id": "myPopover73",
+      "title": "FÉÉRIES DE NOËL - BALADE ARTISANALE DANS LE QUARTIER DE BOURG",
+      "category": "trade",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "times": [
+        "14:30"
+      ],
+      "location": "NARBONNE",
+      "address": "Quartier de Bourg, 11100, NARBONNE",
+      "description": "Balade artisanale dans le quartier de Bourg. Visite guidée artisanale, poussez les portes d'un Narbonne méconnu et découvrez le quartier du Bourg, berceau historique des artisans et des commerçants. Une visite vivante et authentique, au plus près de l'âme du quartier. 8€ par personne. Inscription sur le site et à l'accueil de l'Office de Tourisme"
+    },
+    {
+      "id": "myPopover74",
+      "title": "PALAIS DU JEU",
+      "category": "sportandleisure",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2025.jpg?width=200",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "times": [
+        "09:30",
+        "12:00",
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "Palais des Archevêques, salle des Consuls (accès libre) Les ludothèques de la Ville vous donnent rendez-vous au cœur de la magie des féeries ! Poussez les portes du Palais du Jeu et découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
+    },
+    {
+      "id": "myPopover75",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-02",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     }
   ]
 }
