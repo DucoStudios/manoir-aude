@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-25T15:18:40.325Z",
+  "generatedAt": "2026-11-26T14:44:32.019Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
-  "count": 100,
+  "count": 97,
   "events": [
     {
       "id": "myPopover1",
@@ -42,48 +42,6 @@
       "location": "PORT-LA-NOUVELLE",
       "address": "Rue Alain Colas, 11210, PORT-LA-NOUVELLE",
       "description": "Grande braderie farandole tout à 1 e Organisé par l'association farandole"
-    },
-    {
-      "id": "myPopover4",
-      "title": "ATELIERS THEATRE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/affiche-ateliers.jpg?width=200",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "times": [],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "60 Quai du Port, 11210, PORT-LA-NOUVELLE",
-      "description": "Improvisation , confiance en soi ,diction , création d'histoires et personnages Mercredi de 14h 15 à 15h30 pour les 5/10 ans Mercredi de 16h00 à 17h30 pour les 11/16 ans Un atelier d'essai est offert Inscription possible tout au long de l'année"
-    },
-    {
-      "id": "myPopover5",
-      "title": "MARCHÉ DE PORT LEUCATE",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Marche-leucate--2.jpg?width=200",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "LEUCATE",
-      "address": "11370, LEUCATE",
-      "description": "Le long des quais et dans la Rue de la Vixiège toute l'année C'est le rendez-vous pour rencontrer les producteurs locaux et faire le plein de fruits et légumes frais, de poissons, de plats cuisinés. Pour se faire plaisir : bijoux, vêtements, artisanat... Toute l'année, les mercredis et dimanches"
-    },
-    {
-      "id": "myPopover6",
-      "title": "MARCHÉ HEBDOMADAIRE",
-      "category": "animation",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
-      "times": [
-        "08:00",
-        "13:00"
-      ],
-      "location": "PORT-LA-NOUVELLE",
-      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
-      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
     },
     {
       "id": "myPopover7",
