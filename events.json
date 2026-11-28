@@ -1,36 +1,9 @@
 {
-  "generatedAt": "2026-11-27T14:43:12.307Z",
+  "generatedAt": "2026-11-28T13:54:46.201Z",
   "source": "https://www.lagrandemaison-peyriacdemer.fr/tourismevent",
   "sourceCredit": "Données : Comité Départemental du Tourisme de l'Aude (CDT11), via lagrandemaison-peyriacdemer.fr",
   "count": 120,
   "events": [
-    {
-      "id": "myPopover1",
-      "title": "EXPOSITION NATHALIE CHAPPERT",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/mediatheque-264.jpg?width=200",
-      "startDate": "2026-11-17",
-      "endDate": "2026-11-27",
-      "times": [],
-      "location": "CUXAC-D'AUDE",
-      "address": "12 Boulevard Jean Jaurès, 11590, CUXAC-D'AUDE",
-      "description": "Peintures de Nathalie Chappert. Vernissage le vendredi 20 novembre à 18h30. Du mardi 17 au vendredi 27 novembre, Médiathèque Louis Molveau, à Cuxac-d'Aude. Cuxac-d'Aude - Médiathèque Louis Molveau"
-    },
-    {
-      "id": "myPopover2",
-      "title": "OSTAL OCCITAN",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/ostal-occitan-loran.jpg?width=200",
-      "startDate": "2026-11-24",
-      "endDate": "2026-11-27",
-      "times": [
-        "10:00",
-        "18:00"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Venez découvrir l'exposition Loran qui est un artiste peintre Nouvellois. L’art agit comme un exutoire lui permettant de traduire en forme et en couleur ses émotions, ses angoisses, ses doutes.. À mi-chemin entre le pop art et le street art, son travail se distingue par des couleurs vives, des contrastes marqués, des visages expressifs et des symboles forts. Loran aime mélanger les styles, croiser les influences et détourner les codes, sans chercher à entrer dans une catégorie précise. Travaillant principalement la peinture aérosol, souvent associée à l’acrylique et aux feutres, sur toile, dessin ou métal, il crée des œuvres évoquant des sujets de société avec des figures iconiques appuyant son message. La spiritualité occupe également une place importante dans son univers. Il représente le Christ sous différentes situations, en portrait ou sur la croix. Notamment dans une série de trois œuvres réalisées sur papier. En le représentant à travers une esthétique contemporaine, colorée et parfois audacieuse, Loran propose une autre perspective sur la réalisation d’œuvres sacrés ; un regard personnel sur des figures et des symboles chargés de sens, en les inscrivant dans une expression résolument moderne. Rencontre avec l'artiste le 10 novembre."
-    },
     {
       "id": "myPopover3",
       "title": "REGARDS INTÉRIEURS",
@@ -47,111 +20,6 @@
       "location": "PEYRIAC-DE-MER",
       "address": "44 Rue des Carrierrettes, 11440, PEYRIAC-DE-MER",
       "description": "Exposition du 12 novembre au 30 janvier. \"Regards intérieurs\" de Siobhàn Sheehy"
-    },
-    {
-      "id": "myPopover4",
-      "title": "BALADE GOURMANDE",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/vzz.jpg?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "10:00",
-        "11:30"
-      ],
-      "location": "NARBONNE",
-      "address": "31 Rue Jean Jaurès, 11100, NARBONNE",
-      "description": "Un voyage dans le goût et les siècles La balade gourmande, food tour emmené par Olivia. Ce parcours propose un itinéraire savoureux mêlant anecdotes et haltes gourmandes. De l’Antiquité à nos jours, cette balade explore l’héritage culinaire du territoire à travers ses produits typiques. Une aventure sensorielle, en petit groupe, pour éveiller les papilles et enrichir les esprits."
-    },
-    {
-      "id": "myPopover5",
-      "title": "DAVID HALLYDAY - REQUIEM POUR UN FOU",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/Narbonne-Requiem-pour-un-fou-Story-1080x1920px-1.jpg?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "20:30"
-      ],
-      "location": "NARBONNE",
-      "address": "74 Avenue Maître Hubert Mouly, 11100, NARBONNE",
-      "description": "La tournée 100% Hallyday. En décembre 2017 Johnny nous quitte, en laissant derrière lui des millions de fans orphelins de leur Idole… Un seul homme peut revendiquer la légitimité et le talent pour rallumer le feu sur scène et remettre le nom « Hallyday » dans le cœur de millions de fans. Artiste unique au talent immense, multi-récompensé et estimé de tous, il a composé \"Sang pour Sang\", l’album le plus vendu de son père qui scellera leur réconciliation. Cet artiste, cet homme, ce fils, c’est : David Hallyday ! Un spectacle unique en son genre, deux heures de musique qui permettront de découvrir sur scène les répertoires mêlés des deux artistes, la vision unique d’un fils sur l’œuvre de son père, comme un pacte. Un spectacle hors du temps où il est question de filiation, de transmission, et d’amour…"
-    },
-    {
-      "id": "myPopover6",
-      "title": "EXPOSITION AU L.A.C",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "14:00",
-        "18:00"
-      ],
-      "location": "SIGEAN",
-      "address": "1 Rue de la Berre, 11130, SIGEAN",
-      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
-    },
-    {
-      "id": "myPopover7",
-      "title": "MÉDITERRAJAZZ - LEÏLA DUCLOS QUARTET",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/LEILA-DUCLOS-QUARTET.jpg?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "19:00"
-      ],
-      "location": "NARBONNE",
-      "address": "Route de Narbonne-Plage, 11100, NARBONNE",
-      "description": "Mediterrajazz est une proposition musicale originale à Narbonne qui souhaite s'inscrire dans la tradition des grandes salles de club de Jazz, celles où la scène touche presque les tables et où le concert se déroule en deux sets. La restauration et le bar sont au service de la musique : service avant le premier set et à l'entracte, lumières tamisées pendant que les artistes jouent, Jazz Bar ouvert après le concert. Fille du guitariste Cyril Duclos, Leïla Duclos grandit dans la musique, entre tournées, répétitions et rencontres artistiques. Elle enregistre son premier titre à dix ans, puis son premier disque de compositions à dix-neuf ans. En 2018, Raphaël Faÿs l’invite à l’Alhambra. Elle participe également à « Héritages » de Ninine Garcia, aux côtés de Liane Foly et Thomas Dutronc. Son premier album, « Fille du feu » (2022) rencontre un succès et lui vaut une Révélation Jazz. Elle le défend ensuite sur les scènes françaises et internationales, avec plusieurs tournées aux États-Unis et en Europe. De retour avec son deuxième opus « À l’Amour et au Diable », Leïla Duclos revient avec un album personnel et incandescent, récemment salué par la distinction de disque Choc Jazz Magazine. Elle y affirme une voix libre, entre émotion, swing et virtuosité. « À l'Amour et au Diable », sortira le 13 novembre 2026 avec un lancement au New Morning à Paris le 20 octobre. Il met en friction deux forces contraires : l'élan amoureux et les ombres qui l'accompagnent, le doute, le vertige, la brûlure. Le scat y devient conversation organique avec les instruments. Entourée d'un quartet d'exception, Leïla Duclos clôt Mediterrajazz en novembre avec un jazz incandescent où la voix mène la danse."
-    },
-    {
-      "id": "myPopover8",
-      "title": "FEMINAE SUMUS",
-      "category": "culture",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/klaire.JPG?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "10:00",
-        "12:00",
-        "14:00",
-        "16:00"
-      ],
-      "location": "NARBONNE",
-      "address": "30B Rue de l'Ancienne Porte Neuve, 11100, NARBONNE",
-      "description": "« Narbonnaise d’adoption », l’artiste Klaire présente à l’année ses travaux dans sa galerie située rue de l’Ancien Courrier. C’est à la suite de son voyage à New York en 2024 que Klaire trouve l’inspiration pour une thématique nouvelle, celle des « bustes de femmes ». Avant cela, elle pratiquait déjà la peinture et la sculpture et, bien qu’artiste de l’abstraction, les visages et les corps revenaient régulièrement dans ses œuvres. La femme a d’ailleurs toujours été pour elle un sujet de prédilection. Progressivement, elle a donc développé un travail multidimensionnel, mêlant peinture, couture, sculpture et collage, se laissant guider par son énergie créative, ses intuitions et ce qui émerge naturellement au fil du processus. « Magnifier la femme sur son propre corps représente pour moi aujourd’hui une véritable consécration de mon travail. » La collection de bustes présentée dans l’exposition Feminae sumus (« nous sommes femmes ») a été nourrie par les nombreux voyages de l’artiste à travers le monde, si bien que certains portent même des noms de villes. Peu à peu, sa démarche est devenue davantage intime et personnelle : les bustes plus récents portent ainsi des noms en latin, exprimant avec symbolisme l'essence de son travail intérieur. L’exposition présente également des toiles de l’artiste, toujours autour du thème de la femme, mais aussi de New-York, où tout a commencé… Un vernissage aura lieu le mercredi 18 novembre à 18h30"
-    },
-    {
-      "id": "myPopover9",
-      "title": "POISSONNIER SUR LA PLACE DU MARCHÉ",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/VENTE-POISSONS.jpg?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "08:30",
-        "10:00"
-      ],
-      "location": "LA PALME",
-      "address": "11480, LA PALME",
-      "description": "Du poisson frais chaque semaine à La Palme ! Dans le cadre de sa volonté de dynamiser le village, la ville de La Palme agit pour développer les commerces de proximité, soutenir les professionnels et faciliter le quotidien des habitants. C’est dans cet esprit qu’une nouvelle offre s’installe au cœur du village à partir du 15 mai 2026, tous les vendredis, retrouvez la poissonnerie Septimanie by Rico sur la Place du 18 Juin 1940 (Près de la Salle des fête Jean Moulin. Accès principal depuis l'avenue de la Mer), de 8h30 à 10h. Venez profiter d’une sélection de poissons et fruits de mer frais : dorade royale, bar sauvage, moules, crevettes… * Produits frais * Qualité garantie * Service de proximité À travers cette initiative, la commune affirme son engagement pour : * faire vivre le cœur de village toute l’année * encourager les circuits courts et la consommation locale * renforcer le lien entre habitants et commerçants Une action concrète pour un village plus vivant, plus pratique et toujours plus attractif"
-    },
-    {
-      "id": "myPopover10",
-      "title": "BAL DES COLLÉGIENS",
-      "category": "trade",
-      "image": "https://cdt11.media.tourinsoft.eu/upload/bal-des-lyceens.jpg?width=200",
-      "startDate": "2026-11-27",
-      "endDate": "2026-11-27",
-      "times": [
-        "20:00",
-        "23:00"
-      ],
-      "location": "NARBONNE",
-      "address": "74 Avenue Maître Hubert Mouly, 11100, NARBONNE",
-      "description": "La soirée annuelle des collégiens et des lycéens à Narbonne : Participez à un Bal de Promo à l'américaine ! Au programme une super soirée spéciale : dress code chic (robes longues et chemises), arrivées sur le tapis rouge et présence d'une limousine. Soirée animée par un DJ et encadrée par une équipe de sécurité. Tout est prévu pour que tu passes une soirée exceptionnelle, entouré de tes amis, dans une ambiance festive et chic"
     },
     {
       "id": "myPopover11",
@@ -1799,6 +1667,140 @@
       "location": "CUXAC-D'AUDE",
       "address": "8 Boulevard de Vingré, 11590, CUXAC-D'AUDE",
       "description": "Venez cuisiner en famille, entre amis ou entre collègues aux côtés du chef Patrick Cachot, dans l’atmosphère chaleureuse de la Villa Maskali. Ancien chef de restaurant gastronomique, Patrick transmet son savoir-faire dans un esprit de partage : gestes techniques, cuissons justes, associations de saveurs et respect des produits de saison. Chaque atelier se prolonge autour d’un moment de dégustation, pour savourer ensemble les préparations réalisées et vivre une véritable expérience culinaire à Cuxac-d’Aude, près de Narbonne."
+    },
+    {
+      "id": "myPopover126",
+      "title": "MARCHÉ HEBDOMADAIRE",
+      "category": "animation",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/marches-2023.jpg?width=200",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "times": [
+        "08:00",
+        "13:00"
+      ],
+      "location": "PORT-LA-NOUVELLE",
+      "address": "Place Léon Blum, 11210, PORT-LA-NOUVELLE",
+      "description": "Marché de plein vent traditionnel, tous les mercredis et samedis matins"
+    },
+    {
+      "id": "myPopover127",
+      "title": "TROUBADOURS ET CHANTS DE LA TRADITION SÉFARADE - GÉRARD ZUCHETTO",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/gerard-zuchetto.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "15:00",
+        "17:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, 11100, NARBONNE",
+      "description": "Une création originale de Troubadours Art Ensemble-dir. Gerard Zuchetto PROGRAMME Troubadours, Guiraut Riquier de Narbonne, Bonfilh, Ovadiah, musiques instrumentales."
+    },
+    {
+      "id": "myPopover128",
+      "title": "BALAVOINE MA BATAILLE, L'HOMMAGE AUTHENTIQUE - ANNULÉ",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/BALAVOINE-MA-BATAILLE--L-HOMMAGE-AUTHENTIQUE.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "17:00"
+      ],
+      "location": "NARBONNE",
+      "address": "74 Avenue Maître Hubert Mouly, 11100, NARBONNE",
+      "description": "ANNULÉ Quarante ans après, sa voix résonne encore. 40 ans après la disparition du chanteur, Balavoine Ma Bataille prendra vie sur la scène du Dôme de Paris – Palais des Sports le 22 janvier 2026, dans le cadre d’une grande tournée française dans des salles prestigieuses. Ce spectacle-hommage unique célèbre un artiste révolté, visionnaire et indomptable, en faisant renaître l’énergie brute et l’émotion pure de Daniel Balavoine, porté par ses anciens musiciens : Christian Padovan, Alain Pewzner, Sébastien Chouard... Ce trio est rejoint par Sébastien Bugeaud à la batterie, Stéphane Huguenin et Ian Aledji aux claviers Avec la participation exceptionnelle de Guy Balavoine, son frère et choriste attitré, ainsi que de Patrice Schreider, clavier emblématique de 1979 à 1981, présent à ses côtés dès 1975 en studio. Un répertoire puissant et intemporel. Cet hommage inédit fait revivre la force et l’émotion des chansons de Daniel Balavoine, interprétées par certaines des plus belles voix de la nouvelle scène française. Mon fils, ma bataille, L’Aziza, Sauver l’amour, Le chanteur… Autant de titres qui témoignent de sa rage de dire, de dénoncer, d’aimer, des cris d’amour et de révolte, des messages bruts, sincères, inaltérables, sans oublier Starmania. Une partie des bénéfices de la tournée sera reversée à l’association Cap Solidaire International, en soutien aux causes humanitaires qui lui tenaient à cœur."
+    },
+    {
+      "id": "myPopover129",
+      "title": "EXPOSITION AU L.A.C",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/L.A.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "14:00",
+        "17:00"
+      ],
+      "location": "SIGEAN",
+      "address": "1 Rue de la Berre, 11130, SIGEAN",
+      "description": "Deux expositions au L.A.C avec Lise Chevalier et Frédéric Khodja. Dans la seconde salle une exposition de Jean-Louis Bentajou."
+    },
+    {
+      "id": "myPopover130",
+      "title": "LE TEMPS DE PAUSE : COMMENT PRÉSERVER SON ÉNERGIE EN HIVER ?",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/LE-SABLIER.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "09:30",
+        "12:30"
+      ],
+      "location": "NARBONNE",
+      "address": "1 Rue Benoît Malon, 11100, NARBONNE",
+      "description": "Le temps de pause : Comment préserver son énergie en hiver ? Organisé par le Sablier « Un matinée toute en douceur pour comprendre, préserver et retrouver son énergie en hiver »"
+    },
+    {
+      "id": "myPopover131",
+      "title": "VIDE-DRESSING ET BOURSE AUX JOUETS",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Vide-Dressing-40.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "08:00",
+        "17:00"
+      ],
+      "location": "ARMISSAN",
+      "address": "Rue de la Mairie, 11110, ARMISSAN",
+      "description": "L' Association des Parents d'Élèves d'Armissan (à l'occasion du Téléthon) organise son vide-grenier et sa bourse aux jouets."
+    },
+    {
+      "id": "myPopover132",
+      "title": "MARCHÉ DE NOËL",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/artisanat-marche-de-noel.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "08:00",
+        "16:00"
+      ],
+      "location": "COURSAN",
+      "address": "Place Auguste Tailhades, 11110, COURSAN",
+      "description": "Vous cherchez une sortie sympa pour vous mettre dans l’ambiance des fêtes ? Ne cherchez plus… Direction le Marché de Noël de Coursan ! Des créations artisanales pour dénicher des cadeaux originaux, des décorations, des bijoux, des fleurs… et surtout plein de gourmandises pour se faire plaisir ! Au programme : Des artisans et créateurs à découvrir Des douceurs sucrées et salées à déguster La boîte aux lettres du Père Noël pour les petits rêveurs Une animation « Les Lutins du Père Noël » de 10h à 12h Et surtout, une belle journée à partager en famille ou entre amis ! Que vous veniez pour trouver LE cadeau parfait, vous régaler ou simplement profiter de l’esprit de Noël, il y aura forcément une bonne raison de faire un tour à Coursan !"
+    },
+    {
+      "id": "myPopover133",
+      "title": "FÉÉRIES DE NOËL - PALAIS DU JEU",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-06",
+      "times": [
+        "14:00",
+        "18:00"
+      ],
+      "location": "NARBONNE",
+      "address": "16 Place de l'Hôtel de Ville, Salle des Consuls, 11100, NARBONNE",
+      "description": "Les ludothèques de la ville vous donnent rendez-vous au Palais du Jeu ! Découvrez un espace convivial où petits et grands partageront le plaisir de jouer ensemble."
+    },
+    {
+      "id": "myPopover134",
+      "title": "FÉERIES DE NOËL - PATINOIRE",
+      "category": "culture",
+      "image": "https://cdt11.media.tourinsoft.eu/upload/Feeries-de-Noel-2026.jpg?width=200",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-10",
+      "times": [
+        "11:00",
+        "21:00"
+      ],
+      "location": "NARBONNE",
+      "address": "Cours de la République, 11100, NARBONNE",
+      "description": "Venez glisser, rire et profiter de bons moments en famille ou entre amis!"
     }
   ]
 }
